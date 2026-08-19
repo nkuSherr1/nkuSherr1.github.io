@@ -1,0 +1,88 @@
+1:"$Sreact.fragment"
+2:I[741871,["/_next/static/chunks/d03e4f6fdf084240.js","/_next/static/chunks/525ff3aa60c02a25.js","/_next/static/chunks/ae2a70c709da2ba8.js","/_next/static/chunks/eb309b8f06731812.js","/_next/static/chunks/baa674234f056c60.js","/_next/static/chunks/2edc37b4337c096a.js","/_next/static/chunks/6f0408800ece4f06.js","/_next/static/chunks/6f95f3a6a7ed9dab.js","/_next/static/chunks/3c40fd5a14861430.js","/_next/static/chunks/e7855f92c342e0a3.js","/_next/static/chunks/a5fcaccd389d798e.js","/_next/static/chunks/c3456ef3141ade67.js","/_next/static/chunks/c92042fd5179bd95.js","/_next/static/chunks/1737ca787e6b8d4c.js","/_next/static/chunks/d691f1571e343c32.js","/_next/static/chunks/65f1d76f7ac19600.js","/_next/static/chunks/762b6f848ae7b21b.js","/_next/static/chunks/1d5a5c14848b802e.js","/_next/static/chunks/a40e2b25b1a62ac7.js","/_next/static/chunks/c6509abffeae92d2.js","/_next/static/chunks/29944ee744a7ff79.js","/_next/static/chunks/2413600d817baaba.js","/_next/static/chunks/573b5267200f61d9.js","/_next/static/chunks/dabd062b49706f28.js","/_next/static/chunks/175944aa1545ac7c.js","/_next/static/chunks/ec53400c4fdfabfa.js","/_next/static/chunks/dcd49895cb9db447.js"],"MainMarkdown",1]
+7:I[95276,["/_next/static/chunks/3c40fd5a14861430.js","/_next/static/chunks/4197b04c4f1d962d.js","/_next/static/chunks/70af310ba2a3e461.js","/_next/static/chunks/9df4409b3ebd95fb.js","/_next/static/chunks/e52d234aac494225.js"],"OutletBoundary"]
+8:"$Sreact.suspense"
+:HL["/_next/static/chunks/0169140b52b18b81.css","style"]
+:HL["/_next/static/chunks/cf19f565ce194e50.css","style"]
+:HL["/_next/static/chunks/2a531debc05d9c48.css","style"]
+:HL["/_next/static/chunks/f6d4eb0f1595037c.css","style"]
+:HL["/_next/static/chunks/be9fe8599e8928e8.css","style"]
+3:T8d8,## Education
+
+- 2023.09 — Present · **Nankai University**
+- 2020.09 — 2023.06 · Jinjiang No.1 Middle School (Senior High School)
+- 2017.09 — 2020.06 · Jinjiang No.1 Middle School (Middle School)
+- 2011.09 — 2017.06 · Jinjiang Experimental Primary School
+
+## Awards
+
+- National Scholarship, **Tianjin, Dec. 2025**
+- Jiang Lifu Scholarship of Nankai University, **Second Place, Nov. 2025**
+- National College Students' Mathematical Modeling Contest, **Second Place, Oct. 2025**
+- The Mathematical Contest in Modeling (MCM/ICM), **Honorable Mention, May 2025**
+- Nankai University Gongneng Scholarship, **Tianjin, Oct. 2024**
+- The Examination for the National Senior High School’s Mathematical Competition, **First Prize, Oct. 2022**
+- The Top Talents in “Elite Program for Senior High School Students”, Direction: **Mathematics, Xiamen University, Jan. 2021**
+- National Olympiad in Informatics in Provinces, **First Prize, Dec. 2020**
+- 2016 World Robot Olympiad (WRO) China Final, **Second Place, Aug. 2016**
+
+## Courses and Seminars
+
+### Fall 2025
+
+**Courses**
+
+- Numerical Analysis — Chunlin Wu, Zhiyong Zhao
+- Functional Analysis — Lei Li
+- Partial Differential Equations — Yawei Wei
+- Investment — Jing Li
+- Financial Options — Yiming Jiang
+- Graph Theory — Jiangdong Ai
+
+**Seminars**
+
+- Steklov Problem — Jiangdong Ai, Yizhe Ji
+
+### Spring 2025
+
+**Courses**
+
+- Real Analysis — Ting Chen
+- Probability Theory — Yiming Jiang
+- Discrete Optimization — Yongtang Shi
+- Combinatorics — Hui Sun, Qianghui Guo
+- Data Mining — Shengquan Chen
+
+**Seminars**
+
+- Graph Theory — Jiangdong Ai, Yongtang Shi
+
+### Fall 2024
+
+**Courses**
+
+- Mathematical Analysis III — Duanzhi Zhang, Jian Wang
+- Abstract Algebra — Binbin Xu
+- Complex Analysis I — Xianfeng Wang
+- Complex Analysis II — Xianfeng Wang
+- Ordinary Differential Equations — Ming Li
+- C Programming — Tuo Yuan
+
+**Seminars**
+
+- Functional Analysis — Rui Liu
+
+### Spring 2024
+
+- Geometry — Binbin Xu
+- Mathematical Analysis II — Jun Li, Yan Xu
+- Advanced Algebra and Analytic Geometry 2-2 — Xiugui Liu, Chao Zeng
+
+### Fall 2023
+
+- Mathematical Analysis I — Huagui Duan, Fusheng Lv
+- Advanced Algebra and Analytic Geometry 2-1 — Libing Huang, Ning Li0:{"buildId":"rZLQ8EVqblT6xTH8wdhS0","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose","children":[["$","header",null,{"className":"mb-8","children":[["$","h1",null,{"className":"text-balance text-center lg:text-left","children":"CV"}],["$","p",null,{"className":"text-center text-lg text-zinc-600/70 dark:text-neutral-400 lg:text-left","children":"Curriculum vitae"}]]}],["$","$L2",null,{"allowsScript":true,"value":"$3","className":"min-w-0 overflow-hidden"}]]}],[["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/0169140b52b18b81.css","precedence":"next"}],["$","link","1",{"rel":"stylesheet","href":"/_next/static/chunks/cf19f565ce194e50.css","precedence":"next"}],["$","link","2",{"rel":"stylesheet","href":"/_next/static/chunks/2a531debc05d9c48.css","precedence":"next"}],["$","link","3",{"rel":"stylesheet","href":"/_next/static/chunks/f6d4eb0f1595037c.css","precedence":"next"}],["$","link","4",{"rel":"stylesheet","href":"/_next/static/chunks/be9fe8599e8928e8.css","precedence":"next"}],["$","script","script-0",{"src":"/_next/static/chunks/2413600d817baaba.js","async":true}],["$","script","script-1",{"src":"/_next/static/chunks/573b5267200f61d9.js","async":true}],["$","script","script-2",{"src":"/_next/static/chunks/dabd062b49706f28.js","async":true}],["$","script","script-3",{"src":"/_next/static/chunks/175944aa1545ac7c.js","async":true}],"$L4","$L5"],"$L6"]}],"loading":null,"isPartial":false}
+4:["$","script","script-4",{"src":"/_next/static/chunks/ec53400c4fdfabfa.js","async":true}]
+5:["$","script","script-5",{"src":"/_next/static/chunks/dcd49895cb9db447.js","async":true}]
+6:["$","$L7",null,{"children":["$","$8",null,{"name":"Next.MetadataOutlet","children":"$@9"}]}]
+9:null

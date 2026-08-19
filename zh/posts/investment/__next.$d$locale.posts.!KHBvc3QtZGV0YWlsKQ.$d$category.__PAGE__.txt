@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+3:I[95276,["/_next/static/chunks/3c40fd5a14861430.js","/_next/static/chunks/4197b04c4f1d962d.js","/_next/static/chunks/70af310ba2a3e461.js","/_next/static/chunks/9df4409b3ebd95fb.js","/_next/static/chunks/e52d234aac494225.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"rZLQ8EVqblT6xTH8wdhS0","rsc":["$","$1","c",{"children":["$L2",[["$","script","script-0",{"src":"/_next/static/chunks/29944ee744a7ff79.js","async":true}]],["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null
+2:E{"digest":"NEXT_REDIRECT;replace;/zh/categories/investment;307;"}

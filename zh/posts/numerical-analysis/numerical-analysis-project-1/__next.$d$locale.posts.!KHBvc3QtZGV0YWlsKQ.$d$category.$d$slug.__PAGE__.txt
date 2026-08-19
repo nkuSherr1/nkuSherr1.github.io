@@ -1,0 +1,353 @@
+1:"$Sreact.fragment"
+2:I[417743,["/_next/static/chunks/d03e4f6fdf084240.js","/_next/static/chunks/525ff3aa60c02a25.js","/_next/static/chunks/ae2a70c709da2ba8.js","/_next/static/chunks/eb309b8f06731812.js","/_next/static/chunks/baa674234f056c60.js","/_next/static/chunks/2edc37b4337c096a.js","/_next/static/chunks/6f0408800ece4f06.js","/_next/static/chunks/6f95f3a6a7ed9dab.js","/_next/static/chunks/3c40fd5a14861430.js","/_next/static/chunks/e7855f92c342e0a3.js","/_next/static/chunks/a5fcaccd389d798e.js","/_next/static/chunks/c3456ef3141ade67.js","/_next/static/chunks/c92042fd5179bd95.js","/_next/static/chunks/1737ca787e6b8d4c.js","/_next/static/chunks/d691f1571e343c32.js","/_next/static/chunks/65f1d76f7ac19600.js","/_next/static/chunks/762b6f848ae7b21b.js","/_next/static/chunks/1d5a5c14848b802e.js","/_next/static/chunks/a40e2b25b1a62ac7.js","/_next/static/chunks/c6509abffeae92d2.js","/_next/static/chunks/35eaa08fca66b29e.js","/_next/static/chunks/f91f857f975d1c9f.js","/_next/static/chunks/dabd062b49706f28.js","/_next/static/chunks/740441c5b62d2d93.js","/_next/static/chunks/dcd49895cb9db447.js","/_next/static/chunks/175944aa1545ac7c.js","/_next/static/chunks/16494c9ed210a726.js","/_next/static/chunks/19ed43205a6e84be.js"],"TocHeadingStrategyProvider"]
+3:I[401946,["/_next/static/chunks/d03e4f6fdf084240.js","/_next/static/chunks/525ff3aa60c02a25.js","/_next/static/chunks/ae2a70c709da2ba8.js","/_next/static/chunks/eb309b8f06731812.js","/_next/static/chunks/baa674234f056c60.js","/_next/static/chunks/2edc37b4337c096a.js","/_next/static/chunks/6f0408800ece4f06.js","/_next/static/chunks/6f95f3a6a7ed9dab.js","/_next/static/chunks/3c40fd5a14861430.js","/_next/static/chunks/e7855f92c342e0a3.js","/_next/static/chunks/a5fcaccd389d798e.js","/_next/static/chunks/c3456ef3141ade67.js","/_next/static/chunks/c92042fd5179bd95.js","/_next/static/chunks/1737ca787e6b8d4c.js","/_next/static/chunks/d691f1571e343c32.js","/_next/static/chunks/65f1d76f7ac19600.js","/_next/static/chunks/762b6f848ae7b21b.js","/_next/static/chunks/1d5a5c14848b802e.js","/_next/static/chunks/a40e2b25b1a62ac7.js","/_next/static/chunks/c6509abffeae92d2.js","/_next/static/chunks/35eaa08fca66b29e.js","/_next/static/chunks/f91f857f975d1c9f.js","/_next/static/chunks/dabd062b49706f28.js","/_next/static/chunks/740441c5b62d2d93.js","/_next/static/chunks/dcd49895cb9db447.js","/_next/static/chunks/175944aa1545ac7c.js","/_next/static/chunks/16494c9ed210a726.js","/_next/static/chunks/19ed43205a6e84be.js"],"LdJsonWithAuthor"]
+4:I[373448,["/_next/static/chunks/d03e4f6fdf084240.js","/_next/static/chunks/525ff3aa60c02a25.js","/_next/static/chunks/ae2a70c709da2ba8.js","/_next/static/chunks/eb309b8f06731812.js","/_next/static/chunks/baa674234f056c60.js","/_next/static/chunks/2edc37b4337c096a.js","/_next/static/chunks/6f0408800ece4f06.js","/_next/static/chunks/6f95f3a6a7ed9dab.js","/_next/static/chunks/3c40fd5a14861430.js","/_next/static/chunks/e7855f92c342e0a3.js","/_next/static/chunks/a5fcaccd389d798e.js","/_next/static/chunks/c3456ef3141ade67.js","/_next/static/chunks/c92042fd5179bd95.js","/_next/static/chunks/1737ca787e6b8d4c.js","/_next/static/chunks/d691f1571e343c32.js","/_next/static/chunks/65f1d76f7ac19600.js","/_next/static/chunks/762b6f848ae7b21b.js","/_next/static/chunks/1d5a5c14848b802e.js","/_next/static/chunks/a40e2b25b1a62ac7.js","/_next/static/chunks/c6509abffeae92d2.js","/_next/static/chunks/35eaa08fca66b29e.js","/_next/static/chunks/f91f857f975d1c9f.js","/_next/static/chunks/dabd062b49706f28.js","/_next/static/chunks/740441c5b62d2d93.js","/_next/static/chunks/dcd49895cb9db447.js","/_next/static/chunks/175944aa1545ac7c.js","/_next/static/chunks/16494c9ed210a726.js","/_next/static/chunks/19ed43205a6e84be.js"],"CurrentPostDataProvider"]
+18:I[401946,["/_next/static/chunks/d03e4f6fdf084240.js","/_next/static/chunks/525ff3aa60c02a25.js","/_next/static/chunks/ae2a70c709da2ba8.js","/_next/static/chunks/eb309b8f06731812.js","/_next/static/chunks/baa674234f056c60.js","/_next/static/chunks/2edc37b4337c096a.js","/_next/static/chunks/6f0408800ece4f06.js","/_next/static/chunks/6f95f3a6a7ed9dab.js","/_next/static/chunks/3c40fd5a14861430.js","/_next/static/chunks/e7855f92c342e0a3.js","/_next/static/chunks/a5fcaccd389d798e.js","/_next/static/chunks/c3456ef3141ade67.js","/_next/static/chunks/c92042fd5179bd95.js","/_next/static/chunks/1737ca787e6b8d4c.js","/_next/static/chunks/d691f1571e343c32.js","/_next/static/chunks/65f1d76f7ac19600.js","/_next/static/chunks/762b6f848ae7b21b.js","/_next/static/chunks/1d5a5c14848b802e.js","/_next/static/chunks/a40e2b25b1a62ac7.js","/_next/static/chunks/c6509abffeae92d2.js","/_next/static/chunks/35eaa08fca66b29e.js","/_next/static/chunks/f91f857f975d1c9f.js","/_next/static/chunks/dabd062b49706f28.js","/_next/static/chunks/740441c5b62d2d93.js","/_next/static/chunks/dcd49895cb9db447.js","/_next/static/chunks/175944aa1545ac7c.js","/_next/static/chunks/16494c9ed210a726.js","/_next/static/chunks/19ed43205a6e84be.js"],"PostDataReValidate"]
+19:I[793580,["/_next/static/chunks/d03e4f6fdf084240.js","/_next/static/chunks/525ff3aa60c02a25.js","/_next/static/chunks/ae2a70c709da2ba8.js","/_next/static/chunks/eb309b8f06731812.js","/_next/static/chunks/baa674234f056c60.js","/_next/static/chunks/2edc37b4337c096a.js","/_next/static/chunks/6f0408800ece4f06.js","/_next/static/chunks/6f95f3a6a7ed9dab.js","/_next/static/chunks/3c40fd5a14861430.js","/_next/static/chunks/e7855f92c342e0a3.js","/_next/static/chunks/a5fcaccd389d798e.js","/_next/static/chunks/c3456ef3141ade67.js","/_next/static/chunks/c92042fd5179bd95.js","/_next/static/chunks/1737ca787e6b8d4c.js","/_next/static/chunks/d691f1571e343c32.js","/_next/static/chunks/65f1d76f7ac19600.js","/_next/static/chunks/762b6f848ae7b21b.js","/_next/static/chunks/1d5a5c14848b802e.js","/_next/static/chunks/a40e2b25b1a62ac7.js","/_next/static/chunks/c6509abffeae92d2.js","/_next/static/chunks/35eaa08fca66b29e.js","/_next/static/chunks/f91f857f975d1c9f.js","/_next/static/chunks/dabd062b49706f28.js","/_next/static/chunks/740441c5b62d2d93.js","/_next/static/chunks/dcd49895cb9db447.js","/_next/static/chunks/175944aa1545ac7c.js","/_next/static/chunks/16494c9ed210a726.js","/_next/static/chunks/19ed43205a6e84be.js"],"BottomToUpTransitionView"]
+1a:I[189209,["/_next/static/chunks/d03e4f6fdf084240.js","/_next/static/chunks/525ff3aa60c02a25.js","/_next/static/chunks/ae2a70c709da2ba8.js","/_next/static/chunks/eb309b8f06731812.js","/_next/static/chunks/baa674234f056c60.js","/_next/static/chunks/2edc37b4337c096a.js","/_next/static/chunks/6f0408800ece4f06.js","/_next/static/chunks/6f95f3a6a7ed9dab.js","/_next/static/chunks/3c40fd5a14861430.js","/_next/static/chunks/e7855f92c342e0a3.js","/_next/static/chunks/a5fcaccd389d798e.js","/_next/static/chunks/c3456ef3141ade67.js","/_next/static/chunks/c92042fd5179bd95.js","/_next/static/chunks/1737ca787e6b8d4c.js","/_next/static/chunks/d691f1571e343c32.js","/_next/static/chunks/65f1d76f7ac19600.js","/_next/static/chunks/762b6f848ae7b21b.js","/_next/static/chunks/1d5a5c14848b802e.js","/_next/static/chunks/a40e2b25b1a62ac7.js","/_next/static/chunks/c6509abffeae92d2.js","/_next/static/chunks/35eaa08fca66b29e.js","/_next/static/chunks/f91f857f975d1c9f.js","/_next/static/chunks/dabd062b49706f28.js","/_next/static/chunks/740441c5b62d2d93.js","/_next/static/chunks/dcd49895cb9db447.js","/_next/static/chunks/175944aa1545ac7c.js","/_next/static/chunks/16494c9ed210a726.js","/_next/static/chunks/19ed43205a6e84be.js"],"AckRead"]
+1b:I[401946,["/_next/static/chunks/d03e4f6fdf084240.js","/_next/static/chunks/525ff3aa60c02a25.js","/_next/static/chunks/ae2a70c709da2ba8.js","/_next/static/chunks/eb309b8f06731812.js","/_next/static/chunks/baa674234f056c60.js","/_next/static/chunks/2edc37b4337c096a.js","/_next/static/chunks/6f0408800ece4f06.js","/_next/static/chunks/6f95f3a6a7ed9dab.js","/_next/static/chunks/3c40fd5a14861430.js","/_next/static/chunks/e7855f92c342e0a3.js","/_next/static/chunks/a5fcaccd389d798e.js","/_next/static/chunks/c3456ef3141ade67.js","/_next/static/chunks/c92042fd5179bd95.js","/_next/static/chunks/1737ca787e6b8d4c.js","/_next/static/chunks/d691f1571e343c32.js","/_next/static/chunks/65f1d76f7ac19600.js","/_next/static/chunks/762b6f848ae7b21b.js","/_next/static/chunks/1d5a5c14848b802e.js","/_next/static/chunks/a40e2b25b1a62ac7.js","/_next/static/chunks/c6509abffeae92d2.js","/_next/static/chunks/35eaa08fca66b29e.js","/_next/static/chunks/f91f857f975d1c9f.js","/_next/static/chunks/dabd062b49706f28.js","/_next/static/chunks/740441c5b62d2d93.js","/_next/static/chunks/dcd49895cb9db447.js","/_next/static/chunks/175944aa1545ac7c.js","/_next/static/chunks/16494c9ed210a726.js","/_next/static/chunks/19ed43205a6e84be.js"],"PostTitle"]
+1c:I[923014,["/_next/static/chunks/d03e4f6fdf084240.js","/_next/static/chunks/525ff3aa60c02a25.js","/_next/static/chunks/ae2a70c709da2ba8.js","/_next/static/chunks/eb309b8f06731812.js","/_next/static/chunks/baa674234f056c60.js","/_next/static/chunks/2edc37b4337c096a.js","/_next/static/chunks/6f0408800ece4f06.js","/_next/static/chunks/6f95f3a6a7ed9dab.js","/_next/static/chunks/3c40fd5a14861430.js","/_next/static/chunks/e7855f92c342e0a3.js","/_next/static/chunks/a5fcaccd389d798e.js","/_next/static/chunks/c3456ef3141ade67.js","/_next/static/chunks/c92042fd5179bd95.js","/_next/static/chunks/1737ca787e6b8d4c.js","/_next/static/chunks/d691f1571e343c32.js","/_next/static/chunks/65f1d76f7ac19600.js","/_next/static/chunks/762b6f848ae7b21b.js","/_next/static/chunks/1d5a5c14848b802e.js","/_next/static/chunks/a40e2b25b1a62ac7.js","/_next/static/chunks/c6509abffeae92d2.js","/_next/static/chunks/35eaa08fca66b29e.js","/_next/static/chunks/f91f857f975d1c9f.js","/_next/static/chunks/dabd062b49706f28.js","/_next/static/chunks/740441c5b62d2d93.js","/_next/static/chunks/dcd49895cb9db447.js","/_next/static/chunks/175944aa1545ac7c.js","/_next/static/chunks/16494c9ed210a726.js","/_next/static/chunks/19ed43205a6e84be.js"],"GoToAdminEditingButton"]
+1d:I[401946,["/_next/static/chunks/d03e4f6fdf084240.js","/_next/static/chunks/525ff3aa60c02a25.js","/_next/static/chunks/ae2a70c709da2ba8.js","/_next/static/chunks/eb309b8f06731812.js","/_next/static/chunks/baa674234f056c60.js","/_next/static/chunks/2edc37b4337c096a.js","/_next/static/chunks/6f0408800ece4f06.js","/_next/static/chunks/6f95f3a6a7ed9dab.js","/_next/static/chunks/3c40fd5a14861430.js","/_next/static/chunks/e7855f92c342e0a3.js","/_next/static/chunks/a5fcaccd389d798e.js","/_next/static/chunks/c3456ef3141ade67.js","/_next/static/chunks/c92042fd5179bd95.js","/_next/static/chunks/1737ca787e6b8d4c.js","/_next/static/chunks/d691f1571e343c32.js","/_next/static/chunks/65f1d76f7ac19600.js","/_next/static/chunks/762b6f848ae7b21b.js","/_next/static/chunks/1d5a5c14848b802e.js","/_next/static/chunks/a40e2b25b1a62ac7.js","/_next/static/chunks/c6509abffeae92d2.js","/_next/static/chunks/35eaa08fca66b29e.js","/_next/static/chunks/f91f857f975d1c9f.js","/_next/static/chunks/dabd062b49706f28.js","/_next/static/chunks/740441c5b62d2d93.js","/_next/static/chunks/dcd49895cb9db447.js","/_next/static/chunks/175944aa1545ac7c.js","/_next/static/chunks/16494c9ed210a726.js","/_next/static/chunks/19ed43205a6e84be.js"],"PostMetaBarInternal"]
+1e:I[6169,["/_next/static/chunks/d03e4f6fdf084240.js","/_next/static/chunks/525ff3aa60c02a25.js","/_next/static/chunks/ae2a70c709da2ba8.js","/_next/static/chunks/eb309b8f06731812.js","/_next/static/chunks/baa674234f056c60.js","/_next/static/chunks/2edc37b4337c096a.js","/_next/static/chunks/6f0408800ece4f06.js","/_next/static/chunks/6f95f3a6a7ed9dab.js","/_next/static/chunks/3c40fd5a14861430.js","/_next/static/chunks/e7855f92c342e0a3.js","/_next/static/chunks/a5fcaccd389d798e.js","/_next/static/chunks/c3456ef3141ade67.js","/_next/static/chunks/c92042fd5179bd95.js","/_next/static/chunks/1737ca787e6b8d4c.js","/_next/static/chunks/d691f1571e343c32.js","/_next/static/chunks/65f1d76f7ac19600.js","/_next/static/chunks/762b6f848ae7b21b.js","/_next/static/chunks/1d5a5c14848b802e.js","/_next/static/chunks/a40e2b25b1a62ac7.js","/_next/static/chunks/c6509abffeae92d2.js","/_next/static/chunks/35eaa08fca66b29e.js","/_next/static/chunks/f91f857f975d1c9f.js","/_next/static/chunks/dabd062b49706f28.js","/_next/static/chunks/740441c5b62d2d93.js","/_next/static/chunks/dcd49895cb9db447.js","/_next/static/chunks/175944aa1545ac7c.js","/_next/static/chunks/16494c9ed210a726.js","/_next/static/chunks/19ed43205a6e84be.js"],"PostOutdate"]
+1f:I[660320,["/_next/static/chunks/d03e4f6fdf084240.js","/_next/static/chunks/525ff3aa60c02a25.js","/_next/static/chunks/ae2a70c709da2ba8.js","/_next/static/chunks/eb309b8f06731812.js","/_next/static/chunks/baa674234f056c60.js","/_next/static/chunks/2edc37b4337c096a.js","/_next/static/chunks/6f0408800ece4f06.js","/_next/static/chunks/6f95f3a6a7ed9dab.js","/_next/static/chunks/3c40fd5a14861430.js","/_next/static/chunks/e7855f92c342e0a3.js","/_next/static/chunks/a5fcaccd389d798e.js","/_next/static/chunks/c3456ef3141ade67.js","/_next/static/chunks/c92042fd5179bd95.js","/_next/static/chunks/1737ca787e6b8d4c.js","/_next/static/chunks/d691f1571e343c32.js","/_next/static/chunks/65f1d76f7ac19600.js","/_next/static/chunks/762b6f848ae7b21b.js","/_next/static/chunks/1d5a5c14848b802e.js","/_next/static/chunks/a40e2b25b1a62ac7.js","/_next/static/chunks/c6509abffeae92d2.js","/_next/static/chunks/35eaa08fca66b29e.js","/_next/static/chunks/f91f857f975d1c9f.js","/_next/static/chunks/dabd062b49706f28.js","/_next/static/chunks/740441c5b62d2d93.js","/_next/static/chunks/dcd49895cb9db447.js","/_next/static/chunks/175944aa1545ac7c.js","/_next/static/chunks/16494c9ed210a726.js","/_next/static/chunks/19ed43205a6e84be.js"],"PostRelated"]
+20:I[145557,["/_next/static/chunks/d03e4f6fdf084240.js","/_next/static/chunks/525ff3aa60c02a25.js","/_next/static/chunks/ae2a70c709da2ba8.js","/_next/static/chunks/eb309b8f06731812.js","/_next/static/chunks/baa674234f056c60.js","/_next/static/chunks/2edc37b4337c096a.js","/_next/static/chunks/6f0408800ece4f06.js","/_next/static/chunks/6f95f3a6a7ed9dab.js","/_next/static/chunks/3c40fd5a14861430.js","/_next/static/chunks/e7855f92c342e0a3.js","/_next/static/chunks/a5fcaccd389d798e.js","/_next/static/chunks/c3456ef3141ade67.js","/_next/static/chunks/c92042fd5179bd95.js","/_next/static/chunks/1737ca787e6b8d4c.js","/_next/static/chunks/d691f1571e343c32.js","/_next/static/chunks/65f1d76f7ac19600.js","/_next/static/chunks/762b6f848ae7b21b.js","/_next/static/chunks/1d5a5c14848b802e.js","/_next/static/chunks/a40e2b25b1a62ac7.js","/_next/static/chunks/c6509abffeae92d2.js","/_next/static/chunks/35eaa08fca66b29e.js","/_next/static/chunks/f91f857f975d1c9f.js","/_next/static/chunks/dabd062b49706f28.js","/_next/static/chunks/740441c5b62d2d93.js","/_next/static/chunks/dcd49895cb9db447.js","/_next/static/chunks/175944aa1545ac7c.js","/_next/static/chunks/16494c9ed210a726.js","/_next/static/chunks/19ed43205a6e84be.js"],"WrappedElementProvider"]
+21:I[125902,["/_next/static/chunks/d03e4f6fdf084240.js","/_next/static/chunks/525ff3aa60c02a25.js","/_next/static/chunks/ae2a70c709da2ba8.js","/_next/static/chunks/eb309b8f06731812.js","/_next/static/chunks/baa674234f056c60.js","/_next/static/chunks/2edc37b4337c096a.js","/_next/static/chunks/6f0408800ece4f06.js","/_next/static/chunks/6f95f3a6a7ed9dab.js","/_next/static/chunks/3c40fd5a14861430.js","/_next/static/chunks/e7855f92c342e0a3.js","/_next/static/chunks/a5fcaccd389d798e.js","/_next/static/chunks/c3456ef3141ade67.js","/_next/static/chunks/c92042fd5179bd95.js","/_next/static/chunks/1737ca787e6b8d4c.js","/_next/static/chunks/d691f1571e343c32.js","/_next/static/chunks/65f1d76f7ac19600.js","/_next/static/chunks/762b6f848ae7b21b.js","/_next/static/chunks/1d5a5c14848b802e.js","/_next/static/chunks/a40e2b25b1a62ac7.js","/_next/static/chunks/c6509abffeae92d2.js","/_next/static/chunks/35eaa08fca66b29e.js","/_next/static/chunks/f91f857f975d1c9f.js","/_next/static/chunks/dabd062b49706f28.js","/_next/static/chunks/740441c5b62d2d93.js","/_next/static/chunks/dcd49895cb9db447.js","/_next/static/chunks/175944aa1545ac7c.js","/_next/static/chunks/16494c9ed210a726.js","/_next/static/chunks/19ed43205a6e84be.js"],"ReadIndicatorForMobile"]
+22:I[401946,["/_next/static/chunks/d03e4f6fdf084240.js","/_next/static/chunks/525ff3aa60c02a25.js","/_next/static/chunks/ae2a70c709da2ba8.js","/_next/static/chunks/eb309b8f06731812.js","/_next/static/chunks/baa674234f056c60.js","/_next/static/chunks/2edc37b4337c096a.js","/_next/static/chunks/6f0408800ece4f06.js","/_next/static/chunks/6f95f3a6a7ed9dab.js","/_next/static/chunks/3c40fd5a14861430.js","/_next/static/chunks/e7855f92c342e0a3.js","/_next/static/chunks/a5fcaccd389d798e.js","/_next/static/chunks/c3456ef3141ade67.js","/_next/static/chunks/c92042fd5179bd95.js","/_next/static/chunks/1737ca787e6b8d4c.js","/_next/static/chunks/d691f1571e343c32.js","/_next/static/chunks/65f1d76f7ac19600.js","/_next/static/chunks/762b6f848ae7b21b.js","/_next/static/chunks/1d5a5c14848b802e.js","/_next/static/chunks/a40e2b25b1a62ac7.js","/_next/static/chunks/c6509abffeae92d2.js","/_next/static/chunks/35eaa08fca66b29e.js","/_next/static/chunks/f91f857f975d1c9f.js","/_next/static/chunks/dabd062b49706f28.js","/_next/static/chunks/740441c5b62d2d93.js","/_next/static/chunks/dcd49895cb9db447.js","/_next/static/chunks/175944aa1545ac7c.js","/_next/static/chunks/16494c9ed210a726.js","/_next/static/chunks/19ed43205a6e84be.js"],"PostMarkdownImageRecordProvider"]
+23:I[401946,["/_next/static/chunks/d03e4f6fdf084240.js","/_next/static/chunks/525ff3aa60c02a25.js","/_next/static/chunks/ae2a70c709da2ba8.js","/_next/static/chunks/eb309b8f06731812.js","/_next/static/chunks/baa674234f056c60.js","/_next/static/chunks/2edc37b4337c096a.js","/_next/static/chunks/6f0408800ece4f06.js","/_next/static/chunks/6f95f3a6a7ed9dab.js","/_next/static/chunks/3c40fd5a14861430.js","/_next/static/chunks/e7855f92c342e0a3.js","/_next/static/chunks/a5fcaccd389d798e.js","/_next/static/chunks/c3456ef3141ade67.js","/_next/static/chunks/c92042fd5179bd95.js","/_next/static/chunks/1737ca787e6b8d4c.js","/_next/static/chunks/d691f1571e343c32.js","/_next/static/chunks/65f1d76f7ac19600.js","/_next/static/chunks/762b6f848ae7b21b.js","/_next/static/chunks/1d5a5c14848b802e.js","/_next/static/chunks/a40e2b25b1a62ac7.js","/_next/static/chunks/c6509abffeae92d2.js","/_next/static/chunks/35eaa08fca66b29e.js","/_next/static/chunks/f91f857f975d1c9f.js","/_next/static/chunks/dabd062b49706f28.js","/_next/static/chunks/740441c5b62d2d93.js","/_next/static/chunks/dcd49895cb9db447.js","/_next/static/chunks/175944aa1545ac7c.js","/_next/static/chunks/16494c9ed210a726.js","/_next/static/chunks/19ed43205a6e84be.js"],"MarkdownSelection"]
+24:I[401946,["/_next/static/chunks/d03e4f6fdf084240.js","/_next/static/chunks/525ff3aa60c02a25.js","/_next/static/chunks/ae2a70c709da2ba8.js","/_next/static/chunks/eb309b8f06731812.js","/_next/static/chunks/baa674234f056c60.js","/_next/static/chunks/2edc37b4337c096a.js","/_next/static/chunks/6f0408800ece4f06.js","/_next/static/chunks/6f95f3a6a7ed9dab.js","/_next/static/chunks/3c40fd5a14861430.js","/_next/static/chunks/e7855f92c342e0a3.js","/_next/static/chunks/a5fcaccd389d798e.js","/_next/static/chunks/c3456ef3141ade67.js","/_next/static/chunks/c92042fd5179bd95.js","/_next/static/chunks/1737ca787e6b8d4c.js","/_next/static/chunks/d691f1571e343c32.js","/_next/static/chunks/65f1d76f7ac19600.js","/_next/static/chunks/762b6f848ae7b21b.js","/_next/static/chunks/1d5a5c14848b802e.js","/_next/static/chunks/a40e2b25b1a62ac7.js","/_next/static/chunks/c6509abffeae92d2.js","/_next/static/chunks/35eaa08fca66b29e.js","/_next/static/chunks/f91f857f975d1c9f.js","/_next/static/chunks/dabd062b49706f28.js","/_next/static/chunks/740441c5b62d2d93.js","/_next/static/chunks/dcd49895cb9db447.js","/_next/static/chunks/175944aa1545ac7c.js","/_next/static/chunks/16494c9ed210a726.js","/_next/static/chunks/19ed43205a6e84be.js"],"FocusReadingEffect"]
+25:I[502283,["/_next/static/chunks/d03e4f6fdf084240.js","/_next/static/chunks/525ff3aa60c02a25.js","/_next/static/chunks/ae2a70c709da2ba8.js","/_next/static/chunks/eb309b8f06731812.js","/_next/static/chunks/baa674234f056c60.js","/_next/static/chunks/2edc37b4337c096a.js","/_next/static/chunks/6f0408800ece4f06.js","/_next/static/chunks/6f95f3a6a7ed9dab.js","/_next/static/chunks/3c40fd5a14861430.js","/_next/static/chunks/e7855f92c342e0a3.js","/_next/static/chunks/a5fcaccd389d798e.js","/_next/static/chunks/c3456ef3141ade67.js","/_next/static/chunks/c92042fd5179bd95.js","/_next/static/chunks/1737ca787e6b8d4c.js","/_next/static/chunks/d691f1571e343c32.js","/_next/static/chunks/65f1d76f7ac19600.js","/_next/static/chunks/762b6f848ae7b21b.js","/_next/static/chunks/1d5a5c14848b802e.js","/_next/static/chunks/a40e2b25b1a62ac7.js","/_next/static/chunks/c6509abffeae92d2.js","/_next/static/chunks/35eaa08fca66b29e.js","/_next/static/chunks/f91f857f975d1c9f.js","/_next/static/chunks/dabd062b49706f28.js","/_next/static/chunks/740441c5b62d2d93.js","/_next/static/chunks/dcd49895cb9db447.js","/_next/static/chunks/175944aa1545ac7c.js","/_next/static/chunks/16494c9ed210a726.js","/_next/static/chunks/19ed43205a6e84be.js"],"PostMarkdownRenderer",1]
+26:I[194205,["/_next/static/chunks/d03e4f6fdf084240.js","/_next/static/chunks/525ff3aa60c02a25.js","/_next/static/chunks/ae2a70c709da2ba8.js","/_next/static/chunks/eb309b8f06731812.js","/_next/static/chunks/baa674234f056c60.js","/_next/static/chunks/2edc37b4337c096a.js","/_next/static/chunks/6f0408800ece4f06.js","/_next/static/chunks/6f95f3a6a7ed9dab.js","/_next/static/chunks/3c40fd5a14861430.js","/_next/static/chunks/e7855f92c342e0a3.js","/_next/static/chunks/a5fcaccd389d798e.js","/_next/static/chunks/c3456ef3141ade67.js","/_next/static/chunks/c92042fd5179bd95.js","/_next/static/chunks/1737ca787e6b8d4c.js","/_next/static/chunks/d691f1571e343c32.js","/_next/static/chunks/65f1d76f7ac19600.js","/_next/static/chunks/762b6f848ae7b21b.js","/_next/static/chunks/1d5a5c14848b802e.js","/_next/static/chunks/a40e2b25b1a62ac7.js","/_next/static/chunks/c6509abffeae92d2.js","/_next/static/chunks/35eaa08fca66b29e.js","/_next/static/chunks/f91f857f975d1c9f.js","/_next/static/chunks/dabd062b49706f28.js","/_next/static/chunks/740441c5b62d2d93.js","/_next/static/chunks/dcd49895cb9db447.js","/_next/static/chunks/175944aa1545ac7c.js","/_next/static/chunks/16494c9ed210a726.js","/_next/static/chunks/19ed43205a6e84be.js"],"LayoutRightSidePortal"]
+27:I[732298,["/_next/static/chunks/d03e4f6fdf084240.js","/_next/static/chunks/525ff3aa60c02a25.js","/_next/static/chunks/ae2a70c709da2ba8.js","/_next/static/chunks/eb309b8f06731812.js","/_next/static/chunks/baa674234f056c60.js","/_next/static/chunks/2edc37b4337c096a.js","/_next/static/chunks/6f0408800ece4f06.js","/_next/static/chunks/6f95f3a6a7ed9dab.js","/_next/static/chunks/3c40fd5a14861430.js","/_next/static/chunks/e7855f92c342e0a3.js","/_next/static/chunks/a5fcaccd389d798e.js","/_next/static/chunks/c3456ef3141ade67.js","/_next/static/chunks/c92042fd5179bd95.js","/_next/static/chunks/1737ca787e6b8d4c.js","/_next/static/chunks/d691f1571e343c32.js","/_next/static/chunks/65f1d76f7ac19600.js","/_next/static/chunks/762b6f848ae7b21b.js","/_next/static/chunks/1d5a5c14848b802e.js","/_next/static/chunks/a40e2b25b1a62ac7.js","/_next/static/chunks/c6509abffeae92d2.js","/_next/static/chunks/35eaa08fca66b29e.js","/_next/static/chunks/f91f857f975d1c9f.js","/_next/static/chunks/dabd062b49706f28.js","/_next/static/chunks/740441c5b62d2d93.js","/_next/static/chunks/dcd49895cb9db447.js","/_next/static/chunks/175944aa1545ac7c.js","/_next/static/chunks/16494c9ed210a726.js","/_next/static/chunks/19ed43205a6e84be.js"],"PostActionAside"]
+28:I[237493,["/_next/static/chunks/d03e4f6fdf084240.js","/_next/static/chunks/525ff3aa60c02a25.js","/_next/static/chunks/ae2a70c709da2ba8.js","/_next/static/chunks/eb309b8f06731812.js","/_next/static/chunks/baa674234f056c60.js","/_next/static/chunks/2edc37b4337c096a.js","/_next/static/chunks/6f0408800ece4f06.js","/_next/static/chunks/6f95f3a6a7ed9dab.js","/_next/static/chunks/3c40fd5a14861430.js","/_next/static/chunks/e7855f92c342e0a3.js","/_next/static/chunks/a5fcaccd389d798e.js","/_next/static/chunks/c3456ef3141ade67.js","/_next/static/chunks/c92042fd5179bd95.js","/_next/static/chunks/1737ca787e6b8d4c.js","/_next/static/chunks/d691f1571e343c32.js","/_next/static/chunks/65f1d76f7ac19600.js","/_next/static/chunks/762b6f848ae7b21b.js","/_next/static/chunks/1d5a5c14848b802e.js","/_next/static/chunks/a40e2b25b1a62ac7.js","/_next/static/chunks/c6509abffeae92d2.js","/_next/static/chunks/35eaa08fca66b29e.js","/_next/static/chunks/f91f857f975d1c9f.js","/_next/static/chunks/dabd062b49706f28.js","/_next/static/chunks/740441c5b62d2d93.js","/_next/static/chunks/dcd49895cb9db447.js","/_next/static/chunks/175944aa1545ac7c.js","/_next/static/chunks/16494c9ed210a726.js","/_next/static/chunks/19ed43205a6e84be.js"],"ClientOnly"]
+29:I[223245,["/_next/static/chunks/d03e4f6fdf084240.js","/_next/static/chunks/525ff3aa60c02a25.js","/_next/static/chunks/ae2a70c709da2ba8.js","/_next/static/chunks/eb309b8f06731812.js","/_next/static/chunks/baa674234f056c60.js","/_next/static/chunks/2edc37b4337c096a.js","/_next/static/chunks/6f0408800ece4f06.js","/_next/static/chunks/6f95f3a6a7ed9dab.js","/_next/static/chunks/3c40fd5a14861430.js","/_next/static/chunks/e7855f92c342e0a3.js","/_next/static/chunks/a5fcaccd389d798e.js","/_next/static/chunks/c3456ef3141ade67.js","/_next/static/chunks/c92042fd5179bd95.js","/_next/static/chunks/1737ca787e6b8d4c.js","/_next/static/chunks/d691f1571e343c32.js","/_next/static/chunks/65f1d76f7ac19600.js","/_next/static/chunks/762b6f848ae7b21b.js","/_next/static/chunks/1d5a5c14848b802e.js","/_next/static/chunks/a40e2b25b1a62ac7.js","/_next/static/chunks/c6509abffeae92d2.js","/_next/static/chunks/35eaa08fca66b29e.js","/_next/static/chunks/f91f857f975d1c9f.js","/_next/static/chunks/dabd062b49706f28.js","/_next/static/chunks/740441c5b62d2d93.js","/_next/static/chunks/dcd49895cb9db447.js","/_next/static/chunks/175944aa1545ac7c.js","/_next/static/chunks/16494c9ed210a726.js","/_next/static/chunks/19ed43205a6e84be.js"],"PostCopyright"]
+2a:I[732298,["/_next/static/chunks/d03e4f6fdf084240.js","/_next/static/chunks/525ff3aa60c02a25.js","/_next/static/chunks/ae2a70c709da2ba8.js","/_next/static/chunks/eb309b8f06731812.js","/_next/static/chunks/baa674234f056c60.js","/_next/static/chunks/2edc37b4337c096a.js","/_next/static/chunks/6f0408800ece4f06.js","/_next/static/chunks/6f95f3a6a7ed9dab.js","/_next/static/chunks/3c40fd5a14861430.js","/_next/static/chunks/e7855f92c342e0a3.js","/_next/static/chunks/a5fcaccd389d798e.js","/_next/static/chunks/c3456ef3141ade67.js","/_next/static/chunks/c92042fd5179bd95.js","/_next/static/chunks/1737ca787e6b8d4c.js","/_next/static/chunks/d691f1571e343c32.js","/_next/static/chunks/65f1d76f7ac19600.js","/_next/static/chunks/762b6f848ae7b21b.js","/_next/static/chunks/1d5a5c14848b802e.js","/_next/static/chunks/a40e2b25b1a62ac7.js","/_next/static/chunks/c6509abffeae92d2.js","/_next/static/chunks/35eaa08fca66b29e.js","/_next/static/chunks/f91f857f975d1c9f.js","/_next/static/chunks/dabd062b49706f28.js","/_next/static/chunks/740441c5b62d2d93.js","/_next/static/chunks/dcd49895cb9db447.js","/_next/static/chunks/175944aa1545ac7c.js","/_next/static/chunks/16494c9ed210a726.js","/_next/static/chunks/19ed43205a6e84be.js"],"PostBottomBarAction"]
+2b:I[832330,["/_next/static/chunks/d03e4f6fdf084240.js","/_next/static/chunks/525ff3aa60c02a25.js","/_next/static/chunks/ae2a70c709da2ba8.js","/_next/static/chunks/eb309b8f06731812.js","/_next/static/chunks/baa674234f056c60.js","/_next/static/chunks/2edc37b4337c096a.js","/_next/static/chunks/6f0408800ece4f06.js","/_next/static/chunks/6f95f3a6a7ed9dab.js","/_next/static/chunks/3c40fd5a14861430.js","/_next/static/chunks/e7855f92c342e0a3.js","/_next/static/chunks/a5fcaccd389d798e.js","/_next/static/chunks/c3456ef3141ade67.js","/_next/static/chunks/c92042fd5179bd95.js","/_next/static/chunks/1737ca787e6b8d4c.js","/_next/static/chunks/d691f1571e343c32.js","/_next/static/chunks/65f1d76f7ac19600.js","/_next/static/chunks/762b6f848ae7b21b.js","/_next/static/chunks/1d5a5c14848b802e.js","/_next/static/chunks/a40e2b25b1a62ac7.js","/_next/static/chunks/c6509abffeae92d2.js","/_next/static/chunks/35eaa08fca66b29e.js","/_next/static/chunks/f91f857f975d1c9f.js","/_next/static/chunks/dabd062b49706f28.js","/_next/static/chunks/740441c5b62d2d93.js","/_next/static/chunks/dcd49895cb9db447.js","/_next/static/chunks/175944aa1545ac7c.js","/_next/static/chunks/16494c9ed210a726.js","/_next/static/chunks/19ed43205a6e84be.js"],"BottomToUpSoftScaleTransitionView"]
+2c:I[615780,["/_next/static/chunks/d03e4f6fdf084240.js","/_next/static/chunks/525ff3aa60c02a25.js","/_next/static/chunks/ae2a70c709da2ba8.js","/_next/static/chunks/eb309b8f06731812.js","/_next/static/chunks/baa674234f056c60.js","/_next/static/chunks/2edc37b4337c096a.js","/_next/static/chunks/6f0408800ece4f06.js","/_next/static/chunks/6f95f3a6a7ed9dab.js","/_next/static/chunks/3c40fd5a14861430.js","/_next/static/chunks/e7855f92c342e0a3.js","/_next/static/chunks/a5fcaccd389d798e.js","/_next/static/chunks/c3456ef3141ade67.js","/_next/static/chunks/c92042fd5179bd95.js","/_next/static/chunks/1737ca787e6b8d4c.js","/_next/static/chunks/d691f1571e343c32.js","/_next/static/chunks/65f1d76f7ac19600.js","/_next/static/chunks/762b6f848ae7b21b.js","/_next/static/chunks/1d5a5c14848b802e.js","/_next/static/chunks/a40e2b25b1a62ac7.js","/_next/static/chunks/c6509abffeae92d2.js","/_next/static/chunks/35eaa08fca66b29e.js","/_next/static/chunks/f91f857f975d1c9f.js","/_next/static/chunks/dabd062b49706f28.js","/_next/static/chunks/740441c5b62d2d93.js","/_next/static/chunks/dcd49895cb9db447.js","/_next/static/chunks/175944aa1545ac7c.js","/_next/static/chunks/16494c9ed210a726.js","/_next/static/chunks/19ed43205a6e84be.js"],"CommentAreaRootLazy"]
+2d:I[194205,["/_next/static/chunks/d03e4f6fdf084240.js","/_next/static/chunks/525ff3aa60c02a25.js","/_next/static/chunks/ae2a70c709da2ba8.js","/_next/static/chunks/eb309b8f06731812.js","/_next/static/chunks/baa674234f056c60.js","/_next/static/chunks/2edc37b4337c096a.js","/_next/static/chunks/6f0408800ece4f06.js","/_next/static/chunks/6f95f3a6a7ed9dab.js","/_next/static/chunks/3c40fd5a14861430.js","/_next/static/chunks/e7855f92c342e0a3.js","/_next/static/chunks/a5fcaccd389d798e.js","/_next/static/chunks/c3456ef3141ade67.js","/_next/static/chunks/c92042fd5179bd95.js","/_next/static/chunks/1737ca787e6b8d4c.js","/_next/static/chunks/d691f1571e343c32.js","/_next/static/chunks/65f1d76f7ac19600.js","/_next/static/chunks/762b6f848ae7b21b.js","/_next/static/chunks/1d5a5c14848b802e.js","/_next/static/chunks/a40e2b25b1a62ac7.js","/_next/static/chunks/c6509abffeae92d2.js","/_next/static/chunks/35eaa08fca66b29e.js","/_next/static/chunks/f91f857f975d1c9f.js","/_next/static/chunks/dabd062b49706f28.js","/_next/static/chunks/740441c5b62d2d93.js","/_next/static/chunks/dcd49895cb9db447.js","/_next/static/chunks/175944aa1545ac7c.js","/_next/static/chunks/16494c9ed210a726.js","/_next/static/chunks/19ed43205a6e84be.js"],"LayoutRightSideProvider"]
+2e:I[185368,["/_next/static/chunks/d03e4f6fdf084240.js","/_next/static/chunks/525ff3aa60c02a25.js","/_next/static/chunks/ae2a70c709da2ba8.js","/_next/static/chunks/eb309b8f06731812.js","/_next/static/chunks/baa674234f056c60.js","/_next/static/chunks/2edc37b4337c096a.js","/_next/static/chunks/6f0408800ece4f06.js","/_next/static/chunks/6f95f3a6a7ed9dab.js","/_next/static/chunks/3c40fd5a14861430.js","/_next/static/chunks/e7855f92c342e0a3.js","/_next/static/chunks/a5fcaccd389d798e.js","/_next/static/chunks/c3456ef3141ade67.js","/_next/static/chunks/c92042fd5179bd95.js","/_next/static/chunks/1737ca787e6b8d4c.js","/_next/static/chunks/d691f1571e343c32.js","/_next/static/chunks/65f1d76f7ac19600.js","/_next/static/chunks/762b6f848ae7b21b.js","/_next/static/chunks/1d5a5c14848b802e.js","/_next/static/chunks/a40e2b25b1a62ac7.js","/_next/static/chunks/c6509abffeae92d2.js","/_next/static/chunks/35eaa08fca66b29e.js","/_next/static/chunks/f91f857f975d1c9f.js","/_next/static/chunks/dabd062b49706f28.js","/_next/static/chunks/740441c5b62d2d93.js","/_next/static/chunks/dcd49895cb9db447.js","/_next/static/chunks/175944aa1545ac7c.js","/_next/static/chunks/16494c9ed210a726.js","/_next/static/chunks/19ed43205a6e84be.js"],"OnlyMobile"]
+2f:I[233113,["/_next/static/chunks/d03e4f6fdf084240.js","/_next/static/chunks/525ff3aa60c02a25.js","/_next/static/chunks/ae2a70c709da2ba8.js","/_next/static/chunks/eb309b8f06731812.js","/_next/static/chunks/baa674234f056c60.js","/_next/static/chunks/2edc37b4337c096a.js","/_next/static/chunks/6f0408800ece4f06.js","/_next/static/chunks/6f95f3a6a7ed9dab.js","/_next/static/chunks/3c40fd5a14861430.js","/_next/static/chunks/e7855f92c342e0a3.js","/_next/static/chunks/a5fcaccd389d798e.js","/_next/static/chunks/c3456ef3141ade67.js","/_next/static/chunks/c92042fd5179bd95.js","/_next/static/chunks/1737ca787e6b8d4c.js","/_next/static/chunks/d691f1571e343c32.js","/_next/static/chunks/65f1d76f7ac19600.js","/_next/static/chunks/762b6f848ae7b21b.js","/_next/static/chunks/1d5a5c14848b802e.js","/_next/static/chunks/a40e2b25b1a62ac7.js","/_next/static/chunks/c6509abffeae92d2.js","/_next/static/chunks/35eaa08fca66b29e.js","/_next/static/chunks/f91f857f975d1c9f.js","/_next/static/chunks/dabd062b49706f28.js","/_next/static/chunks/740441c5b62d2d93.js","/_next/static/chunks/dcd49895cb9db447.js","/_next/static/chunks/175944aa1545ac7c.js","/_next/static/chunks/16494c9ed210a726.js","/_next/static/chunks/19ed43205a6e84be.js"],"TocFAB"]
+30:I[95276,["/_next/static/chunks/3c40fd5a14861430.js","/_next/static/chunks/4197b04c4f1d962d.js","/_next/static/chunks/70af310ba2a3e461.js","/_next/static/chunks/9df4409b3ebd95fb.js","/_next/static/chunks/e52d234aac494225.js"],"OutletBoundary"]
+31:"$Sreact.suspense"
+:HL["/_next/static/chunks/136744c992bad96d.css","style"]
+:HL["/_next/static/chunks/0169140b52b18b81.css","style"]
+:HL["/_next/static/chunks/cf19f565ce194e50.css","style"]
+:HL["/_next/static/chunks/2a531debc05d9c48.css","style"]
+:HL["/_next/static/chunks/f6d4eb0f1595037c.css","style"]
+:HL["/_next/static/chunks/be9fe8599e8928e8.css","style"]
+5:T2f24,## 实验背景
+
+### Runge 现象
+
+1901年，数学家 Carl Runge 发现了一个令人困惑的现象：对于函数 $f(x)=\frac{1}{1+25x^2}$ 在区间 $x\in[-1,1]$ 上，如果选择 $n+1$ 个 ***等间距*** 的节点对区间进行均匀剖分，并构造其 Lagrange 插值多项式 $P_n(x)$。随着插值多项式阶次 $n$ 的递增，插值误差 $E_n(x) = |f(x) - P_n(x)|$ 的行为表现出明显的两极分化：误差在区间中心 $x \approx 0$ 附近 ***递减*** ，然而，误差在区间边缘 $x \approx \pm 1$ 附近却 ***递增***，$P_n(x)$ 在端点附近出现剧烈的振荡。这种在高次多项式等距插值中，误差在区间边缘迅速发散的现象，被称为 ***Runge 现象***。
+
+### Runge 现象的数学解释
+
+*我们对Runge现象给出一个通俗的解释*：
+
+Runge 现象的根本原因是我们在使用等距节点进行高次插值时，插值误差项 $E_n(x)$ 表达式中的两个关键因子在高阶时共同发散。
+
+设 $P_n(x)$ 为在节点 $\{x_0, x_1, \dots, x_n\}$ 上插值函数 $f(x)$ 的 $n$ 次多项式。若 $f \in C^{n+1}[a,b]$，则对任意 $x \in [a,b]$，存在 $\xi = \xi(x) \in (a,b)$ 使得
+
+$$
+f(x) - P_n(x) = \frac{f^{(n+1)}(\xi)}{(n+1)!} \prod_{i=0}^n (x - x_i) = \frac{f^{(n+1)}(\xi)}{(n+1)!} \omega_n(x),
+$$
+
+其中 $\omega_n(x) = \prod_{i=0}^n (x - x_i)$ 称为节点多项式。因此，最大误差的上界为
+
+$$
+\|f - P_n\|_\infty \leq \frac{\max_{\xi \in [a,b]} |f^{(n+1)}(\xi)|}{(n+1)!} \cdot \max_{x \in [a,b]} |\omega_n(x)|.
+$$
+
+Lebesgue常数 $\Lambda_n$ 定义为Lagrange基函数之和的最大值：
+
+$$
+\Lambda_n = \max_{x \in [a,b]} \sum_{i=0}^n |l_i(x)|,
+$$
+
+其中 $l_i(x) = \prod_{j \neq i} \frac{x - x_j}{x_i - x_j}$。误差实际上可以表示为与 $\Lambda_n$ 相关的形式，因为 $\max |\omega_n(x)|$ 与 $\Lambda_n$ 在本质上决定了插值运算的放大效应。
+
+在区间 $[-1,1]$ 上取等距节点 $x_k = -1 + \frac{2k}{n}$，$k=0,\dots,n$。此时Lebesgue常数以指数速度增长：
+
+$$
+\Lambda_n \sim \frac{2^n}{n \ln n}   (n \to \infty),
+$$
+
+更精确的下界为
+
+$$
+\Lambda_n \geq \frac{2^n}{e n \ln n}.
+$$
+
+对于Runge函数 $f(x) = \frac{1}{1+25x^2}$，其在复平面有极点 $z = \pm i/5$，高阶导数 $|f^{(n+1)}(x)|$ 的增长大致为 $O((n+1)! \cdot c^n)$ 量级，其中 $c$ 与极点距离相关。虽然高阶导数增长迅速，但仍无法抵消Lebesgue常数的 $2^n$ 级指数增长，因此整体误差上界随 $n$ 的增大而指数发散，并在端点附近表现出剧烈的震荡。
+
+## 实验过程
+
+### 实验内容
+
+本实验对函数 $f(x)=\frac{1}{1+25x^2}$ 在区间 $x\in[-1,1]$ 上，选择 $n+1$ 个等间距的节点对区间进行均匀剖分，并构造其 Lagrange 插值多项式 $P_n(x)$。我们取了$n=2,4,6,8,10,12,14,16$进行实验，绘制插值函数图像，并***比较误差函数$E_n(x)$在$x=-1,0,1$三点附近函数值随$n$递增的趋势变化。***
+
+之后我们展示了其他几个***具有Runge现象的函数***：$f_1(x) = 1 / (1 + 100x^2)$，$f_2(x) = 1 / (1 + e^{-40x})$，$f_3(x) = \text{sech}^2(20x)$，$f_4(x) = \tanh(30x)$。
+
+### 实验原理
+
+本实验的核心方法是构造 Lagrange 插值多项式 $P_n(x)$ 来逼近原函数 $f(x)$。给定 $n+1$ 个互异的插值节点 $(x_0, y_0), (x_1, y_1), \ldots, (x_n, y_n)$，其中 $y_j = f(x_j)$，存在唯一一个次数不超过 $n$ 的多项式 $P_n(x)$ 满足 $P_n(x_j) = y_j$。该多项式 $P_n(x)$ 由一组基本多项式 $L_j(x)$ 线性组合而成。Lagrange 基本多项式 $L_j(x)$ 定义为在节点 $x_j$ 处取值为 1，而在所有其他节点 $x_k$（其中 $k \neq j$）处取值为 0 的 $n$ 次多项式：
+
+$$
+L_j(x) = \prod_{\substack{k=0 \\ k \neq j}}^n \frac{x - x_k}{x_j - x_k}
+$$
+
+基于此，Lagrange 插值多项式 $P_n(x)$ 的主公式为 $P_n(x) = \sum_{j=0}^n y_j L_j(x)$。然而，为了提高高阶插值的数值稳定性和计算效率，本实验采用了重心 Lagrange 插值公式。该公式首先计算重心权重 $w_j$：
+
+$$
+w_j = \frac{1}{\prod_{\substack{k=0 \\ k \neq j}}^n (x_j - x_k)}
+$$
+
+然后，插值多项式 $P_n(x)$ 可以通过如下形式高效计算：
+
+$$
+P_n(x) = \frac{\sum_{j=0}^n \frac{w_j}{x-x_j} y_j}{\sum_{j=0}^n \frac{w_j}{x-x_j}}
+$$
+
+插值误差 $R_n(x) = f(x) - P_n(x)$ 的理论表达式为 $R_n(x) = \frac{f^{(n+1)}(\xi)}{(n+1)!} \cdot \omega_{n+1}(x)$，其中
+
+$$
+\omega_{n+1}(x) = \prod_{j=0}^n (x - x_j)
+$$
+
+### 算法流程与实现
+
+本实验采用 ***python程序*** 进行实现，通过程序来研究具有Runge性质的函数的误差函数$E_n(x)$在$x=-1,0,1$三点附近函数值随$n$递增的趋势变化。主要程序段就是通过一个循环对所有预设的阶数 $n$ 执行以下步骤：
+
+1. **节点生成：** 在 $[-1, 1]$ 上生成 $n+1$ 个等距节点 $x_j$ 及其对应的函数值 $y_j$。
+
+2. **插值计算：** 调用重心 Lagrange 插值函数，进行 Lagrange 插值。
+
+3. **误差计算：** 计算插值多项式与原函数的绝对误差 $E_n(x) = |P_n(x) - f(x)|$。
+
+4. **结果可视化：** 绘制并保存插值对比图（原函数与 $P_n(x)$ 的比较），以及分区域（左端点、中心、右端点）的绝对误差对数图，以直观展示误差的发散特性。
+
+### 主要程序段
+
+以下代码框展示了实验中用于实现Lagrange插值计算的核心函数：
+
+```
+def lagrange_barycentric(x_nodes, y_nodes, x_eval):
+    n = len(x_nodes)
+    P = np.zeros_like(x_eval, dtype=float)
+    weights = np.zeros(n)
+
+    # 1. 计算重心权重 w_j
+    for j in range(n):
+        prod = 1.0
+        for k in range(n):
+            if k != j:
+                prod *= (x_nodes[j] - x_nodes[k])
+        weights[j] = 1.0 / prod if abs(prod) > 1e-20 else 0.0
+
+    # 2. 对每个待评估点 x_eval 进行插值
+    for i, x in enumerate(x_eval):
+        # 处理 x 恰好是节点的情况
+        if np.any(np.abs(x - x_nodes) < 1e-12):
+            idx = np.argmin(np.abs(x - x_nodes))
+            P[i] = y_nodes[idx]
+            continue
+
+        num = den = 0.0
+        for j in range(n):
+            diff = x - x_nodes[j]
+            w = weights[j] / diff
+            num += w * y_nodes[j]
+            den += w
+
+        # 应用重心公式 P_n(x) = num / den
+        P[i] = num / den if abs(den) > 1e-20 else y_nodes[np.argmin(np.abs(x - x_nodes))]
+    return P
+```
+
+```
+# Runge 函数定义
+def f_runge(x):
+    return 1 / (1 + 25 * x**2)
+
+y_true_runge = f_runge(x_plot)
+degrees_all = [2, 4, 6, 8, 10, 12, 14, 16]
+errors_dict_runge = {}
+
+# 迭代不同阶数 n
+for i, n in enumerate(degrees_all):
+    x_nodes = np.linspace(-1, 1, n + 1)
+    y_nodes = f_runge(x_nodes)
+
+    # 调用核心插值函数
+    y_interp = lagrange_barycentric(x_nodes, y_nodes, x_plot)
+    error = np.abs(y_interp - y_true_runge)
+    errors_dict_runge[n] = error
+
+    # 绘图和保存（单个阶数的插值对比图）...
+    plt.plot(x_plot, y_interp, label=f'n={n}')
+    # ... plt.savefig(...)
+
+# 绘制误差汇总图 (以左端点误差分析为例)
+intervals = [("left", [-1, -0.8], "左端点附近误差")] # ...
+
+for prefix, (x_min, x_max), title in intervals:
+    mask = (x_plot >= x_min) & (x_plot <= x_max)
+    x_local = x_plot[mask]
+
+    plt.figure(figsize=(14, 9))
+    for i, n in enumerate(degrees_all):
+        error_local = errors_dict_runge[n][mask]
+        # 使用 semilogy 绘制对数误差图
+        plt.semilogy(x_local, error_local + 1e-16, color=colors[i], label=f'n={n}')
+
+    plt.title(title + '\n（Runge 现象误差变化趋势）')
+    plt.ylabel('绝对误差（对数坐标）')
+    # ... plt.savefig(...)
+```
+
+## 实验结果与分析
+
+### $f(x) = \frac{1}{1+25x^2}$ 的Runge现象
+
+我们绘制了如下的不同$n$取值情况下的Lagrange插值函数曲线图、不同插值函数左、中、右侧区域插值误差分析图.
+
+> 图见 [PDF](/files/Grade3/Homework/Numerical-Analysis/project-1.pdf)。
+
+*$n=2$*
+
+> 图见 [PDF](/files/Grade3/Homework/Numerical-Analysis/project-1.pdf)。
+
+*$n=4$*
+
+> 图见 [PDF](/files/Grade3/Homework/Numerical-Analysis/project-1.pdf)。
+
+*$n=6$*
+
+> 图见 [PDF](/files/Grade3/Homework/Numerical-Analysis/project-1.pdf)。
+
+*$n=8$*
+
+> 图见 [PDF](/files/Grade3/Homework/Numerical-Analysis/project-1.pdf)。
+
+*$n=10$*
+
+> 图见 [PDF](/files/Grade3/Homework/Numerical-Analysis/project-1.pdf)。
+
+*$n=12$*
+
+> 图见 [PDF](/files/Grade3/Homework/Numerical-Analysis/project-1.pdf)。
+
+*$n=14$*
+> 图见 [PDF](/files/Grade3/Homework/Numerical-Analysis/project-1.pdf)。
+
+*$n=16$*
+
+*不同插值点数($n$)下的Lagrange插值函数图*
+
+> 图见 [PDF](/files/Grade3/Homework/Numerical-Analysis/project-1.pdf)。
+
+*左侧区域 ($x \in [-1, -0.8]$) 误差分布*
+
+> 图见 [PDF](/files/Grade3/Homework/Numerical-Analysis/project-1.pdf)。
+
+*中心区域 ($x \in [-0.1, 0.1]$) 误差分布*
+
+> 图见 [PDF](/files/Grade3/Homework/Numerical-Analysis/project-1.pdf)。
+
+*右侧区域 ($x \in [0.5, 8]$) 误差分布*
+
+由以下误差图我们能很清楚看到：随着$n$的增大，误差$E_n$在区间中心 $x \approx 0$ 附近 ***递减*** ，在区间边缘 $x \approx \pm 1$ 附近却 ***递增***，即为 ***Runge 现象***。
+
+### 其他具有Runge现象的函数
+
+#### $f_1(x) = 1 / (1 + 100x^2)$
+> 图见 [PDF](/files/Grade3/Homework/Numerical-Analysis/project-1.pdf)。
+
+*$f_1(x) = 1 / (1 + 100x^2)$ 插值函数汇总图*
+> 图见 [PDF](/files/Grade3/Homework/Numerical-Analysis/project-1.pdf)。
+
+*中心区域 ($x \in [-0.1, 0.1]$) 误差分布*
+> 图见 [PDF](/files/Grade3/Homework/Numerical-Analysis/project-1.pdf)。
+
+*左侧区域 ($x \in [-1, -0.8]$) 误差分布*
+> 图见 [PDF](/files/Grade3/Homework/Numerical-Analysis/project-1.pdf)。
+
+*右侧区域 ($x \in [0.8, 1]$) 误差分布*
+
+*$f_1(x) = 1 / (1 + 100x^2)$的插值函数汇总图$+$不同插值函数中、左、右侧区域插值误差分析图*
+
+#### $f_2(x) = 1 / (1 + e^{-40x})$
+> 图见 [PDF](/files/Grade3/Homework/Numerical-Analysis/project-1.pdf)。
+
+*$f_2(x) = 1 / (1 + e^{-40x})$ 插值函数汇总图*
+> 图见 [PDF](/files/Grade3/Homework/Numerical-Analysis/project-1.pdf)。
+
+*中心区域 ($x \in [-0.1, 0.1]$) 误差分布*
+> 图见 [PDF](/files/Grade3/Homework/Numerical-Analysis/project-1.pdf)。
+
+*左侧区域 ($x \in [-1, -0.8]$) 误差分布*
+> 图见 [PDF](/files/Grade3/Homework/Numerical-Analysis/project-1.pdf)。
+
+*右侧区域 ($x \in [0.8, 1]$) 误差分布*
+
+*$f_2(x) = 1 / (1 + e^{-40x})$的插值函数汇总图$+$不同插值函数中、左、右侧区域插值误差分析图*
+
+#### $f_3(x) = \text{sech}^2(20x)$
+
+$$
+\text{sech}^2(20x) = \left[ \frac{1}{\cosh(20x)} \right]^2 = \frac{1}{\cosh^2(20x)} = \frac{4}{(e^{20x} + e^{-20x})^2}
+$$
+
+> 图见 [PDF](/files/Grade3/Homework/Numerical-Analysis/project-1.pdf)。
+
+*$f_3(x) = \text{sech}^2(20x)$ 插值函数汇总图*
+> 图见 [PDF](/files/Grade3/Homework/Numerical-Analysis/project-1.pdf)。
+
+*中心区域 (x \in [-0.1, 0.1]) 误差分布*
+> 图见 [PDF](/files/Grade3/Homework/Numerical-Analysis/project-1.pdf)。
+
+*左侧区域 (x \in [-1, -0.8]) 误差分布*
+> 图见 [PDF](/files/Grade3/Homework/Numerical-Analysis/project-1.pdf)。
+
+*右侧区域 (x \in [0.8, 1]) 误差分布*
+
+*$f_3(x) = \text{sech}^2(20x)$ 的插值函数汇总图 + 不同插值函数中、左、右侧区域插值误差分析图*
+
+#### $f_4(x) = \tanh(30x)$
+> 图见 [PDF](/files/Grade3/Homework/Numerical-Analysis/project-1.pdf)。
+
+*$f_4(x) = \tanh(30x)$ 插值函数汇总图*
+> 图见 [PDF](/files/Grade3/Homework/Numerical-Analysis/project-1.pdf)。
+
+*中心区域 ($x \in [-0.1, 0.1]$) 误差分布*
+> 图见 [PDF](/files/Grade3/Homework/Numerical-Analysis/project-1.pdf)。
+
+*左侧区域 ($x \in [-1, -0.8]$) 误差分布*
+> 图见 [PDF](/files/Grade3/Homework/Numerical-Analysis/project-1.pdf)。
+
+*右侧区域 ($x \in [0.5, 0.8]$) 误差分布*
+
+*$f_4(x) = \tanh(30x)$的插值函数汇总图$+$不同插值函数中、左、右侧区域插值误差分析图*
+
+## PDF
+
+Download the original write-up [here](/files/Grade3/Homework/Numerical-Analysis/project-1.pdf).0:{"buildId":"rZLQ8EVqblT6xTH8wdhS0","rsc":["$","$1","c",{"children":[["$","$L2",null,{"hasContent":false,"children":[false,["$","$L3",null,{"baseLdJson":{"@context":"https://schema.org","@type":"BlogPosting","headline":"Numerical Analysis — Project 1","description":"Numerical analysis course project 1.","datePublished":"2025-12-20T00:00:00.000Z","dateModified":"2025-12-20T00:00:00.000Z"}}],["$","$L4",null,{"data":{"id":"post-na-p1","created":"2025-12-20T00:00:00.000Z","modified":"2025-12-20T00:00:00.000Z","title":"Numerical Analysis — Project 1","text":"$5","summary":"Numerical analysis course project 1.","copyright":true,"tags":["Homework","Numerical Analysis"],"slug":"numerical-analysis-project-1","categoryId":"cat-na","category":{"id":"cat-na","slug":"numerical-analysis","name":"Numerical Analysis","created":"2025-11-01T00:00:00.000Z","type":0,"count":5},"images":[],"pin":null,"pinOrder":0,"related":[],"allowComment":true,"commentsIndex":0,"count":{"read":0,"like":0}}}],"$L6","$L7","$L8"]}],["$L9","$La","$Lb","$Lc","$Ld","$Le","$Lf","$L10","$L11","$L12","$L13","$L14","$L15","$L16"],"$L17"]}],"loading":null,"isPartial":false}
+6:["$","$L18",null,{"fetchedAt":"2026-08-19T10:15:01.047Z"}]
+7:["$","div",null,{"data-server-fetched-at":"2026-08-19T10:15:01.047Z","className":"relative flex min-h-[120px] grid-cols-[auto_200px] lg:grid","children":[["$","$L19",null,{"lcpOptimization":true,"className":"min-w-0","children":[["$","div",null,{"className":"relative w-full min-w-0","children":[["$","$L1a",null,{"id":"post-na-p1","type":"post"}],["$","div",null,{"children":[["$","div",null,{"className":"mb-8","children":[["$","$L1b",null,{}],["$","$L1c",null,{"id":"post-na-p1","type":"posts","className":"absolute -top-6 right-0"}],["$","$L1d",null,{"className":"mb-8 justify-center"}],["$","$L1e",null,{}],["$","$L1f",null,{"type":"before"}]]}],["$","$L20",null,{"eoaDetect":true,"children":[["$","$L21",null,{}],["$","$L22",null,{"children":["$","$L23",null,{"children":["$","article",null,{"className":"prose","children":[["$","div",null,{"className":"sr-only","children":["$","$L1b",null,{}]}],["$","$L24",null,{}],["$","$L25",null,{}]]}]}]}],["$","$L26",null,{"children":["$","$L27",null,{}]}]]}]]}],["$","$L28",null,{"children":[["$","$L1f",null,{}],["$","$L29",null,{}],["$","$L2a",null,{}]]}]]}],["$","$L2b",null,{"delay":500,"children":["$","$L2c",null,{"refId":"post-na-p1","allowComment":true}]}]]}],["$","$L2d",null,{"className":"relative hidden lg:block"}]]}]
+8:["$","$L2e",null,{"children":["$","$L2f",null,{}]}]
+9:["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/136744c992bad96d.css","precedence":"next"}]
+a:["$","link","1",{"rel":"stylesheet","href":"/_next/static/chunks/0169140b52b18b81.css","precedence":"next"}]
+b:["$","link","2",{"rel":"stylesheet","href":"/_next/static/chunks/cf19f565ce194e50.css","precedence":"next"}]
+c:["$","link","3",{"rel":"stylesheet","href":"/_next/static/chunks/2a531debc05d9c48.css","precedence":"next"}]
+d:["$","link","4",{"rel":"stylesheet","href":"/_next/static/chunks/f6d4eb0f1595037c.css","precedence":"next"}]
+e:["$","link","5",{"rel":"stylesheet","href":"/_next/static/chunks/be9fe8599e8928e8.css","precedence":"next"}]
+f:["$","script","script-0",{"src":"/_next/static/chunks/35eaa08fca66b29e.js","async":true}]
+10:["$","script","script-1",{"src":"/_next/static/chunks/f91f857f975d1c9f.js","async":true}]
+11:["$","script","script-2",{"src":"/_next/static/chunks/dabd062b49706f28.js","async":true}]
+12:["$","script","script-3",{"src":"/_next/static/chunks/740441c5b62d2d93.js","async":true}]
+13:["$","script","script-4",{"src":"/_next/static/chunks/dcd49895cb9db447.js","async":true}]
+14:["$","script","script-5",{"src":"/_next/static/chunks/175944aa1545ac7c.js","async":true}]
+15:["$","script","script-6",{"src":"/_next/static/chunks/16494c9ed210a726.js","async":true}]
+16:["$","script","script-7",{"src":"/_next/static/chunks/19ed43205a6e84be.js","async":true}]
+17:["$","$L30",null,{"children":["$","$31",null,{"name":"Next.MetadataOutlet","children":"$@32"}]}]
+32:null

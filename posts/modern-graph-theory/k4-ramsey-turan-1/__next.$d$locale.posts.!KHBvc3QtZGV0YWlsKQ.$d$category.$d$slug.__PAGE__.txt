@@ -1,0 +1,238 @@
+1:"$Sreact.fragment"
+2:I[417743,["/_next/static/chunks/d03e4f6fdf084240.js","/_next/static/chunks/525ff3aa60c02a25.js","/_next/static/chunks/ae2a70c709da2ba8.js","/_next/static/chunks/eb309b8f06731812.js","/_next/static/chunks/baa674234f056c60.js","/_next/static/chunks/2edc37b4337c096a.js","/_next/static/chunks/6f0408800ece4f06.js","/_next/static/chunks/6f95f3a6a7ed9dab.js","/_next/static/chunks/3c40fd5a14861430.js","/_next/static/chunks/e7855f92c342e0a3.js","/_next/static/chunks/a5fcaccd389d798e.js","/_next/static/chunks/c3456ef3141ade67.js","/_next/static/chunks/c92042fd5179bd95.js","/_next/static/chunks/1737ca787e6b8d4c.js","/_next/static/chunks/d691f1571e343c32.js","/_next/static/chunks/65f1d76f7ac19600.js","/_next/static/chunks/762b6f848ae7b21b.js","/_next/static/chunks/1d5a5c14848b802e.js","/_next/static/chunks/a40e2b25b1a62ac7.js","/_next/static/chunks/c6509abffeae92d2.js","/_next/static/chunks/35eaa08fca66b29e.js","/_next/static/chunks/f91f857f975d1c9f.js","/_next/static/chunks/dabd062b49706f28.js","/_next/static/chunks/740441c5b62d2d93.js","/_next/static/chunks/dcd49895cb9db447.js","/_next/static/chunks/175944aa1545ac7c.js","/_next/static/chunks/16494c9ed210a726.js","/_next/static/chunks/19ed43205a6e84be.js"],"TocHeadingStrategyProvider"]
+3:I[401946,["/_next/static/chunks/d03e4f6fdf084240.js","/_next/static/chunks/525ff3aa60c02a25.js","/_next/static/chunks/ae2a70c709da2ba8.js","/_next/static/chunks/eb309b8f06731812.js","/_next/static/chunks/baa674234f056c60.js","/_next/static/chunks/2edc37b4337c096a.js","/_next/static/chunks/6f0408800ece4f06.js","/_next/static/chunks/6f95f3a6a7ed9dab.js","/_next/static/chunks/3c40fd5a14861430.js","/_next/static/chunks/e7855f92c342e0a3.js","/_next/static/chunks/a5fcaccd389d798e.js","/_next/static/chunks/c3456ef3141ade67.js","/_next/static/chunks/c92042fd5179bd95.js","/_next/static/chunks/1737ca787e6b8d4c.js","/_next/static/chunks/d691f1571e343c32.js","/_next/static/chunks/65f1d76f7ac19600.js","/_next/static/chunks/762b6f848ae7b21b.js","/_next/static/chunks/1d5a5c14848b802e.js","/_next/static/chunks/a40e2b25b1a62ac7.js","/_next/static/chunks/c6509abffeae92d2.js","/_next/static/chunks/35eaa08fca66b29e.js","/_next/static/chunks/f91f857f975d1c9f.js","/_next/static/chunks/dabd062b49706f28.js","/_next/static/chunks/740441c5b62d2d93.js","/_next/static/chunks/dcd49895cb9db447.js","/_next/static/chunks/175944aa1545ac7c.js","/_next/static/chunks/16494c9ed210a726.js","/_next/static/chunks/19ed43205a6e84be.js"],"LdJsonWithAuthor"]
+4:I[373448,["/_next/static/chunks/d03e4f6fdf084240.js","/_next/static/chunks/525ff3aa60c02a25.js","/_next/static/chunks/ae2a70c709da2ba8.js","/_next/static/chunks/eb309b8f06731812.js","/_next/static/chunks/baa674234f056c60.js","/_next/static/chunks/2edc37b4337c096a.js","/_next/static/chunks/6f0408800ece4f06.js","/_next/static/chunks/6f95f3a6a7ed9dab.js","/_next/static/chunks/3c40fd5a14861430.js","/_next/static/chunks/e7855f92c342e0a3.js","/_next/static/chunks/a5fcaccd389d798e.js","/_next/static/chunks/c3456ef3141ade67.js","/_next/static/chunks/c92042fd5179bd95.js","/_next/static/chunks/1737ca787e6b8d4c.js","/_next/static/chunks/d691f1571e343c32.js","/_next/static/chunks/65f1d76f7ac19600.js","/_next/static/chunks/762b6f848ae7b21b.js","/_next/static/chunks/1d5a5c14848b802e.js","/_next/static/chunks/a40e2b25b1a62ac7.js","/_next/static/chunks/c6509abffeae92d2.js","/_next/static/chunks/35eaa08fca66b29e.js","/_next/static/chunks/f91f857f975d1c9f.js","/_next/static/chunks/dabd062b49706f28.js","/_next/static/chunks/740441c5b62d2d93.js","/_next/static/chunks/dcd49895cb9db447.js","/_next/static/chunks/175944aa1545ac7c.js","/_next/static/chunks/16494c9ed210a726.js","/_next/static/chunks/19ed43205a6e84be.js"],"CurrentPostDataProvider"]
+18:I[401946,["/_next/static/chunks/d03e4f6fdf084240.js","/_next/static/chunks/525ff3aa60c02a25.js","/_next/static/chunks/ae2a70c709da2ba8.js","/_next/static/chunks/eb309b8f06731812.js","/_next/static/chunks/baa674234f056c60.js","/_next/static/chunks/2edc37b4337c096a.js","/_next/static/chunks/6f0408800ece4f06.js","/_next/static/chunks/6f95f3a6a7ed9dab.js","/_next/static/chunks/3c40fd5a14861430.js","/_next/static/chunks/e7855f92c342e0a3.js","/_next/static/chunks/a5fcaccd389d798e.js","/_next/static/chunks/c3456ef3141ade67.js","/_next/static/chunks/c92042fd5179bd95.js","/_next/static/chunks/1737ca787e6b8d4c.js","/_next/static/chunks/d691f1571e343c32.js","/_next/static/chunks/65f1d76f7ac19600.js","/_next/static/chunks/762b6f848ae7b21b.js","/_next/static/chunks/1d5a5c14848b802e.js","/_next/static/chunks/a40e2b25b1a62ac7.js","/_next/static/chunks/c6509abffeae92d2.js","/_next/static/chunks/35eaa08fca66b29e.js","/_next/static/chunks/f91f857f975d1c9f.js","/_next/static/chunks/dabd062b49706f28.js","/_next/static/chunks/740441c5b62d2d93.js","/_next/static/chunks/dcd49895cb9db447.js","/_next/static/chunks/175944aa1545ac7c.js","/_next/static/chunks/16494c9ed210a726.js","/_next/static/chunks/19ed43205a6e84be.js"],"PostDataReValidate"]
+19:I[793580,["/_next/static/chunks/d03e4f6fdf084240.js","/_next/static/chunks/525ff3aa60c02a25.js","/_next/static/chunks/ae2a70c709da2ba8.js","/_next/static/chunks/eb309b8f06731812.js","/_next/static/chunks/baa674234f056c60.js","/_next/static/chunks/2edc37b4337c096a.js","/_next/static/chunks/6f0408800ece4f06.js","/_next/static/chunks/6f95f3a6a7ed9dab.js","/_next/static/chunks/3c40fd5a14861430.js","/_next/static/chunks/e7855f92c342e0a3.js","/_next/static/chunks/a5fcaccd389d798e.js","/_next/static/chunks/c3456ef3141ade67.js","/_next/static/chunks/c92042fd5179bd95.js","/_next/static/chunks/1737ca787e6b8d4c.js","/_next/static/chunks/d691f1571e343c32.js","/_next/static/chunks/65f1d76f7ac19600.js","/_next/static/chunks/762b6f848ae7b21b.js","/_next/static/chunks/1d5a5c14848b802e.js","/_next/static/chunks/a40e2b25b1a62ac7.js","/_next/static/chunks/c6509abffeae92d2.js","/_next/static/chunks/35eaa08fca66b29e.js","/_next/static/chunks/f91f857f975d1c9f.js","/_next/static/chunks/dabd062b49706f28.js","/_next/static/chunks/740441c5b62d2d93.js","/_next/static/chunks/dcd49895cb9db447.js","/_next/static/chunks/175944aa1545ac7c.js","/_next/static/chunks/16494c9ed210a726.js","/_next/static/chunks/19ed43205a6e84be.js"],"BottomToUpTransitionView"]
+1a:I[189209,["/_next/static/chunks/d03e4f6fdf084240.js","/_next/static/chunks/525ff3aa60c02a25.js","/_next/static/chunks/ae2a70c709da2ba8.js","/_next/static/chunks/eb309b8f06731812.js","/_next/static/chunks/baa674234f056c60.js","/_next/static/chunks/2edc37b4337c096a.js","/_next/static/chunks/6f0408800ece4f06.js","/_next/static/chunks/6f95f3a6a7ed9dab.js","/_next/static/chunks/3c40fd5a14861430.js","/_next/static/chunks/e7855f92c342e0a3.js","/_next/static/chunks/a5fcaccd389d798e.js","/_next/static/chunks/c3456ef3141ade67.js","/_next/static/chunks/c92042fd5179bd95.js","/_next/static/chunks/1737ca787e6b8d4c.js","/_next/static/chunks/d691f1571e343c32.js","/_next/static/chunks/65f1d76f7ac19600.js","/_next/static/chunks/762b6f848ae7b21b.js","/_next/static/chunks/1d5a5c14848b802e.js","/_next/static/chunks/a40e2b25b1a62ac7.js","/_next/static/chunks/c6509abffeae92d2.js","/_next/static/chunks/35eaa08fca66b29e.js","/_next/static/chunks/f91f857f975d1c9f.js","/_next/static/chunks/dabd062b49706f28.js","/_next/static/chunks/740441c5b62d2d93.js","/_next/static/chunks/dcd49895cb9db447.js","/_next/static/chunks/175944aa1545ac7c.js","/_next/static/chunks/16494c9ed210a726.js","/_next/static/chunks/19ed43205a6e84be.js"],"AckRead"]
+1b:I[401946,["/_next/static/chunks/d03e4f6fdf084240.js","/_next/static/chunks/525ff3aa60c02a25.js","/_next/static/chunks/ae2a70c709da2ba8.js","/_next/static/chunks/eb309b8f06731812.js","/_next/static/chunks/baa674234f056c60.js","/_next/static/chunks/2edc37b4337c096a.js","/_next/static/chunks/6f0408800ece4f06.js","/_next/static/chunks/6f95f3a6a7ed9dab.js","/_next/static/chunks/3c40fd5a14861430.js","/_next/static/chunks/e7855f92c342e0a3.js","/_next/static/chunks/a5fcaccd389d798e.js","/_next/static/chunks/c3456ef3141ade67.js","/_next/static/chunks/c92042fd5179bd95.js","/_next/static/chunks/1737ca787e6b8d4c.js","/_next/static/chunks/d691f1571e343c32.js","/_next/static/chunks/65f1d76f7ac19600.js","/_next/static/chunks/762b6f848ae7b21b.js","/_next/static/chunks/1d5a5c14848b802e.js","/_next/static/chunks/a40e2b25b1a62ac7.js","/_next/static/chunks/c6509abffeae92d2.js","/_next/static/chunks/35eaa08fca66b29e.js","/_next/static/chunks/f91f857f975d1c9f.js","/_next/static/chunks/dabd062b49706f28.js","/_next/static/chunks/740441c5b62d2d93.js","/_next/static/chunks/dcd49895cb9db447.js","/_next/static/chunks/175944aa1545ac7c.js","/_next/static/chunks/16494c9ed210a726.js","/_next/static/chunks/19ed43205a6e84be.js"],"PostTitle"]
+1c:I[923014,["/_next/static/chunks/d03e4f6fdf084240.js","/_next/static/chunks/525ff3aa60c02a25.js","/_next/static/chunks/ae2a70c709da2ba8.js","/_next/static/chunks/eb309b8f06731812.js","/_next/static/chunks/baa674234f056c60.js","/_next/static/chunks/2edc37b4337c096a.js","/_next/static/chunks/6f0408800ece4f06.js","/_next/static/chunks/6f95f3a6a7ed9dab.js","/_next/static/chunks/3c40fd5a14861430.js","/_next/static/chunks/e7855f92c342e0a3.js","/_next/static/chunks/a5fcaccd389d798e.js","/_next/static/chunks/c3456ef3141ade67.js","/_next/static/chunks/c92042fd5179bd95.js","/_next/static/chunks/1737ca787e6b8d4c.js","/_next/static/chunks/d691f1571e343c32.js","/_next/static/chunks/65f1d76f7ac19600.js","/_next/static/chunks/762b6f848ae7b21b.js","/_next/static/chunks/1d5a5c14848b802e.js","/_next/static/chunks/a40e2b25b1a62ac7.js","/_next/static/chunks/c6509abffeae92d2.js","/_next/static/chunks/35eaa08fca66b29e.js","/_next/static/chunks/f91f857f975d1c9f.js","/_next/static/chunks/dabd062b49706f28.js","/_next/static/chunks/740441c5b62d2d93.js","/_next/static/chunks/dcd49895cb9db447.js","/_next/static/chunks/175944aa1545ac7c.js","/_next/static/chunks/16494c9ed210a726.js","/_next/static/chunks/19ed43205a6e84be.js"],"GoToAdminEditingButton"]
+1d:I[401946,["/_next/static/chunks/d03e4f6fdf084240.js","/_next/static/chunks/525ff3aa60c02a25.js","/_next/static/chunks/ae2a70c709da2ba8.js","/_next/static/chunks/eb309b8f06731812.js","/_next/static/chunks/baa674234f056c60.js","/_next/static/chunks/2edc37b4337c096a.js","/_next/static/chunks/6f0408800ece4f06.js","/_next/static/chunks/6f95f3a6a7ed9dab.js","/_next/static/chunks/3c40fd5a14861430.js","/_next/static/chunks/e7855f92c342e0a3.js","/_next/static/chunks/a5fcaccd389d798e.js","/_next/static/chunks/c3456ef3141ade67.js","/_next/static/chunks/c92042fd5179bd95.js","/_next/static/chunks/1737ca787e6b8d4c.js","/_next/static/chunks/d691f1571e343c32.js","/_next/static/chunks/65f1d76f7ac19600.js","/_next/static/chunks/762b6f848ae7b21b.js","/_next/static/chunks/1d5a5c14848b802e.js","/_next/static/chunks/a40e2b25b1a62ac7.js","/_next/static/chunks/c6509abffeae92d2.js","/_next/static/chunks/35eaa08fca66b29e.js","/_next/static/chunks/f91f857f975d1c9f.js","/_next/static/chunks/dabd062b49706f28.js","/_next/static/chunks/740441c5b62d2d93.js","/_next/static/chunks/dcd49895cb9db447.js","/_next/static/chunks/175944aa1545ac7c.js","/_next/static/chunks/16494c9ed210a726.js","/_next/static/chunks/19ed43205a6e84be.js"],"PostMetaBarInternal"]
+1e:I[6169,["/_next/static/chunks/d03e4f6fdf084240.js","/_next/static/chunks/525ff3aa60c02a25.js","/_next/static/chunks/ae2a70c709da2ba8.js","/_next/static/chunks/eb309b8f06731812.js","/_next/static/chunks/baa674234f056c60.js","/_next/static/chunks/2edc37b4337c096a.js","/_next/static/chunks/6f0408800ece4f06.js","/_next/static/chunks/6f95f3a6a7ed9dab.js","/_next/static/chunks/3c40fd5a14861430.js","/_next/static/chunks/e7855f92c342e0a3.js","/_next/static/chunks/a5fcaccd389d798e.js","/_next/static/chunks/c3456ef3141ade67.js","/_next/static/chunks/c92042fd5179bd95.js","/_next/static/chunks/1737ca787e6b8d4c.js","/_next/static/chunks/d691f1571e343c32.js","/_next/static/chunks/65f1d76f7ac19600.js","/_next/static/chunks/762b6f848ae7b21b.js","/_next/static/chunks/1d5a5c14848b802e.js","/_next/static/chunks/a40e2b25b1a62ac7.js","/_next/static/chunks/c6509abffeae92d2.js","/_next/static/chunks/35eaa08fca66b29e.js","/_next/static/chunks/f91f857f975d1c9f.js","/_next/static/chunks/dabd062b49706f28.js","/_next/static/chunks/740441c5b62d2d93.js","/_next/static/chunks/dcd49895cb9db447.js","/_next/static/chunks/175944aa1545ac7c.js","/_next/static/chunks/16494c9ed210a726.js","/_next/static/chunks/19ed43205a6e84be.js"],"PostOutdate"]
+1f:I[660320,["/_next/static/chunks/d03e4f6fdf084240.js","/_next/static/chunks/525ff3aa60c02a25.js","/_next/static/chunks/ae2a70c709da2ba8.js","/_next/static/chunks/eb309b8f06731812.js","/_next/static/chunks/baa674234f056c60.js","/_next/static/chunks/2edc37b4337c096a.js","/_next/static/chunks/6f0408800ece4f06.js","/_next/static/chunks/6f95f3a6a7ed9dab.js","/_next/static/chunks/3c40fd5a14861430.js","/_next/static/chunks/e7855f92c342e0a3.js","/_next/static/chunks/a5fcaccd389d798e.js","/_next/static/chunks/c3456ef3141ade67.js","/_next/static/chunks/c92042fd5179bd95.js","/_next/static/chunks/1737ca787e6b8d4c.js","/_next/static/chunks/d691f1571e343c32.js","/_next/static/chunks/65f1d76f7ac19600.js","/_next/static/chunks/762b6f848ae7b21b.js","/_next/static/chunks/1d5a5c14848b802e.js","/_next/static/chunks/a40e2b25b1a62ac7.js","/_next/static/chunks/c6509abffeae92d2.js","/_next/static/chunks/35eaa08fca66b29e.js","/_next/static/chunks/f91f857f975d1c9f.js","/_next/static/chunks/dabd062b49706f28.js","/_next/static/chunks/740441c5b62d2d93.js","/_next/static/chunks/dcd49895cb9db447.js","/_next/static/chunks/175944aa1545ac7c.js","/_next/static/chunks/16494c9ed210a726.js","/_next/static/chunks/19ed43205a6e84be.js"],"PostRelated"]
+20:I[145557,["/_next/static/chunks/d03e4f6fdf084240.js","/_next/static/chunks/525ff3aa60c02a25.js","/_next/static/chunks/ae2a70c709da2ba8.js","/_next/static/chunks/eb309b8f06731812.js","/_next/static/chunks/baa674234f056c60.js","/_next/static/chunks/2edc37b4337c096a.js","/_next/static/chunks/6f0408800ece4f06.js","/_next/static/chunks/6f95f3a6a7ed9dab.js","/_next/static/chunks/3c40fd5a14861430.js","/_next/static/chunks/e7855f92c342e0a3.js","/_next/static/chunks/a5fcaccd389d798e.js","/_next/static/chunks/c3456ef3141ade67.js","/_next/static/chunks/c92042fd5179bd95.js","/_next/static/chunks/1737ca787e6b8d4c.js","/_next/static/chunks/d691f1571e343c32.js","/_next/static/chunks/65f1d76f7ac19600.js","/_next/static/chunks/762b6f848ae7b21b.js","/_next/static/chunks/1d5a5c14848b802e.js","/_next/static/chunks/a40e2b25b1a62ac7.js","/_next/static/chunks/c6509abffeae92d2.js","/_next/static/chunks/35eaa08fca66b29e.js","/_next/static/chunks/f91f857f975d1c9f.js","/_next/static/chunks/dabd062b49706f28.js","/_next/static/chunks/740441c5b62d2d93.js","/_next/static/chunks/dcd49895cb9db447.js","/_next/static/chunks/175944aa1545ac7c.js","/_next/static/chunks/16494c9ed210a726.js","/_next/static/chunks/19ed43205a6e84be.js"],"WrappedElementProvider"]
+21:I[125902,["/_next/static/chunks/d03e4f6fdf084240.js","/_next/static/chunks/525ff3aa60c02a25.js","/_next/static/chunks/ae2a70c709da2ba8.js","/_next/static/chunks/eb309b8f06731812.js","/_next/static/chunks/baa674234f056c60.js","/_next/static/chunks/2edc37b4337c096a.js","/_next/static/chunks/6f0408800ece4f06.js","/_next/static/chunks/6f95f3a6a7ed9dab.js","/_next/static/chunks/3c40fd5a14861430.js","/_next/static/chunks/e7855f92c342e0a3.js","/_next/static/chunks/a5fcaccd389d798e.js","/_next/static/chunks/c3456ef3141ade67.js","/_next/static/chunks/c92042fd5179bd95.js","/_next/static/chunks/1737ca787e6b8d4c.js","/_next/static/chunks/d691f1571e343c32.js","/_next/static/chunks/65f1d76f7ac19600.js","/_next/static/chunks/762b6f848ae7b21b.js","/_next/static/chunks/1d5a5c14848b802e.js","/_next/static/chunks/a40e2b25b1a62ac7.js","/_next/static/chunks/c6509abffeae92d2.js","/_next/static/chunks/35eaa08fca66b29e.js","/_next/static/chunks/f91f857f975d1c9f.js","/_next/static/chunks/dabd062b49706f28.js","/_next/static/chunks/740441c5b62d2d93.js","/_next/static/chunks/dcd49895cb9db447.js","/_next/static/chunks/175944aa1545ac7c.js","/_next/static/chunks/16494c9ed210a726.js","/_next/static/chunks/19ed43205a6e84be.js"],"ReadIndicatorForMobile"]
+22:I[401946,["/_next/static/chunks/d03e4f6fdf084240.js","/_next/static/chunks/525ff3aa60c02a25.js","/_next/static/chunks/ae2a70c709da2ba8.js","/_next/static/chunks/eb309b8f06731812.js","/_next/static/chunks/baa674234f056c60.js","/_next/static/chunks/2edc37b4337c096a.js","/_next/static/chunks/6f0408800ece4f06.js","/_next/static/chunks/6f95f3a6a7ed9dab.js","/_next/static/chunks/3c40fd5a14861430.js","/_next/static/chunks/e7855f92c342e0a3.js","/_next/static/chunks/a5fcaccd389d798e.js","/_next/static/chunks/c3456ef3141ade67.js","/_next/static/chunks/c92042fd5179bd95.js","/_next/static/chunks/1737ca787e6b8d4c.js","/_next/static/chunks/d691f1571e343c32.js","/_next/static/chunks/65f1d76f7ac19600.js","/_next/static/chunks/762b6f848ae7b21b.js","/_next/static/chunks/1d5a5c14848b802e.js","/_next/static/chunks/a40e2b25b1a62ac7.js","/_next/static/chunks/c6509abffeae92d2.js","/_next/static/chunks/35eaa08fca66b29e.js","/_next/static/chunks/f91f857f975d1c9f.js","/_next/static/chunks/dabd062b49706f28.js","/_next/static/chunks/740441c5b62d2d93.js","/_next/static/chunks/dcd49895cb9db447.js","/_next/static/chunks/175944aa1545ac7c.js","/_next/static/chunks/16494c9ed210a726.js","/_next/static/chunks/19ed43205a6e84be.js"],"PostMarkdownImageRecordProvider"]
+23:I[401946,["/_next/static/chunks/d03e4f6fdf084240.js","/_next/static/chunks/525ff3aa60c02a25.js","/_next/static/chunks/ae2a70c709da2ba8.js","/_next/static/chunks/eb309b8f06731812.js","/_next/static/chunks/baa674234f056c60.js","/_next/static/chunks/2edc37b4337c096a.js","/_next/static/chunks/6f0408800ece4f06.js","/_next/static/chunks/6f95f3a6a7ed9dab.js","/_next/static/chunks/3c40fd5a14861430.js","/_next/static/chunks/e7855f92c342e0a3.js","/_next/static/chunks/a5fcaccd389d798e.js","/_next/static/chunks/c3456ef3141ade67.js","/_next/static/chunks/c92042fd5179bd95.js","/_next/static/chunks/1737ca787e6b8d4c.js","/_next/static/chunks/d691f1571e343c32.js","/_next/static/chunks/65f1d76f7ac19600.js","/_next/static/chunks/762b6f848ae7b21b.js","/_next/static/chunks/1d5a5c14848b802e.js","/_next/static/chunks/a40e2b25b1a62ac7.js","/_next/static/chunks/c6509abffeae92d2.js","/_next/static/chunks/35eaa08fca66b29e.js","/_next/static/chunks/f91f857f975d1c9f.js","/_next/static/chunks/dabd062b49706f28.js","/_next/static/chunks/740441c5b62d2d93.js","/_next/static/chunks/dcd49895cb9db447.js","/_next/static/chunks/175944aa1545ac7c.js","/_next/static/chunks/16494c9ed210a726.js","/_next/static/chunks/19ed43205a6e84be.js"],"MarkdownSelection"]
+24:I[401946,["/_next/static/chunks/d03e4f6fdf084240.js","/_next/static/chunks/525ff3aa60c02a25.js","/_next/static/chunks/ae2a70c709da2ba8.js","/_next/static/chunks/eb309b8f06731812.js","/_next/static/chunks/baa674234f056c60.js","/_next/static/chunks/2edc37b4337c096a.js","/_next/static/chunks/6f0408800ece4f06.js","/_next/static/chunks/6f95f3a6a7ed9dab.js","/_next/static/chunks/3c40fd5a14861430.js","/_next/static/chunks/e7855f92c342e0a3.js","/_next/static/chunks/a5fcaccd389d798e.js","/_next/static/chunks/c3456ef3141ade67.js","/_next/static/chunks/c92042fd5179bd95.js","/_next/static/chunks/1737ca787e6b8d4c.js","/_next/static/chunks/d691f1571e343c32.js","/_next/static/chunks/65f1d76f7ac19600.js","/_next/static/chunks/762b6f848ae7b21b.js","/_next/static/chunks/1d5a5c14848b802e.js","/_next/static/chunks/a40e2b25b1a62ac7.js","/_next/static/chunks/c6509abffeae92d2.js","/_next/static/chunks/35eaa08fca66b29e.js","/_next/static/chunks/f91f857f975d1c9f.js","/_next/static/chunks/dabd062b49706f28.js","/_next/static/chunks/740441c5b62d2d93.js","/_next/static/chunks/dcd49895cb9db447.js","/_next/static/chunks/175944aa1545ac7c.js","/_next/static/chunks/16494c9ed210a726.js","/_next/static/chunks/19ed43205a6e84be.js"],"FocusReadingEffect"]
+25:I[502283,["/_next/static/chunks/d03e4f6fdf084240.js","/_next/static/chunks/525ff3aa60c02a25.js","/_next/static/chunks/ae2a70c709da2ba8.js","/_next/static/chunks/eb309b8f06731812.js","/_next/static/chunks/baa674234f056c60.js","/_next/static/chunks/2edc37b4337c096a.js","/_next/static/chunks/6f0408800ece4f06.js","/_next/static/chunks/6f95f3a6a7ed9dab.js","/_next/static/chunks/3c40fd5a14861430.js","/_next/static/chunks/e7855f92c342e0a3.js","/_next/static/chunks/a5fcaccd389d798e.js","/_next/static/chunks/c3456ef3141ade67.js","/_next/static/chunks/c92042fd5179bd95.js","/_next/static/chunks/1737ca787e6b8d4c.js","/_next/static/chunks/d691f1571e343c32.js","/_next/static/chunks/65f1d76f7ac19600.js","/_next/static/chunks/762b6f848ae7b21b.js","/_next/static/chunks/1d5a5c14848b802e.js","/_next/static/chunks/a40e2b25b1a62ac7.js","/_next/static/chunks/c6509abffeae92d2.js","/_next/static/chunks/35eaa08fca66b29e.js","/_next/static/chunks/f91f857f975d1c9f.js","/_next/static/chunks/dabd062b49706f28.js","/_next/static/chunks/740441c5b62d2d93.js","/_next/static/chunks/dcd49895cb9db447.js","/_next/static/chunks/175944aa1545ac7c.js","/_next/static/chunks/16494c9ed210a726.js","/_next/static/chunks/19ed43205a6e84be.js"],"PostMarkdownRenderer",1]
+26:I[194205,["/_next/static/chunks/d03e4f6fdf084240.js","/_next/static/chunks/525ff3aa60c02a25.js","/_next/static/chunks/ae2a70c709da2ba8.js","/_next/static/chunks/eb309b8f06731812.js","/_next/static/chunks/baa674234f056c60.js","/_next/static/chunks/2edc37b4337c096a.js","/_next/static/chunks/6f0408800ece4f06.js","/_next/static/chunks/6f95f3a6a7ed9dab.js","/_next/static/chunks/3c40fd5a14861430.js","/_next/static/chunks/e7855f92c342e0a3.js","/_next/static/chunks/a5fcaccd389d798e.js","/_next/static/chunks/c3456ef3141ade67.js","/_next/static/chunks/c92042fd5179bd95.js","/_next/static/chunks/1737ca787e6b8d4c.js","/_next/static/chunks/d691f1571e343c32.js","/_next/static/chunks/65f1d76f7ac19600.js","/_next/static/chunks/762b6f848ae7b21b.js","/_next/static/chunks/1d5a5c14848b802e.js","/_next/static/chunks/a40e2b25b1a62ac7.js","/_next/static/chunks/c6509abffeae92d2.js","/_next/static/chunks/35eaa08fca66b29e.js","/_next/static/chunks/f91f857f975d1c9f.js","/_next/static/chunks/dabd062b49706f28.js","/_next/static/chunks/740441c5b62d2d93.js","/_next/static/chunks/dcd49895cb9db447.js","/_next/static/chunks/175944aa1545ac7c.js","/_next/static/chunks/16494c9ed210a726.js","/_next/static/chunks/19ed43205a6e84be.js"],"LayoutRightSidePortal"]
+27:I[732298,["/_next/static/chunks/d03e4f6fdf084240.js","/_next/static/chunks/525ff3aa60c02a25.js","/_next/static/chunks/ae2a70c709da2ba8.js","/_next/static/chunks/eb309b8f06731812.js","/_next/static/chunks/baa674234f056c60.js","/_next/static/chunks/2edc37b4337c096a.js","/_next/static/chunks/6f0408800ece4f06.js","/_next/static/chunks/6f95f3a6a7ed9dab.js","/_next/static/chunks/3c40fd5a14861430.js","/_next/static/chunks/e7855f92c342e0a3.js","/_next/static/chunks/a5fcaccd389d798e.js","/_next/static/chunks/c3456ef3141ade67.js","/_next/static/chunks/c92042fd5179bd95.js","/_next/static/chunks/1737ca787e6b8d4c.js","/_next/static/chunks/d691f1571e343c32.js","/_next/static/chunks/65f1d76f7ac19600.js","/_next/static/chunks/762b6f848ae7b21b.js","/_next/static/chunks/1d5a5c14848b802e.js","/_next/static/chunks/a40e2b25b1a62ac7.js","/_next/static/chunks/c6509abffeae92d2.js","/_next/static/chunks/35eaa08fca66b29e.js","/_next/static/chunks/f91f857f975d1c9f.js","/_next/static/chunks/dabd062b49706f28.js","/_next/static/chunks/740441c5b62d2d93.js","/_next/static/chunks/dcd49895cb9db447.js","/_next/static/chunks/175944aa1545ac7c.js","/_next/static/chunks/16494c9ed210a726.js","/_next/static/chunks/19ed43205a6e84be.js"],"PostActionAside"]
+28:I[237493,["/_next/static/chunks/d03e4f6fdf084240.js","/_next/static/chunks/525ff3aa60c02a25.js","/_next/static/chunks/ae2a70c709da2ba8.js","/_next/static/chunks/eb309b8f06731812.js","/_next/static/chunks/baa674234f056c60.js","/_next/static/chunks/2edc37b4337c096a.js","/_next/static/chunks/6f0408800ece4f06.js","/_next/static/chunks/6f95f3a6a7ed9dab.js","/_next/static/chunks/3c40fd5a14861430.js","/_next/static/chunks/e7855f92c342e0a3.js","/_next/static/chunks/a5fcaccd389d798e.js","/_next/static/chunks/c3456ef3141ade67.js","/_next/static/chunks/c92042fd5179bd95.js","/_next/static/chunks/1737ca787e6b8d4c.js","/_next/static/chunks/d691f1571e343c32.js","/_next/static/chunks/65f1d76f7ac19600.js","/_next/static/chunks/762b6f848ae7b21b.js","/_next/static/chunks/1d5a5c14848b802e.js","/_next/static/chunks/a40e2b25b1a62ac7.js","/_next/static/chunks/c6509abffeae92d2.js","/_next/static/chunks/35eaa08fca66b29e.js","/_next/static/chunks/f91f857f975d1c9f.js","/_next/static/chunks/dabd062b49706f28.js","/_next/static/chunks/740441c5b62d2d93.js","/_next/static/chunks/dcd49895cb9db447.js","/_next/static/chunks/175944aa1545ac7c.js","/_next/static/chunks/16494c9ed210a726.js","/_next/static/chunks/19ed43205a6e84be.js"],"ClientOnly"]
+29:I[223245,["/_next/static/chunks/d03e4f6fdf084240.js","/_next/static/chunks/525ff3aa60c02a25.js","/_next/static/chunks/ae2a70c709da2ba8.js","/_next/static/chunks/eb309b8f06731812.js","/_next/static/chunks/baa674234f056c60.js","/_next/static/chunks/2edc37b4337c096a.js","/_next/static/chunks/6f0408800ece4f06.js","/_next/static/chunks/6f95f3a6a7ed9dab.js","/_next/static/chunks/3c40fd5a14861430.js","/_next/static/chunks/e7855f92c342e0a3.js","/_next/static/chunks/a5fcaccd389d798e.js","/_next/static/chunks/c3456ef3141ade67.js","/_next/static/chunks/c92042fd5179bd95.js","/_next/static/chunks/1737ca787e6b8d4c.js","/_next/static/chunks/d691f1571e343c32.js","/_next/static/chunks/65f1d76f7ac19600.js","/_next/static/chunks/762b6f848ae7b21b.js","/_next/static/chunks/1d5a5c14848b802e.js","/_next/static/chunks/a40e2b25b1a62ac7.js","/_next/static/chunks/c6509abffeae92d2.js","/_next/static/chunks/35eaa08fca66b29e.js","/_next/static/chunks/f91f857f975d1c9f.js","/_next/static/chunks/dabd062b49706f28.js","/_next/static/chunks/740441c5b62d2d93.js","/_next/static/chunks/dcd49895cb9db447.js","/_next/static/chunks/175944aa1545ac7c.js","/_next/static/chunks/16494c9ed210a726.js","/_next/static/chunks/19ed43205a6e84be.js"],"PostCopyright"]
+2a:I[732298,["/_next/static/chunks/d03e4f6fdf084240.js","/_next/static/chunks/525ff3aa60c02a25.js","/_next/static/chunks/ae2a70c709da2ba8.js","/_next/static/chunks/eb309b8f06731812.js","/_next/static/chunks/baa674234f056c60.js","/_next/static/chunks/2edc37b4337c096a.js","/_next/static/chunks/6f0408800ece4f06.js","/_next/static/chunks/6f95f3a6a7ed9dab.js","/_next/static/chunks/3c40fd5a14861430.js","/_next/static/chunks/e7855f92c342e0a3.js","/_next/static/chunks/a5fcaccd389d798e.js","/_next/static/chunks/c3456ef3141ade67.js","/_next/static/chunks/c92042fd5179bd95.js","/_next/static/chunks/1737ca787e6b8d4c.js","/_next/static/chunks/d691f1571e343c32.js","/_next/static/chunks/65f1d76f7ac19600.js","/_next/static/chunks/762b6f848ae7b21b.js","/_next/static/chunks/1d5a5c14848b802e.js","/_next/static/chunks/a40e2b25b1a62ac7.js","/_next/static/chunks/c6509abffeae92d2.js","/_next/static/chunks/35eaa08fca66b29e.js","/_next/static/chunks/f91f857f975d1c9f.js","/_next/static/chunks/dabd062b49706f28.js","/_next/static/chunks/740441c5b62d2d93.js","/_next/static/chunks/dcd49895cb9db447.js","/_next/static/chunks/175944aa1545ac7c.js","/_next/static/chunks/16494c9ed210a726.js","/_next/static/chunks/19ed43205a6e84be.js"],"PostBottomBarAction"]
+2b:I[832330,["/_next/static/chunks/d03e4f6fdf084240.js","/_next/static/chunks/525ff3aa60c02a25.js","/_next/static/chunks/ae2a70c709da2ba8.js","/_next/static/chunks/eb309b8f06731812.js","/_next/static/chunks/baa674234f056c60.js","/_next/static/chunks/2edc37b4337c096a.js","/_next/static/chunks/6f0408800ece4f06.js","/_next/static/chunks/6f95f3a6a7ed9dab.js","/_next/static/chunks/3c40fd5a14861430.js","/_next/static/chunks/e7855f92c342e0a3.js","/_next/static/chunks/a5fcaccd389d798e.js","/_next/static/chunks/c3456ef3141ade67.js","/_next/static/chunks/c92042fd5179bd95.js","/_next/static/chunks/1737ca787e6b8d4c.js","/_next/static/chunks/d691f1571e343c32.js","/_next/static/chunks/65f1d76f7ac19600.js","/_next/static/chunks/762b6f848ae7b21b.js","/_next/static/chunks/1d5a5c14848b802e.js","/_next/static/chunks/a40e2b25b1a62ac7.js","/_next/static/chunks/c6509abffeae92d2.js","/_next/static/chunks/35eaa08fca66b29e.js","/_next/static/chunks/f91f857f975d1c9f.js","/_next/static/chunks/dabd062b49706f28.js","/_next/static/chunks/740441c5b62d2d93.js","/_next/static/chunks/dcd49895cb9db447.js","/_next/static/chunks/175944aa1545ac7c.js","/_next/static/chunks/16494c9ed210a726.js","/_next/static/chunks/19ed43205a6e84be.js"],"BottomToUpSoftScaleTransitionView"]
+2c:I[615780,["/_next/static/chunks/d03e4f6fdf084240.js","/_next/static/chunks/525ff3aa60c02a25.js","/_next/static/chunks/ae2a70c709da2ba8.js","/_next/static/chunks/eb309b8f06731812.js","/_next/static/chunks/baa674234f056c60.js","/_next/static/chunks/2edc37b4337c096a.js","/_next/static/chunks/6f0408800ece4f06.js","/_next/static/chunks/6f95f3a6a7ed9dab.js","/_next/static/chunks/3c40fd5a14861430.js","/_next/static/chunks/e7855f92c342e0a3.js","/_next/static/chunks/a5fcaccd389d798e.js","/_next/static/chunks/c3456ef3141ade67.js","/_next/static/chunks/c92042fd5179bd95.js","/_next/static/chunks/1737ca787e6b8d4c.js","/_next/static/chunks/d691f1571e343c32.js","/_next/static/chunks/65f1d76f7ac19600.js","/_next/static/chunks/762b6f848ae7b21b.js","/_next/static/chunks/1d5a5c14848b802e.js","/_next/static/chunks/a40e2b25b1a62ac7.js","/_next/static/chunks/c6509abffeae92d2.js","/_next/static/chunks/35eaa08fca66b29e.js","/_next/static/chunks/f91f857f975d1c9f.js","/_next/static/chunks/dabd062b49706f28.js","/_next/static/chunks/740441c5b62d2d93.js","/_next/static/chunks/dcd49895cb9db447.js","/_next/static/chunks/175944aa1545ac7c.js","/_next/static/chunks/16494c9ed210a726.js","/_next/static/chunks/19ed43205a6e84be.js"],"CommentAreaRootLazy"]
+2d:I[194205,["/_next/static/chunks/d03e4f6fdf084240.js","/_next/static/chunks/525ff3aa60c02a25.js","/_next/static/chunks/ae2a70c709da2ba8.js","/_next/static/chunks/eb309b8f06731812.js","/_next/static/chunks/baa674234f056c60.js","/_next/static/chunks/2edc37b4337c096a.js","/_next/static/chunks/6f0408800ece4f06.js","/_next/static/chunks/6f95f3a6a7ed9dab.js","/_next/static/chunks/3c40fd5a14861430.js","/_next/static/chunks/e7855f92c342e0a3.js","/_next/static/chunks/a5fcaccd389d798e.js","/_next/static/chunks/c3456ef3141ade67.js","/_next/static/chunks/c92042fd5179bd95.js","/_next/static/chunks/1737ca787e6b8d4c.js","/_next/static/chunks/d691f1571e343c32.js","/_next/static/chunks/65f1d76f7ac19600.js","/_next/static/chunks/762b6f848ae7b21b.js","/_next/static/chunks/1d5a5c14848b802e.js","/_next/static/chunks/a40e2b25b1a62ac7.js","/_next/static/chunks/c6509abffeae92d2.js","/_next/static/chunks/35eaa08fca66b29e.js","/_next/static/chunks/f91f857f975d1c9f.js","/_next/static/chunks/dabd062b49706f28.js","/_next/static/chunks/740441c5b62d2d93.js","/_next/static/chunks/dcd49895cb9db447.js","/_next/static/chunks/175944aa1545ac7c.js","/_next/static/chunks/16494c9ed210a726.js","/_next/static/chunks/19ed43205a6e84be.js"],"LayoutRightSideProvider"]
+2e:I[185368,["/_next/static/chunks/d03e4f6fdf084240.js","/_next/static/chunks/525ff3aa60c02a25.js","/_next/static/chunks/ae2a70c709da2ba8.js","/_next/static/chunks/eb309b8f06731812.js","/_next/static/chunks/baa674234f056c60.js","/_next/static/chunks/2edc37b4337c096a.js","/_next/static/chunks/6f0408800ece4f06.js","/_next/static/chunks/6f95f3a6a7ed9dab.js","/_next/static/chunks/3c40fd5a14861430.js","/_next/static/chunks/e7855f92c342e0a3.js","/_next/static/chunks/a5fcaccd389d798e.js","/_next/static/chunks/c3456ef3141ade67.js","/_next/static/chunks/c92042fd5179bd95.js","/_next/static/chunks/1737ca787e6b8d4c.js","/_next/static/chunks/d691f1571e343c32.js","/_next/static/chunks/65f1d76f7ac19600.js","/_next/static/chunks/762b6f848ae7b21b.js","/_next/static/chunks/1d5a5c14848b802e.js","/_next/static/chunks/a40e2b25b1a62ac7.js","/_next/static/chunks/c6509abffeae92d2.js","/_next/static/chunks/35eaa08fca66b29e.js","/_next/static/chunks/f91f857f975d1c9f.js","/_next/static/chunks/dabd062b49706f28.js","/_next/static/chunks/740441c5b62d2d93.js","/_next/static/chunks/dcd49895cb9db447.js","/_next/static/chunks/175944aa1545ac7c.js","/_next/static/chunks/16494c9ed210a726.js","/_next/static/chunks/19ed43205a6e84be.js"],"OnlyMobile"]
+2f:I[233113,["/_next/static/chunks/d03e4f6fdf084240.js","/_next/static/chunks/525ff3aa60c02a25.js","/_next/static/chunks/ae2a70c709da2ba8.js","/_next/static/chunks/eb309b8f06731812.js","/_next/static/chunks/baa674234f056c60.js","/_next/static/chunks/2edc37b4337c096a.js","/_next/static/chunks/6f0408800ece4f06.js","/_next/static/chunks/6f95f3a6a7ed9dab.js","/_next/static/chunks/3c40fd5a14861430.js","/_next/static/chunks/e7855f92c342e0a3.js","/_next/static/chunks/a5fcaccd389d798e.js","/_next/static/chunks/c3456ef3141ade67.js","/_next/static/chunks/c92042fd5179bd95.js","/_next/static/chunks/1737ca787e6b8d4c.js","/_next/static/chunks/d691f1571e343c32.js","/_next/static/chunks/65f1d76f7ac19600.js","/_next/static/chunks/762b6f848ae7b21b.js","/_next/static/chunks/1d5a5c14848b802e.js","/_next/static/chunks/a40e2b25b1a62ac7.js","/_next/static/chunks/c6509abffeae92d2.js","/_next/static/chunks/35eaa08fca66b29e.js","/_next/static/chunks/f91f857f975d1c9f.js","/_next/static/chunks/dabd062b49706f28.js","/_next/static/chunks/740441c5b62d2d93.js","/_next/static/chunks/dcd49895cb9db447.js","/_next/static/chunks/175944aa1545ac7c.js","/_next/static/chunks/16494c9ed210a726.js","/_next/static/chunks/19ed43205a6e84be.js"],"TocFAB"]
+30:I[95276,["/_next/static/chunks/3c40fd5a14861430.js","/_next/static/chunks/4197b04c4f1d962d.js","/_next/static/chunks/70af310ba2a3e461.js","/_next/static/chunks/9df4409b3ebd95fb.js","/_next/static/chunks/e52d234aac494225.js"],"OutletBoundary"]
+31:"$Sreact.suspense"
+:HL["/_next/static/chunks/136744c992bad96d.css","style"]
+:HL["/_next/static/chunks/0169140b52b18b81.css","style"]
+:HL["/_next/static/chunks/cf19f565ce194e50.css","style"]
+:HL["/_next/static/chunks/2a531debc05d9c48.css","style"]
+:HL["/_next/static/chunks/f6d4eb0f1595037c.css","style"]
+:HL["/_next/static/chunks/be9fe8599e8928e8.css","style"]
+5:T249e,*Part 1 of 5.* [K₄ Ramsey–Turán II — Tools →](/posts/modern-graph-theory/k4-ramsey-turan-2)
+
+*Part 1 of 5.* [K₄ Ramsey–Turán I — Survey →](/posts/modern-graph-theory/k4-ramsey-turan-1)
+
+### 报告之前
+
+*我按照论文的顺序从头到尾地把每个断言、引理和定理都好好地看了一遍，并按照文章的思路先重新写了一遍证明（报告里面的引理、断言、定理的顺序的编号我都按照原本的论文来写）。跟着文章的思路走的时候，我发现了论文在证明的时候跳步的地方还挺多的，而且有些都是我想了好一阵子才想出怎么补全这个证明的。此外，看的过程中我也有一些想法，有一些疑问，感觉想写的东西还挺多的，所以我用不同颜色来区分这个报告中到底是作者写的还是我的想法:*
+
+刚开始写的时候我是按照论文的证明顺序来写的，然后一开始还没发要求我就把原文的证明复现了一半，并补全了一些感觉不显然但没给出来的证明。后面老师说的要求是不要全部都写原文的证明，我想着我都写了一大半不如全部给他写完。当然我也按照具体的要求提出了我的一些质疑。如果觉得证明部分过于繁琐的话可以直接看 **非黑色字体部分**，这些主要是我的一些质疑理解与对文章命题的一些加强。}
+
+普通的黑字是论文中作者写到的部分。
+
+**Remark 1.**
+
+这是我在看论文的过程中忽然冒出来的想法。
+
+**Note.**
+
+这是我对论文中不全或者作者说留给读者去想的证明进行的补充证明。
+
+这是我对论文内容的质疑和对论文中的证明细节、命题的思考与改进，给出了几个命题放在了**第四小节**。
+
+*Part 2 of 5.* [← K₄ Ramsey–Turán — Preface](/posts/modern-graph-theory/preface) · [K₄ Ramsey–Turán II — Tools →](/posts/modern-graph-theory/k4-ramsey-turan-2)
+
+## 综述
+
+### 本文的研究方向和结果综述
+
+Ramsey--Tur\'an 问题最早由 S\'os 提出，在 Tur\'an 问题中我们研究的是在禁止某个子图出现的情况下能得到的图的最大边数，而在 Ramsey--Tur\'an 问题研究的是此基础上加上了独立数的限制条件下能得到的图的最大边数 [Sos1969,SimonovitsSos2001]。
+
+对给定图
+
+H 和正整数 m，我们定义 Ramsey--Tur\'an 数为
+
+RT(n,H,m):=\max\bigl\{e(G): |V(G)|=n,\ \alpha(G)<m,\ H\nsubseteq G\bigr\}.
+
+$$
+这里 e(G) 表示图 G 的边数，\alpha(G) 表示其独立数。
+
+**Remark 2.**
+
+我们记 \alpha=\frac{\alpha(G)}{n}，其中 \alpha(G) 代表 G 的独立数，n 代表 G 的顶点数。
+
+当然，这篇论文研究的是 H=K_4 的特殊情形，即在 K_4-free 且独立数存在限制的条件下，这样的图的边数最多能达到多大。
+
+**Remark 3.**
+
+回顾课上讲的，也就是在没有独立数的限制情况下，那么 K_4-free 图的极值问题由 Tur\'an 定理可以解决：
+
+**Theorem 1 (Tur\'an Theorem).**
+
+如果 G 是 n 个顶点的 K_{r+1}-free 图，则 e(G)\leq e(T_{n,r}).
+
+即我们有ex(K_4,n)=\lfloor \frac{n^2}{3} \rfloor.
+
+但如果我们将独立数赋予特殊限制，图的整体结构也会受到额外限制，此时最优边数会显著下降。
+对 K_4 而言， Szemer\'edi 在 1972 年给出了如下结果[Szemeredi1972]：
+
+**Theorem 3.**
+
+对任意 \eta>0，存在 \alpha_0>0，使得当 n 充分大时，任意 n 阶图 G 若满足
+$$
+
+e(G)\ge \left(\frac18+\eta\right)n^2,
+
+$$
+则 G 要么含有一个 K_4，要么包含一个大小大于 \alpha_0 n 的独立集。
+
+Bollob\'as 和 Erd\H os 构造出了 K_4-free 图族，满足
+$$
+
+e(G)=\frac{n^2}{8}-o(n^2),  \alpha(G)=o(n),
+
+$$
+从而说明 1/8 正是该问题的在主项上的正确极限密度 [BollobasErdos1976]。因此，后续研究的重点不再是主项本身，而是当独立数 \alpha(G) 仍为线性量级、且 \alpha 很小时，边数上界在 n^2/8 之外还能精确增加多少。
+
+更进一步，Fox、Loh 和 Zhao 在 [FoxLohZhao2015] 中给出了如下更为精细的结果：
+
+**Theorem 2.**
+
+%[Fox--Loh--Zhao，Theorem 1.6]
+\text{[FoxLohZhao2015]}
+存在绝对常数 \gamma>0，使得若图 G 满足 \alpha(G)=\alpha n、\alpha\le \gamma，且
+$$
+
+e(G)\ge \frac{n^2}{8}+\frac32\alpha n^2,
+
+则 G 必含 K_4。
+
+与此同时，他们还给出了非常强的下界构造。令
+
+\beta=\sqrt{\frac{(\log\log n)^3}{\log n}},
+
+$$
+则当 \alpha/\beta\to\infty 时，可以构造出 K_4-free 图，使其独立数约为 \alpha n，而边数已经明显超过 n^2/8；更强地，当 \alpha^2/\beta\to\infty 时，他们得到的下界可以写成
+$$
+
+\frac{n^2}{8}+\left(\frac{\alpha-\alpha^2}{2}-o(\alpha^2)\right)n^2.
+
+$$
+因此，在 \alpha 相对 \beta 足够大时，他们实际上确定了 \eta 的大致范围：
+$$
+
+\frac{\alpha-\alpha^2}{2}-o(\alpha^2)\leq \eta \leq \frac32\alpha,
+
+$$
+其中 \eta 表示边数 e(G)=\frac{n^2}{8}+\eta n^2。但值得注意的是，\eta 上界证明是依赖于 Szemer\'edi正则引理 [Szemeredi1976].
+
+之后，L\"uders 和 Reiher 在一般情形下得到了如下更一般的结果[LudersReiher2019]：
+
+**Theorem 4.**
+
+存在阈值 0<\gamma^\ast\ll 1，使得当 0<\gamma\le \gamma^\ast、n 充分大且图 G 满足
+$$
+
+e(G)>\frac{n^2+n}{8}+\frac{\gamma-\gamma^2}{2}n^2,  \alpha(G)\le \gamma n,
+
+$$
+则 G 必含 K_4。
+
+但是，由于该证明仍然建立在 Szemer\'edi正则引理 [Szemeredi1976] 之上，可用常数\gamma^\ast极小。
+
+回到我们所看的这篇论文，这篇论文说到底就是在讲一个如下的核心主定理[Csaba2025]：
+
+**Theorem 5.**
+
+取 \nu=1/500，并设
+$$
+
+\gamma=\exp\!\left(-\frac{10\log(1/\nu)}{\nu}\right),
+N=\exp\!\left(\frac{10\log(1/\nu)}{\nu}\right).
+
+$$
+若 n\ge N，图 G 满足
+$$
+
+\alpha=\frac{\alpha(G)}{n}\le \gamma
+
+$$
+且
+$$
+
+e(G)>\frac{n^2+n}{8}+\frac{\alpha-\alpha^2}{2}n^2,
+
+$$
+其中 \alpha=\alpha(G)/n，则 G 必含 K_4。
+
+**Remark 4.**
+
+显然有 \gamma<\frac{1}{2}.
+
+第一，它在 \alpha 足够小的范围内，把上界推进到了与 Fox--Loh--Zhao 下界主导项一致的水平，从而说明二阶项
+$$
+
+\frac{\alpha-\alpha^2}{2}n^2
+
+$$
+不仅对固定常数 \alpha 正确，而且在更广的“小 \alpha”区间里仍然给出本质最优的阈值。第二，本文完全避免使用 Szemer\'edi正则引理 [Szemeredi1976]，而是使用了另一种偏向直接构造计数的方法，这样使得上界推广到了更宽的参数区间，而不是像前面(thm1.2)里面要求的\gamma^\ast\ll 1。
+
+**Remark 5.**
+
+我感觉这篇文章的创新性就在于他跳脱出使用 Szemer\'edi正则引理 [Szemeredi1976]的范畴，而是直接用构造计数来给出更好的区间，而且纵观整篇文章的证明，感觉比较难想的就是证明最开始的那一部分构造，其他也都是目的性极强的代数运算，算就完了。
+
+一开始看到 (thm1.3) 的取 \nu=1/500，我就在想为什么是取  \nu=1/500，有没有什么特殊含义？从后续的证明来看，这里的 \nu=1/500主要是起到控制误差项的作用，比如说控制 7\nu n,15\nu n,15\nu n,41\nu n然后最重要的是保证 \alpha\ll\nu^2 n,\nu^3 n。
+
+我也对 \nu 的取值范围进行了进一步的探讨，最终发现如果按照论文中的不等式放缩关系，我们只需取 \nu<1/321 即可，具体的计算过程见 (prop4.1)。
+$$
+
+### 近期相关结果
+
+**Remark 6.**
+
+我也查找了近期关于 $RT(n,K_4,m)$ 的相关论文，没有看到在结论上继续推进 (thm1.3) 的后续论文。不过，对于更一般的 Ramsey--Tur\'an 理论，近两年还是有几篇和这篇论文联系紧密，值得提一下。
+
+Balogh、Chen、McCourt 和 Murley 在 2024 年的工作 [BaloghChenMcCourtMurley2024] 讨论了 $RT(n,K_s,f(n))$ 在小独立数条件下的行为，他们主要研究的是 $s\le 13$ 的 clique 情形。该文表明：当我们把独立数进一步压小，Ramsey--Tur\'an 问题的极值结构会发生新的分段变化。
+
+Gao、Jiang、Liu 和 Sankar 在 2025 年的论文 [GaoJiangLiuSankar2025] 研究了广义 Ramsey--Tur\'an 函数 $\mathrm{RT}(n,K_s,K_t,o(n))$。这里研究的对象已经不是边数，而是图中 $K_s$ 出现的总次数。论文对所有 $s\ge 3$ 的 clique 情形给出了组合性的渐近刻画，虽然这个问题和本文并不完全在同一层面上，但它在方法上与本文有相通之处，都更强调直接把极值结构刻画出来，而不只是借助 Szemer\'edi正则引理 [Szemeredi1976] 得到一个较粗的存在性结论。
+
+Liu、Reiher、Sharifzadeh 和 Staden 在 2026 年的文章 [LiuReiherSharifzadehStaden2026] 则把重点放在更一般的 Ramsey--Tur\'an 构造问题上。他们构造出了具有任意有理密度的 Bollob\'as--Erd\H os 型图，并否定了这一方向中一个关于周期性的长期猜想，同时还给出了一些匹配的上界。我觉得，他们给出了一个很好的观点：针对于本文研究的问题，这个方向的发展并不只是不断打磨上界，也在产生新的构造方法和找到新的反例。从这个角度看，本文的工作更像是对经典 $K_4$ 分支中结构上界方法的一次推进，而 [LiuReiherSharifzadehStaden2026] 则展示了构造方法在更一般框架下的展开。
+
+## PDF
+
+Download the original write-up [here](/files/Grade3/Reports/k4-ramsey-turan.pdf).0:{"buildId":"rZLQ8EVqblT6xTH8wdhS0","rsc":["$","$1","c",{"children":[["$","$L2",null,{"hasContent":false,"children":[false,["$","$L3",null,{"baseLdJson":{"@context":"https://schema.org","@type":"BlogPosting","headline":"K₄ Ramsey–Turán I — Survey","description":"Course report on the Ramsey–Turán problem for K₄, split by section.","datePublished":"2026-06-11T00:00:00.000Z","dateModified":"2026-06-11T00:00:00.000Z"}}],["$","$L4",null,{"data":{"id":"post-k4-ramsey-turan-1","created":"2026-06-11T00:00:00.000Z","modified":"2026-06-11T00:00:00.000Z","title":"K₄ Ramsey–Turán I — Survey","text":"$5","summary":"Course report on the Ramsey–Turán problem for K₄, split by section.","copyright":true,"tags":["Homework","Graph Theory","Modern Graph Theory","Ramsey-Turán"],"slug":"k4-ramsey-turan-1","categoryId":"cat-mgt","category":{"id":"cat-mgt","slug":"modern-graph-theory","name":"Modern Graph Theory","created":"2026-03-01T00:00:00.000Z","type":0,"count":20},"images":[],"pin":null,"pinOrder":0,"related":[],"allowComment":true,"commentsIndex":0,"count":{"read":0,"like":0}}}],"$L6","$L7","$L8"]}],["$L9","$La","$Lb","$Lc","$Ld","$Le","$Lf","$L10","$L11","$L12","$L13","$L14","$L15","$L16"],"$L17"]}],"loading":null,"isPartial":false}
+6:["$","$L18",null,{"fetchedAt":"2026-08-19T10:14:57.129Z"}]
+7:["$","div",null,{"data-server-fetched-at":"2026-08-19T10:14:57.129Z","className":"relative flex min-h-[120px] grid-cols-[auto_200px] lg:grid","children":[["$","$L19",null,{"lcpOptimization":true,"className":"min-w-0","children":[["$","div",null,{"className":"relative w-full min-w-0","children":[["$","$L1a",null,{"id":"post-k4-ramsey-turan-1","type":"post"}],["$","div",null,{"children":[["$","div",null,{"className":"mb-8","children":[["$","$L1b",null,{}],["$","$L1c",null,{"id":"post-k4-ramsey-turan-1","type":"posts","className":"absolute -top-6 right-0"}],["$","$L1d",null,{"className":"mb-8 justify-center"}],["$","$L1e",null,{}],["$","$L1f",null,{"type":"before"}]]}],["$","$L20",null,{"eoaDetect":true,"children":[["$","$L21",null,{}],["$","$L22",null,{"children":["$","$L23",null,{"children":["$","article",null,{"className":"prose","children":[["$","div",null,{"className":"sr-only","children":["$","$L1b",null,{}]}],["$","$L24",null,{}],["$","$L25",null,{}]]}]}]}],["$","$L26",null,{"children":["$","$L27",null,{}]}]]}]]}],["$","$L28",null,{"children":[["$","$L1f",null,{}],["$","$L29",null,{}],["$","$L2a",null,{}]]}]]}],["$","$L2b",null,{"delay":500,"children":["$","$L2c",null,{"refId":"post-k4-ramsey-turan-1","allowComment":true}]}]]}],["$","$L2d",null,{"className":"relative hidden lg:block"}]]}]
+8:["$","$L2e",null,{"children":["$","$L2f",null,{}]}]
+9:["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/136744c992bad96d.css","precedence":"next"}]
+a:["$","link","1",{"rel":"stylesheet","href":"/_next/static/chunks/0169140b52b18b81.css","precedence":"next"}]
+b:["$","link","2",{"rel":"stylesheet","href":"/_next/static/chunks/cf19f565ce194e50.css","precedence":"next"}]
+c:["$","link","3",{"rel":"stylesheet","href":"/_next/static/chunks/2a531debc05d9c48.css","precedence":"next"}]
+d:["$","link","4",{"rel":"stylesheet","href":"/_next/static/chunks/f6d4eb0f1595037c.css","precedence":"next"}]
+e:["$","link","5",{"rel":"stylesheet","href":"/_next/static/chunks/be9fe8599e8928e8.css","precedence":"next"}]
+f:["$","script","script-0",{"src":"/_next/static/chunks/35eaa08fca66b29e.js","async":true}]
+10:["$","script","script-1",{"src":"/_next/static/chunks/f91f857f975d1c9f.js","async":true}]
+11:["$","script","script-2",{"src":"/_next/static/chunks/dabd062b49706f28.js","async":true}]
+12:["$","script","script-3",{"src":"/_next/static/chunks/740441c5b62d2d93.js","async":true}]
+13:["$","script","script-4",{"src":"/_next/static/chunks/dcd49895cb9db447.js","async":true}]
+14:["$","script","script-5",{"src":"/_next/static/chunks/175944aa1545ac7c.js","async":true}]
+15:["$","script","script-6",{"src":"/_next/static/chunks/16494c9ed210a726.js","async":true}]
+16:["$","script","script-7",{"src":"/_next/static/chunks/19ed43205a6e84be.js","async":true}]
+17:["$","$L30",null,{"children":["$","$31",null,{"name":"Next.MetadataOutlet","children":"$@32"}]}]
+32:null

@@ -1,0 +1,794 @@
+1:"$Sreact.fragment"
+2:I[417743,["/_next/static/chunks/d03e4f6fdf084240.js","/_next/static/chunks/525ff3aa60c02a25.js","/_next/static/chunks/ae2a70c709da2ba8.js","/_next/static/chunks/eb309b8f06731812.js","/_next/static/chunks/baa674234f056c60.js","/_next/static/chunks/2edc37b4337c096a.js","/_next/static/chunks/6f0408800ece4f06.js","/_next/static/chunks/6f95f3a6a7ed9dab.js","/_next/static/chunks/3c40fd5a14861430.js","/_next/static/chunks/e7855f92c342e0a3.js","/_next/static/chunks/a5fcaccd389d798e.js","/_next/static/chunks/c3456ef3141ade67.js","/_next/static/chunks/c92042fd5179bd95.js","/_next/static/chunks/1737ca787e6b8d4c.js","/_next/static/chunks/d691f1571e343c32.js","/_next/static/chunks/65f1d76f7ac19600.js","/_next/static/chunks/762b6f848ae7b21b.js","/_next/static/chunks/1d5a5c14848b802e.js","/_next/static/chunks/a40e2b25b1a62ac7.js","/_next/static/chunks/c6509abffeae92d2.js","/_next/static/chunks/35eaa08fca66b29e.js","/_next/static/chunks/f91f857f975d1c9f.js","/_next/static/chunks/dabd062b49706f28.js","/_next/static/chunks/740441c5b62d2d93.js","/_next/static/chunks/dcd49895cb9db447.js","/_next/static/chunks/175944aa1545ac7c.js","/_next/static/chunks/16494c9ed210a726.js","/_next/static/chunks/19ed43205a6e84be.js"],"TocHeadingStrategyProvider"]
+3:I[401946,["/_next/static/chunks/d03e4f6fdf084240.js","/_next/static/chunks/525ff3aa60c02a25.js","/_next/static/chunks/ae2a70c709da2ba8.js","/_next/static/chunks/eb309b8f06731812.js","/_next/static/chunks/baa674234f056c60.js","/_next/static/chunks/2edc37b4337c096a.js","/_next/static/chunks/6f0408800ece4f06.js","/_next/static/chunks/6f95f3a6a7ed9dab.js","/_next/static/chunks/3c40fd5a14861430.js","/_next/static/chunks/e7855f92c342e0a3.js","/_next/static/chunks/a5fcaccd389d798e.js","/_next/static/chunks/c3456ef3141ade67.js","/_next/static/chunks/c92042fd5179bd95.js","/_next/static/chunks/1737ca787e6b8d4c.js","/_next/static/chunks/d691f1571e343c32.js","/_next/static/chunks/65f1d76f7ac19600.js","/_next/static/chunks/762b6f848ae7b21b.js","/_next/static/chunks/1d5a5c14848b802e.js","/_next/static/chunks/a40e2b25b1a62ac7.js","/_next/static/chunks/c6509abffeae92d2.js","/_next/static/chunks/35eaa08fca66b29e.js","/_next/static/chunks/f91f857f975d1c9f.js","/_next/static/chunks/dabd062b49706f28.js","/_next/static/chunks/740441c5b62d2d93.js","/_next/static/chunks/dcd49895cb9db447.js","/_next/static/chunks/175944aa1545ac7c.js","/_next/static/chunks/16494c9ed210a726.js","/_next/static/chunks/19ed43205a6e84be.js"],"LdJsonWithAuthor"]
+4:I[373448,["/_next/static/chunks/d03e4f6fdf084240.js","/_next/static/chunks/525ff3aa60c02a25.js","/_next/static/chunks/ae2a70c709da2ba8.js","/_next/static/chunks/eb309b8f06731812.js","/_next/static/chunks/baa674234f056c60.js","/_next/static/chunks/2edc37b4337c096a.js","/_next/static/chunks/6f0408800ece4f06.js","/_next/static/chunks/6f95f3a6a7ed9dab.js","/_next/static/chunks/3c40fd5a14861430.js","/_next/static/chunks/e7855f92c342e0a3.js","/_next/static/chunks/a5fcaccd389d798e.js","/_next/static/chunks/c3456ef3141ade67.js","/_next/static/chunks/c92042fd5179bd95.js","/_next/static/chunks/1737ca787e6b8d4c.js","/_next/static/chunks/d691f1571e343c32.js","/_next/static/chunks/65f1d76f7ac19600.js","/_next/static/chunks/762b6f848ae7b21b.js","/_next/static/chunks/1d5a5c14848b802e.js","/_next/static/chunks/a40e2b25b1a62ac7.js","/_next/static/chunks/c6509abffeae92d2.js","/_next/static/chunks/35eaa08fca66b29e.js","/_next/static/chunks/f91f857f975d1c9f.js","/_next/static/chunks/dabd062b49706f28.js","/_next/static/chunks/740441c5b62d2d93.js","/_next/static/chunks/dcd49895cb9db447.js","/_next/static/chunks/175944aa1545ac7c.js","/_next/static/chunks/16494c9ed210a726.js","/_next/static/chunks/19ed43205a6e84be.js"],"CurrentPostDataProvider"]
+18:I[401946,["/_next/static/chunks/d03e4f6fdf084240.js","/_next/static/chunks/525ff3aa60c02a25.js","/_next/static/chunks/ae2a70c709da2ba8.js","/_next/static/chunks/eb309b8f06731812.js","/_next/static/chunks/baa674234f056c60.js","/_next/static/chunks/2edc37b4337c096a.js","/_next/static/chunks/6f0408800ece4f06.js","/_next/static/chunks/6f95f3a6a7ed9dab.js","/_next/static/chunks/3c40fd5a14861430.js","/_next/static/chunks/e7855f92c342e0a3.js","/_next/static/chunks/a5fcaccd389d798e.js","/_next/static/chunks/c3456ef3141ade67.js","/_next/static/chunks/c92042fd5179bd95.js","/_next/static/chunks/1737ca787e6b8d4c.js","/_next/static/chunks/d691f1571e343c32.js","/_next/static/chunks/65f1d76f7ac19600.js","/_next/static/chunks/762b6f848ae7b21b.js","/_next/static/chunks/1d5a5c14848b802e.js","/_next/static/chunks/a40e2b25b1a62ac7.js","/_next/static/chunks/c6509abffeae92d2.js","/_next/static/chunks/35eaa08fca66b29e.js","/_next/static/chunks/f91f857f975d1c9f.js","/_next/static/chunks/dabd062b49706f28.js","/_next/static/chunks/740441c5b62d2d93.js","/_next/static/chunks/dcd49895cb9db447.js","/_next/static/chunks/175944aa1545ac7c.js","/_next/static/chunks/16494c9ed210a726.js","/_next/static/chunks/19ed43205a6e84be.js"],"PostDataReValidate"]
+19:I[793580,["/_next/static/chunks/d03e4f6fdf084240.js","/_next/static/chunks/525ff3aa60c02a25.js","/_next/static/chunks/ae2a70c709da2ba8.js","/_next/static/chunks/eb309b8f06731812.js","/_next/static/chunks/baa674234f056c60.js","/_next/static/chunks/2edc37b4337c096a.js","/_next/static/chunks/6f0408800ece4f06.js","/_next/static/chunks/6f95f3a6a7ed9dab.js","/_next/static/chunks/3c40fd5a14861430.js","/_next/static/chunks/e7855f92c342e0a3.js","/_next/static/chunks/a5fcaccd389d798e.js","/_next/static/chunks/c3456ef3141ade67.js","/_next/static/chunks/c92042fd5179bd95.js","/_next/static/chunks/1737ca787e6b8d4c.js","/_next/static/chunks/d691f1571e343c32.js","/_next/static/chunks/65f1d76f7ac19600.js","/_next/static/chunks/762b6f848ae7b21b.js","/_next/static/chunks/1d5a5c14848b802e.js","/_next/static/chunks/a40e2b25b1a62ac7.js","/_next/static/chunks/c6509abffeae92d2.js","/_next/static/chunks/35eaa08fca66b29e.js","/_next/static/chunks/f91f857f975d1c9f.js","/_next/static/chunks/dabd062b49706f28.js","/_next/static/chunks/740441c5b62d2d93.js","/_next/static/chunks/dcd49895cb9db447.js","/_next/static/chunks/175944aa1545ac7c.js","/_next/static/chunks/16494c9ed210a726.js","/_next/static/chunks/19ed43205a6e84be.js"],"BottomToUpTransitionView"]
+1a:I[189209,["/_next/static/chunks/d03e4f6fdf084240.js","/_next/static/chunks/525ff3aa60c02a25.js","/_next/static/chunks/ae2a70c709da2ba8.js","/_next/static/chunks/eb309b8f06731812.js","/_next/static/chunks/baa674234f056c60.js","/_next/static/chunks/2edc37b4337c096a.js","/_next/static/chunks/6f0408800ece4f06.js","/_next/static/chunks/6f95f3a6a7ed9dab.js","/_next/static/chunks/3c40fd5a14861430.js","/_next/static/chunks/e7855f92c342e0a3.js","/_next/static/chunks/a5fcaccd389d798e.js","/_next/static/chunks/c3456ef3141ade67.js","/_next/static/chunks/c92042fd5179bd95.js","/_next/static/chunks/1737ca787e6b8d4c.js","/_next/static/chunks/d691f1571e343c32.js","/_next/static/chunks/65f1d76f7ac19600.js","/_next/static/chunks/762b6f848ae7b21b.js","/_next/static/chunks/1d5a5c14848b802e.js","/_next/static/chunks/a40e2b25b1a62ac7.js","/_next/static/chunks/c6509abffeae92d2.js","/_next/static/chunks/35eaa08fca66b29e.js","/_next/static/chunks/f91f857f975d1c9f.js","/_next/static/chunks/dabd062b49706f28.js","/_next/static/chunks/740441c5b62d2d93.js","/_next/static/chunks/dcd49895cb9db447.js","/_next/static/chunks/175944aa1545ac7c.js","/_next/static/chunks/16494c9ed210a726.js","/_next/static/chunks/19ed43205a6e84be.js"],"AckRead"]
+1b:I[401946,["/_next/static/chunks/d03e4f6fdf084240.js","/_next/static/chunks/525ff3aa60c02a25.js","/_next/static/chunks/ae2a70c709da2ba8.js","/_next/static/chunks/eb309b8f06731812.js","/_next/static/chunks/baa674234f056c60.js","/_next/static/chunks/2edc37b4337c096a.js","/_next/static/chunks/6f0408800ece4f06.js","/_next/static/chunks/6f95f3a6a7ed9dab.js","/_next/static/chunks/3c40fd5a14861430.js","/_next/static/chunks/e7855f92c342e0a3.js","/_next/static/chunks/a5fcaccd389d798e.js","/_next/static/chunks/c3456ef3141ade67.js","/_next/static/chunks/c92042fd5179bd95.js","/_next/static/chunks/1737ca787e6b8d4c.js","/_next/static/chunks/d691f1571e343c32.js","/_next/static/chunks/65f1d76f7ac19600.js","/_next/static/chunks/762b6f848ae7b21b.js","/_next/static/chunks/1d5a5c14848b802e.js","/_next/static/chunks/a40e2b25b1a62ac7.js","/_next/static/chunks/c6509abffeae92d2.js","/_next/static/chunks/35eaa08fca66b29e.js","/_next/static/chunks/f91f857f975d1c9f.js","/_next/static/chunks/dabd062b49706f28.js","/_next/static/chunks/740441c5b62d2d93.js","/_next/static/chunks/dcd49895cb9db447.js","/_next/static/chunks/175944aa1545ac7c.js","/_next/static/chunks/16494c9ed210a726.js","/_next/static/chunks/19ed43205a6e84be.js"],"PostTitle"]
+1c:I[923014,["/_next/static/chunks/d03e4f6fdf084240.js","/_next/static/chunks/525ff3aa60c02a25.js","/_next/static/chunks/ae2a70c709da2ba8.js","/_next/static/chunks/eb309b8f06731812.js","/_next/static/chunks/baa674234f056c60.js","/_next/static/chunks/2edc37b4337c096a.js","/_next/static/chunks/6f0408800ece4f06.js","/_next/static/chunks/6f95f3a6a7ed9dab.js","/_next/static/chunks/3c40fd5a14861430.js","/_next/static/chunks/e7855f92c342e0a3.js","/_next/static/chunks/a5fcaccd389d798e.js","/_next/static/chunks/c3456ef3141ade67.js","/_next/static/chunks/c92042fd5179bd95.js","/_next/static/chunks/1737ca787e6b8d4c.js","/_next/static/chunks/d691f1571e343c32.js","/_next/static/chunks/65f1d76f7ac19600.js","/_next/static/chunks/762b6f848ae7b21b.js","/_next/static/chunks/1d5a5c14848b802e.js","/_next/static/chunks/a40e2b25b1a62ac7.js","/_next/static/chunks/c6509abffeae92d2.js","/_next/static/chunks/35eaa08fca66b29e.js","/_next/static/chunks/f91f857f975d1c9f.js","/_next/static/chunks/dabd062b49706f28.js","/_next/static/chunks/740441c5b62d2d93.js","/_next/static/chunks/dcd49895cb9db447.js","/_next/static/chunks/175944aa1545ac7c.js","/_next/static/chunks/16494c9ed210a726.js","/_next/static/chunks/19ed43205a6e84be.js"],"GoToAdminEditingButton"]
+1d:I[401946,["/_next/static/chunks/d03e4f6fdf084240.js","/_next/static/chunks/525ff3aa60c02a25.js","/_next/static/chunks/ae2a70c709da2ba8.js","/_next/static/chunks/eb309b8f06731812.js","/_next/static/chunks/baa674234f056c60.js","/_next/static/chunks/2edc37b4337c096a.js","/_next/static/chunks/6f0408800ece4f06.js","/_next/static/chunks/6f95f3a6a7ed9dab.js","/_next/static/chunks/3c40fd5a14861430.js","/_next/static/chunks/e7855f92c342e0a3.js","/_next/static/chunks/a5fcaccd389d798e.js","/_next/static/chunks/c3456ef3141ade67.js","/_next/static/chunks/c92042fd5179bd95.js","/_next/static/chunks/1737ca787e6b8d4c.js","/_next/static/chunks/d691f1571e343c32.js","/_next/static/chunks/65f1d76f7ac19600.js","/_next/static/chunks/762b6f848ae7b21b.js","/_next/static/chunks/1d5a5c14848b802e.js","/_next/static/chunks/a40e2b25b1a62ac7.js","/_next/static/chunks/c6509abffeae92d2.js","/_next/static/chunks/35eaa08fca66b29e.js","/_next/static/chunks/f91f857f975d1c9f.js","/_next/static/chunks/dabd062b49706f28.js","/_next/static/chunks/740441c5b62d2d93.js","/_next/static/chunks/dcd49895cb9db447.js","/_next/static/chunks/175944aa1545ac7c.js","/_next/static/chunks/16494c9ed210a726.js","/_next/static/chunks/19ed43205a6e84be.js"],"PostMetaBarInternal"]
+1e:I[6169,["/_next/static/chunks/d03e4f6fdf084240.js","/_next/static/chunks/525ff3aa60c02a25.js","/_next/static/chunks/ae2a70c709da2ba8.js","/_next/static/chunks/eb309b8f06731812.js","/_next/static/chunks/baa674234f056c60.js","/_next/static/chunks/2edc37b4337c096a.js","/_next/static/chunks/6f0408800ece4f06.js","/_next/static/chunks/6f95f3a6a7ed9dab.js","/_next/static/chunks/3c40fd5a14861430.js","/_next/static/chunks/e7855f92c342e0a3.js","/_next/static/chunks/a5fcaccd389d798e.js","/_next/static/chunks/c3456ef3141ade67.js","/_next/static/chunks/c92042fd5179bd95.js","/_next/static/chunks/1737ca787e6b8d4c.js","/_next/static/chunks/d691f1571e343c32.js","/_next/static/chunks/65f1d76f7ac19600.js","/_next/static/chunks/762b6f848ae7b21b.js","/_next/static/chunks/1d5a5c14848b802e.js","/_next/static/chunks/a40e2b25b1a62ac7.js","/_next/static/chunks/c6509abffeae92d2.js","/_next/static/chunks/35eaa08fca66b29e.js","/_next/static/chunks/f91f857f975d1c9f.js","/_next/static/chunks/dabd062b49706f28.js","/_next/static/chunks/740441c5b62d2d93.js","/_next/static/chunks/dcd49895cb9db447.js","/_next/static/chunks/175944aa1545ac7c.js","/_next/static/chunks/16494c9ed210a726.js","/_next/static/chunks/19ed43205a6e84be.js"],"PostOutdate"]
+1f:I[660320,["/_next/static/chunks/d03e4f6fdf084240.js","/_next/static/chunks/525ff3aa60c02a25.js","/_next/static/chunks/ae2a70c709da2ba8.js","/_next/static/chunks/eb309b8f06731812.js","/_next/static/chunks/baa674234f056c60.js","/_next/static/chunks/2edc37b4337c096a.js","/_next/static/chunks/6f0408800ece4f06.js","/_next/static/chunks/6f95f3a6a7ed9dab.js","/_next/static/chunks/3c40fd5a14861430.js","/_next/static/chunks/e7855f92c342e0a3.js","/_next/static/chunks/a5fcaccd389d798e.js","/_next/static/chunks/c3456ef3141ade67.js","/_next/static/chunks/c92042fd5179bd95.js","/_next/static/chunks/1737ca787e6b8d4c.js","/_next/static/chunks/d691f1571e343c32.js","/_next/static/chunks/65f1d76f7ac19600.js","/_next/static/chunks/762b6f848ae7b21b.js","/_next/static/chunks/1d5a5c14848b802e.js","/_next/static/chunks/a40e2b25b1a62ac7.js","/_next/static/chunks/c6509abffeae92d2.js","/_next/static/chunks/35eaa08fca66b29e.js","/_next/static/chunks/f91f857f975d1c9f.js","/_next/static/chunks/dabd062b49706f28.js","/_next/static/chunks/740441c5b62d2d93.js","/_next/static/chunks/dcd49895cb9db447.js","/_next/static/chunks/175944aa1545ac7c.js","/_next/static/chunks/16494c9ed210a726.js","/_next/static/chunks/19ed43205a6e84be.js"],"PostRelated"]
+20:I[145557,["/_next/static/chunks/d03e4f6fdf084240.js","/_next/static/chunks/525ff3aa60c02a25.js","/_next/static/chunks/ae2a70c709da2ba8.js","/_next/static/chunks/eb309b8f06731812.js","/_next/static/chunks/baa674234f056c60.js","/_next/static/chunks/2edc37b4337c096a.js","/_next/static/chunks/6f0408800ece4f06.js","/_next/static/chunks/6f95f3a6a7ed9dab.js","/_next/static/chunks/3c40fd5a14861430.js","/_next/static/chunks/e7855f92c342e0a3.js","/_next/static/chunks/a5fcaccd389d798e.js","/_next/static/chunks/c3456ef3141ade67.js","/_next/static/chunks/c92042fd5179bd95.js","/_next/static/chunks/1737ca787e6b8d4c.js","/_next/static/chunks/d691f1571e343c32.js","/_next/static/chunks/65f1d76f7ac19600.js","/_next/static/chunks/762b6f848ae7b21b.js","/_next/static/chunks/1d5a5c14848b802e.js","/_next/static/chunks/a40e2b25b1a62ac7.js","/_next/static/chunks/c6509abffeae92d2.js","/_next/static/chunks/35eaa08fca66b29e.js","/_next/static/chunks/f91f857f975d1c9f.js","/_next/static/chunks/dabd062b49706f28.js","/_next/static/chunks/740441c5b62d2d93.js","/_next/static/chunks/dcd49895cb9db447.js","/_next/static/chunks/175944aa1545ac7c.js","/_next/static/chunks/16494c9ed210a726.js","/_next/static/chunks/19ed43205a6e84be.js"],"WrappedElementProvider"]
+21:I[125902,["/_next/static/chunks/d03e4f6fdf084240.js","/_next/static/chunks/525ff3aa60c02a25.js","/_next/static/chunks/ae2a70c709da2ba8.js","/_next/static/chunks/eb309b8f06731812.js","/_next/static/chunks/baa674234f056c60.js","/_next/static/chunks/2edc37b4337c096a.js","/_next/static/chunks/6f0408800ece4f06.js","/_next/static/chunks/6f95f3a6a7ed9dab.js","/_next/static/chunks/3c40fd5a14861430.js","/_next/static/chunks/e7855f92c342e0a3.js","/_next/static/chunks/a5fcaccd389d798e.js","/_next/static/chunks/c3456ef3141ade67.js","/_next/static/chunks/c92042fd5179bd95.js","/_next/static/chunks/1737ca787e6b8d4c.js","/_next/static/chunks/d691f1571e343c32.js","/_next/static/chunks/65f1d76f7ac19600.js","/_next/static/chunks/762b6f848ae7b21b.js","/_next/static/chunks/1d5a5c14848b802e.js","/_next/static/chunks/a40e2b25b1a62ac7.js","/_next/static/chunks/c6509abffeae92d2.js","/_next/static/chunks/35eaa08fca66b29e.js","/_next/static/chunks/f91f857f975d1c9f.js","/_next/static/chunks/dabd062b49706f28.js","/_next/static/chunks/740441c5b62d2d93.js","/_next/static/chunks/dcd49895cb9db447.js","/_next/static/chunks/175944aa1545ac7c.js","/_next/static/chunks/16494c9ed210a726.js","/_next/static/chunks/19ed43205a6e84be.js"],"ReadIndicatorForMobile"]
+22:I[401946,["/_next/static/chunks/d03e4f6fdf084240.js","/_next/static/chunks/525ff3aa60c02a25.js","/_next/static/chunks/ae2a70c709da2ba8.js","/_next/static/chunks/eb309b8f06731812.js","/_next/static/chunks/baa674234f056c60.js","/_next/static/chunks/2edc37b4337c096a.js","/_next/static/chunks/6f0408800ece4f06.js","/_next/static/chunks/6f95f3a6a7ed9dab.js","/_next/static/chunks/3c40fd5a14861430.js","/_next/static/chunks/e7855f92c342e0a3.js","/_next/static/chunks/a5fcaccd389d798e.js","/_next/static/chunks/c3456ef3141ade67.js","/_next/static/chunks/c92042fd5179bd95.js","/_next/static/chunks/1737ca787e6b8d4c.js","/_next/static/chunks/d691f1571e343c32.js","/_next/static/chunks/65f1d76f7ac19600.js","/_next/static/chunks/762b6f848ae7b21b.js","/_next/static/chunks/1d5a5c14848b802e.js","/_next/static/chunks/a40e2b25b1a62ac7.js","/_next/static/chunks/c6509abffeae92d2.js","/_next/static/chunks/35eaa08fca66b29e.js","/_next/static/chunks/f91f857f975d1c9f.js","/_next/static/chunks/dabd062b49706f28.js","/_next/static/chunks/740441c5b62d2d93.js","/_next/static/chunks/dcd49895cb9db447.js","/_next/static/chunks/175944aa1545ac7c.js","/_next/static/chunks/16494c9ed210a726.js","/_next/static/chunks/19ed43205a6e84be.js"],"PostMarkdownImageRecordProvider"]
+23:I[401946,["/_next/static/chunks/d03e4f6fdf084240.js","/_next/static/chunks/525ff3aa60c02a25.js","/_next/static/chunks/ae2a70c709da2ba8.js","/_next/static/chunks/eb309b8f06731812.js","/_next/static/chunks/baa674234f056c60.js","/_next/static/chunks/2edc37b4337c096a.js","/_next/static/chunks/6f0408800ece4f06.js","/_next/static/chunks/6f95f3a6a7ed9dab.js","/_next/static/chunks/3c40fd5a14861430.js","/_next/static/chunks/e7855f92c342e0a3.js","/_next/static/chunks/a5fcaccd389d798e.js","/_next/static/chunks/c3456ef3141ade67.js","/_next/static/chunks/c92042fd5179bd95.js","/_next/static/chunks/1737ca787e6b8d4c.js","/_next/static/chunks/d691f1571e343c32.js","/_next/static/chunks/65f1d76f7ac19600.js","/_next/static/chunks/762b6f848ae7b21b.js","/_next/static/chunks/1d5a5c14848b802e.js","/_next/static/chunks/a40e2b25b1a62ac7.js","/_next/static/chunks/c6509abffeae92d2.js","/_next/static/chunks/35eaa08fca66b29e.js","/_next/static/chunks/f91f857f975d1c9f.js","/_next/static/chunks/dabd062b49706f28.js","/_next/static/chunks/740441c5b62d2d93.js","/_next/static/chunks/dcd49895cb9db447.js","/_next/static/chunks/175944aa1545ac7c.js","/_next/static/chunks/16494c9ed210a726.js","/_next/static/chunks/19ed43205a6e84be.js"],"MarkdownSelection"]
+24:I[401946,["/_next/static/chunks/d03e4f6fdf084240.js","/_next/static/chunks/525ff3aa60c02a25.js","/_next/static/chunks/ae2a70c709da2ba8.js","/_next/static/chunks/eb309b8f06731812.js","/_next/static/chunks/baa674234f056c60.js","/_next/static/chunks/2edc37b4337c096a.js","/_next/static/chunks/6f0408800ece4f06.js","/_next/static/chunks/6f95f3a6a7ed9dab.js","/_next/static/chunks/3c40fd5a14861430.js","/_next/static/chunks/e7855f92c342e0a3.js","/_next/static/chunks/a5fcaccd389d798e.js","/_next/static/chunks/c3456ef3141ade67.js","/_next/static/chunks/c92042fd5179bd95.js","/_next/static/chunks/1737ca787e6b8d4c.js","/_next/static/chunks/d691f1571e343c32.js","/_next/static/chunks/65f1d76f7ac19600.js","/_next/static/chunks/762b6f848ae7b21b.js","/_next/static/chunks/1d5a5c14848b802e.js","/_next/static/chunks/a40e2b25b1a62ac7.js","/_next/static/chunks/c6509abffeae92d2.js","/_next/static/chunks/35eaa08fca66b29e.js","/_next/static/chunks/f91f857f975d1c9f.js","/_next/static/chunks/dabd062b49706f28.js","/_next/static/chunks/740441c5b62d2d93.js","/_next/static/chunks/dcd49895cb9db447.js","/_next/static/chunks/175944aa1545ac7c.js","/_next/static/chunks/16494c9ed210a726.js","/_next/static/chunks/19ed43205a6e84be.js"],"FocusReadingEffect"]
+25:I[502283,["/_next/static/chunks/d03e4f6fdf084240.js","/_next/static/chunks/525ff3aa60c02a25.js","/_next/static/chunks/ae2a70c709da2ba8.js","/_next/static/chunks/eb309b8f06731812.js","/_next/static/chunks/baa674234f056c60.js","/_next/static/chunks/2edc37b4337c096a.js","/_next/static/chunks/6f0408800ece4f06.js","/_next/static/chunks/6f95f3a6a7ed9dab.js","/_next/static/chunks/3c40fd5a14861430.js","/_next/static/chunks/e7855f92c342e0a3.js","/_next/static/chunks/a5fcaccd389d798e.js","/_next/static/chunks/c3456ef3141ade67.js","/_next/static/chunks/c92042fd5179bd95.js","/_next/static/chunks/1737ca787e6b8d4c.js","/_next/static/chunks/d691f1571e343c32.js","/_next/static/chunks/65f1d76f7ac19600.js","/_next/static/chunks/762b6f848ae7b21b.js","/_next/static/chunks/1d5a5c14848b802e.js","/_next/static/chunks/a40e2b25b1a62ac7.js","/_next/static/chunks/c6509abffeae92d2.js","/_next/static/chunks/35eaa08fca66b29e.js","/_next/static/chunks/f91f857f975d1c9f.js","/_next/static/chunks/dabd062b49706f28.js","/_next/static/chunks/740441c5b62d2d93.js","/_next/static/chunks/dcd49895cb9db447.js","/_next/static/chunks/175944aa1545ac7c.js","/_next/static/chunks/16494c9ed210a726.js","/_next/static/chunks/19ed43205a6e84be.js"],"PostMarkdownRenderer",1]
+26:I[194205,["/_next/static/chunks/d03e4f6fdf084240.js","/_next/static/chunks/525ff3aa60c02a25.js","/_next/static/chunks/ae2a70c709da2ba8.js","/_next/static/chunks/eb309b8f06731812.js","/_next/static/chunks/baa674234f056c60.js","/_next/static/chunks/2edc37b4337c096a.js","/_next/static/chunks/6f0408800ece4f06.js","/_next/static/chunks/6f95f3a6a7ed9dab.js","/_next/static/chunks/3c40fd5a14861430.js","/_next/static/chunks/e7855f92c342e0a3.js","/_next/static/chunks/a5fcaccd389d798e.js","/_next/static/chunks/c3456ef3141ade67.js","/_next/static/chunks/c92042fd5179bd95.js","/_next/static/chunks/1737ca787e6b8d4c.js","/_next/static/chunks/d691f1571e343c32.js","/_next/static/chunks/65f1d76f7ac19600.js","/_next/static/chunks/762b6f848ae7b21b.js","/_next/static/chunks/1d5a5c14848b802e.js","/_next/static/chunks/a40e2b25b1a62ac7.js","/_next/static/chunks/c6509abffeae92d2.js","/_next/static/chunks/35eaa08fca66b29e.js","/_next/static/chunks/f91f857f975d1c9f.js","/_next/static/chunks/dabd062b49706f28.js","/_next/static/chunks/740441c5b62d2d93.js","/_next/static/chunks/dcd49895cb9db447.js","/_next/static/chunks/175944aa1545ac7c.js","/_next/static/chunks/16494c9ed210a726.js","/_next/static/chunks/19ed43205a6e84be.js"],"LayoutRightSidePortal"]
+27:I[732298,["/_next/static/chunks/d03e4f6fdf084240.js","/_next/static/chunks/525ff3aa60c02a25.js","/_next/static/chunks/ae2a70c709da2ba8.js","/_next/static/chunks/eb309b8f06731812.js","/_next/static/chunks/baa674234f056c60.js","/_next/static/chunks/2edc37b4337c096a.js","/_next/static/chunks/6f0408800ece4f06.js","/_next/static/chunks/6f95f3a6a7ed9dab.js","/_next/static/chunks/3c40fd5a14861430.js","/_next/static/chunks/e7855f92c342e0a3.js","/_next/static/chunks/a5fcaccd389d798e.js","/_next/static/chunks/c3456ef3141ade67.js","/_next/static/chunks/c92042fd5179bd95.js","/_next/static/chunks/1737ca787e6b8d4c.js","/_next/static/chunks/d691f1571e343c32.js","/_next/static/chunks/65f1d76f7ac19600.js","/_next/static/chunks/762b6f848ae7b21b.js","/_next/static/chunks/1d5a5c14848b802e.js","/_next/static/chunks/a40e2b25b1a62ac7.js","/_next/static/chunks/c6509abffeae92d2.js","/_next/static/chunks/35eaa08fca66b29e.js","/_next/static/chunks/f91f857f975d1c9f.js","/_next/static/chunks/dabd062b49706f28.js","/_next/static/chunks/740441c5b62d2d93.js","/_next/static/chunks/dcd49895cb9db447.js","/_next/static/chunks/175944aa1545ac7c.js","/_next/static/chunks/16494c9ed210a726.js","/_next/static/chunks/19ed43205a6e84be.js"],"PostActionAside"]
+28:I[237493,["/_next/static/chunks/d03e4f6fdf084240.js","/_next/static/chunks/525ff3aa60c02a25.js","/_next/static/chunks/ae2a70c709da2ba8.js","/_next/static/chunks/eb309b8f06731812.js","/_next/static/chunks/baa674234f056c60.js","/_next/static/chunks/2edc37b4337c096a.js","/_next/static/chunks/6f0408800ece4f06.js","/_next/static/chunks/6f95f3a6a7ed9dab.js","/_next/static/chunks/3c40fd5a14861430.js","/_next/static/chunks/e7855f92c342e0a3.js","/_next/static/chunks/a5fcaccd389d798e.js","/_next/static/chunks/c3456ef3141ade67.js","/_next/static/chunks/c92042fd5179bd95.js","/_next/static/chunks/1737ca787e6b8d4c.js","/_next/static/chunks/d691f1571e343c32.js","/_next/static/chunks/65f1d76f7ac19600.js","/_next/static/chunks/762b6f848ae7b21b.js","/_next/static/chunks/1d5a5c14848b802e.js","/_next/static/chunks/a40e2b25b1a62ac7.js","/_next/static/chunks/c6509abffeae92d2.js","/_next/static/chunks/35eaa08fca66b29e.js","/_next/static/chunks/f91f857f975d1c9f.js","/_next/static/chunks/dabd062b49706f28.js","/_next/static/chunks/740441c5b62d2d93.js","/_next/static/chunks/dcd49895cb9db447.js","/_next/static/chunks/175944aa1545ac7c.js","/_next/static/chunks/16494c9ed210a726.js","/_next/static/chunks/19ed43205a6e84be.js"],"ClientOnly"]
+29:I[223245,["/_next/static/chunks/d03e4f6fdf084240.js","/_next/static/chunks/525ff3aa60c02a25.js","/_next/static/chunks/ae2a70c709da2ba8.js","/_next/static/chunks/eb309b8f06731812.js","/_next/static/chunks/baa674234f056c60.js","/_next/static/chunks/2edc37b4337c096a.js","/_next/static/chunks/6f0408800ece4f06.js","/_next/static/chunks/6f95f3a6a7ed9dab.js","/_next/static/chunks/3c40fd5a14861430.js","/_next/static/chunks/e7855f92c342e0a3.js","/_next/static/chunks/a5fcaccd389d798e.js","/_next/static/chunks/c3456ef3141ade67.js","/_next/static/chunks/c92042fd5179bd95.js","/_next/static/chunks/1737ca787e6b8d4c.js","/_next/static/chunks/d691f1571e343c32.js","/_next/static/chunks/65f1d76f7ac19600.js","/_next/static/chunks/762b6f848ae7b21b.js","/_next/static/chunks/1d5a5c14848b802e.js","/_next/static/chunks/a40e2b25b1a62ac7.js","/_next/static/chunks/c6509abffeae92d2.js","/_next/static/chunks/35eaa08fca66b29e.js","/_next/static/chunks/f91f857f975d1c9f.js","/_next/static/chunks/dabd062b49706f28.js","/_next/static/chunks/740441c5b62d2d93.js","/_next/static/chunks/dcd49895cb9db447.js","/_next/static/chunks/175944aa1545ac7c.js","/_next/static/chunks/16494c9ed210a726.js","/_next/static/chunks/19ed43205a6e84be.js"],"PostCopyright"]
+2a:I[732298,["/_next/static/chunks/d03e4f6fdf084240.js","/_next/static/chunks/525ff3aa60c02a25.js","/_next/static/chunks/ae2a70c709da2ba8.js","/_next/static/chunks/eb309b8f06731812.js","/_next/static/chunks/baa674234f056c60.js","/_next/static/chunks/2edc37b4337c096a.js","/_next/static/chunks/6f0408800ece4f06.js","/_next/static/chunks/6f95f3a6a7ed9dab.js","/_next/static/chunks/3c40fd5a14861430.js","/_next/static/chunks/e7855f92c342e0a3.js","/_next/static/chunks/a5fcaccd389d798e.js","/_next/static/chunks/c3456ef3141ade67.js","/_next/static/chunks/c92042fd5179bd95.js","/_next/static/chunks/1737ca787e6b8d4c.js","/_next/static/chunks/d691f1571e343c32.js","/_next/static/chunks/65f1d76f7ac19600.js","/_next/static/chunks/762b6f848ae7b21b.js","/_next/static/chunks/1d5a5c14848b802e.js","/_next/static/chunks/a40e2b25b1a62ac7.js","/_next/static/chunks/c6509abffeae92d2.js","/_next/static/chunks/35eaa08fca66b29e.js","/_next/static/chunks/f91f857f975d1c9f.js","/_next/static/chunks/dabd062b49706f28.js","/_next/static/chunks/740441c5b62d2d93.js","/_next/static/chunks/dcd49895cb9db447.js","/_next/static/chunks/175944aa1545ac7c.js","/_next/static/chunks/16494c9ed210a726.js","/_next/static/chunks/19ed43205a6e84be.js"],"PostBottomBarAction"]
+2b:I[832330,["/_next/static/chunks/d03e4f6fdf084240.js","/_next/static/chunks/525ff3aa60c02a25.js","/_next/static/chunks/ae2a70c709da2ba8.js","/_next/static/chunks/eb309b8f06731812.js","/_next/static/chunks/baa674234f056c60.js","/_next/static/chunks/2edc37b4337c096a.js","/_next/static/chunks/6f0408800ece4f06.js","/_next/static/chunks/6f95f3a6a7ed9dab.js","/_next/static/chunks/3c40fd5a14861430.js","/_next/static/chunks/e7855f92c342e0a3.js","/_next/static/chunks/a5fcaccd389d798e.js","/_next/static/chunks/c3456ef3141ade67.js","/_next/static/chunks/c92042fd5179bd95.js","/_next/static/chunks/1737ca787e6b8d4c.js","/_next/static/chunks/d691f1571e343c32.js","/_next/static/chunks/65f1d76f7ac19600.js","/_next/static/chunks/762b6f848ae7b21b.js","/_next/static/chunks/1d5a5c14848b802e.js","/_next/static/chunks/a40e2b25b1a62ac7.js","/_next/static/chunks/c6509abffeae92d2.js","/_next/static/chunks/35eaa08fca66b29e.js","/_next/static/chunks/f91f857f975d1c9f.js","/_next/static/chunks/dabd062b49706f28.js","/_next/static/chunks/740441c5b62d2d93.js","/_next/static/chunks/dcd49895cb9db447.js","/_next/static/chunks/175944aa1545ac7c.js","/_next/static/chunks/16494c9ed210a726.js","/_next/static/chunks/19ed43205a6e84be.js"],"BottomToUpSoftScaleTransitionView"]
+2c:I[615780,["/_next/static/chunks/d03e4f6fdf084240.js","/_next/static/chunks/525ff3aa60c02a25.js","/_next/static/chunks/ae2a70c709da2ba8.js","/_next/static/chunks/eb309b8f06731812.js","/_next/static/chunks/baa674234f056c60.js","/_next/static/chunks/2edc37b4337c096a.js","/_next/static/chunks/6f0408800ece4f06.js","/_next/static/chunks/6f95f3a6a7ed9dab.js","/_next/static/chunks/3c40fd5a14861430.js","/_next/static/chunks/e7855f92c342e0a3.js","/_next/static/chunks/a5fcaccd389d798e.js","/_next/static/chunks/c3456ef3141ade67.js","/_next/static/chunks/c92042fd5179bd95.js","/_next/static/chunks/1737ca787e6b8d4c.js","/_next/static/chunks/d691f1571e343c32.js","/_next/static/chunks/65f1d76f7ac19600.js","/_next/static/chunks/762b6f848ae7b21b.js","/_next/static/chunks/1d5a5c14848b802e.js","/_next/static/chunks/a40e2b25b1a62ac7.js","/_next/static/chunks/c6509abffeae92d2.js","/_next/static/chunks/35eaa08fca66b29e.js","/_next/static/chunks/f91f857f975d1c9f.js","/_next/static/chunks/dabd062b49706f28.js","/_next/static/chunks/740441c5b62d2d93.js","/_next/static/chunks/dcd49895cb9db447.js","/_next/static/chunks/175944aa1545ac7c.js","/_next/static/chunks/16494c9ed210a726.js","/_next/static/chunks/19ed43205a6e84be.js"],"CommentAreaRootLazy"]
+2d:I[194205,["/_next/static/chunks/d03e4f6fdf084240.js","/_next/static/chunks/525ff3aa60c02a25.js","/_next/static/chunks/ae2a70c709da2ba8.js","/_next/static/chunks/eb309b8f06731812.js","/_next/static/chunks/baa674234f056c60.js","/_next/static/chunks/2edc37b4337c096a.js","/_next/static/chunks/6f0408800ece4f06.js","/_next/static/chunks/6f95f3a6a7ed9dab.js","/_next/static/chunks/3c40fd5a14861430.js","/_next/static/chunks/e7855f92c342e0a3.js","/_next/static/chunks/a5fcaccd389d798e.js","/_next/static/chunks/c3456ef3141ade67.js","/_next/static/chunks/c92042fd5179bd95.js","/_next/static/chunks/1737ca787e6b8d4c.js","/_next/static/chunks/d691f1571e343c32.js","/_next/static/chunks/65f1d76f7ac19600.js","/_next/static/chunks/762b6f848ae7b21b.js","/_next/static/chunks/1d5a5c14848b802e.js","/_next/static/chunks/a40e2b25b1a62ac7.js","/_next/static/chunks/c6509abffeae92d2.js","/_next/static/chunks/35eaa08fca66b29e.js","/_next/static/chunks/f91f857f975d1c9f.js","/_next/static/chunks/dabd062b49706f28.js","/_next/static/chunks/740441c5b62d2d93.js","/_next/static/chunks/dcd49895cb9db447.js","/_next/static/chunks/175944aa1545ac7c.js","/_next/static/chunks/16494c9ed210a726.js","/_next/static/chunks/19ed43205a6e84be.js"],"LayoutRightSideProvider"]
+2e:I[185368,["/_next/static/chunks/d03e4f6fdf084240.js","/_next/static/chunks/525ff3aa60c02a25.js","/_next/static/chunks/ae2a70c709da2ba8.js","/_next/static/chunks/eb309b8f06731812.js","/_next/static/chunks/baa674234f056c60.js","/_next/static/chunks/2edc37b4337c096a.js","/_next/static/chunks/6f0408800ece4f06.js","/_next/static/chunks/6f95f3a6a7ed9dab.js","/_next/static/chunks/3c40fd5a14861430.js","/_next/static/chunks/e7855f92c342e0a3.js","/_next/static/chunks/a5fcaccd389d798e.js","/_next/static/chunks/c3456ef3141ade67.js","/_next/static/chunks/c92042fd5179bd95.js","/_next/static/chunks/1737ca787e6b8d4c.js","/_next/static/chunks/d691f1571e343c32.js","/_next/static/chunks/65f1d76f7ac19600.js","/_next/static/chunks/762b6f848ae7b21b.js","/_next/static/chunks/1d5a5c14848b802e.js","/_next/static/chunks/a40e2b25b1a62ac7.js","/_next/static/chunks/c6509abffeae92d2.js","/_next/static/chunks/35eaa08fca66b29e.js","/_next/static/chunks/f91f857f975d1c9f.js","/_next/static/chunks/dabd062b49706f28.js","/_next/static/chunks/740441c5b62d2d93.js","/_next/static/chunks/dcd49895cb9db447.js","/_next/static/chunks/175944aa1545ac7c.js","/_next/static/chunks/16494c9ed210a726.js","/_next/static/chunks/19ed43205a6e84be.js"],"OnlyMobile"]
+2f:I[233113,["/_next/static/chunks/d03e4f6fdf084240.js","/_next/static/chunks/525ff3aa60c02a25.js","/_next/static/chunks/ae2a70c709da2ba8.js","/_next/static/chunks/eb309b8f06731812.js","/_next/static/chunks/baa674234f056c60.js","/_next/static/chunks/2edc37b4337c096a.js","/_next/static/chunks/6f0408800ece4f06.js","/_next/static/chunks/6f95f3a6a7ed9dab.js","/_next/static/chunks/3c40fd5a14861430.js","/_next/static/chunks/e7855f92c342e0a3.js","/_next/static/chunks/a5fcaccd389d798e.js","/_next/static/chunks/c3456ef3141ade67.js","/_next/static/chunks/c92042fd5179bd95.js","/_next/static/chunks/1737ca787e6b8d4c.js","/_next/static/chunks/d691f1571e343c32.js","/_next/static/chunks/65f1d76f7ac19600.js","/_next/static/chunks/762b6f848ae7b21b.js","/_next/static/chunks/1d5a5c14848b802e.js","/_next/static/chunks/a40e2b25b1a62ac7.js","/_next/static/chunks/c6509abffeae92d2.js","/_next/static/chunks/35eaa08fca66b29e.js","/_next/static/chunks/f91f857f975d1c9f.js","/_next/static/chunks/dabd062b49706f28.js","/_next/static/chunks/740441c5b62d2d93.js","/_next/static/chunks/dcd49895cb9db447.js","/_next/static/chunks/175944aa1545ac7c.js","/_next/static/chunks/16494c9ed210a726.js","/_next/static/chunks/19ed43205a6e84be.js"],"TocFAB"]
+30:I[95276,["/_next/static/chunks/3c40fd5a14861430.js","/_next/static/chunks/4197b04c4f1d962d.js","/_next/static/chunks/70af310ba2a3e461.js","/_next/static/chunks/9df4409b3ebd95fb.js","/_next/static/chunks/e52d234aac494225.js"],"OutletBoundary"]
+31:"$Sreact.suspense"
+:HL["/_next/static/chunks/136744c992bad96d.css","style"]
+:HL["/_next/static/chunks/0169140b52b18b81.css","style"]
+:HL["/_next/static/chunks/cf19f565ce194e50.css","style"]
+:HL["/_next/static/chunks/2a531debc05d9c48.css","style"]
+:HL["/_next/static/chunks/f6d4eb0f1595037c.css","style"]
+:HL["/_next/static/chunks/be9fe8599e8928e8.css","style"]
+5:T3968,*Part 2 of 5.* [← Survey](/posts/modern-graph-theory/k4-ramsey-turan-1) · [Proof →](/posts/modern-graph-theory/k4-ramsey-turan-3)
+
+## 定义与主要工具
+
+### 关于图
+
+$$
+G 的最小度
+
+我们从原图 G 中取一个最小子集 V_1\subseteq V，令 G_1=G[V_1]，并记 n_1=|V_1|、\alpha_1=\alpha(G_1)/n_1，其中 V_1 满足：
+$$
+
+e(G_1)>\frac{|V_1|^2+|V_1|}{8}+\frac{\alpha-\alpha^2}{2}n^2,
+
+**Remark 7.**
+
+我觉得这一步是整篇论文最关键的地方。
+
+主定理中的条件是：
+
+e(G)>\frac{n^2+n}{8}+\frac{\alpha-\alpha^2}{2}n^2,
+
+然后在这里，我们之所以先这样取一个极小的诱导子图 G_1，主要是为了同时保留“边数仍然足够多”和“结构更容易控制”这两个特点。这样的话，我们一旦删去任意一个顶点就会破坏边数条件，于是在此基础上可以反推出 G_1 具有较好的最小度下界，而且这样删能够方便后续的计数。换句话说，这一步的作用就是把原问题约化到一个更适合后续构造和计数的情形。
+
+**Claim.**
+
+子图 G_1 的顶点数严格大于
+
+\sqrt{\alpha(G)n/2},
+
+$$
+从而在 n\ge N 时也有
+$$
+
+|V(G_1)|>\sqrt{\alpha(G)N/2}.
+
+**Proof.**
+
+由 V_1 的选取方式可知
+
+e(G_1)>\frac{\alpha-\alpha^2}{2}n^2.
+
+$$
+又因为 \alpha\le \gamma<1/2，于是
+$$
+
+\frac{\alpha-\alpha^2}{2}n^2=\frac{\alpha(1-\alpha)}{2}n^2>\frac{\alpha n^2}{4}=\frac{\alpha(G)n}{4}.
+
+$$
+另一方面，G_1 是简单图，故 |V(G_1)|>\sqrt{\alpha(G)n/2}。
+
+**Note.**
+
+(这里原文的细节没有写完整，我自己补充一下)
+
+我们记 t=|V(G_1)|，由于G_1 是简单图，故
+$$
+
+e(G_1)\le \binom{t}{2}<\frac{t^2}{2}.
+
+$$
+假设
+$$
+
+t\le \sqrt{\alpha(G)n/2},
+
+$$
+那么就有
+$$
+
+e(G_1)<\frac{1}{2}\cdot \frac{\alpha(G)n}{2}=\frac{\alpha(G)n}{4},
+
+这与上面的下界矛盾。因此必有
+
+|V(G_1)|>\sqrt{\alpha(G)n/2}.
+
+$$
+再结合 n\ge N，立即得到
+$$
+
+|V(G_1)|>\sqrt{\alpha(G)N/2}.
+
+$$
+∎
+
+(clm:minimal-subgraph-size) 中的下界，是把 1-\alpha 直接粗略估成了 1/2。虽然这一步对后面的证明没有影响，但如果我们保留原式中的 \alpha(1-\alpha)，可以直接得到更强的
+$$
+
+|V(G_1)|>\sqrt{\alpha(G)(n-\alpha(G))}.
+
+**Claim.**
+
+图 G_1 的最小度至少为 n_1/4。此外，
+
+e(G_1)>\frac{n_1^2+n_1}{8}+\frac{\alpha_1-\alpha_1^2}{2}n_1^2.
+
+$$
+**Proof.**
+
+由 V_1 的最小性可知，对任意 v\in V_1，删去 v 之后得到的图都不再满足定义
+V_1 时所要求的边数条件，因此
+$$
+
+e\bigl(G_1[V_1-v]\bigr)\le \frac{(n_1-1)^2+n_1-1}{8}+\frac{\alpha-\alpha^2}{2}n^2.
+
+$$
+另一方面，
+$$
+
+\deg_{G_1}(v)=e(G_1)-e\bigl(G_1[V_1-v]\bigr).
+
+$$
+于是
+$$
+
+\deg_{G_1}(v)\ge
+\left(\frac{n_1^2+n_1}{8}+\frac{\alpha-\alpha^2}{2}n^2\right)
+-\left(\frac{(n_1-1)^2+n_1-1}{8}+\frac{\alpha-\alpha^2}{2}n^2\right)
+=\frac{n_1}{4}.
+
+由 v 的任意性，所以 G_1 的最小度至少为 n_1/4。
+
+下面证明第二个不等式，我们只需证明
+
+\alpha(G)n-\alpha(G)^2\ge \alpha(G_1)n-\alpha(G_1)^2,
+
+**Note.**
+
+(这里原文的细节没有写完整，我自己补充一下)
+
+这里之所以“只需证明”这一点，是因为我们最终想要推出的是
+
+e(G_1)>\frac{n_1^2+n_1}{8}+\frac{\alpha_1-\alpha_1^2}{2}n_1^2,
+
+$$
+其中 \alpha_1=\alpha(G_1)/n_1。而由 G_1 的定义已经知道
+$$
+
+e(G_1)>\frac{n_1^2+n_1}{8}+\frac{\alpha-\alpha^2}{2}n^2
+
+$$
+并且
+$$
+
+\frac{\alpha-\alpha^2}{2}n^2
+=
+\frac{1}{2}\bigl(\alpha(G)n-\alpha(G)^2\bigr).
+
+$$
+另一方面，
+$$
+
+\frac{\alpha_1-\alpha_1^2}{2}n_1^2
+=
+\frac{1}{2}\bigl(\alpha(G_1)n_1-\alpha(G_1)^2\bigr).
+
+因此，我们只要证明
+
+\alpha(G)n-\alpha(G)^2\ge \alpha(G_1)n_1-\alpha(G_1)^2,
+
+$$
+因为由 n_1\le n 可知
+$$
+
+\alpha(G_1)n-\alpha(G_1)^2\ge \alpha(G_1)n_1-\alpha(G_1)^2.
+
+将前一个不等式除以 n^2，得到
+
+\frac{\alpha(G)}{n}-\frac{\alpha(G)^2}{n^2}
+\ge
+\frac{\alpha(G_1)}{n}-\frac{\alpha(G_1)^2}{n^2}.
+
+$$
+由于 \alpha(G_1)\le \alpha(G)<n/2，而函数 f(x)=x-x^2 在区间 (0,1/2) 上单调递增，因此上式成立。
+
+∎
+
+**Remark 8.**
+
+在证明主定理时，我们不妨设 \alpha(G)\ge 2；否则
+\alpha(G)=1，这时 G 是完全图，结论是平凡的。我们结合前面两个断言可知，我们所研究的问题到后面实际上只需考虑这样一类图：它们的顶点数满足
+$$
+
+n\ge \sqrt{\alpha(G)N/2}\ge \sqrt{N}
+=\exp\!\left(\frac{5\log(1/\nu)}{\nu}\right)
+=\exp(2500\log 500),
+
+并且最小度至少为 n/4。
+
+### 寻找一个大的拟随机二分对
+
+**Definition 1.**
+
+如果二部图 $F$ 的两部分是 $A,B$，并且对任意满足
+
+$$
+|A'|\ge \varepsilon |A|,  |B'|\ge \varepsilon |B|
+$$
+
+的子集 $A'\subseteq A$、$B'\subseteq B$，都有
+
+$$
+\bigl|d_F(A,B)-d_F(A',B')\bigr|\le \varepsilon,
+$$
+
+那么就称 $F$ 是一个 \keypart{$\varepsilon$-regular pair}。
+
+**Definition 2.**
+
+若二部图 $F$ 的两部分为 $A,B$，并且对任意满足
+
+$$
+|A'|\ge \varepsilon |A|,  |B'|\ge \varepsilon |B|
+$$
+
+的子集 $A'\subseteq A$、$B'\subseteq B$，都有
+
+$$
+d_F(A',B')\ge \varepsilon,
+$$
+
+则称 $F$ 是一个 \keypart{$\varepsilon^+$-regular pair}。
+
+**Claim.**
+
+若 $F=F(A,B)$ 是一个二部图，且 $1\le k\le |A|$、$1\le m\le |B|$，则
+
+$$
+d_F(A,B)=\frac{1}{\binom{|A|}{k}\binom{|B|}{m}}
+\sum_{X\in\binom{A}{k},\,Y\in\binom{B}{m}} d_F(X,Y).
+$$
+
+**Note.**
+
+(这里原文没有证明，我自己补充一下)
+
+对所有满足 $|X|=k$、$|Y|=m$ 的子集对 $(X,Y)$，我们考虑二部图 $F[X,Y]$ 中边的总数之和。固定一条边
+$ab\in E(A,B)$，其中 $a\in A$、$b\in B$。它恰好会在
+
+$$
+\binom{|A|-1}{k-1}\binom{|B|-1}{m-1}
+$$
+
+个子集对 $(X,Y)$ 中出现，因为我们需要在 $A\setminus\{a\}$ 中再选出 $k-1$ 个点，在
+$B\setminus\{b\}$ 中再选出 $m-1$ 个点。因此
+
+$$
+\sum_{X\in\binom{A}{k},\,Y\in\binom{B}{m}} e_F(X,Y)
+=
+e_F(A,B)\binom{|A|-1}{k-1}\binom{|B|-1}{m-1}.
+$$
+
+左右两边同时除以
+
+$$
+\binom{|A|}{k}\binom{|B|}{m}\,km
+$$
+
+又因为
+
+$$
+\frac{\binom{|A|-1}{k-1}}{\binom{|A|}{k}}=\frac{k}{|A|},
+
+\frac{\binom{|B|-1}{m-1}}{\binom{|B|}{m}}=\frac{m}{|B|},
+$$
+
+就得到
+
+$$
+\frac{1}{\binom{|A|}{k}\binom{|B|}{m}}
+\sum_{X\in\binom{A}{k},\,Y\in\binom{B}{m}} \frac{e_F(X,Y)}{km}
+=
+\frac{e_F(A,B)}{|A||B|}.
+$$
+
+这也就是我们所要证明的等式。
+
+**Lemma 1.**
+
+设 $F[A,B]$ 是一个二部图，其中 $|A|=a$、$|B|=b$，并且 $A$ 中每个顶点在 $B$ 中至少有 $\delta b$ 个邻点。若 $0<\varepsilon\le \delta/6$，则 $F$ 含有一个 $\varepsilon^+$-regular pair 子图 $F[X,Y]$，满足
+
+$$
+|X|\ge \exp\!\left(-\frac{2\log(2/\varepsilon)\log(2/\delta)}{\varepsilon}\right)a,
+
+|Y|\ge (\delta-2\varepsilon)b,
+$$
+
+并且对每个 $v\in X$ 都有
+
+$$
+\deg(v,Y)\ge (\delta-2\varepsilon)b.
+$$
+
+**Proof.**
+
+我们构造两列集合
+
+$$
+X_0,X_1,\dots,X_\ell,  Y_0,Y_1,\dots,Y_\ell,
+$$
+
+其中 $X_0=A$、$Y_0=B$，并要求 $F[X_\ell,Y_\ell]$ 是一个 $\varepsilon^+$-regular pair，
+而且对每个 $1\le i\le \ell$，都有
+
+$$
+X_i\subset X_{i-1},  Y_i\subset Y_{i-1},
+$$
+
+并满足
+
+$$
+\varepsilon |X_{i-1}|/2\le |X_i|\le \varepsilon |X_{i-1}|
+$$
+
+以及
+
+$$
+|Y_i|=(1-\varepsilon)|Y_{i-1}|.
+$$
+
+这样最后只需取 $X=X_\ell$、$Y=Y_\ell$ 即可。
+
+我们通过一个迭代来构造这些集合：若在第 $i$ 步时 $F[X_i,Y_i]$ 已经是
+$\varepsilon^+$-regular pair，那么过程停止。另一个停止条件是：若对某个 $i$ 有
+
+$$
+|Y_i|\le (\delta(1+\varepsilon/2)-2\varepsilon)b,
+$$
+
+也停止。
+
+**Remark 9.**
+
+后面我们会说明，在这种情形下 $F[X_i,Y_i]$ 同样必然是一个
+$\varepsilon^+$-regular pair。
+
+开始时先检查 $F[X_0,Y_0]$ 是否已经是 $\varepsilon^+$-regular pair。若是，则停止。
+若不是，则存在 $S\subseteq X_0$、$T\subseteq Y_0$，满足
+
+$$
+|S|\ge \varepsilon |X_0|,  |T|\ge \varepsilon |Y_0|,
+$$
+
+并且
+
+$$
+d_F(S,T)<\varepsilon.
+$$
+
+令
+
+$$
+k=\varepsilon |X_0|,  m=\varepsilon |Y_0|,
+$$
+
+于是，$S$ 的所有 $k$ 元子集
+与 $T$ 的所有 $m$ 元子集之间的平均密度小于 $\varepsilon$。
+
+**Note.**
+
+平均密度小于 $\varepsilon$是由 (clm:density-convexity)，
+
+$$
+d_F(S,T)=\frac{1}{\binom{|S|}{k}\binom{|T|}{m}}
+\sum_{X\in\binom{S}{k},\,Y\in\binom{T}{m}} d_F(X,Y).
+$$
+
+又因为 $d_F(S,T)<\varepsilon$，所以
+
+$$
+\frac{1}{\binom{|S|}{k}\binom{|T|}{m}}
+\sum_{X\in\binom{S}{k},\,Y\in\binom{T}{m}} d_F(X,Y)<\varepsilon.
+$$
+
+这就是说，在所有满足 $|X|=k$、$|Y|=m$ 的子集对 $(X,Y)$ 中，密度
+$d_F(X,Y)$ 的平均值小于 $\varepsilon$。因此必存在某一对子集 $X_1'\subseteq S$、
+$Y_1'\subseteq T$，满足 $|X_1'|=k$、$|Y_1'|=m$，并且
+
+$$
+d_F(X_1',Y_1')<\varepsilon.
+$$
+
+也就是：
+
+$$
+e(F[X_1',Y_1'])<\varepsilon |X_1'||Y_1'|.
+$$
+
+因此存在
+
+$$
+X_1'\subseteq S,  Y_1'\subseteq T
+$$
+
+使得
+
+$$
+|X_1'|=\varepsilon |X_0|,  |Y_1'|=\varepsilon |Y_0|,
+$$
+
+并且
+
+$$
+e(F[X_1',Y_1'])<\varepsilon |X_1'||Y_1'|.
+$$
+
+定义
+
+$$
+X_1''=\{x\in X_1':\deg(x,Y_1')>2\varepsilon |Y_1'|\}.
+$$
+
+我们可得
+
+$$
+|X_1''|\le |X_1'|/2.
+$$
+
+**Note.**
+
+这里我们用简单的反证法即可说明。
+  首先由$X_1''$的定义我们有：
+
+$$
+e(F[X_1',Y_1'])>|X_1''|\cdot2|Y_1'|.
+$$
+
+若
+
+$$
+|X_1''|> |X_1'|/2,
+$$
+
+则
+
+$$
+\varepsilon>\frac{e(F[X_1',Y_1'])}{|X_1'||Y_1'|}>\frac{|X_1''|\cdot2|Y_1'|}{2|X_1''|\cdot |Y_1'|}=\varepsilon.
+$$
+
+矛盾！
+
+令
+
+$$
+X_1=X_1'-X_1'',
+$$
+
+也就是说，$X_1$ 由 $X_1'$ 中那些在 $Y_1'$ 中至多有 $2\varepsilon |Y_1'|$ 个邻点的顶点组成。
+于是
+
+$$
+|X_1'|/2\le |X_1|\le |X_1'|.
+$$
+
+再令
+
+$$
+Y_1=Y_0-Y_1'.
+$$
+
+同时由 $X_1',Y_1'$ 的定义我们有
+
+$$
+\varepsilon |X_0|/2\le |X_1|\le \varepsilon |X_0|,  |Y_1|=(1-\varepsilon)|Y_0|.
+$$
+
+对 $i\ge 2$，完全类似。若 $F[X_{i-1},Y_{i-1}]$ 不是 $\varepsilon^+$-regular pair，我们的做法和前面相同，
+由 (clm:density-convexity) 可以找到
+
+$$
+X_i'\subset X_{i-1},  Y_i'\subset Y_{i-1},
+$$
+
+使得
+
+$$
+|X_i'|=\varepsilon |X_{i-1}|,  |Y_i'|=\varepsilon |Y_{i-1}|,
+$$
+
+并且
+
+$$
+e(F[X_i',Y_i'])<\varepsilon |X_i'||Y_i'|.
+$$
+
+同样定义
+
+$$
+X_i''=\{x\in X_i':\deg(x,Y_i')>2\varepsilon |Y_i'|\},
+$$
+
+则有
+
+$$
+|X_i''|\le |X_i'|/2.
+$$
+
+接着令
+
+$$
+X_i=X_i'-X_i'',  Y_i=Y_{i-1}-Y_i'.
+$$
+
+于是
+
+$$
+|X_i'|/2\le |X_i|\le |X_i'|,
+$$
+
+也就是
+
+$$
+\varepsilon |X_{i-1}|/2\le |X_i|\le \varepsilon |X_{i-1}|,  |Y_i|=(1-\varepsilon)|Y_{i-1}|.
+$$
+
+这就证明了对每个 $i$，上面要求的关于 $|X_i|$ 与 $|Y_i|$ 的估计都成立。
+
+接下来我们由 (clm:iterative-neighbor-bound)。若 $u\in X_\ell$，则它在
+
+$$
+Y_1'\cup \cdots \cup Y_\ell'
+$$
+
+中的邻点数至多为
+
+$$
+2\varepsilon\bigl(|Y_1'|+\cdots+|Y_\ell'|\bigr).
+$$
+
+因此
+
+$$
+\deg(u,Y_\ell)\ge (\delta-2\varepsilon)b.
+$$
+
+这同时也说明
+
+$$
+|Y_\ell|\ge (\delta-2\varepsilon)b.
+$$
+
+**Remark 10.**
+
+下面说明，如果
+
+$$
+(\delta-2\varepsilon)b\le |Y_\ell|\le (\delta(1+\varepsilon/2)-2\varepsilon)b,
+$$
+
+那么 $F[X_\ell,Y_\ell]$ 必然是一个 $\varepsilon^+$-regular pair。
+
+我们任取 $u\in X_\ell$，
+则 $u$ 在 $Y_\ell$ 中的非邻点数至多为
+
+$$
+|Y_l|-(\delta-2\varepsilon)b\le(\delta(1+\varepsilon/2)-2\varepsilon)b-(\delta-2\varepsilon)b=\delta\varepsilon b/2.
+$$
+
+任取 $Y'\subset Y_\ell$，满足
+
+$$
+|Y'|=\varepsilon |Y_\ell|.
+$$
+
+则 $u$ 在 $Y'$ 中的邻点数至少为
+
+$$
+\varepsilon |Y_\ell|-\delta\varepsilon b/2.
+$$
+
+接下来，我们来验证
+
+$$
+\varepsilon |Y_\ell|-\delta\varepsilon b/2\ge \varepsilon |Y'|=\varepsilon^2|Y_\ell|=\varepsilon|Y'|.
+$$
+
+**Remark 11.**
+
+如果我们需要验证的这个是成立的，那么对任意满足 $|Y'|=\varepsilon |Y_\ell|$ 的子集 $Y'\subset Y_\ell$，以及任意
+$u\in X_\ell$，\keypart{它在 $Y'$ 中至少有 $\varepsilon |Y'|$ 个邻点。}于是对任意
+$X'\subset X_\ell$、$Y'\subset Y_\ell$，只要
+
+$$
+|Y'|=\varepsilon |Y_\ell|,
+$$
+
+就有
+
+$$
+e(X',Y')\ge \varepsilon |X'||Y'|.
+$$
+
+这就说明如果迭代过程是因为第二个停止条件而停止，那么最终得到的二分对一定是 $\varepsilon^+$-regular 的。
+
+我们要验证的等价于
+
+$$
+|Y_\ell|(1-\varepsilon)\ge \delta b/2.
+$$
+
+由于
+
+$$
+|Y_\ell|\ge (\delta-2\varepsilon)b,
+$$
+
+故我们只需证明
+
+$$
+(\delta-2\varepsilon)(1-\varepsilon)\ge \delta/2.
+$$
+
+而由 $\varepsilon\le \delta/6\le 1/6$ 可知
+
+$$
+(\delta-2\varepsilon)(1-\varepsilon)\ge \frac{2\delta}{3}\cdot \frac56>\frac{\delta}{2}.
+$$
+
+故成立。这就说明，如果迭代过程是因为第二个停止条件而停止，那么最终得到的二分对一定是 $\varepsilon^+$-regular 的。
+
+下面我们来估计迭代步数 \keypart{$l$} 。在每一次迭代中，$Y$ 一侧都缩小 $(1-\varepsilon)$ 倍。同时我们又知道
+
+$$
+|Y_\ell|\ge (\delta-2\varepsilon)b.
+$$
+
+因此
+
+$$
+(1-\varepsilon)^\ell\ge (\delta-2\varepsilon)>\delta/2.
+$$
+
+于是
+
+$$
+\ell<\frac{\log(2/\delta)}{\log(1/(1-\varepsilon))}<\frac{\log(2/\delta)}{\varepsilon},
+$$
+
+**Note.**
+
+这里是由于
+
+$$
+e^\varepsilon<\frac{1}{1-\varepsilon}  (0<\varepsilon<1).
+$$
+
+两边取对数就有
+
+$$
+\log\left(\frac{1}{1-\varepsilon}\right)>\varepsilon
+$$
+
+最后我们来估计 $|X_\ell|$。对每个 $i\ge 1$，都有
+
+$$
+|X_i|/|X_{i-1}|\ge \varepsilon/2.
+$$
+
+因此
+
+$$
+|X_\ell|\ge \left(\frac{\varepsilon}{2}\right)^\ell a
+\ge \exp\!\left(-\frac{2\log(2/\varepsilon)\log(2/\delta)}{\varepsilon}\right)a.
+$$
+
+这就完成了我们的证明。
+
+(lem:large-regular-pair) 可以说是支撑这整个证明的最重要的一个引理。相比 (lem:large-regular-pair) ，我们引入了一个新参数进行推广，得到了一个更精细的下界，具体请见 (prop4.2)。
+
+∎
+
+**Claim.**
+
+若 $i\ge 1$ 且 $u\in X_i$，那么 $u$ 在
+
+$$
+Y_1'\cup Y_2'\cup \cdots \cup Y_i'
+$$
+
+中的邻点数至多为
+
+$$
+2\varepsilon\bigl(|Y_1'|+\cdots+|Y_i'|\bigr).
+$$
+
+**Note.**
+
+(这里原文没有证明，说是留给读者自己去证明，我自己补充一下)
+
+对每个 $j\in \{1,\dots,i\}$，由于
+
+$$
+X_j=X_j'-X_j'',
+
+X_j''=\{x\in X_j':\deg(x,Y_j')>2\varepsilon |Y_j'|\},
+$$
+
+所以凡是属于 $X_j$ 的顶点 $u$，都满足
+
+$$
+\deg(u,Y_j')\le 2\varepsilon |Y_j'|.
+$$
+
+另一方面，由构造可知
+
+$$
+X_i\subseteq X_{i-1}\subseteq \cdots \subseteq X_1,
+$$
+
+因此若 $u\in X_i$，那么对每个 $1\le j\le i$ 都有 $u\in X_j$，从而
+
+$$
+\deg(u,Y_j')\le 2\varepsilon |Y_j'|.
+$$
+
+又因为
+
+$$
+Y_j=Y_{j-1}-Y_j'   (1\le j\le i),
+$$
+
+所以各个集合 $Y_1',Y_2',\dots,Y_i'$ 两两不交。于是 $u$ 在并集
+
+$$
+Y_1'\cup Y_2'\cup \cdots \cup Y_i'
+$$
+
+中的邻点数就是它在这些集合中的邻点数之和，因此
+
+$$
+\deg\bigl(u,Y_1'\cup Y_2'\cup \cdots \cup Y_i'\bigr)
+=\sum_{j=1}^i \deg(u,Y_j')
+\le \sum_{j=1}^i 2\varepsilon |Y_j'|
+=2\varepsilon\bigl(|Y_1'|+\cdots+|Y_i'|\bigr).
+$$
+
+## PDF
+
+Download the original write-up [here](/files/Grade3/Reports/k4-ramsey-turan.pdf).0:{"buildId":"rZLQ8EVqblT6xTH8wdhS0","rsc":["$","$1","c",{"children":[["$","$L2",null,{"hasContent":false,"children":[false,["$","$L3",null,{"baseLdJson":{"@context":"https://schema.org","@type":"BlogPosting","headline":"K₄ Ramsey–Turán II — Tools","description":"Course report on the Ramsey–Turán problem for K₄, split by section.","datePublished":"2026-06-12T00:00:00.000Z","dateModified":"2026-06-12T00:00:00.000Z"}}],["$","$L4",null,{"data":{"id":"post-k4-ramsey-turan-2","created":"2026-06-12T00:00:00.000Z","modified":"2026-06-12T00:00:00.000Z","title":"K₄ Ramsey–Turán II — Tools","text":"$5","summary":"Course report on the Ramsey–Turán problem for K₄, split by section.","copyright":true,"tags":["Homework","Graph Theory","Modern Graph Theory","Ramsey-Turán"],"slug":"k4-ramsey-turan-2","categoryId":"cat-mgt","category":{"id":"cat-mgt","slug":"modern-graph-theory","name":"Modern Graph Theory","created":"2026-03-01T00:00:00.000Z","type":0,"count":20},"images":[],"pin":null,"pinOrder":0,"related":[],"allowComment":true,"commentsIndex":0,"count":{"read":0,"like":0}}}],"$L6","$L7","$L8"]}],["$L9","$La","$Lb","$Lc","$Ld","$Le","$Lf","$L10","$L11","$L12","$L13","$L14","$L15","$L16"],"$L17"]}],"loading":null,"isPartial":false}
+6:["$","$L18",null,{"fetchedAt":"2026-08-19T10:14:38.859Z"}]
+7:["$","div",null,{"data-server-fetched-at":"2026-08-19T10:14:38.859Z","className":"relative flex min-h-[120px] grid-cols-[auto_200px] lg:grid","children":[["$","$L19",null,{"lcpOptimization":true,"className":"min-w-0","children":[["$","div",null,{"className":"relative w-full min-w-0","children":[["$","$L1a",null,{"id":"post-k4-ramsey-turan-2","type":"post"}],["$","div",null,{"children":[["$","div",null,{"className":"mb-8","children":[["$","$L1b",null,{}],["$","$L1c",null,{"id":"post-k4-ramsey-turan-2","type":"posts","className":"absolute -top-6 right-0"}],["$","$L1d",null,{"className":"mb-8 justify-center"}],["$","$L1e",null,{}],["$","$L1f",null,{"type":"before"}]]}],["$","$L20",null,{"eoaDetect":true,"children":[["$","$L21",null,{}],["$","$L22",null,{"children":["$","$L23",null,{"children":["$","article",null,{"className":"prose","children":[["$","div",null,{"className":"sr-only","children":["$","$L1b",null,{}]}],["$","$L24",null,{}],["$","$L25",null,{}]]}]}]}],["$","$L26",null,{"children":["$","$L27",null,{}]}]]}]]}],["$","$L28",null,{"children":[["$","$L1f",null,{}],["$","$L29",null,{}],["$","$L2a",null,{}]]}]]}],["$","$L2b",null,{"delay":500,"children":["$","$L2c",null,{"refId":"post-k4-ramsey-turan-2","allowComment":true}]}]]}],["$","$L2d",null,{"className":"relative hidden lg:block"}]]}]
+8:["$","$L2e",null,{"children":["$","$L2f",null,{}]}]
+9:["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/136744c992bad96d.css","precedence":"next"}]
+a:["$","link","1",{"rel":"stylesheet","href":"/_next/static/chunks/0169140b52b18b81.css","precedence":"next"}]
+b:["$","link","2",{"rel":"stylesheet","href":"/_next/static/chunks/cf19f565ce194e50.css","precedence":"next"}]
+c:["$","link","3",{"rel":"stylesheet","href":"/_next/static/chunks/2a531debc05d9c48.css","precedence":"next"}]
+d:["$","link","4",{"rel":"stylesheet","href":"/_next/static/chunks/f6d4eb0f1595037c.css","precedence":"next"}]
+e:["$","link","5",{"rel":"stylesheet","href":"/_next/static/chunks/be9fe8599e8928e8.css","precedence":"next"}]
+f:["$","script","script-0",{"src":"/_next/static/chunks/35eaa08fca66b29e.js","async":true}]
+10:["$","script","script-1",{"src":"/_next/static/chunks/f91f857f975d1c9f.js","async":true}]
+11:["$","script","script-2",{"src":"/_next/static/chunks/dabd062b49706f28.js","async":true}]
+12:["$","script","script-3",{"src":"/_next/static/chunks/740441c5b62d2d93.js","async":true}]
+13:["$","script","script-4",{"src":"/_next/static/chunks/dcd49895cb9db447.js","async":true}]
+14:["$","script","script-5",{"src":"/_next/static/chunks/175944aa1545ac7c.js","async":true}]
+15:["$","script","script-6",{"src":"/_next/static/chunks/16494c9ed210a726.js","async":true}]
+16:["$","script","script-7",{"src":"/_next/static/chunks/19ed43205a6e84be.js","async":true}]
+17:["$","$L30",null,{"children":["$","$31",null,{"name":"Next.MetadataOutlet","children":"$@32"}]}]
+32:null

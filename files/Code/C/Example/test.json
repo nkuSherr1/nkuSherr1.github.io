@@ -1,0 +1,20 @@
+{
+    "name": "南开大学",
+    "url": "https://www.nankai.edu.cn",
+    "foundation": 1919,
+    "address": {
+        "street": "卫津路94号",
+        "city": "天津",
+        "country": "中国"
+    },
+    "links": [
+        {
+            "name": "Google",
+            "url": "http://www.google.com"
+        },
+        {
+            "name": "Baidu",
+            "url": "http://www.baidu.com"
+        }
+    ]
+}

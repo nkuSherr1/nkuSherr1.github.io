@@ -1,0 +1,1429 @@
+1:"$Sreact.fragment"
+2:I[417743,["/_next/static/chunks/d03e4f6fdf084240.js","/_next/static/chunks/525ff3aa60c02a25.js","/_next/static/chunks/ae2a70c709da2ba8.js","/_next/static/chunks/eb309b8f06731812.js","/_next/static/chunks/baa674234f056c60.js","/_next/static/chunks/2edc37b4337c096a.js","/_next/static/chunks/6f0408800ece4f06.js","/_next/static/chunks/6f95f3a6a7ed9dab.js","/_next/static/chunks/3c40fd5a14861430.js","/_next/static/chunks/e7855f92c342e0a3.js","/_next/static/chunks/a5fcaccd389d798e.js","/_next/static/chunks/c3456ef3141ade67.js","/_next/static/chunks/c92042fd5179bd95.js","/_next/static/chunks/1737ca787e6b8d4c.js","/_next/static/chunks/d691f1571e343c32.js","/_next/static/chunks/65f1d76f7ac19600.js","/_next/static/chunks/762b6f848ae7b21b.js","/_next/static/chunks/1d5a5c14848b802e.js","/_next/static/chunks/a40e2b25b1a62ac7.js","/_next/static/chunks/c6509abffeae92d2.js","/_next/static/chunks/35eaa08fca66b29e.js","/_next/static/chunks/f91f857f975d1c9f.js","/_next/static/chunks/dabd062b49706f28.js","/_next/static/chunks/740441c5b62d2d93.js","/_next/static/chunks/dcd49895cb9db447.js","/_next/static/chunks/175944aa1545ac7c.js","/_next/static/chunks/16494c9ed210a726.js","/_next/static/chunks/19ed43205a6e84be.js"],"TocHeadingStrategyProvider"]
+3:I[401946,["/_next/static/chunks/d03e4f6fdf084240.js","/_next/static/chunks/525ff3aa60c02a25.js","/_next/static/chunks/ae2a70c709da2ba8.js","/_next/static/chunks/eb309b8f06731812.js","/_next/static/chunks/baa674234f056c60.js","/_next/static/chunks/2edc37b4337c096a.js","/_next/static/chunks/6f0408800ece4f06.js","/_next/static/chunks/6f95f3a6a7ed9dab.js","/_next/static/chunks/3c40fd5a14861430.js","/_next/static/chunks/e7855f92c342e0a3.js","/_next/static/chunks/a5fcaccd389d798e.js","/_next/static/chunks/c3456ef3141ade67.js","/_next/static/chunks/c92042fd5179bd95.js","/_next/static/chunks/1737ca787e6b8d4c.js","/_next/static/chunks/d691f1571e343c32.js","/_next/static/chunks/65f1d76f7ac19600.js","/_next/static/chunks/762b6f848ae7b21b.js","/_next/static/chunks/1d5a5c14848b802e.js","/_next/static/chunks/a40e2b25b1a62ac7.js","/_next/static/chunks/c6509abffeae92d2.js","/_next/static/chunks/35eaa08fca66b29e.js","/_next/static/chunks/f91f857f975d1c9f.js","/_next/static/chunks/dabd062b49706f28.js","/_next/static/chunks/740441c5b62d2d93.js","/_next/static/chunks/dcd49895cb9db447.js","/_next/static/chunks/175944aa1545ac7c.js","/_next/static/chunks/16494c9ed210a726.js","/_next/static/chunks/19ed43205a6e84be.js"],"LdJsonWithAuthor"]
+4:I[373448,["/_next/static/chunks/d03e4f6fdf084240.js","/_next/static/chunks/525ff3aa60c02a25.js","/_next/static/chunks/ae2a70c709da2ba8.js","/_next/static/chunks/eb309b8f06731812.js","/_next/static/chunks/baa674234f056c60.js","/_next/static/chunks/2edc37b4337c096a.js","/_next/static/chunks/6f0408800ece4f06.js","/_next/static/chunks/6f95f3a6a7ed9dab.js","/_next/static/chunks/3c40fd5a14861430.js","/_next/static/chunks/e7855f92c342e0a3.js","/_next/static/chunks/a5fcaccd389d798e.js","/_next/static/chunks/c3456ef3141ade67.js","/_next/static/chunks/c92042fd5179bd95.js","/_next/static/chunks/1737ca787e6b8d4c.js","/_next/static/chunks/d691f1571e343c32.js","/_next/static/chunks/65f1d76f7ac19600.js","/_next/static/chunks/762b6f848ae7b21b.js","/_next/static/chunks/1d5a5c14848b802e.js","/_next/static/chunks/a40e2b25b1a62ac7.js","/_next/static/chunks/c6509abffeae92d2.js","/_next/static/chunks/35eaa08fca66b29e.js","/_next/static/chunks/f91f857f975d1c9f.js","/_next/static/chunks/dabd062b49706f28.js","/_next/static/chunks/740441c5b62d2d93.js","/_next/static/chunks/dcd49895cb9db447.js","/_next/static/chunks/175944aa1545ac7c.js","/_next/static/chunks/16494c9ed210a726.js","/_next/static/chunks/19ed43205a6e84be.js"],"CurrentPostDataProvider"]
+18:I[401946,["/_next/static/chunks/d03e4f6fdf084240.js","/_next/static/chunks/525ff3aa60c02a25.js","/_next/static/chunks/ae2a70c709da2ba8.js","/_next/static/chunks/eb309b8f06731812.js","/_next/static/chunks/baa674234f056c60.js","/_next/static/chunks/2edc37b4337c096a.js","/_next/static/chunks/6f0408800ece4f06.js","/_next/static/chunks/6f95f3a6a7ed9dab.js","/_next/static/chunks/3c40fd5a14861430.js","/_next/static/chunks/e7855f92c342e0a3.js","/_next/static/chunks/a5fcaccd389d798e.js","/_next/static/chunks/c3456ef3141ade67.js","/_next/static/chunks/c92042fd5179bd95.js","/_next/static/chunks/1737ca787e6b8d4c.js","/_next/static/chunks/d691f1571e343c32.js","/_next/static/chunks/65f1d76f7ac19600.js","/_next/static/chunks/762b6f848ae7b21b.js","/_next/static/chunks/1d5a5c14848b802e.js","/_next/static/chunks/a40e2b25b1a62ac7.js","/_next/static/chunks/c6509abffeae92d2.js","/_next/static/chunks/35eaa08fca66b29e.js","/_next/static/chunks/f91f857f975d1c9f.js","/_next/static/chunks/dabd062b49706f28.js","/_next/static/chunks/740441c5b62d2d93.js","/_next/static/chunks/dcd49895cb9db447.js","/_next/static/chunks/175944aa1545ac7c.js","/_next/static/chunks/16494c9ed210a726.js","/_next/static/chunks/19ed43205a6e84be.js"],"PostDataReValidate"]
+19:I[793580,["/_next/static/chunks/d03e4f6fdf084240.js","/_next/static/chunks/525ff3aa60c02a25.js","/_next/static/chunks/ae2a70c709da2ba8.js","/_next/static/chunks/eb309b8f06731812.js","/_next/static/chunks/baa674234f056c60.js","/_next/static/chunks/2edc37b4337c096a.js","/_next/static/chunks/6f0408800ece4f06.js","/_next/static/chunks/6f95f3a6a7ed9dab.js","/_next/static/chunks/3c40fd5a14861430.js","/_next/static/chunks/e7855f92c342e0a3.js","/_next/static/chunks/a5fcaccd389d798e.js","/_next/static/chunks/c3456ef3141ade67.js","/_next/static/chunks/c92042fd5179bd95.js","/_next/static/chunks/1737ca787e6b8d4c.js","/_next/static/chunks/d691f1571e343c32.js","/_next/static/chunks/65f1d76f7ac19600.js","/_next/static/chunks/762b6f848ae7b21b.js","/_next/static/chunks/1d5a5c14848b802e.js","/_next/static/chunks/a40e2b25b1a62ac7.js","/_next/static/chunks/c6509abffeae92d2.js","/_next/static/chunks/35eaa08fca66b29e.js","/_next/static/chunks/f91f857f975d1c9f.js","/_next/static/chunks/dabd062b49706f28.js","/_next/static/chunks/740441c5b62d2d93.js","/_next/static/chunks/dcd49895cb9db447.js","/_next/static/chunks/175944aa1545ac7c.js","/_next/static/chunks/16494c9ed210a726.js","/_next/static/chunks/19ed43205a6e84be.js"],"BottomToUpTransitionView"]
+1a:I[189209,["/_next/static/chunks/d03e4f6fdf084240.js","/_next/static/chunks/525ff3aa60c02a25.js","/_next/static/chunks/ae2a70c709da2ba8.js","/_next/static/chunks/eb309b8f06731812.js","/_next/static/chunks/baa674234f056c60.js","/_next/static/chunks/2edc37b4337c096a.js","/_next/static/chunks/6f0408800ece4f06.js","/_next/static/chunks/6f95f3a6a7ed9dab.js","/_next/static/chunks/3c40fd5a14861430.js","/_next/static/chunks/e7855f92c342e0a3.js","/_next/static/chunks/a5fcaccd389d798e.js","/_next/static/chunks/c3456ef3141ade67.js","/_next/static/chunks/c92042fd5179bd95.js","/_next/static/chunks/1737ca787e6b8d4c.js","/_next/static/chunks/d691f1571e343c32.js","/_next/static/chunks/65f1d76f7ac19600.js","/_next/static/chunks/762b6f848ae7b21b.js","/_next/static/chunks/1d5a5c14848b802e.js","/_next/static/chunks/a40e2b25b1a62ac7.js","/_next/static/chunks/c6509abffeae92d2.js","/_next/static/chunks/35eaa08fca66b29e.js","/_next/static/chunks/f91f857f975d1c9f.js","/_next/static/chunks/dabd062b49706f28.js","/_next/static/chunks/740441c5b62d2d93.js","/_next/static/chunks/dcd49895cb9db447.js","/_next/static/chunks/175944aa1545ac7c.js","/_next/static/chunks/16494c9ed210a726.js","/_next/static/chunks/19ed43205a6e84be.js"],"AckRead"]
+1b:I[401946,["/_next/static/chunks/d03e4f6fdf084240.js","/_next/static/chunks/525ff3aa60c02a25.js","/_next/static/chunks/ae2a70c709da2ba8.js","/_next/static/chunks/eb309b8f06731812.js","/_next/static/chunks/baa674234f056c60.js","/_next/static/chunks/2edc37b4337c096a.js","/_next/static/chunks/6f0408800ece4f06.js","/_next/static/chunks/6f95f3a6a7ed9dab.js","/_next/static/chunks/3c40fd5a14861430.js","/_next/static/chunks/e7855f92c342e0a3.js","/_next/static/chunks/a5fcaccd389d798e.js","/_next/static/chunks/c3456ef3141ade67.js","/_next/static/chunks/c92042fd5179bd95.js","/_next/static/chunks/1737ca787e6b8d4c.js","/_next/static/chunks/d691f1571e343c32.js","/_next/static/chunks/65f1d76f7ac19600.js","/_next/static/chunks/762b6f848ae7b21b.js","/_next/static/chunks/1d5a5c14848b802e.js","/_next/static/chunks/a40e2b25b1a62ac7.js","/_next/static/chunks/c6509abffeae92d2.js","/_next/static/chunks/35eaa08fca66b29e.js","/_next/static/chunks/f91f857f975d1c9f.js","/_next/static/chunks/dabd062b49706f28.js","/_next/static/chunks/740441c5b62d2d93.js","/_next/static/chunks/dcd49895cb9db447.js","/_next/static/chunks/175944aa1545ac7c.js","/_next/static/chunks/16494c9ed210a726.js","/_next/static/chunks/19ed43205a6e84be.js"],"PostTitle"]
+1c:I[923014,["/_next/static/chunks/d03e4f6fdf084240.js","/_next/static/chunks/525ff3aa60c02a25.js","/_next/static/chunks/ae2a70c709da2ba8.js","/_next/static/chunks/eb309b8f06731812.js","/_next/static/chunks/baa674234f056c60.js","/_next/static/chunks/2edc37b4337c096a.js","/_next/static/chunks/6f0408800ece4f06.js","/_next/static/chunks/6f95f3a6a7ed9dab.js","/_next/static/chunks/3c40fd5a14861430.js","/_next/static/chunks/e7855f92c342e0a3.js","/_next/static/chunks/a5fcaccd389d798e.js","/_next/static/chunks/c3456ef3141ade67.js","/_next/static/chunks/c92042fd5179bd95.js","/_next/static/chunks/1737ca787e6b8d4c.js","/_next/static/chunks/d691f1571e343c32.js","/_next/static/chunks/65f1d76f7ac19600.js","/_next/static/chunks/762b6f848ae7b21b.js","/_next/static/chunks/1d5a5c14848b802e.js","/_next/static/chunks/a40e2b25b1a62ac7.js","/_next/static/chunks/c6509abffeae92d2.js","/_next/static/chunks/35eaa08fca66b29e.js","/_next/static/chunks/f91f857f975d1c9f.js","/_next/static/chunks/dabd062b49706f28.js","/_next/static/chunks/740441c5b62d2d93.js","/_next/static/chunks/dcd49895cb9db447.js","/_next/static/chunks/175944aa1545ac7c.js","/_next/static/chunks/16494c9ed210a726.js","/_next/static/chunks/19ed43205a6e84be.js"],"GoToAdminEditingButton"]
+1d:I[401946,["/_next/static/chunks/d03e4f6fdf084240.js","/_next/static/chunks/525ff3aa60c02a25.js","/_next/static/chunks/ae2a70c709da2ba8.js","/_next/static/chunks/eb309b8f06731812.js","/_next/static/chunks/baa674234f056c60.js","/_next/static/chunks/2edc37b4337c096a.js","/_next/static/chunks/6f0408800ece4f06.js","/_next/static/chunks/6f95f3a6a7ed9dab.js","/_next/static/chunks/3c40fd5a14861430.js","/_next/static/chunks/e7855f92c342e0a3.js","/_next/static/chunks/a5fcaccd389d798e.js","/_next/static/chunks/c3456ef3141ade67.js","/_next/static/chunks/c92042fd5179bd95.js","/_next/static/chunks/1737ca787e6b8d4c.js","/_next/static/chunks/d691f1571e343c32.js","/_next/static/chunks/65f1d76f7ac19600.js","/_next/static/chunks/762b6f848ae7b21b.js","/_next/static/chunks/1d5a5c14848b802e.js","/_next/static/chunks/a40e2b25b1a62ac7.js","/_next/static/chunks/c6509abffeae92d2.js","/_next/static/chunks/35eaa08fca66b29e.js","/_next/static/chunks/f91f857f975d1c9f.js","/_next/static/chunks/dabd062b49706f28.js","/_next/static/chunks/740441c5b62d2d93.js","/_next/static/chunks/dcd49895cb9db447.js","/_next/static/chunks/175944aa1545ac7c.js","/_next/static/chunks/16494c9ed210a726.js","/_next/static/chunks/19ed43205a6e84be.js"],"PostMetaBarInternal"]
+1e:I[6169,["/_next/static/chunks/d03e4f6fdf084240.js","/_next/static/chunks/525ff3aa60c02a25.js","/_next/static/chunks/ae2a70c709da2ba8.js","/_next/static/chunks/eb309b8f06731812.js","/_next/static/chunks/baa674234f056c60.js","/_next/static/chunks/2edc37b4337c096a.js","/_next/static/chunks/6f0408800ece4f06.js","/_next/static/chunks/6f95f3a6a7ed9dab.js","/_next/static/chunks/3c40fd5a14861430.js","/_next/static/chunks/e7855f92c342e0a3.js","/_next/static/chunks/a5fcaccd389d798e.js","/_next/static/chunks/c3456ef3141ade67.js","/_next/static/chunks/c92042fd5179bd95.js","/_next/static/chunks/1737ca787e6b8d4c.js","/_next/static/chunks/d691f1571e343c32.js","/_next/static/chunks/65f1d76f7ac19600.js","/_next/static/chunks/762b6f848ae7b21b.js","/_next/static/chunks/1d5a5c14848b802e.js","/_next/static/chunks/a40e2b25b1a62ac7.js","/_next/static/chunks/c6509abffeae92d2.js","/_next/static/chunks/35eaa08fca66b29e.js","/_next/static/chunks/f91f857f975d1c9f.js","/_next/static/chunks/dabd062b49706f28.js","/_next/static/chunks/740441c5b62d2d93.js","/_next/static/chunks/dcd49895cb9db447.js","/_next/static/chunks/175944aa1545ac7c.js","/_next/static/chunks/16494c9ed210a726.js","/_next/static/chunks/19ed43205a6e84be.js"],"PostOutdate"]
+1f:I[660320,["/_next/static/chunks/d03e4f6fdf084240.js","/_next/static/chunks/525ff3aa60c02a25.js","/_next/static/chunks/ae2a70c709da2ba8.js","/_next/static/chunks/eb309b8f06731812.js","/_next/static/chunks/baa674234f056c60.js","/_next/static/chunks/2edc37b4337c096a.js","/_next/static/chunks/6f0408800ece4f06.js","/_next/static/chunks/6f95f3a6a7ed9dab.js","/_next/static/chunks/3c40fd5a14861430.js","/_next/static/chunks/e7855f92c342e0a3.js","/_next/static/chunks/a5fcaccd389d798e.js","/_next/static/chunks/c3456ef3141ade67.js","/_next/static/chunks/c92042fd5179bd95.js","/_next/static/chunks/1737ca787e6b8d4c.js","/_next/static/chunks/d691f1571e343c32.js","/_next/static/chunks/65f1d76f7ac19600.js","/_next/static/chunks/762b6f848ae7b21b.js","/_next/static/chunks/1d5a5c14848b802e.js","/_next/static/chunks/a40e2b25b1a62ac7.js","/_next/static/chunks/c6509abffeae92d2.js","/_next/static/chunks/35eaa08fca66b29e.js","/_next/static/chunks/f91f857f975d1c9f.js","/_next/static/chunks/dabd062b49706f28.js","/_next/static/chunks/740441c5b62d2d93.js","/_next/static/chunks/dcd49895cb9db447.js","/_next/static/chunks/175944aa1545ac7c.js","/_next/static/chunks/16494c9ed210a726.js","/_next/static/chunks/19ed43205a6e84be.js"],"PostRelated"]
+20:I[145557,["/_next/static/chunks/d03e4f6fdf084240.js","/_next/static/chunks/525ff3aa60c02a25.js","/_next/static/chunks/ae2a70c709da2ba8.js","/_next/static/chunks/eb309b8f06731812.js","/_next/static/chunks/baa674234f056c60.js","/_next/static/chunks/2edc37b4337c096a.js","/_next/static/chunks/6f0408800ece4f06.js","/_next/static/chunks/6f95f3a6a7ed9dab.js","/_next/static/chunks/3c40fd5a14861430.js","/_next/static/chunks/e7855f92c342e0a3.js","/_next/static/chunks/a5fcaccd389d798e.js","/_next/static/chunks/c3456ef3141ade67.js","/_next/static/chunks/c92042fd5179bd95.js","/_next/static/chunks/1737ca787e6b8d4c.js","/_next/static/chunks/d691f1571e343c32.js","/_next/static/chunks/65f1d76f7ac19600.js","/_next/static/chunks/762b6f848ae7b21b.js","/_next/static/chunks/1d5a5c14848b802e.js","/_next/static/chunks/a40e2b25b1a62ac7.js","/_next/static/chunks/c6509abffeae92d2.js","/_next/static/chunks/35eaa08fca66b29e.js","/_next/static/chunks/f91f857f975d1c9f.js","/_next/static/chunks/dabd062b49706f28.js","/_next/static/chunks/740441c5b62d2d93.js","/_next/static/chunks/dcd49895cb9db447.js","/_next/static/chunks/175944aa1545ac7c.js","/_next/static/chunks/16494c9ed210a726.js","/_next/static/chunks/19ed43205a6e84be.js"],"WrappedElementProvider"]
+21:I[125902,["/_next/static/chunks/d03e4f6fdf084240.js","/_next/static/chunks/525ff3aa60c02a25.js","/_next/static/chunks/ae2a70c709da2ba8.js","/_next/static/chunks/eb309b8f06731812.js","/_next/static/chunks/baa674234f056c60.js","/_next/static/chunks/2edc37b4337c096a.js","/_next/static/chunks/6f0408800ece4f06.js","/_next/static/chunks/6f95f3a6a7ed9dab.js","/_next/static/chunks/3c40fd5a14861430.js","/_next/static/chunks/e7855f92c342e0a3.js","/_next/static/chunks/a5fcaccd389d798e.js","/_next/static/chunks/c3456ef3141ade67.js","/_next/static/chunks/c92042fd5179bd95.js","/_next/static/chunks/1737ca787e6b8d4c.js","/_next/static/chunks/d691f1571e343c32.js","/_next/static/chunks/65f1d76f7ac19600.js","/_next/static/chunks/762b6f848ae7b21b.js","/_next/static/chunks/1d5a5c14848b802e.js","/_next/static/chunks/a40e2b25b1a62ac7.js","/_next/static/chunks/c6509abffeae92d2.js","/_next/static/chunks/35eaa08fca66b29e.js","/_next/static/chunks/f91f857f975d1c9f.js","/_next/static/chunks/dabd062b49706f28.js","/_next/static/chunks/740441c5b62d2d93.js","/_next/static/chunks/dcd49895cb9db447.js","/_next/static/chunks/175944aa1545ac7c.js","/_next/static/chunks/16494c9ed210a726.js","/_next/static/chunks/19ed43205a6e84be.js"],"ReadIndicatorForMobile"]
+22:I[401946,["/_next/static/chunks/d03e4f6fdf084240.js","/_next/static/chunks/525ff3aa60c02a25.js","/_next/static/chunks/ae2a70c709da2ba8.js","/_next/static/chunks/eb309b8f06731812.js","/_next/static/chunks/baa674234f056c60.js","/_next/static/chunks/2edc37b4337c096a.js","/_next/static/chunks/6f0408800ece4f06.js","/_next/static/chunks/6f95f3a6a7ed9dab.js","/_next/static/chunks/3c40fd5a14861430.js","/_next/static/chunks/e7855f92c342e0a3.js","/_next/static/chunks/a5fcaccd389d798e.js","/_next/static/chunks/c3456ef3141ade67.js","/_next/static/chunks/c92042fd5179bd95.js","/_next/static/chunks/1737ca787e6b8d4c.js","/_next/static/chunks/d691f1571e343c32.js","/_next/static/chunks/65f1d76f7ac19600.js","/_next/static/chunks/762b6f848ae7b21b.js","/_next/static/chunks/1d5a5c14848b802e.js","/_next/static/chunks/a40e2b25b1a62ac7.js","/_next/static/chunks/c6509abffeae92d2.js","/_next/static/chunks/35eaa08fca66b29e.js","/_next/static/chunks/f91f857f975d1c9f.js","/_next/static/chunks/dabd062b49706f28.js","/_next/static/chunks/740441c5b62d2d93.js","/_next/static/chunks/dcd49895cb9db447.js","/_next/static/chunks/175944aa1545ac7c.js","/_next/static/chunks/16494c9ed210a726.js","/_next/static/chunks/19ed43205a6e84be.js"],"PostMarkdownImageRecordProvider"]
+23:I[401946,["/_next/static/chunks/d03e4f6fdf084240.js","/_next/static/chunks/525ff3aa60c02a25.js","/_next/static/chunks/ae2a70c709da2ba8.js","/_next/static/chunks/eb309b8f06731812.js","/_next/static/chunks/baa674234f056c60.js","/_next/static/chunks/2edc37b4337c096a.js","/_next/static/chunks/6f0408800ece4f06.js","/_next/static/chunks/6f95f3a6a7ed9dab.js","/_next/static/chunks/3c40fd5a14861430.js","/_next/static/chunks/e7855f92c342e0a3.js","/_next/static/chunks/a5fcaccd389d798e.js","/_next/static/chunks/c3456ef3141ade67.js","/_next/static/chunks/c92042fd5179bd95.js","/_next/static/chunks/1737ca787e6b8d4c.js","/_next/static/chunks/d691f1571e343c32.js","/_next/static/chunks/65f1d76f7ac19600.js","/_next/static/chunks/762b6f848ae7b21b.js","/_next/static/chunks/1d5a5c14848b802e.js","/_next/static/chunks/a40e2b25b1a62ac7.js","/_next/static/chunks/c6509abffeae92d2.js","/_next/static/chunks/35eaa08fca66b29e.js","/_next/static/chunks/f91f857f975d1c9f.js","/_next/static/chunks/dabd062b49706f28.js","/_next/static/chunks/740441c5b62d2d93.js","/_next/static/chunks/dcd49895cb9db447.js","/_next/static/chunks/175944aa1545ac7c.js","/_next/static/chunks/16494c9ed210a726.js","/_next/static/chunks/19ed43205a6e84be.js"],"MarkdownSelection"]
+24:I[401946,["/_next/static/chunks/d03e4f6fdf084240.js","/_next/static/chunks/525ff3aa60c02a25.js","/_next/static/chunks/ae2a70c709da2ba8.js","/_next/static/chunks/eb309b8f06731812.js","/_next/static/chunks/baa674234f056c60.js","/_next/static/chunks/2edc37b4337c096a.js","/_next/static/chunks/6f0408800ece4f06.js","/_next/static/chunks/6f95f3a6a7ed9dab.js","/_next/static/chunks/3c40fd5a14861430.js","/_next/static/chunks/e7855f92c342e0a3.js","/_next/static/chunks/a5fcaccd389d798e.js","/_next/static/chunks/c3456ef3141ade67.js","/_next/static/chunks/c92042fd5179bd95.js","/_next/static/chunks/1737ca787e6b8d4c.js","/_next/static/chunks/d691f1571e343c32.js","/_next/static/chunks/65f1d76f7ac19600.js","/_next/static/chunks/762b6f848ae7b21b.js","/_next/static/chunks/1d5a5c14848b802e.js","/_next/static/chunks/a40e2b25b1a62ac7.js","/_next/static/chunks/c6509abffeae92d2.js","/_next/static/chunks/35eaa08fca66b29e.js","/_next/static/chunks/f91f857f975d1c9f.js","/_next/static/chunks/dabd062b49706f28.js","/_next/static/chunks/740441c5b62d2d93.js","/_next/static/chunks/dcd49895cb9db447.js","/_next/static/chunks/175944aa1545ac7c.js","/_next/static/chunks/16494c9ed210a726.js","/_next/static/chunks/19ed43205a6e84be.js"],"FocusReadingEffect"]
+25:I[502283,["/_next/static/chunks/d03e4f6fdf084240.js","/_next/static/chunks/525ff3aa60c02a25.js","/_next/static/chunks/ae2a70c709da2ba8.js","/_next/static/chunks/eb309b8f06731812.js","/_next/static/chunks/baa674234f056c60.js","/_next/static/chunks/2edc37b4337c096a.js","/_next/static/chunks/6f0408800ece4f06.js","/_next/static/chunks/6f95f3a6a7ed9dab.js","/_next/static/chunks/3c40fd5a14861430.js","/_next/static/chunks/e7855f92c342e0a3.js","/_next/static/chunks/a5fcaccd389d798e.js","/_next/static/chunks/c3456ef3141ade67.js","/_next/static/chunks/c92042fd5179bd95.js","/_next/static/chunks/1737ca787e6b8d4c.js","/_next/static/chunks/d691f1571e343c32.js","/_next/static/chunks/65f1d76f7ac19600.js","/_next/static/chunks/762b6f848ae7b21b.js","/_next/static/chunks/1d5a5c14848b802e.js","/_next/static/chunks/a40e2b25b1a62ac7.js","/_next/static/chunks/c6509abffeae92d2.js","/_next/static/chunks/35eaa08fca66b29e.js","/_next/static/chunks/f91f857f975d1c9f.js","/_next/static/chunks/dabd062b49706f28.js","/_next/static/chunks/740441c5b62d2d93.js","/_next/static/chunks/dcd49895cb9db447.js","/_next/static/chunks/175944aa1545ac7c.js","/_next/static/chunks/16494c9ed210a726.js","/_next/static/chunks/19ed43205a6e84be.js"],"PostMarkdownRenderer",1]
+26:I[194205,["/_next/static/chunks/d03e4f6fdf084240.js","/_next/static/chunks/525ff3aa60c02a25.js","/_next/static/chunks/ae2a70c709da2ba8.js","/_next/static/chunks/eb309b8f06731812.js","/_next/static/chunks/baa674234f056c60.js","/_next/static/chunks/2edc37b4337c096a.js","/_next/static/chunks/6f0408800ece4f06.js","/_next/static/chunks/6f95f3a6a7ed9dab.js","/_next/static/chunks/3c40fd5a14861430.js","/_next/static/chunks/e7855f92c342e0a3.js","/_next/static/chunks/a5fcaccd389d798e.js","/_next/static/chunks/c3456ef3141ade67.js","/_next/static/chunks/c92042fd5179bd95.js","/_next/static/chunks/1737ca787e6b8d4c.js","/_next/static/chunks/d691f1571e343c32.js","/_next/static/chunks/65f1d76f7ac19600.js","/_next/static/chunks/762b6f848ae7b21b.js","/_next/static/chunks/1d5a5c14848b802e.js","/_next/static/chunks/a40e2b25b1a62ac7.js","/_next/static/chunks/c6509abffeae92d2.js","/_next/static/chunks/35eaa08fca66b29e.js","/_next/static/chunks/f91f857f975d1c9f.js","/_next/static/chunks/dabd062b49706f28.js","/_next/static/chunks/740441c5b62d2d93.js","/_next/static/chunks/dcd49895cb9db447.js","/_next/static/chunks/175944aa1545ac7c.js","/_next/static/chunks/16494c9ed210a726.js","/_next/static/chunks/19ed43205a6e84be.js"],"LayoutRightSidePortal"]
+27:I[732298,["/_next/static/chunks/d03e4f6fdf084240.js","/_next/static/chunks/525ff3aa60c02a25.js","/_next/static/chunks/ae2a70c709da2ba8.js","/_next/static/chunks/eb309b8f06731812.js","/_next/static/chunks/baa674234f056c60.js","/_next/static/chunks/2edc37b4337c096a.js","/_next/static/chunks/6f0408800ece4f06.js","/_next/static/chunks/6f95f3a6a7ed9dab.js","/_next/static/chunks/3c40fd5a14861430.js","/_next/static/chunks/e7855f92c342e0a3.js","/_next/static/chunks/a5fcaccd389d798e.js","/_next/static/chunks/c3456ef3141ade67.js","/_next/static/chunks/c92042fd5179bd95.js","/_next/static/chunks/1737ca787e6b8d4c.js","/_next/static/chunks/d691f1571e343c32.js","/_next/static/chunks/65f1d76f7ac19600.js","/_next/static/chunks/762b6f848ae7b21b.js","/_next/static/chunks/1d5a5c14848b802e.js","/_next/static/chunks/a40e2b25b1a62ac7.js","/_next/static/chunks/c6509abffeae92d2.js","/_next/static/chunks/35eaa08fca66b29e.js","/_next/static/chunks/f91f857f975d1c9f.js","/_next/static/chunks/dabd062b49706f28.js","/_next/static/chunks/740441c5b62d2d93.js","/_next/static/chunks/dcd49895cb9db447.js","/_next/static/chunks/175944aa1545ac7c.js","/_next/static/chunks/16494c9ed210a726.js","/_next/static/chunks/19ed43205a6e84be.js"],"PostActionAside"]
+28:I[237493,["/_next/static/chunks/d03e4f6fdf084240.js","/_next/static/chunks/525ff3aa60c02a25.js","/_next/static/chunks/ae2a70c709da2ba8.js","/_next/static/chunks/eb309b8f06731812.js","/_next/static/chunks/baa674234f056c60.js","/_next/static/chunks/2edc37b4337c096a.js","/_next/static/chunks/6f0408800ece4f06.js","/_next/static/chunks/6f95f3a6a7ed9dab.js","/_next/static/chunks/3c40fd5a14861430.js","/_next/static/chunks/e7855f92c342e0a3.js","/_next/static/chunks/a5fcaccd389d798e.js","/_next/static/chunks/c3456ef3141ade67.js","/_next/static/chunks/c92042fd5179bd95.js","/_next/static/chunks/1737ca787e6b8d4c.js","/_next/static/chunks/d691f1571e343c32.js","/_next/static/chunks/65f1d76f7ac19600.js","/_next/static/chunks/762b6f848ae7b21b.js","/_next/static/chunks/1d5a5c14848b802e.js","/_next/static/chunks/a40e2b25b1a62ac7.js","/_next/static/chunks/c6509abffeae92d2.js","/_next/static/chunks/35eaa08fca66b29e.js","/_next/static/chunks/f91f857f975d1c9f.js","/_next/static/chunks/dabd062b49706f28.js","/_next/static/chunks/740441c5b62d2d93.js","/_next/static/chunks/dcd49895cb9db447.js","/_next/static/chunks/175944aa1545ac7c.js","/_next/static/chunks/16494c9ed210a726.js","/_next/static/chunks/19ed43205a6e84be.js"],"ClientOnly"]
+29:I[223245,["/_next/static/chunks/d03e4f6fdf084240.js","/_next/static/chunks/525ff3aa60c02a25.js","/_next/static/chunks/ae2a70c709da2ba8.js","/_next/static/chunks/eb309b8f06731812.js","/_next/static/chunks/baa674234f056c60.js","/_next/static/chunks/2edc37b4337c096a.js","/_next/static/chunks/6f0408800ece4f06.js","/_next/static/chunks/6f95f3a6a7ed9dab.js","/_next/static/chunks/3c40fd5a14861430.js","/_next/static/chunks/e7855f92c342e0a3.js","/_next/static/chunks/a5fcaccd389d798e.js","/_next/static/chunks/c3456ef3141ade67.js","/_next/static/chunks/c92042fd5179bd95.js","/_next/static/chunks/1737ca787e6b8d4c.js","/_next/static/chunks/d691f1571e343c32.js","/_next/static/chunks/65f1d76f7ac19600.js","/_next/static/chunks/762b6f848ae7b21b.js","/_next/static/chunks/1d5a5c14848b802e.js","/_next/static/chunks/a40e2b25b1a62ac7.js","/_next/static/chunks/c6509abffeae92d2.js","/_next/static/chunks/35eaa08fca66b29e.js","/_next/static/chunks/f91f857f975d1c9f.js","/_next/static/chunks/dabd062b49706f28.js","/_next/static/chunks/740441c5b62d2d93.js","/_next/static/chunks/dcd49895cb9db447.js","/_next/static/chunks/175944aa1545ac7c.js","/_next/static/chunks/16494c9ed210a726.js","/_next/static/chunks/19ed43205a6e84be.js"],"PostCopyright"]
+2a:I[732298,["/_next/static/chunks/d03e4f6fdf084240.js","/_next/static/chunks/525ff3aa60c02a25.js","/_next/static/chunks/ae2a70c709da2ba8.js","/_next/static/chunks/eb309b8f06731812.js","/_next/static/chunks/baa674234f056c60.js","/_next/static/chunks/2edc37b4337c096a.js","/_next/static/chunks/6f0408800ece4f06.js","/_next/static/chunks/6f95f3a6a7ed9dab.js","/_next/static/chunks/3c40fd5a14861430.js","/_next/static/chunks/e7855f92c342e0a3.js","/_next/static/chunks/a5fcaccd389d798e.js","/_next/static/chunks/c3456ef3141ade67.js","/_next/static/chunks/c92042fd5179bd95.js","/_next/static/chunks/1737ca787e6b8d4c.js","/_next/static/chunks/d691f1571e343c32.js","/_next/static/chunks/65f1d76f7ac19600.js","/_next/static/chunks/762b6f848ae7b21b.js","/_next/static/chunks/1d5a5c14848b802e.js","/_next/static/chunks/a40e2b25b1a62ac7.js","/_next/static/chunks/c6509abffeae92d2.js","/_next/static/chunks/35eaa08fca66b29e.js","/_next/static/chunks/f91f857f975d1c9f.js","/_next/static/chunks/dabd062b49706f28.js","/_next/static/chunks/740441c5b62d2d93.js","/_next/static/chunks/dcd49895cb9db447.js","/_next/static/chunks/175944aa1545ac7c.js","/_next/static/chunks/16494c9ed210a726.js","/_next/static/chunks/19ed43205a6e84be.js"],"PostBottomBarAction"]
+2b:I[832330,["/_next/static/chunks/d03e4f6fdf084240.js","/_next/static/chunks/525ff3aa60c02a25.js","/_next/static/chunks/ae2a70c709da2ba8.js","/_next/static/chunks/eb309b8f06731812.js","/_next/static/chunks/baa674234f056c60.js","/_next/static/chunks/2edc37b4337c096a.js","/_next/static/chunks/6f0408800ece4f06.js","/_next/static/chunks/6f95f3a6a7ed9dab.js","/_next/static/chunks/3c40fd5a14861430.js","/_next/static/chunks/e7855f92c342e0a3.js","/_next/static/chunks/a5fcaccd389d798e.js","/_next/static/chunks/c3456ef3141ade67.js","/_next/static/chunks/c92042fd5179bd95.js","/_next/static/chunks/1737ca787e6b8d4c.js","/_next/static/chunks/d691f1571e343c32.js","/_next/static/chunks/65f1d76f7ac19600.js","/_next/static/chunks/762b6f848ae7b21b.js","/_next/static/chunks/1d5a5c14848b802e.js","/_next/static/chunks/a40e2b25b1a62ac7.js","/_next/static/chunks/c6509abffeae92d2.js","/_next/static/chunks/35eaa08fca66b29e.js","/_next/static/chunks/f91f857f975d1c9f.js","/_next/static/chunks/dabd062b49706f28.js","/_next/static/chunks/740441c5b62d2d93.js","/_next/static/chunks/dcd49895cb9db447.js","/_next/static/chunks/175944aa1545ac7c.js","/_next/static/chunks/16494c9ed210a726.js","/_next/static/chunks/19ed43205a6e84be.js"],"BottomToUpSoftScaleTransitionView"]
+2c:I[615780,["/_next/static/chunks/d03e4f6fdf084240.js","/_next/static/chunks/525ff3aa60c02a25.js","/_next/static/chunks/ae2a70c709da2ba8.js","/_next/static/chunks/eb309b8f06731812.js","/_next/static/chunks/baa674234f056c60.js","/_next/static/chunks/2edc37b4337c096a.js","/_next/static/chunks/6f0408800ece4f06.js","/_next/static/chunks/6f95f3a6a7ed9dab.js","/_next/static/chunks/3c40fd5a14861430.js","/_next/static/chunks/e7855f92c342e0a3.js","/_next/static/chunks/a5fcaccd389d798e.js","/_next/static/chunks/c3456ef3141ade67.js","/_next/static/chunks/c92042fd5179bd95.js","/_next/static/chunks/1737ca787e6b8d4c.js","/_next/static/chunks/d691f1571e343c32.js","/_next/static/chunks/65f1d76f7ac19600.js","/_next/static/chunks/762b6f848ae7b21b.js","/_next/static/chunks/1d5a5c14848b802e.js","/_next/static/chunks/a40e2b25b1a62ac7.js","/_next/static/chunks/c6509abffeae92d2.js","/_next/static/chunks/35eaa08fca66b29e.js","/_next/static/chunks/f91f857f975d1c9f.js","/_next/static/chunks/dabd062b49706f28.js","/_next/static/chunks/740441c5b62d2d93.js","/_next/static/chunks/dcd49895cb9db447.js","/_next/static/chunks/175944aa1545ac7c.js","/_next/static/chunks/16494c9ed210a726.js","/_next/static/chunks/19ed43205a6e84be.js"],"CommentAreaRootLazy"]
+2d:I[194205,["/_next/static/chunks/d03e4f6fdf084240.js","/_next/static/chunks/525ff3aa60c02a25.js","/_next/static/chunks/ae2a70c709da2ba8.js","/_next/static/chunks/eb309b8f06731812.js","/_next/static/chunks/baa674234f056c60.js","/_next/static/chunks/2edc37b4337c096a.js","/_next/static/chunks/6f0408800ece4f06.js","/_next/static/chunks/6f95f3a6a7ed9dab.js","/_next/static/chunks/3c40fd5a14861430.js","/_next/static/chunks/e7855f92c342e0a3.js","/_next/static/chunks/a5fcaccd389d798e.js","/_next/static/chunks/c3456ef3141ade67.js","/_next/static/chunks/c92042fd5179bd95.js","/_next/static/chunks/1737ca787e6b8d4c.js","/_next/static/chunks/d691f1571e343c32.js","/_next/static/chunks/65f1d76f7ac19600.js","/_next/static/chunks/762b6f848ae7b21b.js","/_next/static/chunks/1d5a5c14848b802e.js","/_next/static/chunks/a40e2b25b1a62ac7.js","/_next/static/chunks/c6509abffeae92d2.js","/_next/static/chunks/35eaa08fca66b29e.js","/_next/static/chunks/f91f857f975d1c9f.js","/_next/static/chunks/dabd062b49706f28.js","/_next/static/chunks/740441c5b62d2d93.js","/_next/static/chunks/dcd49895cb9db447.js","/_next/static/chunks/175944aa1545ac7c.js","/_next/static/chunks/16494c9ed210a726.js","/_next/static/chunks/19ed43205a6e84be.js"],"LayoutRightSideProvider"]
+2e:I[185368,["/_next/static/chunks/d03e4f6fdf084240.js","/_next/static/chunks/525ff3aa60c02a25.js","/_next/static/chunks/ae2a70c709da2ba8.js","/_next/static/chunks/eb309b8f06731812.js","/_next/static/chunks/baa674234f056c60.js","/_next/static/chunks/2edc37b4337c096a.js","/_next/static/chunks/6f0408800ece4f06.js","/_next/static/chunks/6f95f3a6a7ed9dab.js","/_next/static/chunks/3c40fd5a14861430.js","/_next/static/chunks/e7855f92c342e0a3.js","/_next/static/chunks/a5fcaccd389d798e.js","/_next/static/chunks/c3456ef3141ade67.js","/_next/static/chunks/c92042fd5179bd95.js","/_next/static/chunks/1737ca787e6b8d4c.js","/_next/static/chunks/d691f1571e343c32.js","/_next/static/chunks/65f1d76f7ac19600.js","/_next/static/chunks/762b6f848ae7b21b.js","/_next/static/chunks/1d5a5c14848b802e.js","/_next/static/chunks/a40e2b25b1a62ac7.js","/_next/static/chunks/c6509abffeae92d2.js","/_next/static/chunks/35eaa08fca66b29e.js","/_next/static/chunks/f91f857f975d1c9f.js","/_next/static/chunks/dabd062b49706f28.js","/_next/static/chunks/740441c5b62d2d93.js","/_next/static/chunks/dcd49895cb9db447.js","/_next/static/chunks/175944aa1545ac7c.js","/_next/static/chunks/16494c9ed210a726.js","/_next/static/chunks/19ed43205a6e84be.js"],"OnlyMobile"]
+2f:I[233113,["/_next/static/chunks/d03e4f6fdf084240.js","/_next/static/chunks/525ff3aa60c02a25.js","/_next/static/chunks/ae2a70c709da2ba8.js","/_next/static/chunks/eb309b8f06731812.js","/_next/static/chunks/baa674234f056c60.js","/_next/static/chunks/2edc37b4337c096a.js","/_next/static/chunks/6f0408800ece4f06.js","/_next/static/chunks/6f95f3a6a7ed9dab.js","/_next/static/chunks/3c40fd5a14861430.js","/_next/static/chunks/e7855f92c342e0a3.js","/_next/static/chunks/a5fcaccd389d798e.js","/_next/static/chunks/c3456ef3141ade67.js","/_next/static/chunks/c92042fd5179bd95.js","/_next/static/chunks/1737ca787e6b8d4c.js","/_next/static/chunks/d691f1571e343c32.js","/_next/static/chunks/65f1d76f7ac19600.js","/_next/static/chunks/762b6f848ae7b21b.js","/_next/static/chunks/1d5a5c14848b802e.js","/_next/static/chunks/a40e2b25b1a62ac7.js","/_next/static/chunks/c6509abffeae92d2.js","/_next/static/chunks/35eaa08fca66b29e.js","/_next/static/chunks/f91f857f975d1c9f.js","/_next/static/chunks/dabd062b49706f28.js","/_next/static/chunks/740441c5b62d2d93.js","/_next/static/chunks/dcd49895cb9db447.js","/_next/static/chunks/175944aa1545ac7c.js","/_next/static/chunks/16494c9ed210a726.js","/_next/static/chunks/19ed43205a6e84be.js"],"TocFAB"]
+30:I[95276,["/_next/static/chunks/3c40fd5a14861430.js","/_next/static/chunks/4197b04c4f1d962d.js","/_next/static/chunks/70af310ba2a3e461.js","/_next/static/chunks/9df4409b3ebd95fb.js","/_next/static/chunks/e52d234aac494225.js"],"OutletBoundary"]
+31:"$Sreact.suspense"
+:HL["/_next/static/chunks/136744c992bad96d.css","style"]
+:HL["/_next/static/chunks/0169140b52b18b81.css","style"]
+:HL["/_next/static/chunks/cf19f565ce194e50.css","style"]
+:HL["/_next/static/chunks/2a531debc05d9c48.css","style"]
+:HL["/_next/static/chunks/f6d4eb0f1595037c.css","style"]
+:HL["/_next/static/chunks/be9fe8599e8928e8.css","style"]
+5:T7442,*Part 2 of 3.* [← Part 1](/posts/seminar/triangle-intersecting-1) · [Part 3 →](/posts/seminar/triangle-intersecting-3)
+
+## Section 3 Notes
+
+### Cut Statistics
+
+**Section Goal (Original).**
+
+The purpose of this section is to study cut statistics of graphs under a uniform random cut, in order to prove Claim 2 from Section 2.
+
+**Remark 67.**
+
+Section 2 给了谱构造目标，Section 3 负责把这些目标变成可验证的不等式与精确值。
+
+**Block-Decomposition Setup (Original).**
+
+We begin by using block decompositions of graphs to simplify the calculations.
+
+**Remark 68.**
+
+先分块再算分布，是这一节把复杂图问题降维的第一步。
+
+**Random-Cut Model (Original).**
+
+We may view a random cut in
+
+$$
+G as a random red/blue colouring
+$$
+
+c:V(G)\to\{\mathrm{red},\mathrm{blue}\},
+
+with each vertex independently red/blue with probability 1/2.
+Let Y(c) be the number of multicoloured edges (equivalently, cut edges).
+
+**Remark 69.**
+
+这个视角让“cut 边数”成为随机变量，后续所有 q_k 都是在统计这个随机变量的分布。
+
+**Cut Distribution Notation (Original).**
+
+Let
+
+$$
+Q(G)=(q_k(G))_{k\ge 0}
+$$
+
+be the distribution of $|G\cap B|$ (a random cut size), and let
+
+$$
+Q_G(X)=\sum_{k\ge 0}q_k(G)X^k
+$$
+
+be its probability-generating function.
+For a single edge,
+
+$$
+q_0(-)=q_1(-)=\frac12,
+Q_{-}(X)=\frac12+\frac12X.
+$$
+
+If $Y_1,Y_2$ are independent, then
+
+$$
+Q_{Y_1+Y_2}(X)=Q_{Y_1}(X)Q_{Y_2}(X).
+$$
+
+**Remark 70.**
+
+概率母函数的乘法性质是这一节的主工具：一旦切分成独立块，分布计算就变成代数乘积。
+
+\paragraph{Small-Graph Table Used To Engineer $\Lambda^{(1)}$ (Original).}
+For key small graphs, the cut-distribution values are:
+
+$$
+\begin{aligned}
+\begin{array}{c|ccccc}
+G & q_0(G) & q_1(G) & q_2(G) & q_3(G) & q_4(G)\\
+\\
+\emptyset & 1 & 0 & 0 & 0 & 0\\
+- & 1/2 & 1/2 & 0 & 0 & 0\\
+\wedge & 1/4 & 1/2 & 1/4 & 0 & 0\\
+\triangle & 1/4 & 0 & 3/4 & 0 & 0\\
+F_4 & 1/16 & 4/16 & 6/16 & 4/16 & 1/16\\
+K_4^- & 1/8 & 0 & 1/4 & 1/2 & 1/8
+\end{array}
+\end{aligned}
+$$
+
+where $F_4$ is any 4-edge forest.
+
+**Remark 71.**
+
+这张表是系数反求的起点：先在小图上“打靶”，再去控制所有大图。
+
+\paragraph{Coefficient Engineering For $\Lambda^{(1)}$ (Original).}
+Suppose
+
+$$
+\lambda(G)=(-1)^{|G|}\bigl[c_0q_0(G)+c_1q_1(G)+c_2q_2(G)+c_3q_3(G)+c_4q_4(G)\bigr].
+$$
+
+From $\lambda(\emptyset)=1$, we get $c_0=1$.
+Applying Theorem 2.2 to a $\triangle$umvirate forces
+
+$$
+\lambda(G)=\lambda_{\min}=-\frac17
+$$
+
+for all subgraphs of a triangle, giving
+
+$$
+c_1=-\frac57,  c_2=-\frac17.
+$$
+
+Substituting into the equations for $F_4$ and $K_4^-$ yields
+
+$$
+4c_3+c_4=\frac37.
+$$
+
+Choose $c_4=0$, hence
+
+$$
+c_3=\frac{3}{28}.
+$$
+
+***Both bounds coincide (what luck!)** This good fortune does not hold for $p>1/2$.*
+
+**Remark 72.**
+
+这一步说明 Claim 2 里的系数不是拍脑袋，而是由 tight 常数与小图约束反推出来的。
+
+******Key Engineering Step (Original)****: matching small graphs first.**
+
+The spectrum $\Lambda^{(1)}$ is engineered to match the table exactly on the controlling small graphs; the rest of this section shows it also works for all other graphs.
+
+**Remark 73.**
+
+先“小图精确命中”，再“大图统一估计”，这正是谱构造中最稳妥的路径。
+
+**Block Splitting And Independence (Original).**
+
+If $G=G_1\sqcup G_2$, then
+
+$$
+Q_G(X)=Q_{G_1}(X)Q_{G_2}(X),
+$$
+
+since $|G\cap B|=|G_1\cap B|+|G_2\cap B|$ with independence.
+
+If $G$ is connected and $v$ is a cutvertex splitting $G-v$ into $G[S_1],\ldots,G[S_N]$, let
+
+$$
+H_i=G[S_i\cup\{v\}].
+$$
+
+Then the random variables $\{|H_i\cap B|\}_{i=1}^N$ are independent and
+
+$$
+|G\cap B|=\sum_{i=1}^N |H_i\cap B|,
+
+Q_G(X)=\prod_{i=1}^N Q_{H_i}(X).
+$$
+
+If $H=\bigsqcup_i H_i$ is the split at $v$, then
+
+$$
+Q_G(X)=Q_H(X).
+$$
+
+**Remark 74.**
+
+“split 不改变 cut 分布”是后续全部分解计算的核心结构事实。
+
+**Global Split Formula (Original).**
+
+Let $G_s$ be the graph obtained by fully splitting $G$ into blocks.
+If $G$ has $m$ bridges and $t_K$ blocks isomorphic to each biconnected graph $K$, then
+
+$$
+Q_G(X)=Q_{G_s}(X)=\left(\frac12+\frac12X\right)^m\prod_{K\in\mathcal K}(Q_K(X))^{t_K}
+=\frac{1}{2^m}(1+X)^m\prod_{K\in\mathcal K}(Q_K(X))^{t_K},
+$$
+
+where $\mathcal K$ is a set of isomorphism-class representatives of biconnected graphs.
+
+**Remark 75.**
+
+这个公式把任意图的 cut 分布压缩成“桥 + 双连通块”两部分，后面估计都会从这一步展开。
+
+**Split Example (Original).**
+
+If a graph is formed by joining two triangles with one bridge, then
+
+$$
+Q_G(X)=\left(\frac12+\frac12X\right)\bigl(Q_{\triangle}(X)\bigr)^2
+=\left(\frac12+\frac12X\right)\left(\frac14+\frac34X^2\right)^2.
+$$
+
+**Remark 76.**
+
+这个例子直观展示了“桥贡献一个 $(1+X)/2$ 因子，双连通块各自乘上去”。
+
+**Coefficient Expansion Formula (Original).**
+
+Suppose $G$ has exactly $m$ bridges.
+Let $H$ be the union of biconnected components of $G_s$, and write
+
+$$
+Q_H(X)=\sum_{i\ge 0} a_i X^i.
+$$
+
+Then $\sum_{i\ge0}a_i=1$, and because $H$ is bridgeless, $a_1=0$.
+Hence
+
+$$
+\tag{4}
+\begin{aligned}
+Q_G(X)
+&=\left(\frac12+\frac12X\right)^m Q_H(X)\\
+&=\frac{1}{2^m}(1+X)^m(a_0+a_2X^2+a_3X^3+\cdots)\\
+&=\frac{1}{2^m}\Bigl(
+a_0+ma_0X+\bigl(\binom m2 a_0+a_2\bigr)X^2\\
+&   +\bigl(\binom m3 a_0+ma_2+a_3\bigr)X^3+R(X)X^4
+\Bigr),
+\end{aligned}
+$$
+
+for some $R(X)\in\mathbb Q[X]$.
+
+**Remark 77.**
+
+式 (4) 是 Claim 2 证明的主计算公式：它把 $q_0,q_1,q_2,q_3$ 都写成 $m,a_0,a_2,a_3$ 的显式组合。
+
+### Proof Of Claim 2
+
+**Lemma 5 (Lemma 3.1 (Original)).**
+
+Let $G$ be a graph.
+
+1. If $G$ has exactly $N$ connected components, then
+
+$$
+q_0(G)=2^{N-v(G)}.
+$$
+
+2. If $G$ has exactly $m$ bridges, then
+
+$$
+q_1(G)=m\,q_0(G).
+$$
+
+3. If $G$ has a vertex of odd degree, then $q_k(G)\le 1/2$ for all $k\ge 0$.
+
+4. For odd $k$, $q_k(G)\le 1/2$.
+
+5. Always $q_2(G)\le 3/4$.
+
+**Proof.**
+
+1. $G\cap B=0$ iff each connected component is monochromatic. This has probability $2^{N-v(G)}$.
+
+2. This follows directly from (4).
+
+3. Let $v$ have odd degree. For any colouring $c$, flip the colour of $v$ to get $c'$. Denote by $Y_v(c)$ (resp. $Y_v(c')$) the number of cut edges incident to $v$ under $c$ (resp. $c'$). Then
+
+$$
+Y_v(c)+Y_v(c')=\deg(v).
+$$
+
+      so
+
+$$
+Y_v(c)\neq Y_v(c') because \deg(v) is odd. Also Y(c)-Y_v(c)=Y(c')-Y_v(c'), hence
+$$
+
+$$
+Y(c)\neq Y(c').
+$$
+
+      Since
+
+$$
+c\leftrightarrow c' is an involution, in each pair (c,c') at most one colouring has cut size k.
+
+4. By item 3, we may assume all degrees are even. Then each connected component is Eulerian, so every cut has even size; hence for odd k, q_k(G)=0.
+
+5. The random-cut average size is |G|/2, so
+$$
+
+\frac{|G|}{2}=\sum_k kq_k(G)
+    <2q_2(G)+(1-q_2(G))|G|
+    =|G|+(2-|G|)q_2(G),
+
+$$
+where strictness uses q_0(G)>0.
+      Hence
+$$
+
+q_2(G)<\frac{|G|/2}{|G|-2}
+    =\frac12+\frac{1}{|G|-2}.
+
+$$
+So q_2(G)<3/4 for |G|\ge 6.
+      If |G|\le 5, use split graph G_s: if G has a bridge then q_2(G)\le 1/2 by item 3.
+      Otherwise G is biconnected with at most 5 edges, hence G\in\{K_3,C_4,C_5,K_4^-\}, and direct checks give
+$$
+
+q_2(K_3)=q_2(C_4)=\frac34,
+    q_2(C_5)=\frac58,
+    q_2(K_4^-)=\frac14.
+
+$$
+∎
+
+**Remark 78.**
+
+Lemma 3.1 提供了 Claim 2 所需的“统一概率上界工具箱”，特别是 q_2\le 3/4 这条在偶数边情形里反复使用。
+
+**Lemma 6 (Lemma 3.2 (Original)).**
+
+Let G be a graph, and let H be the union of its biconnected components.
+
+1.
+$$
+
+q_0(\emptyset)=1,  q_0(-)=\frac12,  q_0(G)\le \frac14
+
+$$
+for all other graphs.
+
+2. If m=0 and |G| is odd, then either q_0(G)\le 1/16, or G is a triangle or K_4^-.
+
+3. Either H=\emptyset, or a_0\le 1/4.
+
+**Proof.**
+
+1. Immediate from Lemma 3.1(1).
+
+2. Since m=0, each component is biconnected (thus has at least 3 vertices). If at least two components, Lemma 3.1(1) gives q_0(G)\le 1/16. So G is connected. If v(G)\ge 5, again q_0(G)\le 1/16. Remaining odd-edge possibilities are K_3 and K_4^-.
+
+3. H is a union of biconnected graphs, hence H\neq -. Apply item 1.
+
+∎
+
+**Remark 79.**
+
+Lemma 3.2 的作用是“压缩异常图名单”，把很多情况归结为少数可直接验算的特殊图。
+
+**Proof of Claim 2 (Original).**
+
+Write
+$$
+
+f(G)=q_0(G)-\frac57 q_1(G)-\frac17 q_2(G)+\frac{3}{28}q_3(G).
+
+$$
+The proof splits into odd |G| and even |G|.
+
+**Odd number of edges.**
+We show: if |G| is odd, then
+$$
+
+f(G)\le \frac17,
+
+$$
+with equality iff G is an edge, a triangle, or K_4^-; otherwise
+$$
+
+f(G)\le \frac17-\frac{1}{56}.
+
+$$
+If G has m bridges, Lemma 3.1 gives q_1=mq_0, so
+$$
+
+f(G)=\left(1-\frac57m\right)q_0(G)-\frac17 q_2(G)+\frac{3}{28}q_3(G). \tag{5}
+
+$$
+If m=1, then
+$$
+
+f(G)=\frac27 q_0(G)-\frac17 q_2(G)+\frac{3}{28}q_3(G).
+
+$$
+If G=-, then f(G)=-1/7.
+Otherwise, by Lemma 3.2(1), q_0(G)\le 1/4, and by Lemma 3.1(4), q_3(G)\le 1/2, hence
+$$
+
+f(G)\le \frac27\cdot\frac14+\frac{3}{28}\cdot\frac12=\frac18=\frac17-\frac{1}{56}.
+
+$$
+If m\ge 2, the coefficient of q_0 in (5) is negative, so
+$$
+
+f(G)<\frac{3}{28}=\frac17-\frac{1}{28}<\frac17-\frac{1}{56}.
+
+$$
+Now assume m=0.
+If q_0(G)\le 1/16, then with q_3(G)\le 1/2,
+$$
+
+f(G)\le \frac{1}{16}+\frac{3}{28}\cdot\frac12=\frac{13}{112}
+=\frac17-\frac{3}{112}<\frac17-\frac{1}{56}.
+
+$$
+Otherwise, Lemma 3.2(2) implies G is either K_3 or K_4^-, and direct computation gives
+$$
+
+f(K_3)=f(K_4^-)=\frac17.
+
+$$
+**Even number of edges.**
+We show: if |G| is even, then
+$$
+
+f(G)\ge -\frac17,
+
+$$
+with equality iff G is a 2-forest or a 4-forest; and otherwise
+$$
+
+f(G)\ge -\frac17+\frac{1}{28}.
+
+$$
+By (4),
+$$
+
+\begin{aligned}
+f(G)
+&=\frac{1}{2^m}\Bigl[
+a_0-\frac57 m a_0-\frac17\!\left(\binom m2 a_0+a_2\right)
++\frac{3}{28}\!\left(\binom m3 a_0+m a_2+a_3\right)\Bigr]\\
+&=\frac{1}{2^m}\Bigl[
+\left(1-\frac57m-\frac17\binom m2+\frac{3}{28}\binom m3\right)a_0
++\left(-\frac17+\frac{3m}{28}\right)a_2+\frac{3}{28}a_3
+\Bigr].
+\end{aligned}
+
+$$
+When m=0,
+$$
+
+f(G)=a_0-\frac17 a_2+\frac{3}{28}a_3.
+
+$$
+By Lemma 3.1(5), a_2\le 3/4, so
+$$
+
+f(G)>-\frac17+\frac{1}{28}.
+
+$$
+When m=1,
+$$
+
+f(G)=\frac12\!\left(\frac27a_0-\frac{1}{28}a_2+\frac{3}{28}a_3\right)
+=\frac17a_0-\frac{1}{56}a_2+\frac{3}{56}a_3
+>-\frac34\cdot\frac{1}{56}
+=-\frac17+\frac{29}{224}>-\frac17+\frac{1}{28}.
+
+$$
+When m=2,
+$$
+
+f(G)=\frac14\!\left(-\frac47a_0+\frac{1}{14}a_2+\frac{3}{28}a_3\right)
+=-\frac17a_0+\frac{1}{56}a_2+\frac{3}{112}a_3.
+
+$$
+We have **f(G)=-1/7 iff H=\emptyset**, i.e. G has exactly two edges.
+If H\neq \emptyset, Lemma 3.2(3) gives a_0\le 1/4, hence
+$$
+
+f(G)\ge -\frac{1}{28}=-\frac17+\frac{3}{28}>-\frac17+\frac{1}{28}.
+
+$$
+When m=3,
+$$
+
+f(G)=\frac18\!\left(-\frac{41}{28}a_0+\frac{5}{28}a_2+\frac{3}{28}a_3\right)
+=-\frac{41}{224}a_0+\frac{5}{224}a_2+\frac{3}{224}a_3.
+
+$$
+Since |G| is even, H\neq\emptyset, so a_0\le 1/4 and
+$$
+
+f(G)\ge -\frac{41}{896}
+=-\frac17+\frac{87}{896}>-\frac17+\frac{1}{28}.
+
+$$
+When m=4,
+$$
+
+f(G)=\frac{1}{16}\!\left(-\frac{16}{7}a_0+\frac{2}{7}a_2+\frac{3}{28}a_3\right)
+=-\frac17a_0+\frac{1}{56}a_2+\frac{3}{448}a_3.
+
+$$
+We have **f(G)=-1/7 iff H=\emptyset**, i.e. G is a 4-forest.
+Otherwise a_0\le 1/4, so
+$$
+
+f(G)\ge -\frac{1}{28}=-\frac17+\frac{3}{28}>-\frac17+\frac{1}{28}.
+
+$$
+Finally, assume m\ge 5.
+Since coefficients of a_2,a_3 are positive for m\ge 2, it suffices to bound the a_0-coefficient away from -1/7.
+Define
+$$
+
+r(m)=\frac{1}{2^m}\left(1-\frac57m-\frac17\binom m2+\frac{3}{28}\binom m3\right).
+
+$$
+For m=5,
+$$
+
+r(5)=-\frac{41}{448}.
+
+$$
+Since |G| is even, H\neq\emptyset, so a_0\le 1/4 and
+$$
+
+f(G)\ge -\frac{41}{448}\cdot\frac14
+=-\frac17+\frac{215}{1792}>-\frac17+\frac{1}{28}.
+
+$$
+For m=6,
+$$
+
+r(6)=-\frac{23}{448},
+
+f(G)\ge -\frac{23}{448}
+=-\frac17+\frac{41}{448}>-\frac17+\frac{1}{28}.
+
+$$
+For m=7,
+$$
+
+r(7)=-\frac{13}{512}.
+
+$$
+For m\ge 7, the polynomial
+$$
+
+1-\frac57m-\frac17\binom m2+\frac{3}{28}\binom m3
+
+$$
+in the numerator of r(m) is strictly increasing, hence
+$$
+
+r(m)\ge -\frac{13}{512}  (\forall\,m\ge 7).
+
+$$
+Therefore
+$$
+
+f(G)\ge -\frac{13}{512}
+=-\frac17+\frac{421}{3584}>-\frac17+\frac{1}{28}
+
+$$
+for all m\ge 7.
+This completes the proof of Claim 2.
+
+∎
+
+**Remark 80.**
+
+**Section 3 核心收获**：Claim 2 所需的最小特征值与谱间隙都由 cut 统计精确推出，且等号图形态被完整刻画。
+$$
+
+\paragraph{****难点（对应此处）****：为什么要按桥数 $m$ 分这么细？}
+
+**Remark 81.**
+
+因为式 (4) 下 $m$ 直接改变 $a_0,a_2,a_3$ 的系数符号和大小；不分 $m$ 做分段估计，很难同时控制下界与等号情形。
+
+## Section 4 Notes
+
+**Section Transition (Original).**
+
+For $p<1/2$, the intersecting and agreeing questions are no longer equivalent.
+Indeed, the triangle-agreeing family of all graphs containing no edges of a fixed triangle has
+
+$$
+\mu_p(\mathcal F)=(1-p)^3>p^3.
+$$
+
+So in this section we focus only on odd-cycle-intersecting families.
+
+**Remark 82.**
+
+这一步把讨论对象从“intersecting/agreeing 二者可互转”切换到“只做 intersecting”，是偏置区间最关键的结构变化。
+
+### Skew Analysis
+
+**Weighted Cube Setting (Original).**
+
+For skew analysis, work on $\{0,1\}^X$ (finite $X$) with product measure
+
+$$
+\mu_p(S)=p^{|S|}(1-p)^{|X|-|S|}.
+$$
+
+In our graph setting, $X=[n]^{(2)}$.
+For $G\subseteq K_n$:
+
+$$
+\mu_p(G)=p^{|G|}(1-p)^{\binom n2-|G|},
+\mu_p(\mathcal F)=\sum_{G\in\mathcal F}\mu_p(G).
+$$
+
+Inner product:
+
+$$
+\langle f,g\rangle_p=\sum_{S\subseteq X}\mu_p(S)f(S)g(S).
+$$
+
+**Remark 83.**
+
+这一步把均匀测度的 Hilbert 结构替换成偏置版本，后续所有正交分解都随之 skew 化。
+
+**Skew Fourier--Walsh Basis (Original).**
+
+For each $e\in X$, define
+
+$$
+\chi_e(S)=
+\begin{cases}
+\sqrt{\frac{p}{1-p}}, & e\notin S,\\[2mm]
+-\sqrt{\frac{1-p}{p}}, & e\in S.
+\end{cases}
+$$
+
+For $R\subseteq X$, let $\chi_R=\prod_{e\in R}\chi_e$.
+Then $\{\chi_R:R\subseteq X\}$ is an orthonormal basis in $(\mathbb R[\{0,1\}^X],\langle\cdot,\cdot\rangle_p)$.
+Every $f$ has expansion
+
+$$
+f=\sum_{R\subseteq X}\widehat f(R)\chi_R.
+$$
+
+All formulas from Section 2.1 (Parseval etc.) hold in this skew setting.
+
+**Remark 84.**
+
+技术上只换了基和内积，但证明主线不变：依然是“构造 OCC 算子 + 频谱约束”。
+
+**Definition 5 (Definition 4.1 (**Skew OCC Operator**, Original)).**
+
+For $p<1/2$, an OCC operator is a linear operator $A$ on $\mathbb R[\{0,1\}^{[n]^{(2)}}]$ such that:
+
+1. if $f$ is the indicator of an odd-cycle-intersecting family, then
+
+$$
+f(G)=1\Rightarrow Af(G)=0;
+$$
+
+2. the skew Fourier--Walsh basis is a complete eigenbasis of $A$.
+
+**Remark 85.**
+
+和 $p=1/2$ 的定义唯一关键区别是这里用的是 **intersecting**（不是 agreeing）。
+
+**Matrix Construction (Original).**
+
+Define
+
+$$
+\begin{aligned}
+M=
+\begin{pmatrix}
+\frac{1-2p}{1-p} & \frac{p}{1-p}\\
+1 & 0
+\end{pmatrix},
+\end{aligned}
+$$
+
+with rows/columns indexed by $\{0,1\}$.
+For bipartite $B\subseteq K_n$, set for each edge $e$:
+
+$$
+M_B^{(e)}=
+\begin{cases}
+M, & e\in B,\\
+I_{2\times 2}, & e\notin B,
+\end{cases}
+$$
+
+and
+
+$$
+M_B=\bigotimes_{e\in K_n}M_B^{(e)}.
+$$
+
+**Remark 86.**
+
+这就是 skew 版的“翻边算子工程模板”：把一维矩阵张量化到所有边坐标。
+
+**Claim (Claim 4 (Original)).**
+
+For bipartite $B$, left multiplication by $M_B$ defines an OCC operator:
+
+$$
+(M_Bf)(G)=\sum_{H\subseteq K_n}(M_B)_{G,H}f(H).
+$$
+
+For each $G\subseteq K_n$, $\chi_G$ is an eigenvector with eigenvalue
+
+$$
+\lambda_G=
+\left(-\frac{p}{1-p}\right)^{|G\cap B|}
+=
+\left(-\frac{p}{1-p}\right)^{|G|}
+\left(-\frac{1-p}{p}\right)^{|G\cap B|}.
+$$
+
+**Proof.**
+
+****annihilation step:****
+if $\mathcal F$ is odd-cycle-intersecting with indicator $f$, to show OCC property it suffices by linearity to prove
+
+$$
+G\cap H\cap B\neq\emptyset \Rightarrow (M_B)_{G,H}=0.
+$$
+
+But
+
+$$
+(M_B)_{G,H}=\prod_{e\in K_n}(M_B^{(e)})_{G(e),H(e)},
+$$
+
+and if some $e\in B$ has $G(e)=H(e)=1$, the corresponding factor is $M_{1,1}=0$.
+
+****eigenvalue step:****
+the vectors
+
+$$
+\chi_\emptyset=\binom{1}{1},
+\chi_{\{e\}}=
+\binom{\sqrt{p/(1-p)}}{-\sqrt{(1-p)/p}}
+\tag{6}
+$$
+
+are simultaneous eigenvectors of $M$ and $I_{2\times 2}$.
+Tensorization gives that each $\chi_G$ is an eigenvector of $M_B$ with eigenvalue
+
+$$
+\left(-\frac{p}{1-p}\right)^{|G\cap B|},
+$$
+
+equivalently in the displayed claim form.
+
+∎
+
+**Remark 87.**
+
+Claim 4 把 Section 2 的算子路线完整迁移到了 skew 场景，是 Section 4 的基础支点。
+
+**Uniform-Case Consistency (Original).**
+
+$M_B$ is the $p$-skew analogue of the uniform operator $A_B$; when $p=1/2$, we have $M_{0,0}=0$, hence
+
+$$
+M_B=A_B.
+$$
+
+**Remark 88.**
+
+这一步说明 Section 4 不是另起炉灶，而是对 Section 2 的连续变形。
+
+**Transpose/Random-Walk View (Original).**
+
+$$
+M_B^\top corresponds to an operator N_B:
+$$
+
+N_Bf(G)=\mathbb E[f(G\oplus_p B)],
+
+$$
+where G\oplus_p B means flipping each edge of B independently with probability p/(1-p).
+This is a Markov walk with stationary law G(n,p), and for odd-cycle-intersecting f:
+$$
+
+f(G)=1\Rightarrow N_Bf(G)=0.
+
+**Remark 89.**
+
+这个概率过程视角解释了为什么偏置模型下仍能保留“相邻一步不可能都落在族内”的核心机制。
+
+### Engineering Eigenvalues For $p<1/2$
+
+**Subsection Aim (Original).**
+
+In this subsection, we construct an OCC operator with the required spectrum first on
+$[1/4,1/2)$, and in fact on a slightly extended interval, so that the stability constant remains bounded when $p$ is bounded away from $0$.
+
+**Remark 90.**
+
+这说明作者目标不只是“能证上界”，还要把稳定性常数一起控制住。
+
+**Working Interval (Original).**
+
+In this subsection, assume
+
+$$
+p\in[\tau,1/2),  \tau=0.248.
+$$
+
+The proof for smaller $p$ is deferred to Section 4.4.
+*\keypart{The proof breaks down for slightly smaller $p$}: the required inequality is violated by 3-forests.*
+
+**Remark 91.**
+
+作者先在“中等偏置区间”把谱构造做稳，再用另一套谱覆盖小 $p$。
+
+**Lemma 7 (Lemma 4.2 (Original)).**
+
+Let $\mathcal B$ be a distribution over bipartite graphs, and each $B\in\mathcal B$ has a function $f_B$ on subgraphs of $B$.
+Then
+
+$$
+\lambda_G=\left(-\frac{p}{1-p}\right)^{|G|}\mathbb E[f_B(B\cap G)]
+$$
+
+is an OCC spectrum.
+
+**Proof.**
+
+Trivial skew generalization of the proof of Lemma 2.8.
+
+∎
+
+**Remark 92.**
+
+这一条是 skew 版本的“谱工厂”。
+
+**Corollary 5 (Corollary 4.3 (Original)).**
+
+With random bipartition $(V_1,V_2)$ and cut $B$, define
+
+$$
+q_i(G)=\Pr(|G\cap B|=i),
+q_R(G)=\Pr(G\cap B\cong R).
+$$
+
+Then
+
+$$
+\lambda_G=
+\left(-\frac{p}{1-p}\right)^{|G|}q_i(G),
+
+\lambda_G=
+\left(-\frac{p}{1-p}\right)^{|G|}q_R(G)
+$$
+
+are OCC spectra.
+
+**Remark 93.**
+
+Corollary 4.3 表示 Section 2 的 $q_i,q_R$ 工具箱在 skew 情形可直接复用。
+
+**Theorem 5 (Theorem 4.4 (Original)).**
+
+Let $\Lambda=(\lambda_G)_{G\subseteq K_n}$ be an OCC spectrum with
+
+$$
+\lambda_\emptyset=1,  -1<\lambda_{\min}<0,  \gamma>0,
+
+\nu=-\frac{\lambda_{\min}}{1-\lambda_{\min}}.
+$$
+
+For odd-cycle-intersecting $\mathcal F$:
+
+- Upper bound: $\mu_p(\mathcal F)\le \nu$.
+
+- Uniqueness: if $\mu_p(\mathcal F)=\nu$, then $\widehat{\mathcal F}(G)\neq 0$ only on $\Lambda_{\min}\cup\{\emptyset\}$.
+
+- Stability:
+
+$$
+w:=\sum_{G\notin\Lambda_{\min}\cup\{\emptyset\}}\widehat{\mathcal F}(G)^2
+    \le \frac{\nu}{(1-\nu)\gamma}\,(\nu-\mu_p(\mathcal F)).
+$$
+
+**Proof.**
+
+Same argument as Theorem 2.2, replacing uniform Fourier analysis by the $p$-skew Fourier basis and using odd-cycle-intersecting OCC annihilation.
+
+∎
+
+**Remark 94.**
+
+Theorem 4.4 是 Section 2.2 主模板在 skew 空间里的一一对应版。
+
+**Corollary 6 (Corollary 4.5 (Original)).**
+
+Assume an OCC spectrum with
+
+$$
+\lambda_\emptyset=1,
+\lambda_{\min}=-\frac{p^3}{1-p^3},
+\gamma>0,
+$$
+
+and all minimizers have at most 3 edges.
+If $\mathcal F$ is odd-cycle-intersecting, then:
+
+- $\mu_p(\mathcal F)\le p^3$;
+
+- if equality, $\mathcal F$ is a $\triangle$umvirate;
+
+- if $\mu_p(\mathcal F)>p^3-\varepsilon$, then
+
+$$
+\mu_p(\mathcal F\triangle \mathcal T)
+    =O_p\!\left(\frac{p^3}{(1-p^3)\gamma}\varepsilon\right)
+$$
+
+for some $\triangle$umvirate $\mathcal T$.
+
+**Proof.**
+
+Same deduction as Corollary 2.3 from Theorem 2.2, now using Theorem 4.4.
+
+∎
+
+**Remark 95.**
+
+Corollary 4.5 是 Section 4 的直接目标条件：只要构造出正确最小特征值和间隙，主结论就落地。
+
+**Coefficient Constraints (Original).**
+
+For spectra of the form
+
+$$
+\lambda_G=
+\left(-\frac{p}{1-p}\right)^{|G|}
+\bigl[c_0q_0(G)+c_1q_1(G)+c_2q_2(G)+c_3q_3(G)+c_4q_4(G)\bigr],
+$$
+
+the small-graph constraints give
+
+$$
+c_0=1,
+c_1=\frac{p^2-p-1}{p^2+p+1},
+c_2=\frac{p^2-3p+1}{p^2+p+1},
+$$
+
+and
+
+$$
+\frac{5p^2-27p+45-16/p}{p^2+p+1}
+\le
+4c_3+c_4
+\le
+\frac{5p^2-27p+45-32/p+8/p^2}{p^2+p+1}.
+$$
+
+At $p=1/2$ bounds coincide; for $p>1/2$ they contradict; for $p<1/2$ they leave a gap.
+Choose
+
+$$
+c_4=0,
+c_3=\frac{5p^2-27p+45-28/p+6/p^2}{4(p^2+p+1)},
+$$
+
+which satisfies $c_3>0$ on $(0,1/2]$.
+
+**Remark 96.**
+
+这一步正是 Section 3 里“good fortune at $p=1/2$”在 skew 下的精确对应：$p>1/2$ 会直接失效。
+
+**Claim (Claim 5 (Original)).**
+
+Let $\Lambda^{(1)}$ be given by
+
+$$
+\lambda_G^{(1)}=
+\left(-\frac{p}{1-p}\right)^{|G|}
+\bigl[q_0(G)+c_1q_1(G)+c_2q_2(G)+c_3q_3(G)\bigr],
+$$
+
+with $c_1,c_2,c_3$ as above.
+Then there exists $\gamma'>0$ (independent of $n,p$) such that:
+
+- $\lambda_\emptyset^{(1)}=1$;
+
+- $\lambda_{\min}^{(1)}=-\frac{p^3}{1-p^3}$;
+
+- minimizers are: one edge, 2-path, two disjoint edges, triangle;
+
+- for all
+
+$$
+H\notin \Lambda_{\min}^{(1)}\cup \mathcal F_4\cup\{K_4^-\},
+$$
+
+we have
+
+$$
+\lambda_H^{(1)}\ge -\frac{p^3}{1-p^3}+\gamma'.
+$$
+
+**Remark 97.**
+
+Claim 5 是 skew 第一主谱：目标点命中，非目标点留间隙，但 4-forest 与 $K_4^-$ 仍需二次修正。
+
+**Claim (Claim 6 (Original)).**
+
+Define
+
+$$
+\lambda_G^{(2)}=
+\left(-\frac{p}{1-p}\right)^{|G|}
+\left[\sum_{F\in\mathcal F_4}q_F(G)-q_{C_4}(G)\right].
+$$
+
+Then
+
+1. $\lambda_H^{(2)}=0$ for $|H|<4$;
+
+2. $\lambda_F^{(2)}=2^{-4}\frac{p^4}{(1-p)^4}$ for 4-forests $F$;
+
+3. $\lambda_{K_4^-}^{(2)}=2^{-3}\frac{p^5}{(1-p)^5}$;
+
+4. $|\lambda_G^{(2)}|\le 1$ for all $G$.
+
+**Proof.**
+
+Same proof as Claim 3; the last bound uses $\left|\frac{p}{1-p}\right|\le 1$.
+
+∎
+
+**Remark 98.**
+
+Claim 6 是 Claim 3 的 skew 复制件，专门把 4-edge 异常 tight 点抬高。
+
+**Corollary 7 (Corollary 4.6 (Original)).**
+
+Let
+
+$$
+\Lambda=\Lambda_1+\frac{16}{17}\gamma'\Lambda_2.
+$$
+
+Then:
+
+- $\lambda_\emptyset=1$;
+
+- $\lambda_G=-\frac{p^3}{1-p^3}$ on non-empty subgraphs of $K_3$ (and two disjoint edges);
+
+- with
+
+$$
+\gamma=\frac{p^4}{17(1-p)^4}\gamma'\ge \frac{\tau^4}{17(1-\tau)^4}\gamma',
+$$
+
+all $|G|>3$ satisfy
+
+$$
+\lambda_G\ge -\frac{p^3}{1-p^3}+\gamma.
+$$
+
+**Proof.**
+
+Same linear-combination argument as Corollary 2.10, with skew scaling factors.
+
+∎
+
+**Remark 99.**
+
+Corollary 4.6 完成了 $p\in[\tau,1/2)$ 的谱条件闭环。
+
+**Immediate Consequence (Original).**
+
+Corollary 4.6 implies Theorem 1.4 for $p\in[\tau,1/2)$.
+The remaining range is handled in Subsection 4.4.
+
+**Remark 100.**
+
+到这里中等偏置区间已经收工，后面只需补上小 $p$ 区间。
+
+### Proof Of Claim 5
+
+**Verification Strategy (Original).**
+
+The proof follows Claim 2 structure (odd/even $|G|$ cases), but now inequalities are rational in $p$.
+Each target inequality is reduced to polynomial positivity on $[\tau,1/2)$, checked via Sturm-chain style root exclusion.
+
+**Remark 101.**
+
+这段说明了“为何可一次性覆盖整个区间”：不是点代入，而是函数级别验证。
+
+**Lemma 8 (Lemma 4.7 (Original)).**
+
+Let $G$ be a graph with $m$ bridges.
+
+1. If $m=1$ and $|G|>1$, then $|G|\ge 4$.
+
+2. If $m=0$ and $|G|\le 5$, then $G$ is one of $K_3,C_4,C_5,K_4^-$.
+
+**Proof.**
+
+1. Every biconnected component has at least 3 edges.
+
+2. If there are two biconnected components then $|G|\ge 6$; the only biconnected graphs with at most 5 edges are those listed.
+
+∎
+
+**Remark 102.**
+
+Lemma 4.7 是 Claim 5 分情况估计时的有限分类入口。
+
+**Proof of Claim 5 (Original).**
+
+Set coefficients as above.
+For $p\in(0,1/2]$, $c_0,c_3>0$, $c_1<0$, and $c_2$ changes sign at $(3-\sqrt5)/2$.
+
+**\keypart{Odd $|G|$ case.}**
+By Lemma 3.1(4,5):
+
+$$
+\lambda_G\ge
+-\left(\frac{p}{1-p}\right)^{|G|}
+\left[q_0(1+mc_1)+\max\!\left(\frac34c_2,0\right)+\frac12c_3\right].
+$$
+
+When $m\ge 2$, $1+mc_1<0$, so
+
+$$
+\lambda_G\ge
+-\left(\frac{p}{1-p}\right)^{|G|}
+\left[\max\!\left(\frac34c_2,0\right)+\frac12c_3\right].
+$$
+
+If $|G|=3$, direct check gives $\lambda_G>-\frac{p^3}{1-p^3}$ unless $G$ is intended minimizer.
+Otherwise $|G|\ge 5$ and
+
+$$
+\lambda_G\ge
+-\left(\frac{p}{1-p}\right)^5
+\left[\max\!\left(\frac34c_2,0\right)+\frac12c_3\right]
+>-\frac{p^3}{1-p^3}.
+$$
+
+When $m=1$, Lemma 4.7(1): either $|G|=1$ (equality minimizer) or $|G|\ge 5$.
+Using $q_0\le 1/4$:
+
+$$
+\lambda_G\ge
+-\left(\frac{p}{1-p}\right)^5
+\left[\frac14(1+c_1)+\max\!\left(\frac34c_2,0\right)+\frac12c_3\right]
+>-\frac{p^3}{1-p^3}.
+$$
+
+When $m=0$, Lemma 4.7(2): either $K_3,C_5,K_4^-$ or $|G|\ge 7$.
+$K_3$ gives equality minimizer; $C_5,K_4^-$ are checked directly (for $K_4^-$ equality only at $p=1/2$).
+For $|G|\ge 7$, Lemma 3.2(2) gives $q_0\le 1/16$:
+
+$$
+\lambda_G\ge
+-\left(\frac{p}{1-p}\right)^7
+\left[\frac{1}{16}+\max\!\left(\frac34c_2,0\right)+\frac12c_3\right]
+>-\frac{p^3}{1-p^3}.
+$$
+
+**\keypart{Even $|G|$ case.}**
+Using (4), write
+
+$$
+\lambda_G=
+\left(\frac{p}{1-p}\right)^{|G|}
+\bigl(d_0(m)a_0+d_2(m)a_2+d_3(m)a_3\bigr),
+$$
+
+where
+
+$$
+d_0(m)=2^{-m}\!\left[1+mc_1+\binom m2 c_2+\binom m3 c_3\right],
+d_2(m)=2^{-m}(c_2+mc_3),
+d_3(m)=2^{-m}c_3.
+$$
+
+Here $d_3(m)>0$, and $d_2(m)>0$ for $m\ge 2$.
+Also $d_0(m)>0$ for $m\ge 10$ (via positivity of
+$c_1+7c_3$, $c_2+2c_3$, and monotonic increment argument).
+Hence if $m\ge 10$, $\lambda_G>0$.
+
+If $m<10$ and $G$ is a forest, possible even-edge cases are 2-,4-,6-,8-forests.
+2-forest gives equality minimizer; others are direct checks (4-forest touches only at $p=1/2$).
+
+If $m<10$ and $G$ is not a forest, Lemmas 3.1(5), 3.2(3) imply
+
+$$
+\lambda_G\ge
+\left(\frac{p}{1-p}\right)^2
+\left[\min\!\left(\frac14 d_0(m),0\right)+\min\!\left(\frac34 d_2(m),0\right)\right]
+>-\frac{p^3}{1-p^3}.
+$$
+
+So all non-target graphs are strictly above the minimum, yielding the claimed gap.
+
+∎
+
+**Remark 103.**
+
+Claim 5 的关键是：odd/even 两条链都能统一压到目标阈值之上，并且在区间上保持严格性。
+
+### Small $p$
+
+**Range (Original).**
+
+For $p\in(0,\tau]$, use a different OCC spectrum read from [8].
+
+**Remark 104.**
+
+这是 Section 4 的第二套方案，用来填补主构造在更小 $p$ 区间的技术空档。
+
+**Claim (Claim 7 (Original)).**
+
+An OCC spectrum is
+
+$$
+\lambda_G=\lambda_{|G|}
+=\left(-\frac{p}{1-p}\right)^{|G|}
+\left[
+1-\frac{1+p}{1+p+p^2}|G|
++\frac{1}{1+p+p^2}\binom{|G|}{2}
+\right].
+$$
+
+Moreover:
+
+1. $\lambda_0=1$;
+
+2. $\lambda_{\min}=\lambda_1=\lambda_2=\lambda_3=-\frac{p^3}{1-p^3}$;
+
+3. for $|G|\ge 4$,
+
+$$
+\lambda_{|G|}\ge \lambda_5=
+    -\left(\frac{p}{1-p}\right)^5\frac{6-4p+p^2}{1+p+p^2},
+$$
+
+so the spectral gap is
+
+$$
+\gamma=
+    \frac{p^3}{1-p^3}
+    -
+    \left(\frac{p}{1-p}\right)^5\frac{6-4p+p^2}{1+p+p^2}.
+$$
+
+**Proof.**
+
+Can be deduced from [8].
+Alternatively, by Lemma 4.2, any
+
+$$
+\lambda_G=\left(-\frac{p}{1-p}\right)^{|G|}
+\left(a_0+a_1|G|+a_2\binom{|G|}{2}\right)
+$$
+
+is OCC.
+Choose coefficients to satisfy $\lambda_0=1$ and
+
+$$
+\lambda_1=\lambda_2=\lambda_3=-\frac{p^3}{1-p^3}.
+$$
+
+Then direct checks show:
+
+$$
+\lambda_5<0,
+\lambda_{|G|}\ge 0\ (|G|\ge 4\text{ even}),
+|\lambda_{|G|+2}|<|\lambda_{|G|}|\ (|G|\ge 5\text{ odd}),
+$$
+
+which yields the claim.
+
+∎
+
+**Remark 105.**
+
+Claim 7 在小 $p$ 区间给出可显式控制的单变量谱。
+
+**Lemma 9 (Lemma 4.8 (Original)).**
+
+Let $\gamma$ be the spectral gap in Claim 7.
+Then
+
+$$
+\frac{p^3}{(1-p^3)\gamma}
+$$
+
+is bounded on $p\in(0,\tau]$.
+
+**Proof.**
+
+Let
+
+$$
+g(p)=\frac{(1-p^3)\gamma}{p^3}
+=1-\frac{p^2(6-4p+p^2)}{(1-p)^4}.
+$$
+
+On $[0,1/4]$, $g$ is strictly decreasing with $g(0)=1$, $g(1/4)=0$.
+Hence on $[0,\tau]$:
+
+$$
+g(p)\ge g(\tau)>0,
+$$
+
+so
+
+$$
+\frac{p^3}{(1-p^3)\gamma}\le \frac{1}{g(\tau)}.
+$$
+
+∎
+
+**Remark 106.**
+
+这个有界性是稳定性常数不会在小 $p$ 爆炸的关键保障。
+
+**Theorem 6 (Theorem 4.9 (Kindler--Safra, Original)).**
+
+For every $t\in\mathbb N$ and $p\in(0,1)$, there exist
+
+$$
+\varepsilon_0=\Omega(p^{4t}),  c=O(p^{-t}),  T=O(tp^{-4t})
+$$
+
+such that if Boolean $f:\{0,1\}^N\to\{0,1\}$ satisfies
+
+$$
+\sum_{|S|>t}\widehat f(S)^2=\varepsilon<\varepsilon_0,
+$$
+
+then there exists Boolean $g$ depending on at most $T$ coordinates with
+
+$$
+\mu_p(\{R:f(R)\neq g(R)\})\le c\varepsilon.
+$$
+
+**Remark 107.**
+
+这条是 skew 稳定性闭环的最后分析输入。
+
+**From Spectral Tail To Structural Closeness (Original).**
+
+Lemma 4.8 and Corollary 4.6 imply that there exists an absolute constant $C$ such that if
+$\mathcal F$ is odd-cycle-intersecting with $\mu_p(\mathcal F)\ge p^3-\varepsilon$, then
+
+$$
+\sum_{|G|>3}\widehat{\mathcal F}(G)^2\le C\varepsilon.
+$$
+
+Applying Theorem 4.9 (with $t=3$) and the same deduction as in Corollary 2.3 yields that
+$\mathcal F$ is $c_p C\varepsilon$-close to a $\triangle$umvirate, where $c_p$ depends only on $p$ and is bounded on $[\delta,1/2)$ for each fixed $\delta>0$.
+
+**Remark 108.**
+
+这段把“谱尾小”真正转成“结构接近三角形族”，是稳定性结论落地的最后一步。
+
+**Section 4 Conclusion (Original).**
+
+Combining Corollary 4.6 (for $p\in[\tau,1/2)$), Claim 7--Lemma 4.8 (for $p\in(0,\tau]$), and Theorem 4.9 gives Theorem 1.4 for all $p\in(0,1/2)$, with stability constants bounded away from $0$ on $[\delta,1/2)$.
+
+**Remark 109.**
+
+****Section 4 核心收获****：偏置测度下的极值值 $p^3$、结构唯一性与稳定性全部打通。
+
+## PDF
+
+Download the original write-up [here](/files/Grade3/Reports/triangle-intersecting.pdf).0:{"buildId":"rZLQ8EVqblT6xTH8wdhS0","rsc":["$","$1","c",{"children":[["$","$L2",null,{"hasContent":false,"children":[false,["$","$L3",null,{"baseLdJson":{"@context":"https://schema.org","@type":"BlogPosting","headline":"Triangle-Intersecting Families II","description":"Reading notes on triangle-intersecting families of graphs.","datePublished":"2026-04-13T00:00:00.000Z","dateModified":"2026-04-13T00:00:00.000Z"}}],["$","$L4",null,{"data":{"id":"post-triangle-2","created":"2026-04-13T00:00:00.000Z","modified":"2026-04-13T00:00:00.000Z","title":"Triangle-Intersecting Families II","text":"$5","summary":"Reading notes on triangle-intersecting families of graphs.","copyright":true,"tags":["Seminar","Combinatorics"],"slug":"triangle-intersecting-2","categoryId":"cat-seminar","category":{"id":"cat-seminar","slug":"seminar","name":"Seminar","created":"2024-07-01T00:00:00.000Z","type":0,"count":10},"images":[],"pin":null,"pinOrder":0,"related":[],"allowComment":true,"commentsIndex":0,"count":{"read":0,"like":0}}}],"$L6","$L7","$L8"]}],["$L9","$La","$Lb","$Lc","$Ld","$Le","$Lf","$L10","$L11","$L12","$L13","$L14","$L15","$L16"],"$L17"]}],"loading":null,"isPartial":false}
+6:["$","$L18",null,{"fetchedAt":"2026-08-19T10:15:05.237Z"}]
+7:["$","div",null,{"data-server-fetched-at":"2026-08-19T10:15:05.237Z","className":"relative flex min-h-[120px] grid-cols-[auto_200px] lg:grid","children":[["$","$L19",null,{"lcpOptimization":true,"className":"min-w-0","children":[["$","div",null,{"className":"relative w-full min-w-0","children":[["$","$L1a",null,{"id":"post-triangle-2","type":"post"}],["$","div",null,{"children":[["$","div",null,{"className":"mb-8","children":[["$","$L1b",null,{}],["$","$L1c",null,{"id":"post-triangle-2","type":"posts","className":"absolute -top-6 right-0"}],["$","$L1d",null,{"className":"mb-8 justify-center"}],["$","$L1e",null,{}],["$","$L1f",null,{"type":"before"}]]}],["$","$L20",null,{"eoaDetect":true,"children":[["$","$L21",null,{}],["$","$L22",null,{"children":["$","$L23",null,{"children":["$","article",null,{"className":"prose","children":[["$","div",null,{"className":"sr-only","children":["$","$L1b",null,{}]}],["$","$L24",null,{}],["$","$L25",null,{}]]}]}]}],["$","$L26",null,{"children":["$","$L27",null,{}]}]]}]]}],["$","$L28",null,{"children":[["$","$L1f",null,{}],["$","$L29",null,{}],["$","$L2a",null,{}]]}]]}],["$","$L2b",null,{"delay":500,"children":["$","$L2c",null,{"refId":"post-triangle-2","allowComment":true}]}]]}],["$","$L2d",null,{"className":"relative hidden lg:block"}]]}]
+8:["$","$L2e",null,{"children":["$","$L2f",null,{}]}]
+9:["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/136744c992bad96d.css","precedence":"next"}]
+a:["$","link","1",{"rel":"stylesheet","href":"/_next/static/chunks/0169140b52b18b81.css","precedence":"next"}]
+b:["$","link","2",{"rel":"stylesheet","href":"/_next/static/chunks/cf19f565ce194e50.css","precedence":"next"}]
+c:["$","link","3",{"rel":"stylesheet","href":"/_next/static/chunks/2a531debc05d9c48.css","precedence":"next"}]
+d:["$","link","4",{"rel":"stylesheet","href":"/_next/static/chunks/f6d4eb0f1595037c.css","precedence":"next"}]
+e:["$","link","5",{"rel":"stylesheet","href":"/_next/static/chunks/be9fe8599e8928e8.css","precedence":"next"}]
+f:["$","script","script-0",{"src":"/_next/static/chunks/35eaa08fca66b29e.js","async":true}]
+10:["$","script","script-1",{"src":"/_next/static/chunks/f91f857f975d1c9f.js","async":true}]
+11:["$","script","script-2",{"src":"/_next/static/chunks/dabd062b49706f28.js","async":true}]
+12:["$","script","script-3",{"src":"/_next/static/chunks/740441c5b62d2d93.js","async":true}]
+13:["$","script","script-4",{"src":"/_next/static/chunks/dcd49895cb9db447.js","async":true}]
+14:["$","script","script-5",{"src":"/_next/static/chunks/175944aa1545ac7c.js","async":true}]
+15:["$","script","script-6",{"src":"/_next/static/chunks/16494c9ed210a726.js","async":true}]
+16:["$","script","script-7",{"src":"/_next/static/chunks/19ed43205a6e84be.js","async":true}]
+17:["$","$L30",null,{"children":["$","$31",null,{"name":"Next.MetadataOutlet","children":"$@32"}]}]
+32:null

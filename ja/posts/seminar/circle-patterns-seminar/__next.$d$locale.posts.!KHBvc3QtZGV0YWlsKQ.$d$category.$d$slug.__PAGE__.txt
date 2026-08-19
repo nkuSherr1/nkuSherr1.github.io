@@ -1,0 +1,1344 @@
+1:"$Sreact.fragment"
+2:I[417743,["/_next/static/chunks/d03e4f6fdf084240.js","/_next/static/chunks/525ff3aa60c02a25.js","/_next/static/chunks/ae2a70c709da2ba8.js","/_next/static/chunks/eb309b8f06731812.js","/_next/static/chunks/baa674234f056c60.js","/_next/static/chunks/2edc37b4337c096a.js","/_next/static/chunks/6f0408800ece4f06.js","/_next/static/chunks/6f95f3a6a7ed9dab.js","/_next/static/chunks/3c40fd5a14861430.js","/_next/static/chunks/e7855f92c342e0a3.js","/_next/static/chunks/a5fcaccd389d798e.js","/_next/static/chunks/c3456ef3141ade67.js","/_next/static/chunks/c92042fd5179bd95.js","/_next/static/chunks/1737ca787e6b8d4c.js","/_next/static/chunks/d691f1571e343c32.js","/_next/static/chunks/65f1d76f7ac19600.js","/_next/static/chunks/762b6f848ae7b21b.js","/_next/static/chunks/1d5a5c14848b802e.js","/_next/static/chunks/a40e2b25b1a62ac7.js","/_next/static/chunks/c6509abffeae92d2.js","/_next/static/chunks/35eaa08fca66b29e.js","/_next/static/chunks/f91f857f975d1c9f.js","/_next/static/chunks/dabd062b49706f28.js","/_next/static/chunks/740441c5b62d2d93.js","/_next/static/chunks/dcd49895cb9db447.js","/_next/static/chunks/175944aa1545ac7c.js","/_next/static/chunks/16494c9ed210a726.js","/_next/static/chunks/19ed43205a6e84be.js"],"TocHeadingStrategyProvider"]
+3:I[401946,["/_next/static/chunks/d03e4f6fdf084240.js","/_next/static/chunks/525ff3aa60c02a25.js","/_next/static/chunks/ae2a70c709da2ba8.js","/_next/static/chunks/eb309b8f06731812.js","/_next/static/chunks/baa674234f056c60.js","/_next/static/chunks/2edc37b4337c096a.js","/_next/static/chunks/6f0408800ece4f06.js","/_next/static/chunks/6f95f3a6a7ed9dab.js","/_next/static/chunks/3c40fd5a14861430.js","/_next/static/chunks/e7855f92c342e0a3.js","/_next/static/chunks/a5fcaccd389d798e.js","/_next/static/chunks/c3456ef3141ade67.js","/_next/static/chunks/c92042fd5179bd95.js","/_next/static/chunks/1737ca787e6b8d4c.js","/_next/static/chunks/d691f1571e343c32.js","/_next/static/chunks/65f1d76f7ac19600.js","/_next/static/chunks/762b6f848ae7b21b.js","/_next/static/chunks/1d5a5c14848b802e.js","/_next/static/chunks/a40e2b25b1a62ac7.js","/_next/static/chunks/c6509abffeae92d2.js","/_next/static/chunks/35eaa08fca66b29e.js","/_next/static/chunks/f91f857f975d1c9f.js","/_next/static/chunks/dabd062b49706f28.js","/_next/static/chunks/740441c5b62d2d93.js","/_next/static/chunks/dcd49895cb9db447.js","/_next/static/chunks/175944aa1545ac7c.js","/_next/static/chunks/16494c9ed210a726.js","/_next/static/chunks/19ed43205a6e84be.js"],"LdJsonWithAuthor"]
+4:I[373448,["/_next/static/chunks/d03e4f6fdf084240.js","/_next/static/chunks/525ff3aa60c02a25.js","/_next/static/chunks/ae2a70c709da2ba8.js","/_next/static/chunks/eb309b8f06731812.js","/_next/static/chunks/baa674234f056c60.js","/_next/static/chunks/2edc37b4337c096a.js","/_next/static/chunks/6f0408800ece4f06.js","/_next/static/chunks/6f95f3a6a7ed9dab.js","/_next/static/chunks/3c40fd5a14861430.js","/_next/static/chunks/e7855f92c342e0a3.js","/_next/static/chunks/a5fcaccd389d798e.js","/_next/static/chunks/c3456ef3141ade67.js","/_next/static/chunks/c92042fd5179bd95.js","/_next/static/chunks/1737ca787e6b8d4c.js","/_next/static/chunks/d691f1571e343c32.js","/_next/static/chunks/65f1d76f7ac19600.js","/_next/static/chunks/762b6f848ae7b21b.js","/_next/static/chunks/1d5a5c14848b802e.js","/_next/static/chunks/a40e2b25b1a62ac7.js","/_next/static/chunks/c6509abffeae92d2.js","/_next/static/chunks/35eaa08fca66b29e.js","/_next/static/chunks/f91f857f975d1c9f.js","/_next/static/chunks/dabd062b49706f28.js","/_next/static/chunks/740441c5b62d2d93.js","/_next/static/chunks/dcd49895cb9db447.js","/_next/static/chunks/175944aa1545ac7c.js","/_next/static/chunks/16494c9ed210a726.js","/_next/static/chunks/19ed43205a6e84be.js"],"CurrentPostDataProvider"]
+18:I[401946,["/_next/static/chunks/d03e4f6fdf084240.js","/_next/static/chunks/525ff3aa60c02a25.js","/_next/static/chunks/ae2a70c709da2ba8.js","/_next/static/chunks/eb309b8f06731812.js","/_next/static/chunks/baa674234f056c60.js","/_next/static/chunks/2edc37b4337c096a.js","/_next/static/chunks/6f0408800ece4f06.js","/_next/static/chunks/6f95f3a6a7ed9dab.js","/_next/static/chunks/3c40fd5a14861430.js","/_next/static/chunks/e7855f92c342e0a3.js","/_next/static/chunks/a5fcaccd389d798e.js","/_next/static/chunks/c3456ef3141ade67.js","/_next/static/chunks/c92042fd5179bd95.js","/_next/static/chunks/1737ca787e6b8d4c.js","/_next/static/chunks/d691f1571e343c32.js","/_next/static/chunks/65f1d76f7ac19600.js","/_next/static/chunks/762b6f848ae7b21b.js","/_next/static/chunks/1d5a5c14848b802e.js","/_next/static/chunks/a40e2b25b1a62ac7.js","/_next/static/chunks/c6509abffeae92d2.js","/_next/static/chunks/35eaa08fca66b29e.js","/_next/static/chunks/f91f857f975d1c9f.js","/_next/static/chunks/dabd062b49706f28.js","/_next/static/chunks/740441c5b62d2d93.js","/_next/static/chunks/dcd49895cb9db447.js","/_next/static/chunks/175944aa1545ac7c.js","/_next/static/chunks/16494c9ed210a726.js","/_next/static/chunks/19ed43205a6e84be.js"],"PostDataReValidate"]
+19:I[793580,["/_next/static/chunks/d03e4f6fdf084240.js","/_next/static/chunks/525ff3aa60c02a25.js","/_next/static/chunks/ae2a70c709da2ba8.js","/_next/static/chunks/eb309b8f06731812.js","/_next/static/chunks/baa674234f056c60.js","/_next/static/chunks/2edc37b4337c096a.js","/_next/static/chunks/6f0408800ece4f06.js","/_next/static/chunks/6f95f3a6a7ed9dab.js","/_next/static/chunks/3c40fd5a14861430.js","/_next/static/chunks/e7855f92c342e0a3.js","/_next/static/chunks/a5fcaccd389d798e.js","/_next/static/chunks/c3456ef3141ade67.js","/_next/static/chunks/c92042fd5179bd95.js","/_next/static/chunks/1737ca787e6b8d4c.js","/_next/static/chunks/d691f1571e343c32.js","/_next/static/chunks/65f1d76f7ac19600.js","/_next/static/chunks/762b6f848ae7b21b.js","/_next/static/chunks/1d5a5c14848b802e.js","/_next/static/chunks/a40e2b25b1a62ac7.js","/_next/static/chunks/c6509abffeae92d2.js","/_next/static/chunks/35eaa08fca66b29e.js","/_next/static/chunks/f91f857f975d1c9f.js","/_next/static/chunks/dabd062b49706f28.js","/_next/static/chunks/740441c5b62d2d93.js","/_next/static/chunks/dcd49895cb9db447.js","/_next/static/chunks/175944aa1545ac7c.js","/_next/static/chunks/16494c9ed210a726.js","/_next/static/chunks/19ed43205a6e84be.js"],"BottomToUpTransitionView"]
+1a:I[189209,["/_next/static/chunks/d03e4f6fdf084240.js","/_next/static/chunks/525ff3aa60c02a25.js","/_next/static/chunks/ae2a70c709da2ba8.js","/_next/static/chunks/eb309b8f06731812.js","/_next/static/chunks/baa674234f056c60.js","/_next/static/chunks/2edc37b4337c096a.js","/_next/static/chunks/6f0408800ece4f06.js","/_next/static/chunks/6f95f3a6a7ed9dab.js","/_next/static/chunks/3c40fd5a14861430.js","/_next/static/chunks/e7855f92c342e0a3.js","/_next/static/chunks/a5fcaccd389d798e.js","/_next/static/chunks/c3456ef3141ade67.js","/_next/static/chunks/c92042fd5179bd95.js","/_next/static/chunks/1737ca787e6b8d4c.js","/_next/static/chunks/d691f1571e343c32.js","/_next/static/chunks/65f1d76f7ac19600.js","/_next/static/chunks/762b6f848ae7b21b.js","/_next/static/chunks/1d5a5c14848b802e.js","/_next/static/chunks/a40e2b25b1a62ac7.js","/_next/static/chunks/c6509abffeae92d2.js","/_next/static/chunks/35eaa08fca66b29e.js","/_next/static/chunks/f91f857f975d1c9f.js","/_next/static/chunks/dabd062b49706f28.js","/_next/static/chunks/740441c5b62d2d93.js","/_next/static/chunks/dcd49895cb9db447.js","/_next/static/chunks/175944aa1545ac7c.js","/_next/static/chunks/16494c9ed210a726.js","/_next/static/chunks/19ed43205a6e84be.js"],"AckRead"]
+1b:I[401946,["/_next/static/chunks/d03e4f6fdf084240.js","/_next/static/chunks/525ff3aa60c02a25.js","/_next/static/chunks/ae2a70c709da2ba8.js","/_next/static/chunks/eb309b8f06731812.js","/_next/static/chunks/baa674234f056c60.js","/_next/static/chunks/2edc37b4337c096a.js","/_next/static/chunks/6f0408800ece4f06.js","/_next/static/chunks/6f95f3a6a7ed9dab.js","/_next/static/chunks/3c40fd5a14861430.js","/_next/static/chunks/e7855f92c342e0a3.js","/_next/static/chunks/a5fcaccd389d798e.js","/_next/static/chunks/c3456ef3141ade67.js","/_next/static/chunks/c92042fd5179bd95.js","/_next/static/chunks/1737ca787e6b8d4c.js","/_next/static/chunks/d691f1571e343c32.js","/_next/static/chunks/65f1d76f7ac19600.js","/_next/static/chunks/762b6f848ae7b21b.js","/_next/static/chunks/1d5a5c14848b802e.js","/_next/static/chunks/a40e2b25b1a62ac7.js","/_next/static/chunks/c6509abffeae92d2.js","/_next/static/chunks/35eaa08fca66b29e.js","/_next/static/chunks/f91f857f975d1c9f.js","/_next/static/chunks/dabd062b49706f28.js","/_next/static/chunks/740441c5b62d2d93.js","/_next/static/chunks/dcd49895cb9db447.js","/_next/static/chunks/175944aa1545ac7c.js","/_next/static/chunks/16494c9ed210a726.js","/_next/static/chunks/19ed43205a6e84be.js"],"PostTitle"]
+1c:I[923014,["/_next/static/chunks/d03e4f6fdf084240.js","/_next/static/chunks/525ff3aa60c02a25.js","/_next/static/chunks/ae2a70c709da2ba8.js","/_next/static/chunks/eb309b8f06731812.js","/_next/static/chunks/baa674234f056c60.js","/_next/static/chunks/2edc37b4337c096a.js","/_next/static/chunks/6f0408800ece4f06.js","/_next/static/chunks/6f95f3a6a7ed9dab.js","/_next/static/chunks/3c40fd5a14861430.js","/_next/static/chunks/e7855f92c342e0a3.js","/_next/static/chunks/a5fcaccd389d798e.js","/_next/static/chunks/c3456ef3141ade67.js","/_next/static/chunks/c92042fd5179bd95.js","/_next/static/chunks/1737ca787e6b8d4c.js","/_next/static/chunks/d691f1571e343c32.js","/_next/static/chunks/65f1d76f7ac19600.js","/_next/static/chunks/762b6f848ae7b21b.js","/_next/static/chunks/1d5a5c14848b802e.js","/_next/static/chunks/a40e2b25b1a62ac7.js","/_next/static/chunks/c6509abffeae92d2.js","/_next/static/chunks/35eaa08fca66b29e.js","/_next/static/chunks/f91f857f975d1c9f.js","/_next/static/chunks/dabd062b49706f28.js","/_next/static/chunks/740441c5b62d2d93.js","/_next/static/chunks/dcd49895cb9db447.js","/_next/static/chunks/175944aa1545ac7c.js","/_next/static/chunks/16494c9ed210a726.js","/_next/static/chunks/19ed43205a6e84be.js"],"GoToAdminEditingButton"]
+1d:I[401946,["/_next/static/chunks/d03e4f6fdf084240.js","/_next/static/chunks/525ff3aa60c02a25.js","/_next/static/chunks/ae2a70c709da2ba8.js","/_next/static/chunks/eb309b8f06731812.js","/_next/static/chunks/baa674234f056c60.js","/_next/static/chunks/2edc37b4337c096a.js","/_next/static/chunks/6f0408800ece4f06.js","/_next/static/chunks/6f95f3a6a7ed9dab.js","/_next/static/chunks/3c40fd5a14861430.js","/_next/static/chunks/e7855f92c342e0a3.js","/_next/static/chunks/a5fcaccd389d798e.js","/_next/static/chunks/c3456ef3141ade67.js","/_next/static/chunks/c92042fd5179bd95.js","/_next/static/chunks/1737ca787e6b8d4c.js","/_next/static/chunks/d691f1571e343c32.js","/_next/static/chunks/65f1d76f7ac19600.js","/_next/static/chunks/762b6f848ae7b21b.js","/_next/static/chunks/1d5a5c14848b802e.js","/_next/static/chunks/a40e2b25b1a62ac7.js","/_next/static/chunks/c6509abffeae92d2.js","/_next/static/chunks/35eaa08fca66b29e.js","/_next/static/chunks/f91f857f975d1c9f.js","/_next/static/chunks/dabd062b49706f28.js","/_next/static/chunks/740441c5b62d2d93.js","/_next/static/chunks/dcd49895cb9db447.js","/_next/static/chunks/175944aa1545ac7c.js","/_next/static/chunks/16494c9ed210a726.js","/_next/static/chunks/19ed43205a6e84be.js"],"PostMetaBarInternal"]
+1e:I[6169,["/_next/static/chunks/d03e4f6fdf084240.js","/_next/static/chunks/525ff3aa60c02a25.js","/_next/static/chunks/ae2a70c709da2ba8.js","/_next/static/chunks/eb309b8f06731812.js","/_next/static/chunks/baa674234f056c60.js","/_next/static/chunks/2edc37b4337c096a.js","/_next/static/chunks/6f0408800ece4f06.js","/_next/static/chunks/6f95f3a6a7ed9dab.js","/_next/static/chunks/3c40fd5a14861430.js","/_next/static/chunks/e7855f92c342e0a3.js","/_next/static/chunks/a5fcaccd389d798e.js","/_next/static/chunks/c3456ef3141ade67.js","/_next/static/chunks/c92042fd5179bd95.js","/_next/static/chunks/1737ca787e6b8d4c.js","/_next/static/chunks/d691f1571e343c32.js","/_next/static/chunks/65f1d76f7ac19600.js","/_next/static/chunks/762b6f848ae7b21b.js","/_next/static/chunks/1d5a5c14848b802e.js","/_next/static/chunks/a40e2b25b1a62ac7.js","/_next/static/chunks/c6509abffeae92d2.js","/_next/static/chunks/35eaa08fca66b29e.js","/_next/static/chunks/f91f857f975d1c9f.js","/_next/static/chunks/dabd062b49706f28.js","/_next/static/chunks/740441c5b62d2d93.js","/_next/static/chunks/dcd49895cb9db447.js","/_next/static/chunks/175944aa1545ac7c.js","/_next/static/chunks/16494c9ed210a726.js","/_next/static/chunks/19ed43205a6e84be.js"],"PostOutdate"]
+1f:I[660320,["/_next/static/chunks/d03e4f6fdf084240.js","/_next/static/chunks/525ff3aa60c02a25.js","/_next/static/chunks/ae2a70c709da2ba8.js","/_next/static/chunks/eb309b8f06731812.js","/_next/static/chunks/baa674234f056c60.js","/_next/static/chunks/2edc37b4337c096a.js","/_next/static/chunks/6f0408800ece4f06.js","/_next/static/chunks/6f95f3a6a7ed9dab.js","/_next/static/chunks/3c40fd5a14861430.js","/_next/static/chunks/e7855f92c342e0a3.js","/_next/static/chunks/a5fcaccd389d798e.js","/_next/static/chunks/c3456ef3141ade67.js","/_next/static/chunks/c92042fd5179bd95.js","/_next/static/chunks/1737ca787e6b8d4c.js","/_next/static/chunks/d691f1571e343c32.js","/_next/static/chunks/65f1d76f7ac19600.js","/_next/static/chunks/762b6f848ae7b21b.js","/_next/static/chunks/1d5a5c14848b802e.js","/_next/static/chunks/a40e2b25b1a62ac7.js","/_next/static/chunks/c6509abffeae92d2.js","/_next/static/chunks/35eaa08fca66b29e.js","/_next/static/chunks/f91f857f975d1c9f.js","/_next/static/chunks/dabd062b49706f28.js","/_next/static/chunks/740441c5b62d2d93.js","/_next/static/chunks/dcd49895cb9db447.js","/_next/static/chunks/175944aa1545ac7c.js","/_next/static/chunks/16494c9ed210a726.js","/_next/static/chunks/19ed43205a6e84be.js"],"PostRelated"]
+20:I[145557,["/_next/static/chunks/d03e4f6fdf084240.js","/_next/static/chunks/525ff3aa60c02a25.js","/_next/static/chunks/ae2a70c709da2ba8.js","/_next/static/chunks/eb309b8f06731812.js","/_next/static/chunks/baa674234f056c60.js","/_next/static/chunks/2edc37b4337c096a.js","/_next/static/chunks/6f0408800ece4f06.js","/_next/static/chunks/6f95f3a6a7ed9dab.js","/_next/static/chunks/3c40fd5a14861430.js","/_next/static/chunks/e7855f92c342e0a3.js","/_next/static/chunks/a5fcaccd389d798e.js","/_next/static/chunks/c3456ef3141ade67.js","/_next/static/chunks/c92042fd5179bd95.js","/_next/static/chunks/1737ca787e6b8d4c.js","/_next/static/chunks/d691f1571e343c32.js","/_next/static/chunks/65f1d76f7ac19600.js","/_next/static/chunks/762b6f848ae7b21b.js","/_next/static/chunks/1d5a5c14848b802e.js","/_next/static/chunks/a40e2b25b1a62ac7.js","/_next/static/chunks/c6509abffeae92d2.js","/_next/static/chunks/35eaa08fca66b29e.js","/_next/static/chunks/f91f857f975d1c9f.js","/_next/static/chunks/dabd062b49706f28.js","/_next/static/chunks/740441c5b62d2d93.js","/_next/static/chunks/dcd49895cb9db447.js","/_next/static/chunks/175944aa1545ac7c.js","/_next/static/chunks/16494c9ed210a726.js","/_next/static/chunks/19ed43205a6e84be.js"],"WrappedElementProvider"]
+21:I[125902,["/_next/static/chunks/d03e4f6fdf084240.js","/_next/static/chunks/525ff3aa60c02a25.js","/_next/static/chunks/ae2a70c709da2ba8.js","/_next/static/chunks/eb309b8f06731812.js","/_next/static/chunks/baa674234f056c60.js","/_next/static/chunks/2edc37b4337c096a.js","/_next/static/chunks/6f0408800ece4f06.js","/_next/static/chunks/6f95f3a6a7ed9dab.js","/_next/static/chunks/3c40fd5a14861430.js","/_next/static/chunks/e7855f92c342e0a3.js","/_next/static/chunks/a5fcaccd389d798e.js","/_next/static/chunks/c3456ef3141ade67.js","/_next/static/chunks/c92042fd5179bd95.js","/_next/static/chunks/1737ca787e6b8d4c.js","/_next/static/chunks/d691f1571e343c32.js","/_next/static/chunks/65f1d76f7ac19600.js","/_next/static/chunks/762b6f848ae7b21b.js","/_next/static/chunks/1d5a5c14848b802e.js","/_next/static/chunks/a40e2b25b1a62ac7.js","/_next/static/chunks/c6509abffeae92d2.js","/_next/static/chunks/35eaa08fca66b29e.js","/_next/static/chunks/f91f857f975d1c9f.js","/_next/static/chunks/dabd062b49706f28.js","/_next/static/chunks/740441c5b62d2d93.js","/_next/static/chunks/dcd49895cb9db447.js","/_next/static/chunks/175944aa1545ac7c.js","/_next/static/chunks/16494c9ed210a726.js","/_next/static/chunks/19ed43205a6e84be.js"],"ReadIndicatorForMobile"]
+22:I[401946,["/_next/static/chunks/d03e4f6fdf084240.js","/_next/static/chunks/525ff3aa60c02a25.js","/_next/static/chunks/ae2a70c709da2ba8.js","/_next/static/chunks/eb309b8f06731812.js","/_next/static/chunks/baa674234f056c60.js","/_next/static/chunks/2edc37b4337c096a.js","/_next/static/chunks/6f0408800ece4f06.js","/_next/static/chunks/6f95f3a6a7ed9dab.js","/_next/static/chunks/3c40fd5a14861430.js","/_next/static/chunks/e7855f92c342e0a3.js","/_next/static/chunks/a5fcaccd389d798e.js","/_next/static/chunks/c3456ef3141ade67.js","/_next/static/chunks/c92042fd5179bd95.js","/_next/static/chunks/1737ca787e6b8d4c.js","/_next/static/chunks/d691f1571e343c32.js","/_next/static/chunks/65f1d76f7ac19600.js","/_next/static/chunks/762b6f848ae7b21b.js","/_next/static/chunks/1d5a5c14848b802e.js","/_next/static/chunks/a40e2b25b1a62ac7.js","/_next/static/chunks/c6509abffeae92d2.js","/_next/static/chunks/35eaa08fca66b29e.js","/_next/static/chunks/f91f857f975d1c9f.js","/_next/static/chunks/dabd062b49706f28.js","/_next/static/chunks/740441c5b62d2d93.js","/_next/static/chunks/dcd49895cb9db447.js","/_next/static/chunks/175944aa1545ac7c.js","/_next/static/chunks/16494c9ed210a726.js","/_next/static/chunks/19ed43205a6e84be.js"],"PostMarkdownImageRecordProvider"]
+23:I[401946,["/_next/static/chunks/d03e4f6fdf084240.js","/_next/static/chunks/525ff3aa60c02a25.js","/_next/static/chunks/ae2a70c709da2ba8.js","/_next/static/chunks/eb309b8f06731812.js","/_next/static/chunks/baa674234f056c60.js","/_next/static/chunks/2edc37b4337c096a.js","/_next/static/chunks/6f0408800ece4f06.js","/_next/static/chunks/6f95f3a6a7ed9dab.js","/_next/static/chunks/3c40fd5a14861430.js","/_next/static/chunks/e7855f92c342e0a3.js","/_next/static/chunks/a5fcaccd389d798e.js","/_next/static/chunks/c3456ef3141ade67.js","/_next/static/chunks/c92042fd5179bd95.js","/_next/static/chunks/1737ca787e6b8d4c.js","/_next/static/chunks/d691f1571e343c32.js","/_next/static/chunks/65f1d76f7ac19600.js","/_next/static/chunks/762b6f848ae7b21b.js","/_next/static/chunks/1d5a5c14848b802e.js","/_next/static/chunks/a40e2b25b1a62ac7.js","/_next/static/chunks/c6509abffeae92d2.js","/_next/static/chunks/35eaa08fca66b29e.js","/_next/static/chunks/f91f857f975d1c9f.js","/_next/static/chunks/dabd062b49706f28.js","/_next/static/chunks/740441c5b62d2d93.js","/_next/static/chunks/dcd49895cb9db447.js","/_next/static/chunks/175944aa1545ac7c.js","/_next/static/chunks/16494c9ed210a726.js","/_next/static/chunks/19ed43205a6e84be.js"],"MarkdownSelection"]
+24:I[401946,["/_next/static/chunks/d03e4f6fdf084240.js","/_next/static/chunks/525ff3aa60c02a25.js","/_next/static/chunks/ae2a70c709da2ba8.js","/_next/static/chunks/eb309b8f06731812.js","/_next/static/chunks/baa674234f056c60.js","/_next/static/chunks/2edc37b4337c096a.js","/_next/static/chunks/6f0408800ece4f06.js","/_next/static/chunks/6f95f3a6a7ed9dab.js","/_next/static/chunks/3c40fd5a14861430.js","/_next/static/chunks/e7855f92c342e0a3.js","/_next/static/chunks/a5fcaccd389d798e.js","/_next/static/chunks/c3456ef3141ade67.js","/_next/static/chunks/c92042fd5179bd95.js","/_next/static/chunks/1737ca787e6b8d4c.js","/_next/static/chunks/d691f1571e343c32.js","/_next/static/chunks/65f1d76f7ac19600.js","/_next/static/chunks/762b6f848ae7b21b.js","/_next/static/chunks/1d5a5c14848b802e.js","/_next/static/chunks/a40e2b25b1a62ac7.js","/_next/static/chunks/c6509abffeae92d2.js","/_next/static/chunks/35eaa08fca66b29e.js","/_next/static/chunks/f91f857f975d1c9f.js","/_next/static/chunks/dabd062b49706f28.js","/_next/static/chunks/740441c5b62d2d93.js","/_next/static/chunks/dcd49895cb9db447.js","/_next/static/chunks/175944aa1545ac7c.js","/_next/static/chunks/16494c9ed210a726.js","/_next/static/chunks/19ed43205a6e84be.js"],"FocusReadingEffect"]
+25:I[502283,["/_next/static/chunks/d03e4f6fdf084240.js","/_next/static/chunks/525ff3aa60c02a25.js","/_next/static/chunks/ae2a70c709da2ba8.js","/_next/static/chunks/eb309b8f06731812.js","/_next/static/chunks/baa674234f056c60.js","/_next/static/chunks/2edc37b4337c096a.js","/_next/static/chunks/6f0408800ece4f06.js","/_next/static/chunks/6f95f3a6a7ed9dab.js","/_next/static/chunks/3c40fd5a14861430.js","/_next/static/chunks/e7855f92c342e0a3.js","/_next/static/chunks/a5fcaccd389d798e.js","/_next/static/chunks/c3456ef3141ade67.js","/_next/static/chunks/c92042fd5179bd95.js","/_next/static/chunks/1737ca787e6b8d4c.js","/_next/static/chunks/d691f1571e343c32.js","/_next/static/chunks/65f1d76f7ac19600.js","/_next/static/chunks/762b6f848ae7b21b.js","/_next/static/chunks/1d5a5c14848b802e.js","/_next/static/chunks/a40e2b25b1a62ac7.js","/_next/static/chunks/c6509abffeae92d2.js","/_next/static/chunks/35eaa08fca66b29e.js","/_next/static/chunks/f91f857f975d1c9f.js","/_next/static/chunks/dabd062b49706f28.js","/_next/static/chunks/740441c5b62d2d93.js","/_next/static/chunks/dcd49895cb9db447.js","/_next/static/chunks/175944aa1545ac7c.js","/_next/static/chunks/16494c9ed210a726.js","/_next/static/chunks/19ed43205a6e84be.js"],"PostMarkdownRenderer",1]
+26:I[194205,["/_next/static/chunks/d03e4f6fdf084240.js","/_next/static/chunks/525ff3aa60c02a25.js","/_next/static/chunks/ae2a70c709da2ba8.js","/_next/static/chunks/eb309b8f06731812.js","/_next/static/chunks/baa674234f056c60.js","/_next/static/chunks/2edc37b4337c096a.js","/_next/static/chunks/6f0408800ece4f06.js","/_next/static/chunks/6f95f3a6a7ed9dab.js","/_next/static/chunks/3c40fd5a14861430.js","/_next/static/chunks/e7855f92c342e0a3.js","/_next/static/chunks/a5fcaccd389d798e.js","/_next/static/chunks/c3456ef3141ade67.js","/_next/static/chunks/c92042fd5179bd95.js","/_next/static/chunks/1737ca787e6b8d4c.js","/_next/static/chunks/d691f1571e343c32.js","/_next/static/chunks/65f1d76f7ac19600.js","/_next/static/chunks/762b6f848ae7b21b.js","/_next/static/chunks/1d5a5c14848b802e.js","/_next/static/chunks/a40e2b25b1a62ac7.js","/_next/static/chunks/c6509abffeae92d2.js","/_next/static/chunks/35eaa08fca66b29e.js","/_next/static/chunks/f91f857f975d1c9f.js","/_next/static/chunks/dabd062b49706f28.js","/_next/static/chunks/740441c5b62d2d93.js","/_next/static/chunks/dcd49895cb9db447.js","/_next/static/chunks/175944aa1545ac7c.js","/_next/static/chunks/16494c9ed210a726.js","/_next/static/chunks/19ed43205a6e84be.js"],"LayoutRightSidePortal"]
+27:I[732298,["/_next/static/chunks/d03e4f6fdf084240.js","/_next/static/chunks/525ff3aa60c02a25.js","/_next/static/chunks/ae2a70c709da2ba8.js","/_next/static/chunks/eb309b8f06731812.js","/_next/static/chunks/baa674234f056c60.js","/_next/static/chunks/2edc37b4337c096a.js","/_next/static/chunks/6f0408800ece4f06.js","/_next/static/chunks/6f95f3a6a7ed9dab.js","/_next/static/chunks/3c40fd5a14861430.js","/_next/static/chunks/e7855f92c342e0a3.js","/_next/static/chunks/a5fcaccd389d798e.js","/_next/static/chunks/c3456ef3141ade67.js","/_next/static/chunks/c92042fd5179bd95.js","/_next/static/chunks/1737ca787e6b8d4c.js","/_next/static/chunks/d691f1571e343c32.js","/_next/static/chunks/65f1d76f7ac19600.js","/_next/static/chunks/762b6f848ae7b21b.js","/_next/static/chunks/1d5a5c14848b802e.js","/_next/static/chunks/a40e2b25b1a62ac7.js","/_next/static/chunks/c6509abffeae92d2.js","/_next/static/chunks/35eaa08fca66b29e.js","/_next/static/chunks/f91f857f975d1c9f.js","/_next/static/chunks/dabd062b49706f28.js","/_next/static/chunks/740441c5b62d2d93.js","/_next/static/chunks/dcd49895cb9db447.js","/_next/static/chunks/175944aa1545ac7c.js","/_next/static/chunks/16494c9ed210a726.js","/_next/static/chunks/19ed43205a6e84be.js"],"PostActionAside"]
+28:I[237493,["/_next/static/chunks/d03e4f6fdf084240.js","/_next/static/chunks/525ff3aa60c02a25.js","/_next/static/chunks/ae2a70c709da2ba8.js","/_next/static/chunks/eb309b8f06731812.js","/_next/static/chunks/baa674234f056c60.js","/_next/static/chunks/2edc37b4337c096a.js","/_next/static/chunks/6f0408800ece4f06.js","/_next/static/chunks/6f95f3a6a7ed9dab.js","/_next/static/chunks/3c40fd5a14861430.js","/_next/static/chunks/e7855f92c342e0a3.js","/_next/static/chunks/a5fcaccd389d798e.js","/_next/static/chunks/c3456ef3141ade67.js","/_next/static/chunks/c92042fd5179bd95.js","/_next/static/chunks/1737ca787e6b8d4c.js","/_next/static/chunks/d691f1571e343c32.js","/_next/static/chunks/65f1d76f7ac19600.js","/_next/static/chunks/762b6f848ae7b21b.js","/_next/static/chunks/1d5a5c14848b802e.js","/_next/static/chunks/a40e2b25b1a62ac7.js","/_next/static/chunks/c6509abffeae92d2.js","/_next/static/chunks/35eaa08fca66b29e.js","/_next/static/chunks/f91f857f975d1c9f.js","/_next/static/chunks/dabd062b49706f28.js","/_next/static/chunks/740441c5b62d2d93.js","/_next/static/chunks/dcd49895cb9db447.js","/_next/static/chunks/175944aa1545ac7c.js","/_next/static/chunks/16494c9ed210a726.js","/_next/static/chunks/19ed43205a6e84be.js"],"ClientOnly"]
+29:I[223245,["/_next/static/chunks/d03e4f6fdf084240.js","/_next/static/chunks/525ff3aa60c02a25.js","/_next/static/chunks/ae2a70c709da2ba8.js","/_next/static/chunks/eb309b8f06731812.js","/_next/static/chunks/baa674234f056c60.js","/_next/static/chunks/2edc37b4337c096a.js","/_next/static/chunks/6f0408800ece4f06.js","/_next/static/chunks/6f95f3a6a7ed9dab.js","/_next/static/chunks/3c40fd5a14861430.js","/_next/static/chunks/e7855f92c342e0a3.js","/_next/static/chunks/a5fcaccd389d798e.js","/_next/static/chunks/c3456ef3141ade67.js","/_next/static/chunks/c92042fd5179bd95.js","/_next/static/chunks/1737ca787e6b8d4c.js","/_next/static/chunks/d691f1571e343c32.js","/_next/static/chunks/65f1d76f7ac19600.js","/_next/static/chunks/762b6f848ae7b21b.js","/_next/static/chunks/1d5a5c14848b802e.js","/_next/static/chunks/a40e2b25b1a62ac7.js","/_next/static/chunks/c6509abffeae92d2.js","/_next/static/chunks/35eaa08fca66b29e.js","/_next/static/chunks/f91f857f975d1c9f.js","/_next/static/chunks/dabd062b49706f28.js","/_next/static/chunks/740441c5b62d2d93.js","/_next/static/chunks/dcd49895cb9db447.js","/_next/static/chunks/175944aa1545ac7c.js","/_next/static/chunks/16494c9ed210a726.js","/_next/static/chunks/19ed43205a6e84be.js"],"PostCopyright"]
+2a:I[732298,["/_next/static/chunks/d03e4f6fdf084240.js","/_next/static/chunks/525ff3aa60c02a25.js","/_next/static/chunks/ae2a70c709da2ba8.js","/_next/static/chunks/eb309b8f06731812.js","/_next/static/chunks/baa674234f056c60.js","/_next/static/chunks/2edc37b4337c096a.js","/_next/static/chunks/6f0408800ece4f06.js","/_next/static/chunks/6f95f3a6a7ed9dab.js","/_next/static/chunks/3c40fd5a14861430.js","/_next/static/chunks/e7855f92c342e0a3.js","/_next/static/chunks/a5fcaccd389d798e.js","/_next/static/chunks/c3456ef3141ade67.js","/_next/static/chunks/c92042fd5179bd95.js","/_next/static/chunks/1737ca787e6b8d4c.js","/_next/static/chunks/d691f1571e343c32.js","/_next/static/chunks/65f1d76f7ac19600.js","/_next/static/chunks/762b6f848ae7b21b.js","/_next/static/chunks/1d5a5c14848b802e.js","/_next/static/chunks/a40e2b25b1a62ac7.js","/_next/static/chunks/c6509abffeae92d2.js","/_next/static/chunks/35eaa08fca66b29e.js","/_next/static/chunks/f91f857f975d1c9f.js","/_next/static/chunks/dabd062b49706f28.js","/_next/static/chunks/740441c5b62d2d93.js","/_next/static/chunks/dcd49895cb9db447.js","/_next/static/chunks/175944aa1545ac7c.js","/_next/static/chunks/16494c9ed210a726.js","/_next/static/chunks/19ed43205a6e84be.js"],"PostBottomBarAction"]
+2b:I[832330,["/_next/static/chunks/d03e4f6fdf084240.js","/_next/static/chunks/525ff3aa60c02a25.js","/_next/static/chunks/ae2a70c709da2ba8.js","/_next/static/chunks/eb309b8f06731812.js","/_next/static/chunks/baa674234f056c60.js","/_next/static/chunks/2edc37b4337c096a.js","/_next/static/chunks/6f0408800ece4f06.js","/_next/static/chunks/6f95f3a6a7ed9dab.js","/_next/static/chunks/3c40fd5a14861430.js","/_next/static/chunks/e7855f92c342e0a3.js","/_next/static/chunks/a5fcaccd389d798e.js","/_next/static/chunks/c3456ef3141ade67.js","/_next/static/chunks/c92042fd5179bd95.js","/_next/static/chunks/1737ca787e6b8d4c.js","/_next/static/chunks/d691f1571e343c32.js","/_next/static/chunks/65f1d76f7ac19600.js","/_next/static/chunks/762b6f848ae7b21b.js","/_next/static/chunks/1d5a5c14848b802e.js","/_next/static/chunks/a40e2b25b1a62ac7.js","/_next/static/chunks/c6509abffeae92d2.js","/_next/static/chunks/35eaa08fca66b29e.js","/_next/static/chunks/f91f857f975d1c9f.js","/_next/static/chunks/dabd062b49706f28.js","/_next/static/chunks/740441c5b62d2d93.js","/_next/static/chunks/dcd49895cb9db447.js","/_next/static/chunks/175944aa1545ac7c.js","/_next/static/chunks/16494c9ed210a726.js","/_next/static/chunks/19ed43205a6e84be.js"],"BottomToUpSoftScaleTransitionView"]
+2c:I[615780,["/_next/static/chunks/d03e4f6fdf084240.js","/_next/static/chunks/525ff3aa60c02a25.js","/_next/static/chunks/ae2a70c709da2ba8.js","/_next/static/chunks/eb309b8f06731812.js","/_next/static/chunks/baa674234f056c60.js","/_next/static/chunks/2edc37b4337c096a.js","/_next/static/chunks/6f0408800ece4f06.js","/_next/static/chunks/6f95f3a6a7ed9dab.js","/_next/static/chunks/3c40fd5a14861430.js","/_next/static/chunks/e7855f92c342e0a3.js","/_next/static/chunks/a5fcaccd389d798e.js","/_next/static/chunks/c3456ef3141ade67.js","/_next/static/chunks/c92042fd5179bd95.js","/_next/static/chunks/1737ca787e6b8d4c.js","/_next/static/chunks/d691f1571e343c32.js","/_next/static/chunks/65f1d76f7ac19600.js","/_next/static/chunks/762b6f848ae7b21b.js","/_next/static/chunks/1d5a5c14848b802e.js","/_next/static/chunks/a40e2b25b1a62ac7.js","/_next/static/chunks/c6509abffeae92d2.js","/_next/static/chunks/35eaa08fca66b29e.js","/_next/static/chunks/f91f857f975d1c9f.js","/_next/static/chunks/dabd062b49706f28.js","/_next/static/chunks/740441c5b62d2d93.js","/_next/static/chunks/dcd49895cb9db447.js","/_next/static/chunks/175944aa1545ac7c.js","/_next/static/chunks/16494c9ed210a726.js","/_next/static/chunks/19ed43205a6e84be.js"],"CommentAreaRootLazy"]
+2d:I[194205,["/_next/static/chunks/d03e4f6fdf084240.js","/_next/static/chunks/525ff3aa60c02a25.js","/_next/static/chunks/ae2a70c709da2ba8.js","/_next/static/chunks/eb309b8f06731812.js","/_next/static/chunks/baa674234f056c60.js","/_next/static/chunks/2edc37b4337c096a.js","/_next/static/chunks/6f0408800ece4f06.js","/_next/static/chunks/6f95f3a6a7ed9dab.js","/_next/static/chunks/3c40fd5a14861430.js","/_next/static/chunks/e7855f92c342e0a3.js","/_next/static/chunks/a5fcaccd389d798e.js","/_next/static/chunks/c3456ef3141ade67.js","/_next/static/chunks/c92042fd5179bd95.js","/_next/static/chunks/1737ca787e6b8d4c.js","/_next/static/chunks/d691f1571e343c32.js","/_next/static/chunks/65f1d76f7ac19600.js","/_next/static/chunks/762b6f848ae7b21b.js","/_next/static/chunks/1d5a5c14848b802e.js","/_next/static/chunks/a40e2b25b1a62ac7.js","/_next/static/chunks/c6509abffeae92d2.js","/_next/static/chunks/35eaa08fca66b29e.js","/_next/static/chunks/f91f857f975d1c9f.js","/_next/static/chunks/dabd062b49706f28.js","/_next/static/chunks/740441c5b62d2d93.js","/_next/static/chunks/dcd49895cb9db447.js","/_next/static/chunks/175944aa1545ac7c.js","/_next/static/chunks/16494c9ed210a726.js","/_next/static/chunks/19ed43205a6e84be.js"],"LayoutRightSideProvider"]
+2e:I[185368,["/_next/static/chunks/d03e4f6fdf084240.js","/_next/static/chunks/525ff3aa60c02a25.js","/_next/static/chunks/ae2a70c709da2ba8.js","/_next/static/chunks/eb309b8f06731812.js","/_next/static/chunks/baa674234f056c60.js","/_next/static/chunks/2edc37b4337c096a.js","/_next/static/chunks/6f0408800ece4f06.js","/_next/static/chunks/6f95f3a6a7ed9dab.js","/_next/static/chunks/3c40fd5a14861430.js","/_next/static/chunks/e7855f92c342e0a3.js","/_next/static/chunks/a5fcaccd389d798e.js","/_next/static/chunks/c3456ef3141ade67.js","/_next/static/chunks/c92042fd5179bd95.js","/_next/static/chunks/1737ca787e6b8d4c.js","/_next/static/chunks/d691f1571e343c32.js","/_next/static/chunks/65f1d76f7ac19600.js","/_next/static/chunks/762b6f848ae7b21b.js","/_next/static/chunks/1d5a5c14848b802e.js","/_next/static/chunks/a40e2b25b1a62ac7.js","/_next/static/chunks/c6509abffeae92d2.js","/_next/static/chunks/35eaa08fca66b29e.js","/_next/static/chunks/f91f857f975d1c9f.js","/_next/static/chunks/dabd062b49706f28.js","/_next/static/chunks/740441c5b62d2d93.js","/_next/static/chunks/dcd49895cb9db447.js","/_next/static/chunks/175944aa1545ac7c.js","/_next/static/chunks/16494c9ed210a726.js","/_next/static/chunks/19ed43205a6e84be.js"],"OnlyMobile"]
+2f:I[233113,["/_next/static/chunks/d03e4f6fdf084240.js","/_next/static/chunks/525ff3aa60c02a25.js","/_next/static/chunks/ae2a70c709da2ba8.js","/_next/static/chunks/eb309b8f06731812.js","/_next/static/chunks/baa674234f056c60.js","/_next/static/chunks/2edc37b4337c096a.js","/_next/static/chunks/6f0408800ece4f06.js","/_next/static/chunks/6f95f3a6a7ed9dab.js","/_next/static/chunks/3c40fd5a14861430.js","/_next/static/chunks/e7855f92c342e0a3.js","/_next/static/chunks/a5fcaccd389d798e.js","/_next/static/chunks/c3456ef3141ade67.js","/_next/static/chunks/c92042fd5179bd95.js","/_next/static/chunks/1737ca787e6b8d4c.js","/_next/static/chunks/d691f1571e343c32.js","/_next/static/chunks/65f1d76f7ac19600.js","/_next/static/chunks/762b6f848ae7b21b.js","/_next/static/chunks/1d5a5c14848b802e.js","/_next/static/chunks/a40e2b25b1a62ac7.js","/_next/static/chunks/c6509abffeae92d2.js","/_next/static/chunks/35eaa08fca66b29e.js","/_next/static/chunks/f91f857f975d1c9f.js","/_next/static/chunks/dabd062b49706f28.js","/_next/static/chunks/740441c5b62d2d93.js","/_next/static/chunks/dcd49895cb9db447.js","/_next/static/chunks/175944aa1545ac7c.js","/_next/static/chunks/16494c9ed210a726.js","/_next/static/chunks/19ed43205a6e84be.js"],"TocFAB"]
+30:I[95276,["/_next/static/chunks/3c40fd5a14861430.js","/_next/static/chunks/4197b04c4f1d962d.js","/_next/static/chunks/70af310ba2a3e461.js","/_next/static/chunks/9df4409b3ebd95fb.js","/_next/static/chunks/e52d234aac494225.js"],"OutletBoundary"]
+31:"$Sreact.suspense"
+:HL["/_next/static/chunks/136744c992bad96d.css","style"]
+:HL["/_next/static/chunks/0169140b52b18b81.css","style"]
+:HL["/_next/static/chunks/cf19f565ce194e50.css","style"]
+:HL["/_next/static/chunks/2a531debc05d9c48.css","style"]
+:HL["/_next/static/chunks/f6d4eb0f1595037c.css","style"]
+:HL["/_next/static/chunks/be9fe8599e8928e8.css","style"]
+5:Tbf9c,## 总体设计思路
+
+本次讨论班讲解的论文是 Ge--Hua--Zhou 于 2021 年发表在 *Advances in Mathematics* 上的
+Combinatorial Ricci Flows for Ideal Circle Patterns. 论文把 Chow--Luo 提出的
+**组合 Ricci 流** 推广到 **理想圆图案 (ideal circle patterns)** 的设定下，
+得到了若干长时间行为的等价刻画，并由此重新证明了
+Rivin 与 Bobenko--Springborn 的两个经典定理，同时给出了一个指数收敛的数值算法。
+
+讨论班目标设定如下：
+
+- **受众**：同年级同学，未必接触过 circle pattern 或 Ricci flow，
+      需要从最基本的胞腔分解、双曲几何讲起；
+
+- **时长**：约 120 分钟，含 10 分钟 Q&A；
+
+- **目的**：让大家
+
+  1. 理解 "ideal circle pattern 的存在性" 是一个怎样的问题；
+  2. 理解 "为什么组合 Ricci 流是一个自然的求解方法"；
+  3. 看到主定理 H1--H5 / E1--E4 是如何把 *动力学问题* 和 *组合条件* 等价起来的。
+
+讨论班分 **五个 Part** + **Q&A**。这次按**论文原顺序**来讲：
+Section 1 $\to$ Section 2 $\to$ Section 3 $\to$ Section 4 $\to$ Section 5。
+
+| |
+\toprule
+**Part** | **主题** | **时长** | **角色** |
+| --- | --- | --- | --- |
+| \midrule
+I | Section 1：引言与主结果 | 15 min | 定义 + 条件 + 主定理 |
+| II | Section 2 预备：定义与两圆引理 | 35 min | 统一符号+工具 |
+| III | Section 2 续：Thurston 构造与曲率映射 | 20 min | 把几何问题代数化 |
+| IV | Section 3--4：双曲/欧氏主结果 | 30 min | 论文 core |
+| V | Section 5：restriction flow 与 Rivin | 15 min | 收尾 + 应用 |
+| \midrule
+Q\ | A | 现场提问 | 5 -- 10 min | --- |
+| \bottomrule |
+
+**Remark 1.**
+
+建议把 Part II（Section 2）讲得稍慢、稍详细，因为定义、条件与符号最密集；
+Part IV（Section 3--4）是定理主战场；Part V（Section 5）突出算法思想，
+避免陷入计算细节。
+
+## 这篇论文在研究什么？为什么是"离散分析"课程的内容？
+
+讨论班开场前，先用 3--5 分钟把全篇放在一个更大的图景里，
+让听众明白*为什么我们在"离散分析"课上读这篇文章*。
+
+### 论文研究的核心问题（一句话版本）
+
+给定一个曲面 $S$ 上的胞腔分解 $\mathfrak{D}=(V,E,F)$ 与一组边权
+$\Theta:E\to(0,\pi)$，能否在 $S$ 上画一组圆，
+让它们的相交结构由 $\mathfrak{D}$ 决定、相交角度由 $\Theta$ 决定，
+并且"圆几乎填满整个曲面、只剩一些点状缝隙"？
+更进一步，能否用一个*算法*把这样的圆图案算出来？
+
+把这句话翻译成数学：*是否存在 ideal $\mathfrak{D}$-型 circle pattern？
+如何构造？* 论文给出的答案是：
+
+1. "存在性"被一族纯组合不等式刻画（条件 H3/H4/H5 与 E3/E4），
+      本质上是 Rivin / Bobenko--Springborn 已有结果的*重新组织*；
+
+2. 真正新的贡献是"构造性"——
+      作者定义了*两个组合 Ricci 流*（双曲背景与欧氏背景），
+      证明：**这个 ODE 长时间收敛 $\Longleftrightarrow$ 圆图案存在**，
+      并且收敛是*指数速度*的。
+
+> 存在性由一组纯组合不等式（双曲对应 H3/H4/H5，欧氏对应 E3/E4）完整刻画；
+构造性由组合 Ricci 流给出：从任意正初值出发，若组合条件成立，流指数收敛到目标半径向量，
+从而算法上可直接恢复 circle pattern。
+
+**Remark 2 (与连续 Ricci flow 的关系).**
+
+Hamilton 的连续 Ricci flow $\partial_t g_{ij}=-2\,\mathrm{Ric}_{ij}$
+是用一个偏微分方程把度量"磨平"到常曲率；
+本文的组合 Ricci flow 是它在"曲面 + 胞腔分解 + 圆图案"这一离散对象上的对应版本，
+退化为一个 $\mathbb{R}^{|V|}$ 上的常微分方程系统。
+两者的精神是一致的：*用曲率作为速度驱动度量，
+让曲率向预定常数靠拢*。
+
+### 这篇论文有什么用？
+
+1. **对纯数学的意义.**
+
+  - 在已有的"变分法"路线（Bobenko--Springborn / Guo）之外，
+            提供了"动力学/ODE"路线，把 Chow--Luo 的组合 Ricci 流框架
+            *推广到有间隙的 ideal 设定*；
+  - 由此重新统一证明了 **Rivin 1996** 与 **Bobenko--Springborn 2004**
+            两个经典定理；
+  - 提供的方法*可移植*：论文方法已经被推广到 Calabi flow、
+            inversive distance circle packing、$R$-curvature flow 等其它离散几何对象。
+
+2. **对计算/算法的意义.**
+
+  - 变分法只能保证"存在"极小点，但不告诉你怎么找；
+            而 Ricci 流给出一个*指数收敛*的 ODE，可以直接用 Euler / Runge--Kutta 求解；
+  - 由此得到一个*真正可以跑数值*的方法
+            来构造给定组合数据的 ideal 双曲多面体、平面 ideal circle pattern；
+  - 这与*计算共形几何 (computational conformal geometry)*、
+            *保形参数化 (conformal parameterization)*、*网格生成*、
+            *3D 模型分析*等工程应用直接相关——丘成桐、顾险峰
+            等人一系列工作正是基于这种"离散 Ricci flow"框架。
+
+3. **对三维拓扑/几何的意义.**
+      Thurston 的几何化纲领关心 3-流形的常曲率结构；
+      ideal 双曲多面体是构造 3-流形（如理想四面体粘合）的基本积木。
+      本文给出了"给定二面角找 ideal 多面体"的*算法版*回答，
+      因此可以看作几何化纲领的算法落地工具之一。
+
+### 为什么这是"离散分析"的内容？与图论的联系
+
+"离散分析 (discrete analysis)"关心*把分析学(微积分、偏微分方程、变分法、
+谱理论)*的工具*应用到*离散结构(图、单纯复形、网络)*上*。
+本论文是这一思想的一个典型样例：
+
+| |
+\toprule
+**连续分析** | **对应的离散版本（本文）** | **对象** |
+| --- | --- | --- |
+| \midrule
+黎曼度量 $g$ | 半径向量 $r\in\mathbb{R}^{|V|}_+$ | 几何 |
+| Ricci 曲率张量 $\mathrm{Ric}$ | 顶点曲率 $K_i = 2\pi-(\text{cone angle})$ | 曲率 |
+| Ricci flow PDE | 组合 Ricci flow ODE | 演化方程 |
+| 能量泛函 / Yamabe 泛函 | 势函数 $\Phi(u)=\int \omega$ | 变分 |
+| $\int K\,dA=2\pi\chi$ (G--B) | $\sum_i K_i=2\pi\chi(S)$ | 全局守恒 |
+| PDE 的最大原理 | 离散 Lyapunov / ODE 最大原理 | 分析工具 |
+| \bottomrule |
+
+**与图论的具体联系.**
+
+论文里的所有"几何对象"其实都*完全由一个图(以及它在曲面上的嵌入)决定*：
+
+1. **1-skeleton 就是一个图.**
+      胞腔分解 $\mathfrak{D}=(V,E,F)$ 的 1-骨架 $(V,E)$ 就是一张
+      *嵌入在曲面 $S$ 上*的平面图 / 曲面图。
+      所有曲率、半径都按图的*顶点*和*边*组织。
+
+2. **条件 (C1)、(C2) 都是图上的代数条件.**
+
+  - (C1)：对每个*面* $\tau\in F$，边上的角度和 $=(m-2)\pi$；
+  - (C2)：对每条*伪 Jordan 闭曲线*（图上的特殊圈），角度和 $<(s-2)\pi$.
+      这两条都是"边权 $\Theta$ 在图的某些*子结构*（面、环路）上的求和不等式"，
+      属于纯图论语言。
+
+3. \keypart{prismatic $s$-circuit 是对偶图上的圈.}
+      Rivin 定理里的"棱柱型 $s$-回路"就是"对偶图 $G^*$ 中一条简单闭曲线，
+      且这条圈*不*围出 $G^*$ 的一个面"——
+      完全是图论 + 平面对偶 (planar duality) 的概念。
+
+4. \keypart{曲率映射 $\mathrm{Th}$ 是图上的一个非线性映射.}
+      $\mathrm{Th}:\mathbb{R}^{V}\to\mathbb{R}^V$ 把
+      顶点上的半径函数映成顶点上的曲率函数；
+      它的 Jacobian $\partial K_i/\partial u_j$ 在
+      *$v_i,v_j$ 不相邻时为 $0$*（局部性！），
+      所以恰好可以用**加权图 Laplacian**的语言来分析。
+      流的指数收敛速度 $c_1$ 由这个"图 Laplacian"的**谱隙 (spectral gap)**决定。
+      （这条留到 Part V-1 详细讲。）
+
+5. **Proposition 1.6 = 图上的离散 Gauss--Bonnet.**
+      它把一个*顶点子集* $A\subseteq V$ 周边的角度求和
+      改写为"$A$ 的链环 $Lk(A)$"上的角和加上"$A$ 周围子复形 $S(A)$"
+      的 Euler 数 $\chi(S(A))$。这是
+      *$|A|-|E_A|+|F_A|=\chi(S(A))$*（图上的 Euler 公式）的等价变形，
+      可以看成离散版本的 Gauss--Bonnet 公式。
+
+**离散分析的"三件套".**
+
+1. ***离散几何对象***：曲面 + 胞腔分解 + 半径向量；
+
+2. ***离散分析工具***：势函数 $\Phi$（变分）、组合 Ricci 流（动力学）、
+      离散 Gauss--Bonnet（拓扑约束）；
+
+3. ***离散组合刻画***：H1--H5、E1--E4、Rivin / BS 不等式。
+
+论文的精彩之处正是这三件套*严格等价*——
+"几何能不能实现"$=$"ODE 能不能收敛"$=$"图上的组合不等式"。
+
+**Remark 3 (课程视角下的"一句话总结").**
+
+ 本文把"在曲面图上画 ideal 圆图案"这个几何问题，
+通过"顶点半径 $\to$ 顶点曲率"的非线性映射 $\mathrm{Th}$
+转写为图上的*离散 ODE 系统*，然后用*凸势函数 + Lyapunov + 图 Laplacian 谱估计*
+证明它收敛 $\Leftrightarrow$ 图上的纯组合不等式成立。
+这是"离散分析"课程的范式样例。
+
+### 论文的逻辑结构图
+
+| $\boxed{\text{曲面图 }(S,\mathfrak{D})\;+\;\Theta:E\to(0,\pi)\text{（图上的输入数据）}}$\
+
+\downarrow
+
+$$
+\;\;\text{Thurston 构造}\\[4pt]
+$$
+
+\boxed{\text{cone metric }\mu(r)\;\text{与曲率向量 }K(r)\in\mathbb{R}^{V}}
+
+$$
+\\[6pt]
+$$
+
+\downarrow
+
+$$
+\;\;\text{组合 Ricci flow (ODE)}\\[4pt]
+$$
+
+\boxed{r(t)\;\text{收敛}\;\Leftrightarrow\;K(r^*)=0\;\text{或}\;K_{\mathrm{av}}}
+
+$$
+\\[6pt]
+$$
+
+\Updownarrow
+
+$$
+\;\;\text{Bobenko--Springborn / Proposition 1.6}\\[4pt]
+$$
+
+\boxed{\text{H3, H4, H5\;/\;E3, E4 (图上的组合不等式)}}
+
+$$
+\\
+\\\\
+$$
+
+## Part I：对应论文 Section 1（引言、定义、主结果）（约 15 min）
+
+### 讲解目标
+
+讲完这一段，听众应该能回答：
+
+1.  *circle pattern 是什么、为什么数学家关心它？*
+
+2.  *它和 3-维双曲多面体有什么关系？*
+
+3.  *本文要解决一个什么具体问题？*
+
+> (1) circle pattern 是“由图控制相交关系、由边权控制相交角”的圆系，连接二维共形几何与三维双曲几何；
+(2) 它与理想凸双曲多面体一一对应（圆的外交角对应面的二面角）；
+(3) 本文回答“何时存在 + 如何算法构造”，并证明 Ricci 流收敛与组合条件等价。
+
+### 讲解要点
+
+1.  从 Koebe--Andreev--Thurston 讲起.
+    在曲面（球面、平面、双曲面）上画一族圆，要求它们在指定的组合方式下相交，
+    并且相交角度也是给定的，问 ``这样的圆图案能否实现？'' 这是
+    Circle Pattern Theorem 关心的问题（参考论文 Section 1.1）。
+
+2.  与 3-维双曲多面体的关系.\\
+    Thurston 观察到：
+
+-  给定
+
+$$
+\mathbb{B}^3中的一个凸双曲多面体P
+$$
+
+；
+
+-  每个面所在的双曲平面在球面
+
+$$
+\partial \mathbb{B}^3
+$$
+
+上对应一个圆盘；
+
+-  这些圆的相交角度
+
+$$
+=
+$$
+
+多面体相邻面的二面角.
+
+    所以 *``在球面上找符合条件的 circle pattern''* 与 *``找符合条件的双曲多面体''* 是同一件事。
+    特别地，理想多面体
+
+$$
+\leftrightarrow
+$$
+
+ideal circle pattern.
+
+3.  本文研究的问题.\\
+    给定曲面
+
+$$
+S上的一个胞腔分解\mathfrak{D}和边权\Theta:E\to(0,\pi)
+$$
+
+，
+
+1.  是否存在以
+
+$$
+\Theta为外交角的 ideal\mathfrak{D}
+$$
+
+-型 circle pattern？
+
+2.  如何 *算出来*？
+
+    \ans{第一问：当且仅当对应的 Rivin / Bobenko--Springborn 型组合不等式成立；
+    第二问：解本文定义的组合 Ricci 流，流收敛时半径极限
+
+$$
+r^*
+$$
+
+就给出目标图案，且收敛速度为指数级。}
+    *以前的工作* 用变分法（Bobenko--Springborn 2004，Guo 2011）回答了存在性；
+    *本文* 给出一个 *动力学/算法* 角度的回答：
+    构造一个组合 Ricci 流，证明它收敛
+
+$$
+\iff
+$$
+
+圆图案存在，并且指数收敛。
+
+4.  Slide 一句话总结：
+
+把 ``存在 ideal circle pattern'' 这个 *静态几何问题* 变成
+    ``一个 ODE 长时间收敛'' 这个 *动态分析问题*，
+    顺便得到一个数值算法。
+
+### I-1. 论文 Section 1 的定义与条件总表（先统一符号）
+
+**Definition (Definition 1.1：ideal circle pattern).**
+
+$$
+\mathfrak{D}
+$$
+
+-型 circle pattern 称为 ideal，当且仅当：
+
+1.  interstices 与 2-cells 一一对应；
+
+2.  每个 interstice 退化为一个点。
+
+**Definition (Section 1 的核心对象).**
+
+-  边权（外交角函数）
+
+$$
+\Theta:E\to(0,\pi)
+$$
+
+；
+
+-  曲率映射
+
+$$
+\mathrm{Th}:r\mapsto K(r)
+$$
+
+；
+
+-  双曲流 (6):
+
+$$
+\dot r_i=-K_i\sinh r_i
+$$
+
+；
+
+-  欧氏流 (7):
+
+$$
+\dot r_i=(K_{\mathrm{av}}-K_i)r_i，其中K_{\mathrm{av}}=\frac{2\pi\chi(S)}{|V|}
+$$
+
+。
+
+**必须先写清楚的条件（按论文记号）**
+
+-  **(C1)** 对每个 2-cell 边界
+
+$$
+e_1,\dots,e_m
+$$
+
+：
+
+    \sum_{l=1}^m \Theta(e_l)=(m-2)\pi.
+
+-  **(C2)** 对每条不是 2-cell 边界的 pseudo-Jordan 曲线
+
+e_1,\dots,e_s：
+
+$$
+\sum_{l=1}^s \Theta(e_l)<(s-2)\pi.
+$$
+
+-  **H1--H5**：Theorem 1.7 的五条等价条件（双曲背景）。
+
+-  **E1--E4**：Theorem 1.8 的四条等价条件（欧氏背景）。
+
+-  **attainable 条件**：Section 3.4 / 4.4 中预设曲率向量 K 需要满足
+    Theorem 1.4 / 1.5 给出的像空间不等式系统（文中记作 (2)、(3)）。
+
+> 讲的时候建议：先在一页里一次性列完 Definition 1.1 + (C1)(C2) + 两个流方程 + H/E 条件编号，
+后面每一节只“调用编号”，不重复写长句，听众会清楚很多。
+
+### I-2. 论文 Section 1.2：已有存在性结果（严格同序时应放在这里）
+
+**Theorem 1 (Rivin, Theorem 1.2).**
+
+$g=0$（球面 / 抽象多面体）时，ideal 凸双曲多面体存在
+$\iff$ 顶点角和条件 + prismatic $s$-circuit 不等式成立。
+
+**Theorem 2 (Bobenko--Springborn, Theorem 1.3).**
+
+$g\ge 1$ 时，ideal $\mathfrak{D}$-型圆模式存在
+$\iff$ (C1) 与 (C2) 成立。
+
+**Theorem 3 (Bobenko--Springborn, Theorem 1.4 / 1.5).**
+
+曲率映射 $\mathrm{Th}$ 的像由一组子集不等式刻画（双曲为严格不等式，欧氏为非严格并带缩放规范）。
+
+> 这三条在论文中先出现，后续 Section 3/4 的 Ricci 流定理是在这个存在性框架上补上“动力学收敛等价 + 算法化构造”。
+
+### 板书建议
+
+- 画 1 张 "双曲多面体 $\leftrightarrow$ 球面上 circle pattern" 的对偶示意图；
+
+- 画 1 张 "一个亏格 $g\!\geq\! 1$ 曲面上的胞腔分解 + 圆图案" 的示意图；
+
+- 把 4 位关键作者按时间贴一张时间轴：Koebe (1936) → Andreev (1970) → Thurston (1978) → Rivin (1996) → Bobenko--Springborn (2004) → Chow--Luo (2003) → **Ge--Hua--Zhou (2021)**。
+
+## Part II：对应论文 Section 2（预备定义与几何背景）（约 35 min）
+
+这一部分是讨论班的关键，因为后面所有内容都建立在这些定义上。建议按下面 8 个小段依次讲，
+每讲完一个小段就抽 30 秒做一个小图示或例子。
+
+### II-0. 拓扑预备：同胚、同痕（同伦）、亏格（按需 6 min）
+
+**Definition 1 (同胚（homeomorphism）).**
+
+两个拓扑空间 $X,Y$ 若存在双射 $f:X\to Y$，且 $f,f^{-1}$ 都连续，则称 $X,Y$ **同胚**，记作 $X\cong Y$。
+
+> 同胚表示 "拓扑上一样"：允许拉伸、弯曲，但不允许撕裂和粘连。比如咖啡杯与甜甜圈同胚。
+
+**Definition 2 (同痕（通常称同伦，homotopy）).**
+
+设 $f_0,f_1:X\to Y$ 是两个连续映射。若存在连续映射
+
+$$
+H:X\times[0,1]\to Y,  H(x,0)=f_0(x),\ H(x,1)=f_1(x),
+$$
+
+则称 $f_0$ 与 $f_1$ **同痕/同伦**。
+
+> 同痕表示 "可以连续变形过去"。在本报告里可把它理解成：曲线能否在曲面上不剪断地缩到一点，
+这和 pseudo-Jordan 条件、"是否围出单连通区域" 的直觉是同一类问题。
+
+**Definition 3 (亏格（genus）).**
+
+闭可定向曲面的亏格 $g$ 可直观理解为 "把手个数"。其 Euler 示性数满足
+
+$$
+\chi(S)=2-2g.
+$$
+
+\ans{常见例子：球面 $g=0,\chi=2$；环面 $g=1,\chi=0$；双环面 $g=2,\chi=-2$。
+论文里大量条件都通过 $\chi(S)$ 出现，所以亏格决定了全局拓扑预算。}
+
+### II-1. 胞腔分解（cellular decomposition）（5 min）
+
+**Definition 4 ($k$-cell).**
+
+$k$-cell 是与 $\mathbb{R}^k$ 中开球同胚的拓扑空间。
+
+- 0-cell $=$ 一个点；
+
+- 1-cell $=$ 一段开区间（开边）；
+
+- 2-cell $=$ 一个开圆盘（开面）。
+
+**Definition 5 (胞腔分解).**
+
+空间 $X$ 的 **胞腔分解 (cellular decomposition)** 是把 $X$ 写成若干互不相交的 cell 的并，
+并且满足一定的粘合规则。
+
+**Problem 1.**
+
+四面体的表面就是球面 $S^2$ 的一个最简单的胞腔分解：$4$ 个 0-cell、$6$ 个 1-cell、$4$ 个 2-cell.
+
+**讲法提示：** 这里只需要让大家有 "把曲面像 lego 一样切碎" 的直观，
+不必引入 CW-复形的所有细节。
+
+### II-2. 三角剖分 $T(\mathfrak{D})$、primal/star vertices（4 min）
+
+为了把 "面上的圆图案" 处理成 "三角形上的几何", 论文对 $\mathfrak{D}$ 做一次细分：
+
+**Definition 6 ($T(\mathfrak{D})$).**
+
+对 $\mathfrak{D}$ 中每个二维胞腔 $\tau$ 在其内部添一个 **star vertex**,
+并把它与 $\tau$ 的所有顶点连起来。
+得到的三角剖分记为 $T(\mathfrak{D})$.
+
+原来的顶点称为 **primal vertex**, 新增的称为 **star vertex**.
+
+**为什么这样做？** \ans{因为后续的 Thurston 构造是按三角形逐块赋予几何数据
+（边长由 $r_i,r_j,\Theta_{ij}$ 决定）并再粘合成 cone metric；若不先细分为三角剖分，就无法逐块定义与拼接。}
+
+### II-3. circle pattern 与 ideal circle pattern（6 min）
+
+**Definition 7 ($\mathfrak{D}$-型 circle pattern).**
+
+设 $S$ 是带常曲率度量 $\mu$ 的曲面，$\mathfrak{D}$ 是它的胞腔分解。
+$\mathfrak{D}$-型 circle pattern $\mathcal{P}=\{C_v\}_{v\in V}$ 是 $(S,\mu)$ 上的一族圆：
+
+- 每个 $C_v$ 的 *圆心* 正好是 $\mathfrak{D}$ 的顶点 $v$；
+
+- 当且仅当 $\mathfrak{D}$ 中存在边 $[u,v]$ 时，$C_u \cap C_v \neq \varnothing$.
+
+每条边 $e=[u,v]$ 对应一个 **外交角 (exterior intersection angle)**
+$\Theta(e)\in [0,\pi)$.
+
+**Definition 8 (interstice).**
+
+设 $D_v$ 是 $C_v$ 围成的开圆盘，则集合 $S\setminus \bigcup_v \overline{D_v}$ 的每个连通分支称为 **interstice（间隙）**.
+
+**Definition 9 (Ideal circle pattern).**
+
+$\mathfrak{D}$-型 circle pattern $\mathcal{P}$ 称为 **ideal（理想）**, 若
+
+1. interstice 与 $\mathfrak{D}$ 的 2-cell 一一对应；
+
+2. 每个 interstice 只是 *一个点*.
+
+**普通圆模式（non-ideal）与理想圆模式（ideal）的详细理解**
+
+**Definition 10 (普通圆模式（相对于 ideal 的说法）).**
+
+若只要求 "圆心对应顶点 + 相邻性对应边 + 外交角由 $\Theta$ 给定"，
+但*不*要求 interstice 退化为点，则称为这里的 "普通" $\mathfrak{D}$-型圆模式。
+此时 interstice 一般是有面积的小区域（常见为曲边多边形状）。
+
+> 可以把普通圆模式想成 "圆之间留缝"，把理想圆模式想成 "缝被压扁到点"。
+因此 ideal 是 ordinary 的一个极限/边界情形。
+
+\toprule
+**比较项** | **普通圆模式** | **理想圆模式** |
+| --- | --- | --- |
+| \midrule
+interstice 形状 | 一般是二维区域（有面积） | 每个 interstice 退化为一个点 |
+| 局部约束强度 | 仅给定 $\Theta$ 通常不足以完全锁死缝隙形状，还含额外模量自由度 | 退化条件把局部自由度大幅压缩，得到刚性更强的模型 |
+| 与条件 (C1) 的关系 | 通常不强制满足本文这种等式型 (C1) | 必须满足 (C1)：每个 face 边界角和 $=(m-2)\pi$ |
+| 几何直观 | "留白" 的圆图案 | "无缝" 的圆图案（缝缩到理想点） |
+| 与本文关系 | 作为背景理解，本文不以它为主对象 | 本文主对象：所有主定理都在 ideal 设定下叙述 |
+| \bottomrule |
+
+**Remark 4 (为什么论文专注 ideal？).**
+
+ideal 设定把几何可实现性更直接地翻译成组合不等式与曲率方程，
+从而 Ricci 流的 "收敛 $\Leftrightarrow$ 存在" 结构最清晰；这正是本文主线。
+
+**讲法提示：** 画一张图：相邻三个圆两两相交，把中间的 "缝" 收成一个点
+$\Rightarrow$ 这就是 "ideal".
+"ideal" 这个名字来自双曲几何里的 "ideal point"（在无穷远处）。
+
+**Remark 5 (如何理解 ideal（给初学者的三层直觉）).**
+
+1. **组合层**：每个 2-cell 对应一个 interstice，而且 interstice 不再有面积，只剩一个顶点型对象。
+
+2. **几何层**：这些 "点状间隙" 对应双曲几何的理想点（在边界无穷远处）。
+
+3. **分析层**：ideal 条件把局部角度约束压成代数条件 (C1)，从而能进入 Ricci 流/变分框架。
+
+**Remark 6 (条件 (C1) 的来源).**
+
+若 $\Theta$ 是某个 ideal 圆图案的外交角函数，
+则对 $\mathfrak{D}$ 中每个 2-cell 的边界 $e_1,\dots,e_m$ 必有
+
+$$
+\text{(C1)}  \sum_{l=1}^m \Theta(e_l) = (m-2)\pi.
+$$
+
+这是 "ideal" 要求 interstice 缩成一个点的代数表达。在板书上做一遍 "$m=3$（三个圆两两相切于一点）" 的小验证即可。
+
+### II-4. 双曲几何小回顾（4+3 min）
+
+听众可能没学过双曲几何，但只需要记住下面两件事就够用：
+
+1. **双曲三角形** 的角度和 $< \pi$；
+
+2. **双曲余弦定理**：
+
+$$
+\cosh l_{ij} = \cosh r_i \cosh r_j + \sinh r_i \sinh r_j \cos\Theta_{ij},
+$$
+
+在 $r_i, r_j \to 0$ 时退化为欧氏余弦定理
+
+$$
+l_{ij}^2 = r_i^2 + r_j^2 + 2 r_i r_j \cos\Theta_{ij}.
+$$
+
+**再补充四条常用知识（建议板书）**
+
+1. **测地线模型**：在 Poincaré 圆盘模型里，测地线是与边界圆正交的圆弧（或过圆心的直径）。
+
+2. **理想点**：圆盘边界 $\partial\mathbb{D}$ 不是内部点，但可作为 "无穷远方向"，这正是 ideal 一词来源。
+
+3. **面积-角亏公式**（曲率归一化为 $-1$）：若三角形内角为 $\alpha,\beta,\gamma$，则
+
+$$
+\mathrm{Area}(\triangle)=\pi-(\alpha+\beta+\gamma).
+$$
+
+      所以角和越小，三角形越 "大"。
+
+4. **理想三角形**：三个顶点都在无穷远时，角和为 $0$，面积恰为 $\pi$。
+
+**讲法提示：** 直接告诉听众 "双曲是负曲率，欧氏是零曲率，球面是正曲率".
+不需要讲 Poincaré 盘模型，
+只需要 *接受* 一个双曲三角形可以由两边夹角唯一确定，并满足上面那条余弦律即可。
+
+### II-5. cone metric（圆锥度量）（3 min）
+
+**Definition 11 (cone metric).**
+
+把若干个常曲率（双曲 / 欧氏 / 球面）三角形沿公共边粘起来，得到一个曲面 $S$ 上的度量。
+这个度量在三角形内部是光滑的，但是在顶点处可能出现 *锥尖奇性*：
+顶点处的 **锥角 (cone angle)** 等于所有以这个顶点为顶点的三角形 *内角之和*.
+
+**Definition 12 (vertex curvature).**
+
+对每个顶点 $v_i$，定义
+
+$$
+K_i = 2\pi - (\text{顶点 } v_i \text{ 处的锥角}).
+$$
+
+- $K_i = 0 \iff$ 在 $v_i$ 处的 cone metric 是光滑的；
+- $K_i \neq 0 \iff v_i$ 是一个锥尖。
+
+**怎么理解 cone angle（建议讲 2 分钟）**
+
+1. **局部拼角度的总和**：在顶点 $v_i$ 周围，把所有以 $v_i$ 为顶点的小三角形内角加起来，
+      这个总和就是 cone angle，记作 $\alpha_i$。
+
+2. \keypart{与平面 $2\pi$ 比较}：
+
+$$
+\alpha_i<2\pi \Rightarrow \text{尖锥（正曲率）},
+    \alpha_i=2\pi \Rightarrow \text{局部平滑},
+    \alpha_i>2\pi \Rightarrow \text{鞍锥（负曲率）}.
+$$
+
+3. **纸模型直观**：把若干扇形纸片在顶点处粘起来。若总角度少于一整圈会“拱起来”成尖；
+      若多于一整圈会“起褶”成鞍；刚好一整圈就能平铺。
+
+4. **本文的曲率定义**：$K_i=2\pi-\alpha_i$，所以
+
+$$
+K_i>0 \Leftrightarrow \alpha_i<2\pi,
+    K_i=0 \Leftrightarrow \alpha_i=2\pi,
+    K_i<0 \Leftrightarrow \alpha_i>2\pi.
+$$
+
+      Ricci 流就是不断调半径 $r_i$，把这些角度缺陷 $K_i$ 推向目标值。
+
+\ans{一句话记忆：cone angle 是“顶点周围总共转了多少角度”，而 $K_i=2\pi-\text{cone angle}$ 就是离平滑程度的偏差。}
+
+### II-6. Ricci flow：从经典到组合（8 min）*[关键补充]*
+
+由于很多听众不熟悉 "Ricci flow", 这里要从经典版本快速过渡到组合版本。
+
+#### II-6.1 经典 Ricci flow（Hamilton 1982）
+
+对一个黎曼流形 $(M, g)$，Hamilton 引入演化方程
+
+$$
+\frac{\partial g_{ij}}{\partial t} = -2\,\mathrm{Ric}_{ij}(g),
+$$
+
+意思是 "*曲率大的地方让度量收缩、曲率小的地方让度量膨胀*"，
+从而把度量逐渐磨平。Perelman 用它证了 3-维 Poincaré 猜想。
+
+#### II-6.2 组合 Ricci flow（Chow--Luo 2003）
+
+在 *离散* 的情形（曲面上的三角剖分 / 圆填充 / 圆图案），
+我们没有 "黎曼度量" 这个连续对象，但有：
+
+- 每个顶点 $v_i$ 有一个 *半径* $r_i$（决定度量）；
+
+- 每个顶点有一个 *曲率* $K_i$（决定与 "光滑" 的偏差）.
+
+Chow--Luo 提出离散版本：
+
+$$
+\frac{dr_i}{dt} = -K_i \cdot (\text{某个正函数}).
+$$
+
+*思想完全一样*：曲率大的地方让 $r_i$ 变小 / 度量收缩，使得 $K_i \to 0$（或其它目标值）。
+
+#### II-6.3 本文用的两个组合 Ricci 流
+
+**Definition 13 (本文使用的组合 Ricci flow).**
+
+- **双曲背景：**
+
+$$
+\frac{dr_i}{dt} = -K_i \sinh r_i,  i=1,\dots,|V|.
+$$
+
+- **欧氏背景：**
+
+$$
+\frac{dr_i}{dt} = (K_{\mathrm{av}} - K_i)\,r_i,
+      K_{\mathrm{av}}:=\frac{2\pi \chi(S)}{|V|}.
+$$
+
+#### II-6.4 如何理解 Ricci 流（连续/离散统一视角）
+
+1. **一句话**：Ricci 流就是 "用曲率误差驱动度量更新" 的负反馈系统。
+
+2. **连续曲面直观**：在二维里 $\mathrm{Ric}=K\,g$，所以（规范化后）可写成
+      $\partial_t g = -2(K-\bar K)g$，目标是把曲率拉回平均值附近。
+
+3. **离散版本直观**：把 "度量" 换成顶点半径向量 $r$，把 "曲率" 换成顶点角缺 $K_i$，
+      得到有限维 ODE；这本质上是梯度下降/Lyapunov 下降过程。
+
+4. **为什么它好用**：既给存在唯一性结论，也给可计算算法（数值积分即可逼近目标图案）。
+
+> 可以把它类比成自动调参：某点曲率偏大就往反方向改半径，偏差越大改得越快，
+最终把全局误差压到零（双曲）或压到常数目标（欧氏）。
+
+**讲法提示：** 这里画 "若 $K_i>0$（锥角偏小、太尖），$r_i$ 要变小" 这种箭头图，
+对听众理解流的几何意义非常关键。
+
+### II-7. prismatic $s$-circuit 与 pseudo-Jordan 曲线（5 min）
+
+为了写 Rivin / Bobenko--Springborn 定理，需要两个 *纯组合的* 概念。
+
+**Definition 14 (prismatic $s$-circuit).**
+
+给定抽象多面体 $P$，对偶多面体 $P^*$. 一组边 $\{e_1,\dots,e_s\}\subset P$ 称为
+\keypart{prismatic $s$-circuit（棱柱型 $s$-回路）}, 如果它们的对偶边
+$\{e_1^*,\dots,e_s^*\}$ 在 $P^*$ 中构成一条简单闭曲线，
+且这条曲线 *不* 是 $P^*$ 中任何一个面的边界。
+
+**Remark 7.**
+
+**直观**："绕过去但不绕过某一个面"。在三棱柱中，连接两个三角形面的 3 条侧边构成一个 prismatic 3-circuit.
+
+**Definition 15 (pseudo-Jordan 曲线).**
+
+$S$ 中的闭曲线 $\gamma$（不必简单）称为 **pseudo-Jordan (伪-Jordan)**,
+如果 $S\setminus\gamma$ 包含一个 *单连通* 连通分支，
+且该分支的边界恰好等于 $\gamma$.
+
+**讲法提示：** 在亏格 $g=0$（球面）情形，pseudo-Jordan $=$ 普通 Jordan，
+是 Rivin 定理中的 prismatic 概念在高亏格曲面上的推广。
+
+## Part III：对应论文 Section 2（Thurston 构造、曲率映射、关键引理）（约 20 min）
+
+### III-1. Thurston 构造（详细版）：从 $r$ 到 $\mu(r)$ 与 $K(r)$
+
+**输入数据（固定不动）**
+
+- 曲面胞腔分解 $\mathfrak{D}=(V,E,F)$；
+
+- 边权 $\Theta:E\to(0,\pi)$（满足 (C1)）；
+
+- 细分三角剖分 $T(\mathfrak{D})$（每个 face 加一个 star vertex）。
+
+**可变数据（Ricci 流会更新）**
+
+$$
+r=(r_1,\dots,r_{|V|})\in \mathbb{R}^{|V|}_{+}.
+$$
+
+每个 primal vertex $v_i$ 对应一个半径 $r_i$。
+
+**构造流程（建议按这 8 步讲）**
+
+1. 取 $T(\mathfrak{D})$ 中任意一个小三角形 $(v_i v_j \tau)$，其边 $(v_i,v_j)$ 对应外交角 $\Theta_{ij}$。
+
+2. 在对应背景几何（双曲/欧氏）里画两圆：圆心分别为 $v_i,v_j$，半径分别为 $r_i,r_j$，且两圆外交角为 $\Theta_{ij}$。
+
+3. 取两圆心和一个交点，得到局部几何三角形 $\triangle_{ij\tau}$。
+
+4. 该三角形边长由两半径和 $\Theta_{ij}$ 唯一决定：
+
+$$
+\begin{cases}
+    l_{ij}^{\mathrm{hyp}}=\cosh^{-1}\!\big(\cosh r_i\cosh r_j+\sinh r_i\sinh r_j\cos\Theta_{ij}\big),\\[3pt]
+    l_{ij}^{\mathrm{euc}}=\sqrt{r_i^2+r_j^2+2r_ir_j\cos\Theta_{ij}}.
+    \end{cases}
+$$
+
+5. 对所有小三角形重复此过程，得到一组局部三角形片。
+
+6. 按 $T(\mathfrak{D})$ 的组合邻接关系沿等长公共边粘合，得到曲面上的分片常曲率度量 $\mu(r)$（即 cone metric）。
+
+7. 计算每个 primal vertex 的锥角 $\alpha_i(r)$，定义离散曲率
+
+$$
+K_i(r):=2\pi-\alpha_i(r).
+$$
+
+8. 于是得到曲率映射 $\mathrm{Th}:r\mapsto K(r)$；Ricci 流就是在 $r$ 空间里驱动 $K(r)$ 逼近目标值。
+
+**为什么 (C1) 在这里关键？**
+
+- 对每个 star vertex $\tau$，其周围角和是
+
+$$
+\sum_{e\subset \partial \tau}(\pi-\Theta(e))
+    =m\pi-\sum_{e\subset\partial\tau}\Theta(e)
+    =m\pi-(m-2)\pi=2\pi.
+$$
+
+- 所以 star vertices 自动无奇性，奇性只可能出现在 primal vertices。
+
+\ans{Thurston 构造的本质是：把“圆模式是否存在”翻译为“是否存在 $r$ 使 $K(r)$ 命中目标向量”。
+这一步把几何存在性问题完全转成有限维非线性映射问题。}
+
+### III-2. 曲率映射 $\mathrm{Th}$
+
+**Definition 16 (curvature map).**
+
+$$
+\mathrm{Th}:\mathbb{R}^{|V|}_+ \to \mathbb{R}^{|V|},
+r \mapsto (K_1(r),\dots,K_{|V|}(r)),
+$$
+
+其中 $K_i = 2\pi - (\text{顶点 } v_i \text{ 的锥角})$.
+
+**核心翻译**：
+
+| | $\Longleftrightarrow$ | |
+**存在 ideal circle pattern** | **$0\in \mathrm{Im}(\mathrm{Th})$**（双曲情形） |
+| --- | --- |
+| **存在 ideal circle pattern** | **$(K_{\mathrm{av}},\dots,K_{\mathrm{av}})\in \mathrm{Im}(\mathrm{Th})$**（欧氏情形） |
+
+### III-3. 两圆构型的关键引理（Lemma 2.2）
+
+这是后面 *所有* 凸性 / 收敛性论证的源头。
+
+**Lemma 1 (Lemma 2.2，本文 §2).**
+
+固定 $\Theta_k\in(0,\pi)$. 对两圆构型中两个圆心处的内角 $\vartheta_i, \vartheta_j$:
+
+- **欧氏几何：**
+
+$$
+\dfrac{\partial \vartheta_i}{\partial r_i}<0,
+    r_j\dfrac{\partial \vartheta_i}{\partial r_j}
+    = r_i\dfrac{\partial \vartheta_j}{\partial r_i}>0.
+$$
+
+- **双曲几何：**
+
+$$
+\dfrac{\partial \vartheta_i}{\partial r_i}<0,
+    \sinh r_j\dfrac{\partial \vartheta_i}{\partial r_j}
+    = \sinh r_i\dfrac{\partial \vartheta_j}{\partial r_i}>0,
+    \dfrac{\partial \mathrm{Area}}{\partial r_i}>0.
+$$
+
+**两个推论** 一定要在黑板上强调：
+
+1. **对称性** $\Rightarrow$ 1-form $\omega = \sum K_i\,du_i$ 是 *闭的*，所以可以定义 **势函数** $\Phi(u)=\int \omega$.
+
+2. **单调性** + Hessian 对称 $\Rightarrow$ $\Phi$ 是 **严格凸** 的（Bobenko--Springborn 2004; Guo 2011 的另证）。
+
+**讲法提示：** 这就是 "变分法路线" 的入口；本文虽然走的是 "ODE 路线"，但 ODE 的 Lyapunov 函数正是这个 $\Phi$.
+
+## Part IV：对应论文 Section 3--4（双曲/欧氏 Ricci 流主结果）（约 30 min）
+
+### IV-1.（对应论文 Section 3）主定理 Theorem 1.7（双曲背景，10 min）
+
+**Theorem 4 (Theorem 1.7).**
+
+假设 $\Theta:E\to(0,\pi)$ 满足 (C1). 在双曲背景下，对组合 Ricci 流
+
+$$
+\frac{dr_i}{dt} = -K_i \sinh r_i
+$$
+
+任意正初值都对 $t\geq 0$ 全时间存在；且下面 **五条等价**：
+
+- ****H1****  $r(t)$ 在 $t\to+\infty$ 时收敛；
+
+- ****H2****  $0 \in \mathrm{Im}(\mathrm{Th})$（即存在 $r^*$ 使 $K_i(r^*)=0$）；
+
+- ****H3****  对任意非空 $A\subseteq V$，
+    $\sum_{\substack{e\in E\\ \partial e\cap A\neq\varnothing}}\!\!\!\Theta(e)>\pi|A|$；
+
+- ****H4****  对任意非空 $A\subseteq V$，
+    $\sum_{(e,\tau)\in Lk(A)}(\Theta(e)-\pi) + 2\pi\chi(S(A)) < 0$；
+
+- ****H5****  $g>1$ 且对每条不是 2-cell 边界的 pseudo-Jordan 曲线 $e_1,\dots,e_s$，
+    $\sum_l \Theta(e_l) < (s-2)\pi$（即 (C2)）。
+
+ 若流收敛，则 **指数收敛** 到使所有 $K_i=0$ 的唯一 $r^*$.
+
+**讲解节奏建议：**
+
+1. 先把 H1--H5 *原样写到黑板上*，让大家看清楚 "它们都在说同一件事"；
+
+2. 然后说明等价链条的逻辑骨架：
+
+$$
+\underbrace{\text{H1}\Leftrightarrow \text{H2}}_{\text{Ricci 流分析}}
+    \;\Leftrightarrow\;
+    \underbrace{\text{H3}}_{\text{Thm 1.4 的不等式}}
+    \;\Leftrightarrow\;
+    \underbrace{\text{H4}}_{\text{Proposition 1.6 改写}}
+    \;\Leftrightarrow\;
+    \underbrace{\text{H5}}_{\text{组合论证}}.
+$$
+
+3. 强调 "H1 $\Leftrightarrow$ H2" 是 *本文的新贡献*，其它三个等价基本属于已有工作。
+
+### IV-2.（对应论文 Section 4）主定理 Theorem 1.8（欧氏背景，5 min）
+
+**Theorem 5 (Theorem 1.8).**
+
+假设 $\Theta$ 满足 (C1). 令 $K_{\mathrm{av}}=\frac{2\pi\chi(S)}{|V|}$.
+对欧氏背景下的组合 Ricci 流
+
+$$
+\frac{dr_i}{dt}=(K_{\mathrm{av}}-K_i)\,r_i,
+$$
+
+任意正初值都全时间存在；且下面 **四条等价**：
+
+- ****E1****  $r(t)$ 收敛；
+
+- ****E2****  $(K_{\mathrm{av}},\dots,K_{\mathrm{av}})\in \mathrm{Im}(\mathrm{Th})$；
+
+- ****E3****  对任意 $\varnothing\neq A\subsetneq V$，
+    $\pi\chi(S)\tfrac{|A|}{|V|} > \pi|A|-\!\!\!\sum_{\partial e\cap A\neq\varnothing}\!\!\!\Theta(e)$；
+
+- ****E4****  对任意 $\varnothing\neq A\subsetneq V$，
+
+$$
+\tfrac{2\pi\chi(S)|A|}{|V|}
+    >\!\!\!\sum_{(e,\tau)\in Lk(A)}\!\!(\Theta(e)-\pi)+ 2\pi\chi(S(A))
+$$
+
+.
+
+若流收敛，则 **指数收敛** 到使每个 $K_i=K_{\mathrm{av}}$ 的 $r^*$。
+
+**讲法提示：** 欧氏情形和双曲情形的差别要点出来：
+
+- 欧氏情形 $\sum_i K_i = 2\pi\chi(S)$ 是 "固定预算"，所以目标只能是 **均匀分配**；
+
+- 双曲情形可以 "真正光滑"，目标是 **全 0**；
+
+- 欧氏情形流保持 $\prod_i r_i =$ 常数（缩放不变性），相当于已经固定了一个 gauge.
+
+### IV-3.（对应 Section 3.4 / 4.4）推广：指定曲率的 ideal circle pattern（5 min）
+
+**Theorem 6 (Theorem 3.7 / 4.5).**
+
+把流改成
+
+$$
+\frac{dr_i}{dt} = (k_i - K_i)\sinh r_i  \text{or}
+\frac{dr_i}{dt} = (k_i - K_i) r_i,
+$$
+
+其中 $K=(k_1,\dots,k_{|V|})$ 是一个 *prescribed* 向量
+（在欧氏情形下要求 $\sum k_i = 2\pi\chi(S)$），则
+
+- 流全时间存在；
+
+- 流收敛 $\iff$ $K$ *attainable*（满足相应的 BS 不等式）；
+
+- 收敛时为指数收敛。
+
+**讲法提示：** 一句话带过即可，目的是让听众知道 "主定理 1.7 / 1.8 是一个统一框架的特例".
+
+## Part V：对应论文 Section 5（restriction flow 与 Rivin 算法证明）（约 15 min）
+
+### V-1. Section 5：restriction Ricci 流与 Rivin 定理（先按论文顺序讲，6 min）
+
+1. 先固定一个 "无穷远面" $\tau_\infty\subset\mathfrak{D}$，把其顶点放到无穷远（球极投影下对应直线边界）。
+
+2. 对剩余自由顶点定义 restriction Ricci 流
+
+$$
+\frac{dr_i}{dt}=-K_i r_i,  i=m+1,\dots,|V|.
+$$
+
+3. 在限制子空间重复 Section 3/4 的核心工具链：
+      闭 1-形式 $\to$ 势函数严格凸 $\to$ Lyapunov 单调下降。
+
+4. 得到 "流收敛 $\Leftrightarrow$ Rivin 棱柱条件"，从而给出 Rivin 定理的算法化证明。
+
+### V-2. 附录工具 Proposition 1.6（放在 Section 5 之后讲，4 min）
+
+**Proposition 1 (Proposition 1.6).**
+
+若 $\Theta$ 满足 (C1)，则对每个非空 $A\subseteq V$，
+
+$$
+2\pi|A|-2\!\!\!\sum_{\substack{e\in E\\ \partial e\cap A\neq\varnothing}}\!\!\!\Theta(e)
+= \sum_{(e,\tau)\in Lk(A)}(\Theta(e)-\pi) + 2\pi \chi(S(A)).
+$$
+
+> 这条恒等式在讲稿里作为“统一换元工具”：它把 H3/E3 的边和条件改写成 H4/E4 的 link+Euler 条件。
+
+### V-3. 证明骨架（跨 Section 3/4 的总结，8 min）
+
+只讲思路，*不* 写细节。统一的证明模式如下。
+
+1. **变量替换.**
+
+      双曲：$u_i = \ln\tanh(r_i/2) \in (-\infty,0)$；
+
+      欧氏：$u_i = \ln r_i \in \mathbb{R}$.
+
+      则原 ODE 写成自治系统 $\frac{du_i}{dt} = -K_i$（或 $K_{\mathrm{av}}-K_i$）。
+
+2. **长时间存在性.**
+
+      用 $|K_i|$ 一致有界（依赖 $\mathfrak{D}$）$\Rightarrow$ $u_i(t)$ 至多线性增长
+      $\Rightarrow$ $r_i$ 不会触及 $0$ 或 $+\infty$ 边界（双曲情形再用 Lemma 2.3：$r_i$ 很大时 $K_i>\pi$，从而 $r_i$ 自动下压）。
+
+3. **势函数 + Lyapunov 论证.**
+
+      在变量 $u$ 下定义 $\Phi(u)=\int \omega,\ \omega=\sum K_i\,du_i$（或 $\sum(K_i-K_{\mathrm{av}})\,du_i$）。
+
+  - Lemma 2.2 $\Rightarrow$ $\Phi$ 严格凸；
+  - 沿流 $\frac{d\Phi}{dt}= -\sum K_i^2 \leq 0$（或 $-\sum (K_i-K_{\mathrm{av}})^2$），单调下降。
+
+4. \keypart{下界 $\Rightarrow$ 紧性 $\Rightarrow$ 收敛.}
+
+      H2 / E2（存在 $r^*$）$\Rightarrow$ $\Phi$ 有下界 $\Rightarrow$ 轨道留在紧集
+      $\Rightarrow$ 收敛到 $r^*$.
+
+5. **指数收敛.**
+
+      对 $g(t)=\sum (K_i-K_{\mathrm{av}})^2$ 求导，用 Lemma 2.2 给出的 $\partial K_i/\partial u_j$ 一致负性
+      $\Rightarrow$ $\frac{dg}{dt}\leq -c_1 g \Rightarrow g(t)\leq g(0)e^{-c_1 t}$，
+      再积分得 $|r_i(t)-r_i^*|\leq Ce^{-c t}$.
+
+**讲法提示：** 这一段最好画一张 "$\Phi$ 是一个严格凸的碗，轨道沿碗滑到底" 的示意图。
+
+### V-4. 每个主结论的证明逻辑链（可直接照讲，6 min）
+
+**(A) Theorem 1.7（双曲）逻辑链**
+
+1. \keypart{H2 $\Rightarrow$ H1（存在解 $\Rightarrow$ 流收敛）}：
+
+      先做变量替换 $u_i=\ln\tanh(r_i/2)$，把流写成 $\dot u_i=-K_i$；再用 Lemma 2.2 得到闭 1-形式与严格凸势函数 $\Phi$。
+
+      沿流有 $\frac{d\Phi}{dt}=-\sum_i K_i^2\le 0$，所以轨道向极小值下降。结合长时间存在与轨道紧性，得 $u(t)$ 收敛到唯一临界点 $u^*$，即 $K(u^*)=0$。
+
+2. \keypart{H1 $\Rightarrow$ H2（流收敛 $\Rightarrow$ 存在零曲率点）}：
+
+      若 $r(t)\to r^\infty$，则 $\dot r_i(t)\to 0$。由 $\dot r_i=-K_i\sinh r_i$ 且 $r_i^\infty>0$，
+      立刻得 $K_i(r^\infty)=0$，故 $0\in\mathrm{Im}(\mathrm{Th})$。
+
+3. \keypart{H2 $\Leftrightarrow$ H3}：
+
+      由 Bobenko--Springborn 的像空间刻画（Theorem 1.4），
+      $0\in \mathrm{Im}(\mathrm{Th})$ 等价于对应子集不等式族成立，正是 H3。
+
+4. \keypart{H3 $\Leftrightarrow$ H4}：
+
+      直接套 Proposition 1.6 的恒等式，把 "边和形式" 改写为 "link+Euler 数形式"，两式逐项对应。
+
+5. \keypart{H4 $\Leftrightarrow$ H5}：
+
+      这是组合拓扑翻译：把 $A\subseteq V$ 的 link 条件改写成伪 Jordan 曲线条件（论文附录给出细节），即 (C2)。
+
+**(B) Theorem 1.8（欧氏）逻辑链**
+
+1. **先规范化自由度**：欧氏有缩放不变性，先固定 $\prod_i r_i=\text{const}$（等价于 $\sum_i u_i=\text{const}$）。
+
+2. \keypart{E2 $\Rightarrow$ E1}：在该超平面上构造严格凸势函数
+      $\Phi_{\mathrm{euc}}(u)=\int\sum_i (K_i-K_{\mathrm{av}})\,du_i$，
+      沿流有 $\frac{d\Phi_{\mathrm{euc}}}{dt}=-\sum_i (K_i-K_{\mathrm{av}})^2\le 0$，故收敛到唯一平衡点。
+
+3. \keypart{E1 $\Rightarrow$ E2}：若流收敛到 $r^\infty$，由 $\dot r_i=(K_{\mathrm{av}}-K_i)r_i\to 0$ 得 $K_i(r^\infty)=K_{\mathrm{av}}$。
+
+4. \keypart{E2 $\Leftrightarrow$ E3}：由 Theorem 1.5 的像空间刻画得到。
+
+5. \keypart{E3 $\Leftrightarrow$ E4}：同样由 Proposition 1.6 的代数改写得到。
+
+**(C) Section 5 restriction Ricci flow 逻辑链**
+
+1. 先选定 "无穷远面" $\tau_\infty$，把对应顶点固定在无穷远（等价于若干 $r_i=+\infty$ 的边界处理）。
+
+2. 在其余自由顶点上定义 restriction flow：$\dot r_i=-K_i r_i$。
+
+3. 在限制子空间重复 "闭 1-形式 $\to$ 严格凸势函数 $\to$ Lyapunov 下降" 三步。
+
+4. 平衡点存在当且仅当 Rivin 的棱柱不等式成立，因此 "流收敛" 与 "Rivin 条件" 等价。
+
+5. 收敛后恢复几何对象，得到理想多面体；因此 Rivin 定理获得算法化证明。
+
+### V-5. 算法意义（3 min）
+
+- 给定 $(\mathfrak{D},\Theta)$，从任意正初值 $r(0)$ 出发数值求解 ODE；
+
+- 若 H3 / E3 满足，则数值轨道 *指数收敛* 到目标半径向量；
+
+- 由此得到 ideal circle pattern 与 ideal 双曲多面体的具体构造方法。
+
+## 完整时间表与板书安排
+
+### 时间分配表
+
+| |
+\toprule
+**段** | **主题** | **核心内容** | **时长** | **累计** |
+| --- | --- | --- | --- | --- |
+| \midrule
+0 | 开场 | 介绍论文 / 目标 | 3 min | 3 min |
+| I | Sec.1 引言与主结果 | Def 1.1 + (C1)(C2) + Thm 1.7/1.8 | 15 min | 18 min |
+| II-0 | 拓扑预备 | 同胚/同痕/亏格 | 6 min | 24 min |
+| II-1 | 胞腔分解 | $k$-cell, $\mathfrak{D}$ | 5 min | 29 min |
+| II-2 | 三角剖分 $T(\mathfrak{D})$ | primal / star vertex | 4 min | 33 min |
+| II-3 | circle pattern / ideal | interstice, (C1), ideal 直观 | 6 min | 39 min |
+| II-4 | 双曲几何回顾 | 余弦律, 角亏面积, ideal 三角形 | 7 min | 46 min |
+| II-5 | cone metric, 顶点曲率 | $K_i = 2\pi -$ 锥角 | 3 min | 49 min |
+| II-6 | **Ricci flow 补充** | 经典 → Chow--Luo → 本文 | 8 min | 57 min |
+| II-7 | prismatic / pseudo-Jordan | 组合限制条件 | 5 min | 62 min |
+| III-1 | Thurston 构造（详细） | 半径 $r\to$ cone metric + 曲率向量 | 10 min | 72 min |
+| III-2 | 曲率映射 $\mathrm{Th}$ | 存在性 $\leftrightarrow$ 像空间 | 5 min | 77 min |
+| III-3 | Lemma 2.2 关键引理 | 凸性来源 | 7 min | 84 min |
+| IV-1 | **Sec.3：Theorem 1.7** | H1--H5 | 10 min | 94 min |
+| IV-2 | Sec.4：Theorem 1.8 | E1--E4 | 6 min | 100 min |
+| IV-3 | Sec.3.4/4.4 | Theorem 3.7 / 4.5 | 5 min | 105 min |
+| V-1 | Sec.5：Restriction + Rivin | 算法证明 Rivin | 6 min | 111 min |
+| V-2 | 附录：Proposition 1.6 | 连接 H3/H4 与 E3/E4 | 4 min | 115 min |
+| V-3 | 证明骨架 | 5-step 流程 | 5 min | 120 min |
+| V-4 | 主结论逻辑链 | H/E/R 三条链 | 4 min | 124 min |
+| V-5 | 算法意义 | 数值实践 | 3 min | 127 min |
+| --- | 总结 + Q\ | A | 一张图小结 | 8 min | 135 min |
+| \bottomrule |
+
+**说明：** 表中累计超出 120 min（约 135 min），是 "严格按论文顺序 + 定义补全版" 的上限时长。
+若要严格控制在 120 min，可优先压缩 II-0（6 min $\to$ 3 min）与 V-4（4 min $\to$ 2 min），
+并把 V-3 的证明骨架从 5 min 压到 3 min。
+
+### 板书 / Slide 分页建议
+
+1. 标题页 + 论文信息.
+
+2. 论文目录导航（Section 1 $\to$ 2 $\to$ 3 $\to$ 4 $\to$ 5）.
+
+3. 一张 "$P\subset\mathbb{B}^3 \leftrightarrow \partial \mathbb{B}^3$ 上 circle pattern" 大图.
+
+4. 历史时间轴.
+
+5. Section 1 的定义与条件总表：Definition 1.1, (C1), (C2), H1--H5, E1--E4.
+
+6. 本文要回答的两个问题（存在性 + 算法）.
+
+7. 同胚 / 同痕 / 亏格（速讲页）.
+
+8. 胞腔分解的图示 + 定义.
+
+9. $T(\mathfrak{D})$ 的图示（primal/star）.
+
+10. circle pattern + interstice + ideal 直观.
+
+11. 双曲三角形 + 余弦律 + 角亏面积.
+
+12. cone metric + 顶点曲率公式.
+
+13. **Ricci flow 三连图**：连续 $\to$ Chow--Luo $\to$ 本文（双曲 / 欧氏）.
+
+14. prismatic / pseudo-Jordan 示意.
+
+15. Thurston 构造 step-by-step（含两圆构型图）.
+
+16. Lemma 2.2 与势函数 $\Phi$ 凸性.
+
+17. 曲率映射 $\mathrm{Th}$ 与 "翻译表".
+
+18. Section 1.2 回顾：Rivin / BS 经典定理.
+
+19. **Section 3：Theorem 1.7**（H1--H5）.
+
+20. **Section 4：Theorem 1.8**（E1--E4）.
+
+21. Section 3.4 / 4.4：指定曲率推广.
+
+22. Section 5：Restriction flow + Rivin 算法证明.
+
+23. 附录：Proposition 1.6 + Gauss--Bonnet.
+
+24. 证明骨架 5 步 + "凸碗" 示意.
+
+25. 总结："ODE 收敛 $\Leftrightarrow$ 组合不等式 $\Leftrightarrow$ 几何存在性" + 致谢.
+
+## 需要补充讲解的概念清单（速查表）
+
+下面是建议在 Part II 中 *务必* 讲清楚的概念。若听众完全没背景，
+还可考虑在讨论班开始前以 "预读材料" 形式发出。
+
+| |
+\toprule
+**概念** | **要讲清的内容** |
+| --- | --- |
+| \midrule
+$k$-cell, 胞腔分解 | 与 $\mathbb{R}^k$ 中开球同胚；曲面上 "由图导出的圆盘剖分". |
+| 同胚（homeomorphism） | "拓扑等价"：可连续变形互相得到，不允许撕裂/粘连；用于说明对象的拓扑类型不变. |
+| 同痕/同伦（homotopy） | 两个映射或闭曲线可通过连续参数变形互相到达；用于理解 "是否可缩" 与区域边界性质. |
+| 亏格 $g$ 与 Euler 数 | 闭可定向曲面满足 $\chi(S)=2-2g$；球面 $g=0$、环面 $g=1$，决定全局拓扑约束. |
+| $T(\mathfrak{D})$ | 在每个 2-cell 内加 star vertex，得到三角剖分；primal/star 区别. |
+| circle pattern | 一族圆，圆心 = 顶点，外交角 $\Theta(e)$. |
+| 普通 vs 理想圆模式 | 普通：interstice 为有面积区域；理想：interstice 退化为点；ideal 可视作 ordinary 的边界情形. |
+| ideal circle pattern | interstice 收为一个点；对应双曲无穷远 ideal point；导出条件 (C1). |
+| C1 / C2 条件 | (C1) 面边界角和 $=(m-2)\pi$；(C2) pseudo-Jordan 曲线角和 $<(s-2)\pi$. |
+| 双曲几何回顾 | 余弦律（双曲 / 欧氏）；角和 $<\pi$；面积=角亏；理想三角形面积 $\pi$. |
+| cone metric / 顶点曲率 | $K_i = 2\pi -$ 锥角；star vertex 处自动光滑. |
+| （连续）Ricci flow | Hamilton: $\partial_t g = -2\,\mathrm{Ric}$；二维规范化可写 $\partial_t g=-2(K-\bar K)g$. |
+| 组合 Ricci flow（Chow--Luo） | 顶点上 $r_i$ 的 ODE，曲率作为速度. |
+| 本文使用的 Ricci flow | 双曲: $dr_i/dt = -K_i\sinh r_i$；欧氏: $dr_i/dt = (K_{\mathrm{av}}-K_i)r_i$. |
+| H1--H5 / E1--E4 | 主定理等价条件编号；讲解时建议保留原编号，避免符号切换造成混乱. |
+| prismatic $s$-circuit | 对偶图中不绕面的简单闭曲线；Rivin 棱柱条件. |
+| pseudo-Jordan 曲线 | 不必简单的闭曲线，其补集有单连通分支以它为边界. |
+| Euler 示性数 $\chi(S)$ | 球面 $2$、环面 $0$、$g\!\geq\! 1$ 双亏面 $2-2g$. |
+| 势函数 $\Phi$ / Lyapunov 函数 | 沿流单调下降；严格凸 $\Rightarrow$ 唯一极小 $\Rightarrow$ 收敛. |
+| \bottomrule |
+
+## 常见提问与备用回答
+
+1. **Q：为什么叫 "ideal"？**
+
+      \ans{"ideal" 是双曲几何里的术语，指 *无穷远* 上的点。双曲多面体的顶点若都在无穷远（即 $\partial\mathbb{B}^3$ 上）就称为 ideal。
+      对应到 circle pattern，"间隙缩成一点" 就反映了这些 "无穷远顶点" 的存在。}
+
+2. **Q：Ricci flow 不是一个 PDE 吗，这里怎么变 ODE 了？**
+
+      \ans{因为离散几何对象只有有限多个 "自由度"（每个顶点一个半径 $r_i$），
+      所以 "Ricci flow" 退化成了 $\mathbb{R}^{|V|}$ 上的 ODE。
+      它的精神（曲率驱动度量变化）和经典 Ricci flow 完全一致。}
+
+3. **Q：为什么不直接用变分法？**
+
+> 变分法（Bobenko--Springborn / Guo）已经能证明存在性；但 Ricci 流额外给出
+      **算法** 和 **指数收敛速度**，并且很多技巧（例如长时间存在性）
+      可以推广到更一般情形（论文 Remark 3.4 强调过这点）。
+
+4. **Q：H3 / E3 那条不等式直观上是什么意思？**
+
+      \ans{它约束了每个顶点子集 $A$ 的 "角度通量预算"：边界穿过 $A$ 的总外交角必须落在可实现区间内，
+      否则局部几何会过度拥挤或过度稀疏，无法拼成全局一致的 circle pattern。}
+
+5. **Q：为什么欧氏情形流要保持 $\prod r_i =$ 常数？**
+
+      \ans{欧氏几何有缩放对称性，$r$ 和 $\lambda r$ 给出 "相似" 但不相等的 circle pattern。
+      保持 $\prod_i r_i$ 不变等价于固定一个规范切片，去掉 1 维缩放自由度；这正对应 Theorem 1.5 的 "缩放下唯一"。}
+
+## 讲完之后给听众的小结（一张幻灯片）
+
+| |
+\toprule
+**Ge--Hua--Zhou 2021 的核心翻译** |
+| --- |
+| \midrule |
+|
+
+$$
+\;\boxed{\
+\begin{array}{c}
+\text{ Ideal circle pattern 存在}\\[2pt]
+\Longleftrightarrow\\[2pt]
+\text{ 组合 Ricci 流 } r(t) \text{ 收敛}\\[2pt]
+\Longleftrightarrow\\[2pt]
+\text{ Rivin / BS 型组合不等式成立}
+\end{array}\ }\;
+$$
+
+ |
+|  而且收敛 $\Rightarrow$ **指数收敛** $\Rightarrow$ 一个可实现的数值算法。 |
+| \bottomrule |
+
+## PDF
+
+Download the original write-up [here](/files/Grade3/Reports/circle-patterns-seminar.pdf).0:{"buildId":"rZLQ8EVqblT6xTH8wdhS0","rsc":["$","$1","c",{"children":[["$","$L2",null,{"hasContent":false,"children":[false,["$","$L3",null,{"baseLdJson":{"@context":"https://schema.org","@type":"BlogPosting","headline":"Combinatorial Ricci Flows for Ideal Circle Patterns","description":"Seminar plan on combinatorial Ricci flows for ideal circle patterns.","datePublished":"2026-04-08T00:00:00.000Z","dateModified":"2026-04-08T00:00:00.000Z"}}],["$","$L4",null,{"data":{"id":"post-da-seminar","created":"2026-04-08T00:00:00.000Z","modified":"2026-04-08T00:00:00.000Z","title":"Combinatorial Ricci Flows for Ideal Circle Patterns","text":"$5","summary":"Seminar plan on combinatorial Ricci flows for ideal circle patterns.","copyright":true,"tags":["Seminar","Discrete Analysis"],"slug":"circle-patterns-seminar","categoryId":"cat-seminar","category":{"id":"cat-seminar","slug":"seminar","name":"Seminar","created":"2024-07-01T00:00:00.000Z","type":0,"count":10},"images":[],"pin":null,"pinOrder":0,"related":[],"allowComment":true,"commentsIndex":0,"count":{"read":0,"like":0}}}],"$L6","$L7","$L8"]}],["$L9","$La","$Lb","$Lc","$Ld","$Le","$Lf","$L10","$L11","$L12","$L13","$L14","$L15","$L16"],"$L17"]}],"loading":null,"isPartial":false}
+6:["$","$L18",null,{"fetchedAt":"2026-08-19T10:14:44.875Z"}]
+7:["$","div",null,{"data-server-fetched-at":"2026-08-19T10:14:44.875Z","className":"relative flex min-h-[120px] grid-cols-[auto_200px] lg:grid","children":[["$","$L19",null,{"lcpOptimization":true,"className":"min-w-0","children":[["$","div",null,{"className":"relative w-full min-w-0","children":[["$","$L1a",null,{"id":"post-da-seminar","type":"post"}],["$","div",null,{"children":[["$","div",null,{"className":"mb-8","children":[["$","$L1b",null,{}],["$","$L1c",null,{"id":"post-da-seminar","type":"posts","className":"absolute -top-6 right-0"}],["$","$L1d",null,{"className":"mb-8 justify-center"}],["$","$L1e",null,{}],["$","$L1f",null,{"type":"before"}]]}],["$","$L20",null,{"eoaDetect":true,"children":[["$","$L21",null,{}],["$","$L22",null,{"children":["$","$L23",null,{"children":["$","article",null,{"className":"prose","children":[["$","div",null,{"className":"sr-only","children":["$","$L1b",null,{}]}],["$","$L24",null,{}],["$","$L25",null,{}]]}]}]}],["$","$L26",null,{"children":["$","$L27",null,{}]}]]}]]}],["$","$L28",null,{"children":[["$","$L1f",null,{}],["$","$L29",null,{}],["$","$L2a",null,{}]]}]]}],["$","$L2b",null,{"delay":500,"children":["$","$L2c",null,{"refId":"post-da-seminar","allowComment":true}]}]]}],["$","$L2d",null,{"className":"relative hidden lg:block"}]]}]
+8:["$","$L2e",null,{"children":["$","$L2f",null,{}]}]
+9:["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/136744c992bad96d.css","precedence":"next"}]
+a:["$","link","1",{"rel":"stylesheet","href":"/_next/static/chunks/0169140b52b18b81.css","precedence":"next"}]
+b:["$","link","2",{"rel":"stylesheet","href":"/_next/static/chunks/cf19f565ce194e50.css","precedence":"next"}]
+c:["$","link","3",{"rel":"stylesheet","href":"/_next/static/chunks/2a531debc05d9c48.css","precedence":"next"}]
+d:["$","link","4",{"rel":"stylesheet","href":"/_next/static/chunks/f6d4eb0f1595037c.css","precedence":"next"}]
+e:["$","link","5",{"rel":"stylesheet","href":"/_next/static/chunks/be9fe8599e8928e8.css","precedence":"next"}]
+f:["$","script","script-0",{"src":"/_next/static/chunks/35eaa08fca66b29e.js","async":true}]
+10:["$","script","script-1",{"src":"/_next/static/chunks/f91f857f975d1c9f.js","async":true}]
+11:["$","script","script-2",{"src":"/_next/static/chunks/dabd062b49706f28.js","async":true}]
+12:["$","script","script-3",{"src":"/_next/static/chunks/740441c5b62d2d93.js","async":true}]
+13:["$","script","script-4",{"src":"/_next/static/chunks/dcd49895cb9db447.js","async":true}]
+14:["$","script","script-5",{"src":"/_next/static/chunks/175944aa1545ac7c.js","async":true}]
+15:["$","script","script-6",{"src":"/_next/static/chunks/16494c9ed210a726.js","async":true}]
+16:["$","script","script-7",{"src":"/_next/static/chunks/19ed43205a6e84be.js","async":true}]
+17:["$","$L30",null,{"children":["$","$31",null,{"name":"Next.MetadataOutlet","children":"$@32"}]}]
+32:null

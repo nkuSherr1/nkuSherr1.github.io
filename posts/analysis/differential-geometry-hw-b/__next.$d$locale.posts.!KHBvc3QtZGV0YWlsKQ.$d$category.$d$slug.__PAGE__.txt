@@ -1,0 +1,2192 @@
+1:"$Sreact.fragment"
+2:I[417743,["/_next/static/chunks/d03e4f6fdf084240.js","/_next/static/chunks/525ff3aa60c02a25.js","/_next/static/chunks/ae2a70c709da2ba8.js","/_next/static/chunks/eb309b8f06731812.js","/_next/static/chunks/baa674234f056c60.js","/_next/static/chunks/2edc37b4337c096a.js","/_next/static/chunks/6f0408800ece4f06.js","/_next/static/chunks/6f95f3a6a7ed9dab.js","/_next/static/chunks/3c40fd5a14861430.js","/_next/static/chunks/e7855f92c342e0a3.js","/_next/static/chunks/a5fcaccd389d798e.js","/_next/static/chunks/c3456ef3141ade67.js","/_next/static/chunks/c92042fd5179bd95.js","/_next/static/chunks/1737ca787e6b8d4c.js","/_next/static/chunks/d691f1571e343c32.js","/_next/static/chunks/65f1d76f7ac19600.js","/_next/static/chunks/762b6f848ae7b21b.js","/_next/static/chunks/1d5a5c14848b802e.js","/_next/static/chunks/a40e2b25b1a62ac7.js","/_next/static/chunks/c6509abffeae92d2.js","/_next/static/chunks/35eaa08fca66b29e.js","/_next/static/chunks/f91f857f975d1c9f.js","/_next/static/chunks/dabd062b49706f28.js","/_next/static/chunks/740441c5b62d2d93.js","/_next/static/chunks/dcd49895cb9db447.js","/_next/static/chunks/175944aa1545ac7c.js","/_next/static/chunks/16494c9ed210a726.js","/_next/static/chunks/19ed43205a6e84be.js"],"TocHeadingStrategyProvider"]
+3:I[401946,["/_next/static/chunks/d03e4f6fdf084240.js","/_next/static/chunks/525ff3aa60c02a25.js","/_next/static/chunks/ae2a70c709da2ba8.js","/_next/static/chunks/eb309b8f06731812.js","/_next/static/chunks/baa674234f056c60.js","/_next/static/chunks/2edc37b4337c096a.js","/_next/static/chunks/6f0408800ece4f06.js","/_next/static/chunks/6f95f3a6a7ed9dab.js","/_next/static/chunks/3c40fd5a14861430.js","/_next/static/chunks/e7855f92c342e0a3.js","/_next/static/chunks/a5fcaccd389d798e.js","/_next/static/chunks/c3456ef3141ade67.js","/_next/static/chunks/c92042fd5179bd95.js","/_next/static/chunks/1737ca787e6b8d4c.js","/_next/static/chunks/d691f1571e343c32.js","/_next/static/chunks/65f1d76f7ac19600.js","/_next/static/chunks/762b6f848ae7b21b.js","/_next/static/chunks/1d5a5c14848b802e.js","/_next/static/chunks/a40e2b25b1a62ac7.js","/_next/static/chunks/c6509abffeae92d2.js","/_next/static/chunks/35eaa08fca66b29e.js","/_next/static/chunks/f91f857f975d1c9f.js","/_next/static/chunks/dabd062b49706f28.js","/_next/static/chunks/740441c5b62d2d93.js","/_next/static/chunks/dcd49895cb9db447.js","/_next/static/chunks/175944aa1545ac7c.js","/_next/static/chunks/16494c9ed210a726.js","/_next/static/chunks/19ed43205a6e84be.js"],"LdJsonWithAuthor"]
+4:I[373448,["/_next/static/chunks/d03e4f6fdf084240.js","/_next/static/chunks/525ff3aa60c02a25.js","/_next/static/chunks/ae2a70c709da2ba8.js","/_next/static/chunks/eb309b8f06731812.js","/_next/static/chunks/baa674234f056c60.js","/_next/static/chunks/2edc37b4337c096a.js","/_next/static/chunks/6f0408800ece4f06.js","/_next/static/chunks/6f95f3a6a7ed9dab.js","/_next/static/chunks/3c40fd5a14861430.js","/_next/static/chunks/e7855f92c342e0a3.js","/_next/static/chunks/a5fcaccd389d798e.js","/_next/static/chunks/c3456ef3141ade67.js","/_next/static/chunks/c92042fd5179bd95.js","/_next/static/chunks/1737ca787e6b8d4c.js","/_next/static/chunks/d691f1571e343c32.js","/_next/static/chunks/65f1d76f7ac19600.js","/_next/static/chunks/762b6f848ae7b21b.js","/_next/static/chunks/1d5a5c14848b802e.js","/_next/static/chunks/a40e2b25b1a62ac7.js","/_next/static/chunks/c6509abffeae92d2.js","/_next/static/chunks/35eaa08fca66b29e.js","/_next/static/chunks/f91f857f975d1c9f.js","/_next/static/chunks/dabd062b49706f28.js","/_next/static/chunks/740441c5b62d2d93.js","/_next/static/chunks/dcd49895cb9db447.js","/_next/static/chunks/175944aa1545ac7c.js","/_next/static/chunks/16494c9ed210a726.js","/_next/static/chunks/19ed43205a6e84be.js"],"CurrentPostDataProvider"]
+18:I[401946,["/_next/static/chunks/d03e4f6fdf084240.js","/_next/static/chunks/525ff3aa60c02a25.js","/_next/static/chunks/ae2a70c709da2ba8.js","/_next/static/chunks/eb309b8f06731812.js","/_next/static/chunks/baa674234f056c60.js","/_next/static/chunks/2edc37b4337c096a.js","/_next/static/chunks/6f0408800ece4f06.js","/_next/static/chunks/6f95f3a6a7ed9dab.js","/_next/static/chunks/3c40fd5a14861430.js","/_next/static/chunks/e7855f92c342e0a3.js","/_next/static/chunks/a5fcaccd389d798e.js","/_next/static/chunks/c3456ef3141ade67.js","/_next/static/chunks/c92042fd5179bd95.js","/_next/static/chunks/1737ca787e6b8d4c.js","/_next/static/chunks/d691f1571e343c32.js","/_next/static/chunks/65f1d76f7ac19600.js","/_next/static/chunks/762b6f848ae7b21b.js","/_next/static/chunks/1d5a5c14848b802e.js","/_next/static/chunks/a40e2b25b1a62ac7.js","/_next/static/chunks/c6509abffeae92d2.js","/_next/static/chunks/35eaa08fca66b29e.js","/_next/static/chunks/f91f857f975d1c9f.js","/_next/static/chunks/dabd062b49706f28.js","/_next/static/chunks/740441c5b62d2d93.js","/_next/static/chunks/dcd49895cb9db447.js","/_next/static/chunks/175944aa1545ac7c.js","/_next/static/chunks/16494c9ed210a726.js","/_next/static/chunks/19ed43205a6e84be.js"],"PostDataReValidate"]
+19:I[793580,["/_next/static/chunks/d03e4f6fdf084240.js","/_next/static/chunks/525ff3aa60c02a25.js","/_next/static/chunks/ae2a70c709da2ba8.js","/_next/static/chunks/eb309b8f06731812.js","/_next/static/chunks/baa674234f056c60.js","/_next/static/chunks/2edc37b4337c096a.js","/_next/static/chunks/6f0408800ece4f06.js","/_next/static/chunks/6f95f3a6a7ed9dab.js","/_next/static/chunks/3c40fd5a14861430.js","/_next/static/chunks/e7855f92c342e0a3.js","/_next/static/chunks/a5fcaccd389d798e.js","/_next/static/chunks/c3456ef3141ade67.js","/_next/static/chunks/c92042fd5179bd95.js","/_next/static/chunks/1737ca787e6b8d4c.js","/_next/static/chunks/d691f1571e343c32.js","/_next/static/chunks/65f1d76f7ac19600.js","/_next/static/chunks/762b6f848ae7b21b.js","/_next/static/chunks/1d5a5c14848b802e.js","/_next/static/chunks/a40e2b25b1a62ac7.js","/_next/static/chunks/c6509abffeae92d2.js","/_next/static/chunks/35eaa08fca66b29e.js","/_next/static/chunks/f91f857f975d1c9f.js","/_next/static/chunks/dabd062b49706f28.js","/_next/static/chunks/740441c5b62d2d93.js","/_next/static/chunks/dcd49895cb9db447.js","/_next/static/chunks/175944aa1545ac7c.js","/_next/static/chunks/16494c9ed210a726.js","/_next/static/chunks/19ed43205a6e84be.js"],"BottomToUpTransitionView"]
+1a:I[189209,["/_next/static/chunks/d03e4f6fdf084240.js","/_next/static/chunks/525ff3aa60c02a25.js","/_next/static/chunks/ae2a70c709da2ba8.js","/_next/static/chunks/eb309b8f06731812.js","/_next/static/chunks/baa674234f056c60.js","/_next/static/chunks/2edc37b4337c096a.js","/_next/static/chunks/6f0408800ece4f06.js","/_next/static/chunks/6f95f3a6a7ed9dab.js","/_next/static/chunks/3c40fd5a14861430.js","/_next/static/chunks/e7855f92c342e0a3.js","/_next/static/chunks/a5fcaccd389d798e.js","/_next/static/chunks/c3456ef3141ade67.js","/_next/static/chunks/c92042fd5179bd95.js","/_next/static/chunks/1737ca787e6b8d4c.js","/_next/static/chunks/d691f1571e343c32.js","/_next/static/chunks/65f1d76f7ac19600.js","/_next/static/chunks/762b6f848ae7b21b.js","/_next/static/chunks/1d5a5c14848b802e.js","/_next/static/chunks/a40e2b25b1a62ac7.js","/_next/static/chunks/c6509abffeae92d2.js","/_next/static/chunks/35eaa08fca66b29e.js","/_next/static/chunks/f91f857f975d1c9f.js","/_next/static/chunks/dabd062b49706f28.js","/_next/static/chunks/740441c5b62d2d93.js","/_next/static/chunks/dcd49895cb9db447.js","/_next/static/chunks/175944aa1545ac7c.js","/_next/static/chunks/16494c9ed210a726.js","/_next/static/chunks/19ed43205a6e84be.js"],"AckRead"]
+1b:I[401946,["/_next/static/chunks/d03e4f6fdf084240.js","/_next/static/chunks/525ff3aa60c02a25.js","/_next/static/chunks/ae2a70c709da2ba8.js","/_next/static/chunks/eb309b8f06731812.js","/_next/static/chunks/baa674234f056c60.js","/_next/static/chunks/2edc37b4337c096a.js","/_next/static/chunks/6f0408800ece4f06.js","/_next/static/chunks/6f95f3a6a7ed9dab.js","/_next/static/chunks/3c40fd5a14861430.js","/_next/static/chunks/e7855f92c342e0a3.js","/_next/static/chunks/a5fcaccd389d798e.js","/_next/static/chunks/c3456ef3141ade67.js","/_next/static/chunks/c92042fd5179bd95.js","/_next/static/chunks/1737ca787e6b8d4c.js","/_next/static/chunks/d691f1571e343c32.js","/_next/static/chunks/65f1d76f7ac19600.js","/_next/static/chunks/762b6f848ae7b21b.js","/_next/static/chunks/1d5a5c14848b802e.js","/_next/static/chunks/a40e2b25b1a62ac7.js","/_next/static/chunks/c6509abffeae92d2.js","/_next/static/chunks/35eaa08fca66b29e.js","/_next/static/chunks/f91f857f975d1c9f.js","/_next/static/chunks/dabd062b49706f28.js","/_next/static/chunks/740441c5b62d2d93.js","/_next/static/chunks/dcd49895cb9db447.js","/_next/static/chunks/175944aa1545ac7c.js","/_next/static/chunks/16494c9ed210a726.js","/_next/static/chunks/19ed43205a6e84be.js"],"PostTitle"]
+1c:I[923014,["/_next/static/chunks/d03e4f6fdf084240.js","/_next/static/chunks/525ff3aa60c02a25.js","/_next/static/chunks/ae2a70c709da2ba8.js","/_next/static/chunks/eb309b8f06731812.js","/_next/static/chunks/baa674234f056c60.js","/_next/static/chunks/2edc37b4337c096a.js","/_next/static/chunks/6f0408800ece4f06.js","/_next/static/chunks/6f95f3a6a7ed9dab.js","/_next/static/chunks/3c40fd5a14861430.js","/_next/static/chunks/e7855f92c342e0a3.js","/_next/static/chunks/a5fcaccd389d798e.js","/_next/static/chunks/c3456ef3141ade67.js","/_next/static/chunks/c92042fd5179bd95.js","/_next/static/chunks/1737ca787e6b8d4c.js","/_next/static/chunks/d691f1571e343c32.js","/_next/static/chunks/65f1d76f7ac19600.js","/_next/static/chunks/762b6f848ae7b21b.js","/_next/static/chunks/1d5a5c14848b802e.js","/_next/static/chunks/a40e2b25b1a62ac7.js","/_next/static/chunks/c6509abffeae92d2.js","/_next/static/chunks/35eaa08fca66b29e.js","/_next/static/chunks/f91f857f975d1c9f.js","/_next/static/chunks/dabd062b49706f28.js","/_next/static/chunks/740441c5b62d2d93.js","/_next/static/chunks/dcd49895cb9db447.js","/_next/static/chunks/175944aa1545ac7c.js","/_next/static/chunks/16494c9ed210a726.js","/_next/static/chunks/19ed43205a6e84be.js"],"GoToAdminEditingButton"]
+1d:I[401946,["/_next/static/chunks/d03e4f6fdf084240.js","/_next/static/chunks/525ff3aa60c02a25.js","/_next/static/chunks/ae2a70c709da2ba8.js","/_next/static/chunks/eb309b8f06731812.js","/_next/static/chunks/baa674234f056c60.js","/_next/static/chunks/2edc37b4337c096a.js","/_next/static/chunks/6f0408800ece4f06.js","/_next/static/chunks/6f95f3a6a7ed9dab.js","/_next/static/chunks/3c40fd5a14861430.js","/_next/static/chunks/e7855f92c342e0a3.js","/_next/static/chunks/a5fcaccd389d798e.js","/_next/static/chunks/c3456ef3141ade67.js","/_next/static/chunks/c92042fd5179bd95.js","/_next/static/chunks/1737ca787e6b8d4c.js","/_next/static/chunks/d691f1571e343c32.js","/_next/static/chunks/65f1d76f7ac19600.js","/_next/static/chunks/762b6f848ae7b21b.js","/_next/static/chunks/1d5a5c14848b802e.js","/_next/static/chunks/a40e2b25b1a62ac7.js","/_next/static/chunks/c6509abffeae92d2.js","/_next/static/chunks/35eaa08fca66b29e.js","/_next/static/chunks/f91f857f975d1c9f.js","/_next/static/chunks/dabd062b49706f28.js","/_next/static/chunks/740441c5b62d2d93.js","/_next/static/chunks/dcd49895cb9db447.js","/_next/static/chunks/175944aa1545ac7c.js","/_next/static/chunks/16494c9ed210a726.js","/_next/static/chunks/19ed43205a6e84be.js"],"PostMetaBarInternal"]
+1e:I[6169,["/_next/static/chunks/d03e4f6fdf084240.js","/_next/static/chunks/525ff3aa60c02a25.js","/_next/static/chunks/ae2a70c709da2ba8.js","/_next/static/chunks/eb309b8f06731812.js","/_next/static/chunks/baa674234f056c60.js","/_next/static/chunks/2edc37b4337c096a.js","/_next/static/chunks/6f0408800ece4f06.js","/_next/static/chunks/6f95f3a6a7ed9dab.js","/_next/static/chunks/3c40fd5a14861430.js","/_next/static/chunks/e7855f92c342e0a3.js","/_next/static/chunks/a5fcaccd389d798e.js","/_next/static/chunks/c3456ef3141ade67.js","/_next/static/chunks/c92042fd5179bd95.js","/_next/static/chunks/1737ca787e6b8d4c.js","/_next/static/chunks/d691f1571e343c32.js","/_next/static/chunks/65f1d76f7ac19600.js","/_next/static/chunks/762b6f848ae7b21b.js","/_next/static/chunks/1d5a5c14848b802e.js","/_next/static/chunks/a40e2b25b1a62ac7.js","/_next/static/chunks/c6509abffeae92d2.js","/_next/static/chunks/35eaa08fca66b29e.js","/_next/static/chunks/f91f857f975d1c9f.js","/_next/static/chunks/dabd062b49706f28.js","/_next/static/chunks/740441c5b62d2d93.js","/_next/static/chunks/dcd49895cb9db447.js","/_next/static/chunks/175944aa1545ac7c.js","/_next/static/chunks/16494c9ed210a726.js","/_next/static/chunks/19ed43205a6e84be.js"],"PostOutdate"]
+1f:I[660320,["/_next/static/chunks/d03e4f6fdf084240.js","/_next/static/chunks/525ff3aa60c02a25.js","/_next/static/chunks/ae2a70c709da2ba8.js","/_next/static/chunks/eb309b8f06731812.js","/_next/static/chunks/baa674234f056c60.js","/_next/static/chunks/2edc37b4337c096a.js","/_next/static/chunks/6f0408800ece4f06.js","/_next/static/chunks/6f95f3a6a7ed9dab.js","/_next/static/chunks/3c40fd5a14861430.js","/_next/static/chunks/e7855f92c342e0a3.js","/_next/static/chunks/a5fcaccd389d798e.js","/_next/static/chunks/c3456ef3141ade67.js","/_next/static/chunks/c92042fd5179bd95.js","/_next/static/chunks/1737ca787e6b8d4c.js","/_next/static/chunks/d691f1571e343c32.js","/_next/static/chunks/65f1d76f7ac19600.js","/_next/static/chunks/762b6f848ae7b21b.js","/_next/static/chunks/1d5a5c14848b802e.js","/_next/static/chunks/a40e2b25b1a62ac7.js","/_next/static/chunks/c6509abffeae92d2.js","/_next/static/chunks/35eaa08fca66b29e.js","/_next/static/chunks/f91f857f975d1c9f.js","/_next/static/chunks/dabd062b49706f28.js","/_next/static/chunks/740441c5b62d2d93.js","/_next/static/chunks/dcd49895cb9db447.js","/_next/static/chunks/175944aa1545ac7c.js","/_next/static/chunks/16494c9ed210a726.js","/_next/static/chunks/19ed43205a6e84be.js"],"PostRelated"]
+20:I[145557,["/_next/static/chunks/d03e4f6fdf084240.js","/_next/static/chunks/525ff3aa60c02a25.js","/_next/static/chunks/ae2a70c709da2ba8.js","/_next/static/chunks/eb309b8f06731812.js","/_next/static/chunks/baa674234f056c60.js","/_next/static/chunks/2edc37b4337c096a.js","/_next/static/chunks/6f0408800ece4f06.js","/_next/static/chunks/6f95f3a6a7ed9dab.js","/_next/static/chunks/3c40fd5a14861430.js","/_next/static/chunks/e7855f92c342e0a3.js","/_next/static/chunks/a5fcaccd389d798e.js","/_next/static/chunks/c3456ef3141ade67.js","/_next/static/chunks/c92042fd5179bd95.js","/_next/static/chunks/1737ca787e6b8d4c.js","/_next/static/chunks/d691f1571e343c32.js","/_next/static/chunks/65f1d76f7ac19600.js","/_next/static/chunks/762b6f848ae7b21b.js","/_next/static/chunks/1d5a5c14848b802e.js","/_next/static/chunks/a40e2b25b1a62ac7.js","/_next/static/chunks/c6509abffeae92d2.js","/_next/static/chunks/35eaa08fca66b29e.js","/_next/static/chunks/f91f857f975d1c9f.js","/_next/static/chunks/dabd062b49706f28.js","/_next/static/chunks/740441c5b62d2d93.js","/_next/static/chunks/dcd49895cb9db447.js","/_next/static/chunks/175944aa1545ac7c.js","/_next/static/chunks/16494c9ed210a726.js","/_next/static/chunks/19ed43205a6e84be.js"],"WrappedElementProvider"]
+21:I[125902,["/_next/static/chunks/d03e4f6fdf084240.js","/_next/static/chunks/525ff3aa60c02a25.js","/_next/static/chunks/ae2a70c709da2ba8.js","/_next/static/chunks/eb309b8f06731812.js","/_next/static/chunks/baa674234f056c60.js","/_next/static/chunks/2edc37b4337c096a.js","/_next/static/chunks/6f0408800ece4f06.js","/_next/static/chunks/6f95f3a6a7ed9dab.js","/_next/static/chunks/3c40fd5a14861430.js","/_next/static/chunks/e7855f92c342e0a3.js","/_next/static/chunks/a5fcaccd389d798e.js","/_next/static/chunks/c3456ef3141ade67.js","/_next/static/chunks/c92042fd5179bd95.js","/_next/static/chunks/1737ca787e6b8d4c.js","/_next/static/chunks/d691f1571e343c32.js","/_next/static/chunks/65f1d76f7ac19600.js","/_next/static/chunks/762b6f848ae7b21b.js","/_next/static/chunks/1d5a5c14848b802e.js","/_next/static/chunks/a40e2b25b1a62ac7.js","/_next/static/chunks/c6509abffeae92d2.js","/_next/static/chunks/35eaa08fca66b29e.js","/_next/static/chunks/f91f857f975d1c9f.js","/_next/static/chunks/dabd062b49706f28.js","/_next/static/chunks/740441c5b62d2d93.js","/_next/static/chunks/dcd49895cb9db447.js","/_next/static/chunks/175944aa1545ac7c.js","/_next/static/chunks/16494c9ed210a726.js","/_next/static/chunks/19ed43205a6e84be.js"],"ReadIndicatorForMobile"]
+22:I[401946,["/_next/static/chunks/d03e4f6fdf084240.js","/_next/static/chunks/525ff3aa60c02a25.js","/_next/static/chunks/ae2a70c709da2ba8.js","/_next/static/chunks/eb309b8f06731812.js","/_next/static/chunks/baa674234f056c60.js","/_next/static/chunks/2edc37b4337c096a.js","/_next/static/chunks/6f0408800ece4f06.js","/_next/static/chunks/6f95f3a6a7ed9dab.js","/_next/static/chunks/3c40fd5a14861430.js","/_next/static/chunks/e7855f92c342e0a3.js","/_next/static/chunks/a5fcaccd389d798e.js","/_next/static/chunks/c3456ef3141ade67.js","/_next/static/chunks/c92042fd5179bd95.js","/_next/static/chunks/1737ca787e6b8d4c.js","/_next/static/chunks/d691f1571e343c32.js","/_next/static/chunks/65f1d76f7ac19600.js","/_next/static/chunks/762b6f848ae7b21b.js","/_next/static/chunks/1d5a5c14848b802e.js","/_next/static/chunks/a40e2b25b1a62ac7.js","/_next/static/chunks/c6509abffeae92d2.js","/_next/static/chunks/35eaa08fca66b29e.js","/_next/static/chunks/f91f857f975d1c9f.js","/_next/static/chunks/dabd062b49706f28.js","/_next/static/chunks/740441c5b62d2d93.js","/_next/static/chunks/dcd49895cb9db447.js","/_next/static/chunks/175944aa1545ac7c.js","/_next/static/chunks/16494c9ed210a726.js","/_next/static/chunks/19ed43205a6e84be.js"],"PostMarkdownImageRecordProvider"]
+23:I[401946,["/_next/static/chunks/d03e4f6fdf084240.js","/_next/static/chunks/525ff3aa60c02a25.js","/_next/static/chunks/ae2a70c709da2ba8.js","/_next/static/chunks/eb309b8f06731812.js","/_next/static/chunks/baa674234f056c60.js","/_next/static/chunks/2edc37b4337c096a.js","/_next/static/chunks/6f0408800ece4f06.js","/_next/static/chunks/6f95f3a6a7ed9dab.js","/_next/static/chunks/3c40fd5a14861430.js","/_next/static/chunks/e7855f92c342e0a3.js","/_next/static/chunks/a5fcaccd389d798e.js","/_next/static/chunks/c3456ef3141ade67.js","/_next/static/chunks/c92042fd5179bd95.js","/_next/static/chunks/1737ca787e6b8d4c.js","/_next/static/chunks/d691f1571e343c32.js","/_next/static/chunks/65f1d76f7ac19600.js","/_next/static/chunks/762b6f848ae7b21b.js","/_next/static/chunks/1d5a5c14848b802e.js","/_next/static/chunks/a40e2b25b1a62ac7.js","/_next/static/chunks/c6509abffeae92d2.js","/_next/static/chunks/35eaa08fca66b29e.js","/_next/static/chunks/f91f857f975d1c9f.js","/_next/static/chunks/dabd062b49706f28.js","/_next/static/chunks/740441c5b62d2d93.js","/_next/static/chunks/dcd49895cb9db447.js","/_next/static/chunks/175944aa1545ac7c.js","/_next/static/chunks/16494c9ed210a726.js","/_next/static/chunks/19ed43205a6e84be.js"],"MarkdownSelection"]
+24:I[401946,["/_next/static/chunks/d03e4f6fdf084240.js","/_next/static/chunks/525ff3aa60c02a25.js","/_next/static/chunks/ae2a70c709da2ba8.js","/_next/static/chunks/eb309b8f06731812.js","/_next/static/chunks/baa674234f056c60.js","/_next/static/chunks/2edc37b4337c096a.js","/_next/static/chunks/6f0408800ece4f06.js","/_next/static/chunks/6f95f3a6a7ed9dab.js","/_next/static/chunks/3c40fd5a14861430.js","/_next/static/chunks/e7855f92c342e0a3.js","/_next/static/chunks/a5fcaccd389d798e.js","/_next/static/chunks/c3456ef3141ade67.js","/_next/static/chunks/c92042fd5179bd95.js","/_next/static/chunks/1737ca787e6b8d4c.js","/_next/static/chunks/d691f1571e343c32.js","/_next/static/chunks/65f1d76f7ac19600.js","/_next/static/chunks/762b6f848ae7b21b.js","/_next/static/chunks/1d5a5c14848b802e.js","/_next/static/chunks/a40e2b25b1a62ac7.js","/_next/static/chunks/c6509abffeae92d2.js","/_next/static/chunks/35eaa08fca66b29e.js","/_next/static/chunks/f91f857f975d1c9f.js","/_next/static/chunks/dabd062b49706f28.js","/_next/static/chunks/740441c5b62d2d93.js","/_next/static/chunks/dcd49895cb9db447.js","/_next/static/chunks/175944aa1545ac7c.js","/_next/static/chunks/16494c9ed210a726.js","/_next/static/chunks/19ed43205a6e84be.js"],"FocusReadingEffect"]
+25:I[502283,["/_next/static/chunks/d03e4f6fdf084240.js","/_next/static/chunks/525ff3aa60c02a25.js","/_next/static/chunks/ae2a70c709da2ba8.js","/_next/static/chunks/eb309b8f06731812.js","/_next/static/chunks/baa674234f056c60.js","/_next/static/chunks/2edc37b4337c096a.js","/_next/static/chunks/6f0408800ece4f06.js","/_next/static/chunks/6f95f3a6a7ed9dab.js","/_next/static/chunks/3c40fd5a14861430.js","/_next/static/chunks/e7855f92c342e0a3.js","/_next/static/chunks/a5fcaccd389d798e.js","/_next/static/chunks/c3456ef3141ade67.js","/_next/static/chunks/c92042fd5179bd95.js","/_next/static/chunks/1737ca787e6b8d4c.js","/_next/static/chunks/d691f1571e343c32.js","/_next/static/chunks/65f1d76f7ac19600.js","/_next/static/chunks/762b6f848ae7b21b.js","/_next/static/chunks/1d5a5c14848b802e.js","/_next/static/chunks/a40e2b25b1a62ac7.js","/_next/static/chunks/c6509abffeae92d2.js","/_next/static/chunks/35eaa08fca66b29e.js","/_next/static/chunks/f91f857f975d1c9f.js","/_next/static/chunks/dabd062b49706f28.js","/_next/static/chunks/740441c5b62d2d93.js","/_next/static/chunks/dcd49895cb9db447.js","/_next/static/chunks/175944aa1545ac7c.js","/_next/static/chunks/16494c9ed210a726.js","/_next/static/chunks/19ed43205a6e84be.js"],"PostMarkdownRenderer",1]
+26:I[194205,["/_next/static/chunks/d03e4f6fdf084240.js","/_next/static/chunks/525ff3aa60c02a25.js","/_next/static/chunks/ae2a70c709da2ba8.js","/_next/static/chunks/eb309b8f06731812.js","/_next/static/chunks/baa674234f056c60.js","/_next/static/chunks/2edc37b4337c096a.js","/_next/static/chunks/6f0408800ece4f06.js","/_next/static/chunks/6f95f3a6a7ed9dab.js","/_next/static/chunks/3c40fd5a14861430.js","/_next/static/chunks/e7855f92c342e0a3.js","/_next/static/chunks/a5fcaccd389d798e.js","/_next/static/chunks/c3456ef3141ade67.js","/_next/static/chunks/c92042fd5179bd95.js","/_next/static/chunks/1737ca787e6b8d4c.js","/_next/static/chunks/d691f1571e343c32.js","/_next/static/chunks/65f1d76f7ac19600.js","/_next/static/chunks/762b6f848ae7b21b.js","/_next/static/chunks/1d5a5c14848b802e.js","/_next/static/chunks/a40e2b25b1a62ac7.js","/_next/static/chunks/c6509abffeae92d2.js","/_next/static/chunks/35eaa08fca66b29e.js","/_next/static/chunks/f91f857f975d1c9f.js","/_next/static/chunks/dabd062b49706f28.js","/_next/static/chunks/740441c5b62d2d93.js","/_next/static/chunks/dcd49895cb9db447.js","/_next/static/chunks/175944aa1545ac7c.js","/_next/static/chunks/16494c9ed210a726.js","/_next/static/chunks/19ed43205a6e84be.js"],"LayoutRightSidePortal"]
+27:I[732298,["/_next/static/chunks/d03e4f6fdf084240.js","/_next/static/chunks/525ff3aa60c02a25.js","/_next/static/chunks/ae2a70c709da2ba8.js","/_next/static/chunks/eb309b8f06731812.js","/_next/static/chunks/baa674234f056c60.js","/_next/static/chunks/2edc37b4337c096a.js","/_next/static/chunks/6f0408800ece4f06.js","/_next/static/chunks/6f95f3a6a7ed9dab.js","/_next/static/chunks/3c40fd5a14861430.js","/_next/static/chunks/e7855f92c342e0a3.js","/_next/static/chunks/a5fcaccd389d798e.js","/_next/static/chunks/c3456ef3141ade67.js","/_next/static/chunks/c92042fd5179bd95.js","/_next/static/chunks/1737ca787e6b8d4c.js","/_next/static/chunks/d691f1571e343c32.js","/_next/static/chunks/65f1d76f7ac19600.js","/_next/static/chunks/762b6f848ae7b21b.js","/_next/static/chunks/1d5a5c14848b802e.js","/_next/static/chunks/a40e2b25b1a62ac7.js","/_next/static/chunks/c6509abffeae92d2.js","/_next/static/chunks/35eaa08fca66b29e.js","/_next/static/chunks/f91f857f975d1c9f.js","/_next/static/chunks/dabd062b49706f28.js","/_next/static/chunks/740441c5b62d2d93.js","/_next/static/chunks/dcd49895cb9db447.js","/_next/static/chunks/175944aa1545ac7c.js","/_next/static/chunks/16494c9ed210a726.js","/_next/static/chunks/19ed43205a6e84be.js"],"PostActionAside"]
+28:I[237493,["/_next/static/chunks/d03e4f6fdf084240.js","/_next/static/chunks/525ff3aa60c02a25.js","/_next/static/chunks/ae2a70c709da2ba8.js","/_next/static/chunks/eb309b8f06731812.js","/_next/static/chunks/baa674234f056c60.js","/_next/static/chunks/2edc37b4337c096a.js","/_next/static/chunks/6f0408800ece4f06.js","/_next/static/chunks/6f95f3a6a7ed9dab.js","/_next/static/chunks/3c40fd5a14861430.js","/_next/static/chunks/e7855f92c342e0a3.js","/_next/static/chunks/a5fcaccd389d798e.js","/_next/static/chunks/c3456ef3141ade67.js","/_next/static/chunks/c92042fd5179bd95.js","/_next/static/chunks/1737ca787e6b8d4c.js","/_next/static/chunks/d691f1571e343c32.js","/_next/static/chunks/65f1d76f7ac19600.js","/_next/static/chunks/762b6f848ae7b21b.js","/_next/static/chunks/1d5a5c14848b802e.js","/_next/static/chunks/a40e2b25b1a62ac7.js","/_next/static/chunks/c6509abffeae92d2.js","/_next/static/chunks/35eaa08fca66b29e.js","/_next/static/chunks/f91f857f975d1c9f.js","/_next/static/chunks/dabd062b49706f28.js","/_next/static/chunks/740441c5b62d2d93.js","/_next/static/chunks/dcd49895cb9db447.js","/_next/static/chunks/175944aa1545ac7c.js","/_next/static/chunks/16494c9ed210a726.js","/_next/static/chunks/19ed43205a6e84be.js"],"ClientOnly"]
+29:I[223245,["/_next/static/chunks/d03e4f6fdf084240.js","/_next/static/chunks/525ff3aa60c02a25.js","/_next/static/chunks/ae2a70c709da2ba8.js","/_next/static/chunks/eb309b8f06731812.js","/_next/static/chunks/baa674234f056c60.js","/_next/static/chunks/2edc37b4337c096a.js","/_next/static/chunks/6f0408800ece4f06.js","/_next/static/chunks/6f95f3a6a7ed9dab.js","/_next/static/chunks/3c40fd5a14861430.js","/_next/static/chunks/e7855f92c342e0a3.js","/_next/static/chunks/a5fcaccd389d798e.js","/_next/static/chunks/c3456ef3141ade67.js","/_next/static/chunks/c92042fd5179bd95.js","/_next/static/chunks/1737ca787e6b8d4c.js","/_next/static/chunks/d691f1571e343c32.js","/_next/static/chunks/65f1d76f7ac19600.js","/_next/static/chunks/762b6f848ae7b21b.js","/_next/static/chunks/1d5a5c14848b802e.js","/_next/static/chunks/a40e2b25b1a62ac7.js","/_next/static/chunks/c6509abffeae92d2.js","/_next/static/chunks/35eaa08fca66b29e.js","/_next/static/chunks/f91f857f975d1c9f.js","/_next/static/chunks/dabd062b49706f28.js","/_next/static/chunks/740441c5b62d2d93.js","/_next/static/chunks/dcd49895cb9db447.js","/_next/static/chunks/175944aa1545ac7c.js","/_next/static/chunks/16494c9ed210a726.js","/_next/static/chunks/19ed43205a6e84be.js"],"PostCopyright"]
+2a:I[732298,["/_next/static/chunks/d03e4f6fdf084240.js","/_next/static/chunks/525ff3aa60c02a25.js","/_next/static/chunks/ae2a70c709da2ba8.js","/_next/static/chunks/eb309b8f06731812.js","/_next/static/chunks/baa674234f056c60.js","/_next/static/chunks/2edc37b4337c096a.js","/_next/static/chunks/6f0408800ece4f06.js","/_next/static/chunks/6f95f3a6a7ed9dab.js","/_next/static/chunks/3c40fd5a14861430.js","/_next/static/chunks/e7855f92c342e0a3.js","/_next/static/chunks/a5fcaccd389d798e.js","/_next/static/chunks/c3456ef3141ade67.js","/_next/static/chunks/c92042fd5179bd95.js","/_next/static/chunks/1737ca787e6b8d4c.js","/_next/static/chunks/d691f1571e343c32.js","/_next/static/chunks/65f1d76f7ac19600.js","/_next/static/chunks/762b6f848ae7b21b.js","/_next/static/chunks/1d5a5c14848b802e.js","/_next/static/chunks/a40e2b25b1a62ac7.js","/_next/static/chunks/c6509abffeae92d2.js","/_next/static/chunks/35eaa08fca66b29e.js","/_next/static/chunks/f91f857f975d1c9f.js","/_next/static/chunks/dabd062b49706f28.js","/_next/static/chunks/740441c5b62d2d93.js","/_next/static/chunks/dcd49895cb9db447.js","/_next/static/chunks/175944aa1545ac7c.js","/_next/static/chunks/16494c9ed210a726.js","/_next/static/chunks/19ed43205a6e84be.js"],"PostBottomBarAction"]
+2b:I[832330,["/_next/static/chunks/d03e4f6fdf084240.js","/_next/static/chunks/525ff3aa60c02a25.js","/_next/static/chunks/ae2a70c709da2ba8.js","/_next/static/chunks/eb309b8f06731812.js","/_next/static/chunks/baa674234f056c60.js","/_next/static/chunks/2edc37b4337c096a.js","/_next/static/chunks/6f0408800ece4f06.js","/_next/static/chunks/6f95f3a6a7ed9dab.js","/_next/static/chunks/3c40fd5a14861430.js","/_next/static/chunks/e7855f92c342e0a3.js","/_next/static/chunks/a5fcaccd389d798e.js","/_next/static/chunks/c3456ef3141ade67.js","/_next/static/chunks/c92042fd5179bd95.js","/_next/static/chunks/1737ca787e6b8d4c.js","/_next/static/chunks/d691f1571e343c32.js","/_next/static/chunks/65f1d76f7ac19600.js","/_next/static/chunks/762b6f848ae7b21b.js","/_next/static/chunks/1d5a5c14848b802e.js","/_next/static/chunks/a40e2b25b1a62ac7.js","/_next/static/chunks/c6509abffeae92d2.js","/_next/static/chunks/35eaa08fca66b29e.js","/_next/static/chunks/f91f857f975d1c9f.js","/_next/static/chunks/dabd062b49706f28.js","/_next/static/chunks/740441c5b62d2d93.js","/_next/static/chunks/dcd49895cb9db447.js","/_next/static/chunks/175944aa1545ac7c.js","/_next/static/chunks/16494c9ed210a726.js","/_next/static/chunks/19ed43205a6e84be.js"],"BottomToUpSoftScaleTransitionView"]
+2c:I[615780,["/_next/static/chunks/d03e4f6fdf084240.js","/_next/static/chunks/525ff3aa60c02a25.js","/_next/static/chunks/ae2a70c709da2ba8.js","/_next/static/chunks/eb309b8f06731812.js","/_next/static/chunks/baa674234f056c60.js","/_next/static/chunks/2edc37b4337c096a.js","/_next/static/chunks/6f0408800ece4f06.js","/_next/static/chunks/6f95f3a6a7ed9dab.js","/_next/static/chunks/3c40fd5a14861430.js","/_next/static/chunks/e7855f92c342e0a3.js","/_next/static/chunks/a5fcaccd389d798e.js","/_next/static/chunks/c3456ef3141ade67.js","/_next/static/chunks/c92042fd5179bd95.js","/_next/static/chunks/1737ca787e6b8d4c.js","/_next/static/chunks/d691f1571e343c32.js","/_next/static/chunks/65f1d76f7ac19600.js","/_next/static/chunks/762b6f848ae7b21b.js","/_next/static/chunks/1d5a5c14848b802e.js","/_next/static/chunks/a40e2b25b1a62ac7.js","/_next/static/chunks/c6509abffeae92d2.js","/_next/static/chunks/35eaa08fca66b29e.js","/_next/static/chunks/f91f857f975d1c9f.js","/_next/static/chunks/dabd062b49706f28.js","/_next/static/chunks/740441c5b62d2d93.js","/_next/static/chunks/dcd49895cb9db447.js","/_next/static/chunks/175944aa1545ac7c.js","/_next/static/chunks/16494c9ed210a726.js","/_next/static/chunks/19ed43205a6e84be.js"],"CommentAreaRootLazy"]
+2d:I[194205,["/_next/static/chunks/d03e4f6fdf084240.js","/_next/static/chunks/525ff3aa60c02a25.js","/_next/static/chunks/ae2a70c709da2ba8.js","/_next/static/chunks/eb309b8f06731812.js","/_next/static/chunks/baa674234f056c60.js","/_next/static/chunks/2edc37b4337c096a.js","/_next/static/chunks/6f0408800ece4f06.js","/_next/static/chunks/6f95f3a6a7ed9dab.js","/_next/static/chunks/3c40fd5a14861430.js","/_next/static/chunks/e7855f92c342e0a3.js","/_next/static/chunks/a5fcaccd389d798e.js","/_next/static/chunks/c3456ef3141ade67.js","/_next/static/chunks/c92042fd5179bd95.js","/_next/static/chunks/1737ca787e6b8d4c.js","/_next/static/chunks/d691f1571e343c32.js","/_next/static/chunks/65f1d76f7ac19600.js","/_next/static/chunks/762b6f848ae7b21b.js","/_next/static/chunks/1d5a5c14848b802e.js","/_next/static/chunks/a40e2b25b1a62ac7.js","/_next/static/chunks/c6509abffeae92d2.js","/_next/static/chunks/35eaa08fca66b29e.js","/_next/static/chunks/f91f857f975d1c9f.js","/_next/static/chunks/dabd062b49706f28.js","/_next/static/chunks/740441c5b62d2d93.js","/_next/static/chunks/dcd49895cb9db447.js","/_next/static/chunks/175944aa1545ac7c.js","/_next/static/chunks/16494c9ed210a726.js","/_next/static/chunks/19ed43205a6e84be.js"],"LayoutRightSideProvider"]
+2e:I[185368,["/_next/static/chunks/d03e4f6fdf084240.js","/_next/static/chunks/525ff3aa60c02a25.js","/_next/static/chunks/ae2a70c709da2ba8.js","/_next/static/chunks/eb309b8f06731812.js","/_next/static/chunks/baa674234f056c60.js","/_next/static/chunks/2edc37b4337c096a.js","/_next/static/chunks/6f0408800ece4f06.js","/_next/static/chunks/6f95f3a6a7ed9dab.js","/_next/static/chunks/3c40fd5a14861430.js","/_next/static/chunks/e7855f92c342e0a3.js","/_next/static/chunks/a5fcaccd389d798e.js","/_next/static/chunks/c3456ef3141ade67.js","/_next/static/chunks/c92042fd5179bd95.js","/_next/static/chunks/1737ca787e6b8d4c.js","/_next/static/chunks/d691f1571e343c32.js","/_next/static/chunks/65f1d76f7ac19600.js","/_next/static/chunks/762b6f848ae7b21b.js","/_next/static/chunks/1d5a5c14848b802e.js","/_next/static/chunks/a40e2b25b1a62ac7.js","/_next/static/chunks/c6509abffeae92d2.js","/_next/static/chunks/35eaa08fca66b29e.js","/_next/static/chunks/f91f857f975d1c9f.js","/_next/static/chunks/dabd062b49706f28.js","/_next/static/chunks/740441c5b62d2d93.js","/_next/static/chunks/dcd49895cb9db447.js","/_next/static/chunks/175944aa1545ac7c.js","/_next/static/chunks/16494c9ed210a726.js","/_next/static/chunks/19ed43205a6e84be.js"],"OnlyMobile"]
+2f:I[233113,["/_next/static/chunks/d03e4f6fdf084240.js","/_next/static/chunks/525ff3aa60c02a25.js","/_next/static/chunks/ae2a70c709da2ba8.js","/_next/static/chunks/eb309b8f06731812.js","/_next/static/chunks/baa674234f056c60.js","/_next/static/chunks/2edc37b4337c096a.js","/_next/static/chunks/6f0408800ece4f06.js","/_next/static/chunks/6f95f3a6a7ed9dab.js","/_next/static/chunks/3c40fd5a14861430.js","/_next/static/chunks/e7855f92c342e0a3.js","/_next/static/chunks/a5fcaccd389d798e.js","/_next/static/chunks/c3456ef3141ade67.js","/_next/static/chunks/c92042fd5179bd95.js","/_next/static/chunks/1737ca787e6b8d4c.js","/_next/static/chunks/d691f1571e343c32.js","/_next/static/chunks/65f1d76f7ac19600.js","/_next/static/chunks/762b6f848ae7b21b.js","/_next/static/chunks/1d5a5c14848b802e.js","/_next/static/chunks/a40e2b25b1a62ac7.js","/_next/static/chunks/c6509abffeae92d2.js","/_next/static/chunks/35eaa08fca66b29e.js","/_next/static/chunks/f91f857f975d1c9f.js","/_next/static/chunks/dabd062b49706f28.js","/_next/static/chunks/740441c5b62d2d93.js","/_next/static/chunks/dcd49895cb9db447.js","/_next/static/chunks/175944aa1545ac7c.js","/_next/static/chunks/16494c9ed210a726.js","/_next/static/chunks/19ed43205a6e84be.js"],"TocFAB"]
+30:I[95276,["/_next/static/chunks/3c40fd5a14861430.js","/_next/static/chunks/4197b04c4f1d962d.js","/_next/static/chunks/70af310ba2a3e461.js","/_next/static/chunks/9df4409b3ebd95fb.js","/_next/static/chunks/e52d234aac494225.js"],"OutletBoundary"]
+31:"$Sreact.suspense"
+:HL["/_next/static/chunks/136744c992bad96d.css","style"]
+:HL["/_next/static/chunks/0169140b52b18b81.css","style"]
+:HL["/_next/static/chunks/cf19f565ce194e50.css","style"]
+:HL["/_next/static/chunks/2a531debc05d9c48.css","style"]
+:HL["/_next/static/chunks/f6d4eb0f1595037c.css","style"]
+:HL["/_next/static/chunks/be9fe8599e8928e8.css","style"]
+5:T8fd0,## 第五次作业2026.04.01
+
+**Exercise (思考题).**
+
+求
+
+$$
+\begin{pmatrix}
+        E&F\\
+        F&G
+    \end{pmatrix}
+    和
+    \begin{pmatrix}
+        \tilde{E}&\tilde{F}\\
+        \tilde{F}&\tilde{G}
+    \end{pmatrix}
+    之间的关系.
+
+**解.**
+
+\keyidea{参数变换下第一基本形式按二次型做合同变换：\tilde I=J^TIJ。}
+
+    设曲面在参数 (u,v) 下的第一基本形式矩阵为
+$$
+
+\begin{aligned}
+I=
+        \begin{pmatrix}
+            E&F\\
+            F&G
+        \end{pmatrix}.
+\end{aligned}
+
+$$
+若作参数变换
+$$
+
+u=u(\tilde u,\tilde v),  v=v(\tilde u,\tilde v),
+
+$$
+并记 Jacobian 矩阵为
+$$
+
+\begin{aligned}
+J=
+        \begin{pmatrix}
+            \dfrac{\partial u}{\partial \tilde u} & \dfrac{\partial u}{\partial \tilde v}\\[1ex]
+            \dfrac{\partial v}{\partial \tilde u} & \dfrac{\partial v}{\partial \tilde v}
+        \end{pmatrix},
+\end{aligned}
+
+$$
+那么新参数 (\tilde u,\tilde v) 下的切向量满足
+$$
+
+\begin{pmatrix}
+            P_{\tilde u}\\
+            P_{\tilde v}
+        \end{pmatrix}
+        =J^T
+        \begin{pmatrix}
+            P_u\\
+            P_v
+        \end{pmatrix}.
+
+因而第一基本形式矩阵按二次型变换法则变化，即
+
+**\widetilde{I}=J^T I J.**
+
+$$
+也就是说
+$$
+
+\begin{aligned}
+**\boxed{
+        \begin{pmatrix}
+            \tilde E&\tilde F\\
+            \tilde F&\tilde G
+        \end{pmatrix}
+        =J^T
+        \begin{pmatrix}
+            E&F\\
+            F&G
+        \end{pmatrix}
+        J }.**
+\end{aligned}
+
+$$
+展开后可写成
+$$
+
+\tilde E=E u_{\tilde u}^2+2F u_{\tilde u}v_{\tilde u}+G v_{\tilde u}^2,
+
+$$
+\tilde F=E u_{\tilde u}u_{\tilde v}+F(u_{\tilde u}v_{\tilde v}+u_{\tilde v}v_{\tilde u})+G v_{\tilde u}v_{\tilde v},
+$$
+
+\tilde G=E u_{\tilde v}^2+2F u_{\tilde v}v_{\tilde v}+G v_{\tilde v}^2.
+
+$$
+**Remark 26.**
+
+关键定理：第一基本形式在参数变换下按二次型合同变换。矩阵语言最清楚。
+
+**Exercise (思考题).**
+
+证明：曲面面积和参数选取无关.
+
+**解.**
+
+\keyidea{面积不变的本质是面积元与 Jacobian 一起变化后恰好抵消。}
+
+    曲面面积元在参数 (u,v) 下为
+$$
+
+dA=\sqrt{EG-F^2}\,du\,dv.
+
+$$
+设改用参数 (\tilde u,\tilde v)，由上一题可知
+$$
+
+\widetilde{I}=J^T I J,
+
+$$
+其中 J=\dfrac{\partial(u,v)}{\partial(\tilde u,\tilde v)}。
+
+    两边取行列式，得到
+$$
+
+\tilde E\tilde G-\tilde F^2
+        =\det(\widetilde I)
+        =\det(J^T)\det(I)\det(J)
+        =(\det J)^2(EG-F^2).
+
+$$
+因而
+$$
+
+\sqrt{\tilde E\tilde G-\tilde F^2}
+        =|\det J|\,\sqrt{EG-F^2}.
+
+同时变量替换公式给出
+
+du\,dv=|\det J|\,d\tilde u\,d\tilde v.
+
+$$
+所以
+$$
+
+**\sqrt{EG-F^2}\,du\,dv
+        =\sqrt{\tilde E\tilde G-\tilde F^2}\,d\tilde u\,d\tilde v.**
+
+这说明面积元在参数变换下保持不变，故对同一块曲面 S，
+
+A(S)=\iint \sqrt{EG-F^2}\,du\,dv
+        =\iint \sqrt{\tilde E\tilde G-\tilde F^2}\,d\tilde u\,d\tilde v.
+
+$$
+因此曲面面积与参数选取无关。
+
+**Remark 27.**
+
+思路：面积元的变化规律和多元积分变量替换公式正好匹配，所以面积与参数无关。
+
+**Exercise (Chapter3,2).**
+
+求下列曲面的第一基本形式
+
+1. P=(u\cos v,u\sin v,\varphi(v))
+
+2. P=(u\cos v,u\sin v,\varphi(u)+av)，其中a为常数.
+
+**解.**
+
+\keyidea{第一基本形式只需求 P_u,P_v，再算 E,F,G。}
+
+    第一基本形式由
+$$
+
+E=\langle P_u,P_u\rangle,
+        F=\langle P_u,P_v\rangle,
+        G=\langle P_v,P_v\rangle
+
+$$
+给出。
+
+    对于(1)，
+$$
+
+P(u,v)=(u\cos v,u\sin v,\varphi(v)).
+
+$$
+于是
+$$
+
+P_u=(\cos v,\sin v,0),
+        P_v=(-u\sin v,u\cos v,\varphi'(v)).
+
+$$
+所以
+$$
+
+E=1,  F=0,  G=u^2+\varphi'(v)^2.
+
+因而第一基本形式为
+
+**I=du^2+\bigl(u^2+\varphi'(v)^2\bigr)\,dv^2.**
+
+$$
+对于(2)，
+$$
+
+P(u,v)=(u\cos v,u\sin v,\varphi(u)+av).
+
+$$
+从而
+$$
+
+P_u=(\cos v,\sin v,\varphi'(u)),
+        P_v=(-u\sin v,u\cos v,a).
+
+$$
+故
+$$
+
+E=1+\varphi'(u)^2,
+        F=a\varphi'(u),
+        G=u^2+a^2.
+
+因而第一基本形式为
+
+**I=\bigl(1+\varphi'(u)^2\bigr)\,du^2+2a\varphi'(u)\,du\,dv+(u^2+a^2)\,dv^2.**
+
+$$
+**Remark 28.**
+
+关键方法：第一基本形式只看一阶偏导。先求 P_u,P_v，再做内积。
+
+**Exercise (Chapter3,10).**
+
+设曲面S有参数方程：P(x,y)=(x,y,f(x,y))，其中f(x,y)三阶连续可导，求S的法向量和第一基本形式.
+
+**解.**
+
+\keyidea{图形曲面的法向量来自叉积 P_x\times P_y，第一基本形式直接由内积读出。}
+
+    先求偏导：
+$$
+
+P_x=(1,0,f_x),  P_y=(0,1,f_y).
+
+因而一个法向量可由叉积给出：
+
+\begin{aligned}
+P_x\times P_y=
+        \begin{vmatrix}
+            e_1&e_2&e_3\\
+            1&0&f_x\\
+            0&1&f_y
+        \end{vmatrix}
+        =(-f_x,-f_y,1).
+\end{aligned}
+
+所以单位法向量可取
+
+**n=\frac{1}{\sqrt{1+f_x^2+f_y^2}}(-f_x,-f_y,1).**
+
+再求第一基本形式系数：
+
+E=\langle P_x,P_x\rangle=1+f_x^2,
+
+$$
+F=\langle P_x,P_y\rangle=f_xf_y,
+$$
+
+G=\langle P_y,P_y\rangle=1+f_y^2.
+
+因而第一基本形式为
+
+**I=(1+f_x^2)\,dx^2+2f_xf_y\,dx\,dy+(1+f_y^2)\,dy^2.**
+
+$$
+**Remark 29.**
+
+关键方法：图形曲面题统一从 P_x,P_y 的叉积出发，法向量和第一基本形式都能一次得到。
+
+**Exercise (Chapter3,13).**
+
+已知去面的第一基本形式：I=du^2+(u^2+a^2)dv^2，求
+
+1. 曲面上的曲线u=v从v_1到v_2的弧长.
+
+2. 曲面上的曲线u+v=0与u-v=0之间的夹角.
+
+3. 曲面上的曲线u=av,u=-av,v=1所围成的面积.
+
+**解.**
+
+\keyidea{这题完全把几何问题转成给定度量下的长度、角度和面积计算。}
+
+    已知
+$$
+
+I=du^2+(u^2+a^2)\,dv^2,
+
+$$
+即
+$$
+
+E=1,  F=0,  G=u^2+a^2.
+
+对于(1)，曲线 u=v 可由参数 v 表示为
+
+(u(v),v)=(v,v),  v\in[v_1,v_2].
+
+$$
+因此
+$$
+
+ds^2=du^2+(u^2+a^2)dv^2
+        =\bigl(1+v^2+a^2\bigr)dv^2.
+
+$$
+弧长为
+$$
+
+L=\int_{v_1}^{v_2}\sqrt{v^2+a^2+1}\,dv.
+
+$$
+积分后得到
+$$
+
+**L=\frac12\left[
+        v\sqrt{v^2+a^2+1}
+        +(a^2+1)\ln\left|v+\sqrt{v^2+a^2+1}\right|
+        \right]_{v_1}^{v_2}.**
+
+对于(2)，曲线 u+v=0 与 u-v=0 在 (0,0) 相交。它们在该点的切向量分别可取
+
+X_1=(1,-1),  X_2=(1,1).
+
+$$
+由于在 (0,0) 处度量为
+$$
+
+I=du^2+a^2dv^2,
+
+$$
+故
+$$
+
+\langle X_1,X_2\rangle=1-a^2,
+
+$$
+|X_1|=|X_2|=\sqrt{1+a^2}.
+$$
+
+所以夹角 $\theta$ 满足
+
+$$
+\cos\theta=\frac{1-a^2}{1+a^2}.
+$$
+
+对于(3)，所围区域为
+
+$$
+D=\{(u,v):0\leq v\leq 1,\ -av\leq u\leq av\}.
+$$
+
+面积元为
+
+$$
+dA=\sqrt{EG-F^2}\,du\,dv=\sqrt{u^2+a^2}\,du\,dv.
+$$
+
+因而面积
+
+$$
+A=\int_0^1\int_{-av}^{av}\sqrt{u^2+a^2}\,du\,dv.
+$$
+
+由于被积函数关于 $u$ 偶对称，
+
+$$
+A=2\int_0^1\int_0^{av}\sqrt{u^2+a^2}\,du\,dv.
+$$
+
+用积分公式
+
+$$
+\int \sqrt{u^2+a^2}\,du
+        =\frac12\left(u\sqrt{u^2+a^2}+a^2\ln\bigl(u+\sqrt{u^2+a^2}\bigr)\right)
+$$
+
+得
+
+$$
+A
+        =a^2\int_0^1\left(v\sqrt{1+v^2}+\ln\bigl(v+\sqrt{1+v^2}\bigr)\right)\,dv.
+$$
+
+继续积分可得
+
+$$
+\int_0^1 v\sqrt{1+v^2}\,dv=\frac{2\sqrt2-1}{3},
+
+\int_0^1 \ln\bigl(v+\sqrt{1+v^2}\bigr)\,dv
+        =\operatorname{arsinh}1-\sqrt2+1.
+$$
+
+故
+
+$$
+A=a^2\left(\operatorname{arsinh}1+\frac{2-\sqrt2}{3}\right).
+$$
+
+**Remark 30.**
+
+思路：给定第一基本形式后，所有几何量都在参数平面上通过度量来算。
+
+## 第六次作业2026.04.08
+
+**Exercise (Chapter3,14).**
+
+设曲面$S$有参数方程：$P(x,y)=(x,y,f(x,y))$，其中$f(x,y)$三阶连续可导，求$S$的第二基本形式.
+
+**解.**
+
+> **思路.** 图形曲面的第二基本形式就是二阶偏导在单位法向量上的投影。
+
+    与上一题一样，
+
+$$
+P_x=(1,0,f_x),  P_y=(0,1,f_y),
+$$
+
+且可取单位法向量
+
+$$
+n=\frac{1}{\sqrt{1+f_x^2+f_y^2}}(-f_x,-f_y,1).
+$$
+
+第二基本形式系数为
+
+$$
+L=\langle P_{xx},n\rangle,
+        M=\langle P_{xy},n\rangle,
+        N=\langle P_{yy},n\rangle.
+$$
+
+由
+
+$$
+P_{xx}=(0,0,f_{xx}),  P_{xy}=(0,0,f_{xy}),  P_{yy}=(0,0,f_{yy}),
+$$
+
+得
+
+$$
+L=\frac{f_{xx}}{\sqrt{1+f_x^2+f_y^2}},
+        M=\frac{f_{xy}}{\sqrt{1+f_x^2+f_y^2}},
+        N=\frac{f_{yy}}{\sqrt{1+f_x^2+f_y^2}}.
+$$
+
+因而第二基本形式为
+
+$$
+II=\frac{f_{xx}\,dx^2+2f_{xy}\,dx\,dy+f_{yy}\,dy^2}{\sqrt{1+f_x^2+f_y^2}}.
+$$
+
+**Remark 31.**
+
+关键方法：图形曲面的第二基本形式几乎就是 Hessian 除以法向量的归一化因子。
+
+**Exercise (Chapter3,15).**
+
+求下列曲面的第二基本形式
+
+1. $P=(a\cos\varphi\cos\theta,a\cos\varphi\sin\theta,b\sin\varphi)$
+
+2. $P=(u,v,\frac{1}{2}(u^2+v^2))$
+
+3. $P=(a(u+v),a(u-v),2uv)$
+
+**解.**
+
+\keyidea{第二基本形式统一做法：先求单位法向量，再求 $L,M,N$。}
+
+    第二基本形式由
+
+$$
+L=\langle P_{uu},n\rangle,  M=\langle P_{uv},n\rangle,  N=\langle P_{vv},n\rangle
+$$
+
+给出。
+
+    对于(1)，设参数为 $(\varphi,\theta)$，则
+
+$$
+P_\varphi=(-a\sin\varphi\cos\theta,-a\sin\varphi\sin\theta,b\cos\varphi),
+
+P_\theta=(-a\cos\varphi\sin\theta,a\cos\varphi\cos\theta,0).
+$$
+
+取外法向量
+
+$$
+n=\frac{1}{\sqrt{a^2\sin^2\varphi+b^2\cos^2\varphi}}
+        \bigl(b\cos\varphi\cos\theta,\ b\cos\varphi\sin\theta,\ a\sin\varphi\bigr).
+$$
+
+再算二阶偏导：
+
+$$
+P_{\varphi\varphi}=(-a\cos\varphi\cos\theta,-a\cos\varphi\sin\theta,-b\sin\varphi),
+
+P_{\varphi\theta}=(a\sin\varphi\sin\theta,-a\sin\varphi\cos\theta,0),
+
+P_{\theta\theta}=(-a\cos\varphi\cos\theta,-a\cos\varphi\sin\theta,0).
+$$
+
+因而
+
+$$
+L=-\frac{ab}{\sqrt{a^2\sin^2\varphi+b^2\cos^2\varphi}},
+        M=0,
+
+N=-\frac{ab\cos^2\varphi}{\sqrt{a^2\sin^2\varphi+b^2\cos^2\varphi}}.
+$$
+
+所以
+
+$$
+II=-\frac{ab}{\sqrt{a^2\sin^2\varphi+b^2\cos^2\varphi}}\,d\varphi^2
+        -\frac{ab\cos^2\varphi}{\sqrt{a^2\sin^2\varphi+b^2\cos^2\varphi}}\,d\theta^2.
+$$
+
+对于(2)，
+
+$$
+P(u,v)=\left(u,v,\frac12(u^2+v^2)\right).
+$$
+
+有
+
+$$
+P_u=(1,0,u),  P_v=(0,1,v),
+$$
+
+所以可取单位法向量
+
+$$
+n=\frac{1}{\sqrt{1+u^2+v^2}}(-u,-v,1).
+$$
+
+再由
+
+$$
+P_{uu}=(0,0,1),  P_{uv}=(0,0,0),  P_{vv}=(0,0,1),
+$$
+
+得
+
+$$
+L=\frac{1}{\sqrt{1+u^2+v^2}},  M=0,  N=\frac{1}{\sqrt{1+u^2+v^2}}.
+$$
+
+因而
+
+$$
+II=\frac{du^2+dv^2}{\sqrt{1+u^2+v^2}}.
+$$
+
+对于(3)，
+
+$$
+P(u,v)=(a(u+v),a(u-v),2uv).
+$$
+
+则
+
+$$
+P_u=(a,a,2v),  P_v=(a,-a,2u).
+$$
+
+取法向量
+
+$$
+n=\frac{1}{\sqrt{a^2+(u+v)^2+(u-v)^2}}(-(u+v),u-v,a).
+$$
+
+再有
+
+$$
+P_{uu}=(0,0,0),  P_{uv}=(0,0,2),  P_{vv}=(0,0,0).
+$$
+
+因而
+
+$$
+L=0,
+        M=\frac{2a}{\sqrt{a^2+(u+v)^2+(u-v)^2}},
+        N=0.
+$$
+
+所以
+
+$$
+II=\frac{4a}{\sqrt{a^2+(u+v)^2+(u-v)^2}}\,du\,dv.
+$$
+
+**Remark 32.**
+
+思路：第二基本形式题的步骤高度统一：求法向量、求二阶偏导、做内积。
+
+**Exercise (Chapter3,16).**
+
+设$P_0=P(s)$($s$为弧长参数)是曲率、挠率均为常数的曲线.求以$P(s)$为中心曲线的管状面$S_r$的第一与第二基本形式、主方向、主曲率、总曲率和平均曲率.
+
+**解.**
+
+\keyidea{管状面的关键是引入 $e_r,e_\theta$ 并用 Frenet 公式化简各偏导。}
+
+    设中心曲线的 Frenet 标架为 $\{T,N,B\}$，曲率、挠率分别为常数 $\kappa,\tau$。管状面写成
+
+$$
+X(s,\theta)=P(s)+r\cos\theta\,N(s)+r\sin\theta\,B(s),
+$$
+
+其中 $0<r<\frac1\kappa$。
+
+    记
+
+$$
+e_r=\cos\theta\,N+\sin\theta\,B,
+        e_\theta=-\sin\theta\,N+\cos\theta\,B.
+$$
+
+那么
+
+$$
+X=P+re_r.
+$$
+
+由 Frenet 公式
+
+$$
+T'=\kappa N,  N'=-\kappa T+\tau B,  B'=-\tau N
+$$
+
+可得
+
+$$
+e_r'=-\kappa\cos\theta\,T+\tau e_\theta,  e_{\theta}'=\kappa\sin\theta\,T-\tau e_r.
+$$
+
+因而
+
+$$
+X_s=T+re_r'=(1-r\kappa\cos\theta)T+r\tau e_\theta,
+
+X_\theta=re_\theta.
+$$
+
+设
+
+$$
+A=1-r\kappa\cos\theta.
+$$
+
+则第一基本形式系数为
+
+$$
+E=\langle X_s,X_s\rangle=A^2+r^2\tau^2,
+
+F=\langle X_s,X_\theta\rangle=r^2\tau,
+
+G=\langle X_\theta,X_\theta\rangle=r^2.
+$$
+
+所以
+
+$$
+I=(A^2+r^2\tau^2)\,ds^2+2r^2\tau\,ds\,d\theta+r^2\,d\theta^2.
+$$
+
+取外法向量
+
+$$
+n=e_r=\cos\theta\,N+\sin\theta\,B.
+$$
+
+则
+
+$$
+X_{s\theta}=r\kappa\sin\theta\,T-r\tau e_r,
+
+        X_{\theta\theta}=-re_r,
+$$
+
+并且
+
+$$
+X_{ss}=A\kappa N-r\tau^2 e_r+\text{(切向部分)}.
+$$
+
+因此
+
+$$
+L=\langle X_{ss},n\rangle=\kappa\cos\theta(1-r\kappa\cos\theta)-r\tau^2,
+
+M=\langle X_{s\theta},n\rangle=-r\tau,
+
+N=\langle X_{\theta\theta},n\rangle=-r.
+$$
+
+所以
+
+$$
+II=\bigl(\kappa\cos\theta(1-r\kappa\cos\theta)-r\tau^2\bigr)\,ds^2
+        -2r\tau\,ds\,d\theta-r\,d\theta^2.
+$$
+
+下面求主方向。注意
+
+$$
+n_\theta=e_\theta=\frac{1}{r}X_\theta,
+$$
+
+故 Weingarten 算子满足
+
+$$
+S(X_\theta)=-n_\theta=-\frac1r X_\theta.
+$$
+
+所以 $X_\theta$ 是一个主方向，对应主曲率
+
+$$
+k_1=-\frac1r.
+$$
+
+再考虑向量
+
+$$
+Y=X_s-\tau X_\theta.
+$$
+
+由
+
+$$
+Y=AT
+$$
+
+以及
+
+$$
+n_s=-\kappa\cos\theta\,T+\tau e_\theta
+$$
+
+可得
+
+$$
+n_Y=n_s-\tau n_\theta=-\kappa\cos\theta\,T
+        =-\frac{\kappa\cos\theta}{A}Y.
+$$
+
+因而
+
+$$
+S(Y)=-n_Y=\frac{\kappa\cos\theta}{A}Y.
+$$
+
+所以另一个主方向为 $Y=X_s-\tau X_\theta$，其主曲率为
+
+$$
+k_2=\frac{\kappa\cos\theta}{1-r\kappa\cos\theta}.
+$$
+
+因此高斯曲率与平均曲率分别为
+
+$$
+K=k_1k_2=-\frac{\kappa\cos\theta}{r(1-r\kappa\cos\theta)},
+
+H=\frac{k_1+k_2}{2}
+        =\frac{1}{2}\left(-\frac1r+\frac{\kappa\cos\theta}{1-r\kappa\cos\theta}\right).
+$$
+
+总结如下：
+
+$$
+I=(A^2+r^2\tau^2)\,ds^2+2r^2\tau\,ds\,d\theta+r^2\,d\theta^2,
+
+II=\bigl(\kappa\cos\theta A-r\tau^2\bigr)\,ds^2-2r\tau\,ds\,d\theta-r\,d\theta^2,
+
+\text{主方向： }X_\theta,\ \ X_s-\tau X_\theta,
+
+\text{主曲率： }k_1=-\frac1r,  k_2=\frac{\kappa\cos\theta}{A},
+
+K=-\frac{\kappa\cos\theta}{rA},
+        H=\frac12\left(-\frac1r+\frac{\kappa\cos\theta}{A}\right),
+          A=1-r\kappa\cos\theta.
+$$
+
+**Remark 33.**
+
+关键定理：Frenet 公式。管状面计算最重要的是把 $N,B$ 方向的变化改写成 $T,e_r,e_\theta$。
+
+**Exercise (Chapter3,18).**
+
+求螺面$P=(u\cos v,u\sin v,u+v)$的Gauss曲率和平均曲率.
+
+**解.**
+
+\keyidea{先把螺面的第一、第二基本形式算全，再代入 $K,H$ 的标准公式。}
+
+    先求第一、第二基本形式。
+
+    有
+
+$$
+P_u=(\cos v,\sin v,1),
+        P_v=(-u\sin v,u\cos v,1).
+$$
+
+因而
+
+$$
+E=\langle P_u,P_u\rangle=2,
+
+F=\langle P_u,P_v\rangle=1,
+
+G=\langle P_v,P_v\rangle=u^2+1.
+$$
+
+再算法向量：
+
+$$
+P_u\times P_v=(\sin v-u\cos v,-\cos v-u\sin v,u),
+$$
+
+所以
+
+$$
+|P_u\times P_v|=\sqrt{2u^2+1}.
+$$
+
+取单位法向量
+
+$$
+n=\frac{P_u\times P_v}{\sqrt{2u^2+1}}.
+$$
+
+二阶偏导为
+
+$$
+P_{uu}=(0,0,0),
+        P_{uv}=(-\sin v,\cos v,0),
+        P_{vv}=(-u\cos v,-u\sin v,0).
+$$
+
+因而
+
+$$
+L=\langle P_{uu},n\rangle=0,
+
+M=\langle P_{uv},n\rangle=-\frac{1}{\sqrt{2u^2+1}},
+
+N=\langle P_{vv},n\rangle=\frac{u^2}{\sqrt{2u^2+1}}.
+$$
+
+所以高斯曲率
+
+$$
+K=\frac{LN-M^2}{EG-F^2}
+        =\frac{-\frac{1}{2u^2+1}}{2(u^2+1)-1}
+        =-\frac{1}{(2u^2+1)^2}.
+$$
+
+平均曲率
+
+$$
+H=\frac{EN-2FM+GL}{2(EG-F^2)}
+        =\frac{2\cdot \frac{u^2}{\sqrt{2u^2+1}}-2\cdot 1\cdot\left(-\frac{1}{\sqrt{2u^2+1}}\right)}{2(2u^2+1)}.
+$$
+
+化简得
+
+$$
+H=\frac{u^2+1}{(2u^2+1)^{3/2}}.
+$$
+
+因而
+
+$$
+\boxed{K=-\frac{1}{(2u^2+1)^2}},
+        \boxed{H=\frac{u^2+1}{(2u^2+1)^{3/2}}}.
+$$
+
+**Remark 34.**
+
+关键公式：$K=\frac{LN-M^2}{EG-F^2}$ 与 $H=\frac{EN-2FM+GL}{2(EG-F^2)}$。
+
+## 第七次作业2026.04.15
+
+**Exercise (Chapter3,19).**
+
+设曲面$S$满足$x^2+y^2=f(z)$，其中$f(z)$三次可微，且$f(0)=0$，$f'(0)\neq 0$，证明：$S$在点$(0,0,0)$处的法曲率函数为常数.
+
+**解.**
+
+\keyidea{把旋转曲面在原点附近写成图形 $z=g(x,y)$，再用 Hessian 判断法曲率。}
+
+    设
+
+$$
+F(x,y,z)=x^2+y^2-f(z).
+$$
+
+由条件 $f(0)=0$ 可知 $(0,0,0)\in S$，又
+
+$$
+\nabla F(0,0,0)=(0,0,-f'(0))\neq 0,
+$$
+
+所以由隐函数定理，曲面在原点附近可以写成图形
+
+$$
+z=g(x,y),  g(0,0)=0.
+$$
+
+且有恒等式
+
+$$
+x^2+y^2=f(g(x,y)).
+$$
+
+对 $x$ 求偏导：
+
+$$
+2x=f'(g)g_x.
+$$
+
+在原点代入得
+
+$$
+g_x(0,0)=0.
+$$
+
+同理
+
+$$
+g_y(0,0)=0.
+$$
+
+再对 $x$ 求一次偏导：
+
+$$
+2=f''(g)g_x^2+f'(g)g_{xx}.
+$$
+
+在原点处，由于 $g(0,0)=0$ 且 $g_x(0,0)=0$，得
+
+$$
+2=f'(0)g_{xx}(0,0),
+$$
+
+所以
+
+$$
+g_{xx}(0,0)=\frac{2}{f'(0)}.
+$$
+
+同理
+
+$$
+g_{yy}(0,0)=\frac{2}{f'(0)}.
+$$
+
+再对等式 $2x=f'(g)g_x$ 对 $y$ 求偏导，得
+
+$$
+0=f''(g)g_xg_y+f'(g)g_{xy},
+$$
+
+在原点处得到
+
+$$
+g_{xy}(0,0)=0.
+$$
+
+因而原点处图形曲面的第一、第二基本形式分别为
+
+$$
+I=dx^2+dy^2
+$$
+
+和
+
+$$
+II=\frac{2}{f'(0)}(dx^2+dy^2)
+$$
+
+（这里取向上法向量）。
+
+    对任意切向量
+
+$$
+X=\xi\partial_x+\eta\partial_y,
+$$
+
+其法曲率为
+
+$$
+k_n(X)=\frac{II(X,X)}{I(X,X)}
+        =\frac{\frac{2}{f'(0)}(\xi^2+\eta^2)}{\xi^2+\eta^2}
+        =\frac{2}{f'(0)}.
+$$
+
+与方向无关，因此原点处的法曲率函数是常数。
+
+**Remark 35.**
+
+思路：在特殊点把曲面化成图形，再看第二基本形式是否是单位矩阵的倍数。若是，则法曲率与方向无关。
+
+**Exercise (Chapter3,23).**
+
+求曲线$\rho=\rho(s)$的切线面$P(s,u)=\rho(s)+u\cdot\alpha(s)$的曲率线，比较曲率线的曲率和该曲面的法曲率.
+
+**解.**
+
+> **思路.** 先求切线面的基本形式，再用曲率线微分方程求两族曲率线。
+
+    这里“切线面”应理解为
+
+$$
+X(s,u)=\rho(s)+uT(s),
+$$
+
+其中 $s$ 是母曲线的弧长参数，$T=\rho'(s)$ 是单位切向量。
+
+    由 Frenet 公式，
+
+$$
+X_s=T+u\kappa N,  X_u=T.
+$$
+
+因而当 $u\kappa\neq 0$ 时曲面正则，且
+
+$$
+E=\langle X_s,X_s\rangle=1+u^2\kappa^2,
+        F=\langle X_s,X_u\rangle=1,
+        G=\langle X_u,X_u\rangle=1.
+$$
+
+再求法向量：
+
+$$
+X_s\times X_u=(T+u\kappa N)\times T=u\kappa(N\times T)=-u\kappa B.
+$$
+
+因而可取单位法向量
+
+$$
+n=B
+$$
+
+（只差一个整体符号，不影响曲率线方程）。
+
+    继续计算二阶偏导：
+
+$$
+X_{ss}=\kappa N+u(\kappa' N+\kappa N')
+        =-u\kappa^2T+(\kappa+u\kappa')N+u\kappa\tau B,
+
+X_{su}=\kappa N,  X_{uu}=0.
+$$
+
+所以
+
+$$
+L=\langle X_{ss},B\rangle=u\kappa\tau,
+        M=\langle X_{su},B\rangle=0,
+        N=\langle X_{uu},B\rangle=0.
+$$
+
+曲率线微分方程为
+
+$$
+(FL-EM)\,ds^2+(GL-EN)\,ds\,du+(GM-FN)\,du^2=0.
+$$
+
+代入上式得
+
+$$
+u\kappa\tau\,ds^2+u\kappa\tau\,ds\,du=0.
+$$
+
+当 $u\kappa\tau\neq 0$ 时，
+
+$$
+ds(ds+du)=0.
+$$
+
+因而曲率线有两族：
+
+    第一族：$ds=0$，即 $s=\text{常数}$，这正是切线面的母线（直母线）。
+
+    第二族：$du=-ds$，即
+
+$$
+u+s=C.
+$$
+
+下面比较曲率与法曲率。
+
+    对第一族 $s=\text{常数}$，曲线为
+
+$$
+X(u)=\rho(s_0)+uT(s_0),
+$$
+
+是一条直线，所以其曲率为 $0$；同时第二基本形式在该方向上的值也为 $0$，故法曲率也为 $0$。
+
+    对第二族，取
+
+$$
+u=C-s.
+$$
+
+对应曲线可写成
+
+$$
+\gamma(s)=X(s,C-s)=\rho(s)+(C-s)T(s).
+$$
+
+于是
+
+$$
+\gamma'(s)=X_s-X_u=u\kappa N,
+$$
+
+其速度为
+
+$$
+|\gamma'(s)|=|u|\kappa.
+$$
+
+再求导：
+
+$$
+\gamma''(s)=(-\kappa+u\kappa')N+u\kappa(-\kappa T+\tau B).
+$$
+
+从而
+
+$$
+|\gamma'\times\gamma''|
+        =|u|^2\kappa^2\sqrt{\kappa^2+\tau^2}.
+$$
+
+所以第二族曲率线的曲率为
+
+$$
+\kappa_\gamma=\frac{|\gamma'\times\gamma''|}{|\gamma'|^3}
+        =\frac{\sqrt{\kappa^2+\tau^2}}{|u|\kappa}.
+$$
+
+而它沿该方向的法曲率为
+
+$$
+k_n=\frac{L\,ds^2+2M\,ds\,du+N\,du^2}{E\,ds^2+2F\,ds\,du+G\,du^2}.
+$$
+
+代入 $du=-ds$ 和 $L=u\kappa\tau,M=N=0$，得
+
+$$
+k_n=\frac{u\kappa\tau}{u^2\kappa^2}=\frac{\tau}{u\kappa}.
+$$
+
+因此
+
+$$
+|k_n|=\frac{|\tau|}{|u|\kappa}\leq \frac{\sqrt{\kappa^2+\tau^2}}{|u|\kappa}=\kappa_\gamma.
+$$
+
+也就是说，第二族曲率线的法曲率是其总曲率在曲面法向上的分量。
+
+**Remark 36.**
+
+关键方法：切线面是直纹面，先由基本形式求曲率线微分方程，再分别分析两族曲线。
+
+**Exercise (Chapter3,24).**
+
+求悬链面$P=(\sqrt{u^2+a^2}\cos v,\sqrt{u^2+a^2}\sin v,a\ln(u+\sqrt{u^2+a^2}))$的第一基本形式和第二基本形式，并求它在点$(0,0)$沿切向量$dP=2P_u+P_v$的法曲率.
+
+**解.**
+
+\keyidea{悬链面先算两组基本形式，再把方向 $2P_u+P_v$ 代入法曲率公式。}
+
+    记
+
+$$
+\rho(u)=\sqrt{u^2+a^2}.
+$$
+
+则曲面写成
+
+$$
+P(u,v)=(\rho\cos v,\rho\sin v,a\ln(u+\rho)).
+$$
+
+先求偏导。由于
+
+$$
+\rho'=\frac{u}{\rho},  \frac{d}{du}\ln(u+\rho)=\frac1\rho,
+$$
+
+所以
+
+$$
+P_u=\left(\frac{u}{\rho}\cos v,\frac{u}{\rho}\sin v,\frac{a}{\rho}\right),
+
+P_v=(-\rho\sin v,\rho\cos v,0).
+$$
+
+于是
+
+$$
+E=\langle P_u,P_u\rangle=\frac{u^2+a^2}{\rho^2}=1,
+
+F=\langle P_u,P_v\rangle=0,
+
+G=\langle P_v,P_v\rangle=\rho^2=u^2+a^2.
+$$
+
+因而第一基本形式为
+
+$$
+I=du^2+(u^2+a^2)\,dv^2.
+$$
+
+再算法向量。直接计算
+
+$$
+P_u\times P_v=(-a\cos v,-a\sin v,u),
+$$
+
+且
+
+$$
+|P_u\times P_v|=\sqrt{a^2+u^2}=\rho.
+$$
+
+因此可取单位法向量
+
+$$
+n=\frac{1}{\rho}(-a\cos v,-a\sin v,u).
+$$
+
+计算二阶偏导：
+
+$$
+P_{uu}=\left(\frac{a^2}{\rho^3}\cos v,\frac{a^2}{\rho^3}\sin v,-\frac{au}{\rho^3}\right),
+
+P_{uv}=\left(-\frac{u}{\rho}\sin v,\frac{u}{\rho}\cos v,0\right),
+
+P_{vv}=(-\rho\cos v,-\rho\sin v,0).
+$$
+
+所以
+
+$$
+L=\langle P_{uu},n\rangle=-\frac{a}{u^2+a^2},
+
+M=\langle P_{uv},n\rangle=0,
+
+N=\langle P_{vv},n\rangle=a.
+$$
+
+因而第二基本形式为
+
+$$
+II=-\frac{a}{u^2+a^2}\,du^2+a\,dv^2.
+$$
+
+最后求在点 $(0,0)$ 沿切向量
+
+$$
+dP=2P_u+P_v
+$$
+
+的法曲率。法曲率公式为
+
+$$
+k_n=\frac{L\lambda^2+2M\lambda\mu+N\mu^2}{E\lambda^2+2F\lambda\mu+G\mu^2}
+$$
+
+，其中方向写作 $\lambda P_u+\mu P_v$。这里 $(\lambda,\mu)=(2,1)$。
+
+    在 $(0,0)$ 处，
+
+$$
+E=1,  F=0,  G=a^2,  L=-\frac1a,  M=0,  N=a.
+$$
+
+所以
+
+$$
+k_n(0,0;2P_u+P_v)
+        =\frac{4(-1/a)+a}{4+a^2}
+        =\frac{a-\frac4a}{a^2+4}
+        =\frac{a^2-4}{a(a^2+4)}.
+$$
+
+**Remark 37.**
+
+关键思路：先把基本形式算完整，再把指定方向代进法曲率公式，不要跳步。
+
+**Exercise (Chapter3,25).**
+
+曲面上任意点处，任意两正交方向的法曲率之和为常数.
+
+**解.**
+
+\keyidea{直接套 Euler 公式，两个正交方向的角参数相差 $\frac{\pi}{2}$。}
+
+    设曲面上一点的主曲率为 $k_1,k_2$。若某个单位方向与第一主方向成角 $\theta$，则由 Euler 公式，
+
+$$
+k_n(\theta)=k_1\cos^2\theta+k_2\sin^2\theta.
+$$
+
+与之正交的方向对应角度 $\theta+\frac{\pi}{2}$，故其法曲率为
+
+$$
+k_n\!\left(\theta+\frac{\pi}{2}\right)
+        =k_1\sin^2\theta+k_2\cos^2\theta.
+$$
+
+两式相加即得
+
+$$
+k_n(\theta)+k_n\!\left(\theta+\frac{\pi}{2}\right)=k_1+k_2=2H.
+$$
+
+这里 $H$ 是该点的平均曲率。
+
+    因而在曲面任意一点处，任意两正交方向的法曲率之和都等于同一个常数 $2H$。也就是说，命题中所说的“常数”正是两倍平均曲率。
+
+**Remark 38.**
+
+关键定理：Euler 公式。任意两正交方向的法曲率和总是 $2H$。
+
+**Exercise (Chapter3,37).**
+
+若曲面有参数表示$P(u,v)$，其中$u,v$为正交参数，写出曲面的基本公式.
+
+**解.**
+
+\keyidea{正交参数下 $F=0$，因此 Christoffel 符号和基本公式都会大幅简化。}
+
+    设
+
+$$
+E=\langle P_u,P_u\rangle,  F=\langle P_u,P_v\rangle=0,  G=\langle P_v,P_v\rangle.
+$$
+
+因为 $u,v$ 为正交参数，所以 $F=0$。此时 Christoffel 符号化为
+
+$$
+\Gamma^1_{11}=\frac{E_u}{2E},
+        \Gamma^1_{12}=\frac{E_v}{2E},
+        \Gamma^1_{22}=-\frac{G_u}{2E},
+
+\Gamma^2_{11}=-\frac{E_v}{2G},
+        \Gamma^2_{12}=\frac{G_u}{2G},
+        \Gamma^2_{22}=\frac{G_v}{2G}.
+$$
+
+因而 Gauss 公式为
+
+$$
+P_{uu}=\frac{E_u}{2E}P_u-\frac{E_v}{2G}P_v+Ln,
+
+P_{uv}=\frac{E_v}{2E}P_u+\frac{G_u}{2G}P_v+Mn,
+
+P_{vv}=-\frac{G_u}{2E}P_u+\frac{G_v}{2G}P_v+Nn.
+$$
+
+Weingarten 公式为
+
+$$
+n_u=-\frac{L}{E}P_u-\frac{M}{G}P_v,
+
+n_v=-\frac{M}{E}P_u-\frac{N}{G}P_v.
+$$
+
+    这就是正交参数下曲面的基本公式。
+
+**Remark 39.**
+
+思路：正交参数下 $F=0$，所以 Gauss 公式、Weingarten 公式和 Christoffel 符号都更整洁。
+
+# 每周一题
+
+## 2026.04.01
+
+**Exercise.**
+
+设$C:P(s),s\in[0,L]$是一条逆时针转动的平面凸闭曲线，$s$是弧长参数，其正交标架场为$\{P(s);\alpha(s),\beta(s)\}$，称曲线
+
+$$
+\widetilde{C}:\widetilde{P}(s)=P(s)-d\beta(s),\ s\in[0,L]
+$$
+
+为$C$的平行曲线，其中$d$是正常数。证明：
+
+1. $\widetilde{L}=L+2\pi d$；
+
+2. $\widetilde{A}=A+dL+\pi d^2$；
+
+3. $\widetilde{\kappa}_r=\dfrac{\kappa_r}{1+d\kappa_r}$。
+
+    其中$L,A,\kappa_r$（$\widetilde{L},\widetilde{A},\widetilde{\kappa}_r$）分别是$C$（$\widetilde{C}$）的长度、面积和曲率。
+
+**解.**
+
+\keyidea{三条结论都从 $\widetilde P'(s)=(1+d\kappa_r)\alpha(s)$ 出发。}
+
+    设 $\alpha(s)$ 是单位切向量，$\beta(s)$ 是与之组成正向正交标架的法向量。则 Frenet 公式写成
+
+$$
+\alpha'(s)=\kappa_r(s)\beta(s),  \beta'(s)=-\kappa_r(s)\alpha(s).
+$$
+
+由
+
+$$
+\widetilde P(s)=P(s)-d\beta(s)
+$$
+
+求导得
+
+$$
+\widetilde P'(s)=\alpha(s)-d\beta'(s)=\bigl(1+d\kappa_r(s)\bigr)\alpha(s).
+$$
+
+因为原曲线是逆时针凸闭曲线，所以 $\kappa_r(s)>0$，从而
+
+$$
+|\widetilde P'(s)|=1+d\kappa_r(s).
+$$
+
+因此
+
+$$
+d\widetilde s=(1+d\kappa_r)\,ds.
+$$
+
+所以平行曲线的长度为
+
+$$
+\widetilde L=\int_0^L d\widetilde s=\int_0^L (1+d\kappa_r)\,ds
+        =L+d\int_0^L \kappa_r\,ds.
+$$
+
+对于逆时针凸闭曲线，
+
+$$
+\int_0^L \kappa_r\,ds=2\pi,
+$$
+
+故
+
+$$
+\widetilde L=L+2\pi d.
+$$
+
+下面求面积。设平面点向量写作 $Q=(x,y)$。Green 公式给出正向简单闭曲线围成面积
+
+$$
+A(Q)=\frac12\oint_C (x\,dy-y\,dx)
+        =\frac12\int \det(Q,Q')\,dt.
+$$
+
+因此对原曲线，因为 $P'(s)=\alpha(s)$，有
+
+$$
+A=\frac12\int_0^L \det(P,\alpha)\,ds.
+$$
+
+对平行曲线，虽然这里仍用原来的参数 $s$ 来描写边界，但面积公式只需要曲线及其对该参数的导数，所以
+
+$$
+\widetilde A=\frac12\int_0^L \det(\widetilde P,\widetilde P')\,ds.
+$$
+
+于是
+
+$$
+\widetilde A
+        =\frac12\int_0^L \det(P-d\beta,(1+d\kappa_r)\alpha)\,ds.
+$$
+
+展开得
+
+$$
+\widetilde A
+        =A+\frac d2\int_0^L \kappa_r\det(P,\alpha)\,ds
+        -\frac d2\int_0^L \det(\beta,\alpha)\,ds
+        -\frac{d^2}{2}\int_0^L \kappa_r\det(\beta,\alpha)\,ds.
+$$
+
+因为 $\det(\alpha,\beta)=1$，所以 $\det(\beta,\alpha)=-1$。又由
+
+$$
+\frac{d}{ds}\det(P,\beta)=\det(\alpha,\beta)+\det(P,\beta')
+        =1-\kappa_r\det(P,\alpha),
+$$
+
+对闭曲线积分可得
+
+$$
+\int_0^L \kappa_r\det(P,\alpha)\,ds=L.
+$$
+
+因而
+
+$$
+\widetilde A
+        =A+\frac d2 L+\frac d2 L+\frac{d^2}{2}\int_0^L \kappa_r\,ds
+        =A+dL+\pi d^2.
+$$
+
+最后求相对曲率。由于
+
+$$
+\widetilde \alpha=\frac{\widetilde P'}{|\widetilde P'|}=\alpha,
+$$
+
+所以
+
+$$
+\widetilde\kappa_r
+        =\left\langle \frac{d\widetilde\alpha}{d\widetilde s},\beta\right\rangle
+        =\frac{1}{d\widetilde s/ds}\left\langle \frac{d\alpha}{ds},\beta\right\rangle
+        =\frac{\kappa_r}{1+d\kappa_r}.
+$$
+
+综上，
+
+$$
+\boxed{\widetilde L=L+2\pi d},
+        \boxed{\widetilde A=A+dL+\pi d^2},
+        \boxed{\widetilde\kappa_r=\frac{\kappa_r}{1+d\kappa_r}}.
+$$
+
+**Remark 43.**
+
+关键公式：$\widetilde P'=(1+d\kappa_r)\alpha$。长度、面积、相对曲率三条结论都从这一步出发。
+
+**Exercise.**
+
+设$C:P(s),s\in[a,b]$是$\mathbb{R}^3$中的一条正则简单闭曲线，$s$为弧长参数，曲率为$\kappa(s)$。它的单位切向量$T(s)$构成了单位球面上的一条曲线
+
+$$
+\widetilde{C}:\widetilde{P}(s)=T(s),\ s\in[a,b],
+$$
+
+我们称其为$C$的切线标线（tangent indicatrix）。记$\widetilde{C}$的长度为$L$。证明：
+
+1. $\widetilde{C}$的长度等于$C$的总曲率，即
+
+$$
+L=\int_a^b \kappa(s)\,ds,
+$$
+
+2. 若$L<2\pi$，则存在一个开半球，这个开半球包含$\widetilde{C}$。（Hint：单位球面上任何一条长度小于$\pi$的曲线都一定包含于某个开半球。）
+
+3. $C$的总曲率满足不等式
+
+$$
+\int_a^b \kappa(s)\,ds\geq 2\pi.
+$$
+
+**解.**
+
+> **思路.** 先把切线标线长度识别成总曲率，再用开半球论证推出 Fenchel 不等式。
+
+    记切线标线为
+
+$$
+\widetilde P(s)=T(s)\in S^2.
+$$
+
+对于(1)，由 Frenet 公式
+
+$$
+T'(s)=\kappa(s)N(s)
+$$
+
+得
+
+$$
+|\widetilde P'(s)|=|T'(s)|=\kappa(s).
+$$
+
+因此切线标线的长度为
+
+$$
+L=\int_a^b |\widetilde P'(s)|\,ds=\int_a^b \kappa(s)\,ds.
+$$
+
+这就证明了切线标线的长度等于原曲线的总曲率。
+
+    对于(2)，这是单位球面上的一个标准结论：长度小于 $2\pi$ 的闭球面曲线必包含于某个开半球内；提示中给出的“长度小于 $\pi$ 的球面曲线包含于某个开半球”正是证明该结论的基本引理。于是当
+
+$$
+L<2\pi
+$$
+
+时，$\widetilde C$ 包含在某个开半球内，即存在单位向量 $q$，使得对一切 $s\in[a,b]$ 都有
+
+$$
+\langle T(s),q\rangle>0.
+$$
+
+对于(3)，若反设
+
+$$
+\int_a^b \kappa(s)\,ds<2\pi,
+$$
+
+那么由(1)(2)可知切线标线 $\widetilde C$ 包含在某个开半球内，因此存在单位向量 $q$ 使得
+
+$$
+\langle T(s),q\rangle>0,  \forall s\in[a,b].
+$$
+
+令
+
+$$
+\phi(s)=\langle P(s),q\rangle.
+$$
+
+则
+
+$$
+\phi'(s)=\langle T(s),q\rangle>0.
+$$
+
+这说明 $\phi$ 在整个区间上严格递增。但曲线 $C$ 是闭曲线，所以
+
+$$
+P(a)=P(b),
+$$
+
+于是
+
+$$
+\phi(a)=\phi(b),
+$$
+
+与严格递增矛盾。
+
+    所以反设不成立，从而
+
+$$
+\int_a^b \kappa(s)\,ds\geq 2\pi.
+$$
+
+    这就是 Fenchel 不等式。
+
+**Remark 44.**
+
+关键定理：切线标线长度等于总曲率，加上 Fenchel 不等式的球面解释。
+
+## 2026.04.08
+
+**Exercise.**
+
+设$\alpha(s)$是一条正则曲线，$s$为弧长参数，$\kappa(s)$和$\tau(s)$分别是$\alpha$的曲率和挠率。曲线上每点处的Frenet标架为$\{\alpha(s);T(s),N(s),B(s)\}$。定义曲面
+
+$$
+P(s,\theta)=\alpha(s)+r\cos\theta N(s)+r\sin\theta B(s),
+$$
+
+其中$r\in \left(0,\min_s \frac{1}{\kappa(s)}\right)$为常数，已知当$r$充分小时，$P$是一个正则曲面。试计算$P$的第一基本形式和第二基本形式。
+
+**解.**
+
+> **思路.** 这题是一般管状面的版本，和常曲率常挠率情形的计算框架完全一致。
+
+    这是一般曲线的管状面，计算与第六次作业第三题完全相同，而且并不需要 $\kappa,\tau$ 为常数。
+
+    记
+
+$$
+e_r=\cos\theta\,N+\sin\theta\,B,
+        e_\theta=-\sin\theta\,N+\cos\theta\,B,
+        A=1-r\kappa(s)\cos\theta.
+$$
+
+则
+
+$$
+P(s,\theta)=\alpha(s)+re_r.
+$$
+
+由 Frenet 公式得
+
+$$
+(e_r)_s=-\kappa\cos\theta\,T+\tau e_\theta,
+        (e_\theta)_s=\kappa\sin\theta\,T-\tau e_r.
+$$
+
+因而
+
+$$
+P_s=T+r(e_r)_s=A\,T+r\tau e_\theta,
+
+P_\theta=re_\theta.
+$$
+
+所以第一基本形式系数为
+
+$$
+E=\langle P_s,P_s\rangle=A^2+r^2\tau^2,
+
+F=\langle P_s,P_\theta\rangle=r^2\tau,
+
+G=\langle P_\theta,P_\theta\rangle=r^2.
+$$
+
+即
+
+$$
+I=(A^2+r^2\tau^2)\,ds^2+2r^2\tau\,ds\,d\theta+r^2\,d\theta^2.
+$$
+
+取单位法向量
+
+$$
+n=e_r.
+$$
+
+再求二阶偏导：
+
+$$
+P_{s\theta}=r\kappa\sin\theta\,T-r\tau e_r,
+
+P_{\theta\theta}=-re_r.
+$$
+
+同时
+
+$$
+\langle P_{ss},n\rangle=\kappa\cos\theta(1-r\kappa\cos\theta)-r\tau^2.
+$$
+
+因而第二基本形式系数为
+
+$$
+L=\kappa\cos\theta(1-r\kappa\cos\theta)-r\tau^2,
+
+M=-r\tau,
+
+N=-r.
+$$
+
+所以
+
+$$
+II=\bigl(\kappa\cos\theta(1-r\kappa\cos\theta)-r\tau^2\bigr)\,ds^2
+        -2r\tau\,ds\,d\theta-r\,d\theta^2.
+$$
+
+**Remark 45.**
+
+思路：一般管状面和常曲率常挠率情形的区别只在 $\kappa,\tau$ 现在依赖于 $s$，计算骨架不变。
+
+## 2026.04.15
+
+**Exercise.**
+
+设$S$为$\mathbb{R}^3$中无脐点的正则曲面。若在某个参数表示$(u,v)$下，其第一、第二基本形式的系数满足：
+
+1. $E=1,\ F=0,\ G=au^2$，其中$a>0$为常数；
+
+2. $L=\alpha u,\ M=\beta u,\ N=\gamma u$，其中$\alpha,\beta,\gamma$为常数且不同时为零。
+
+    则$S$是圆锥面的一部分。
+
+**解.**
+
+\keyidea{用 Gauss--Codazzi 先逼出 $L=M=0$，再从 $P_{uu}=0$ 积分出圆锥参数形式。}
+
+    记
+
+$$
+I=du^2+au^2\,dv^2.
+$$
+
+因而
+
+$$
+E=1,  F=0,  G=au^2.
+$$
+
+第二基本形式系数为
+
+$$
+L=\alpha u,  M=\beta u,  N=\gamma u.
+$$
+
+下面利用 Gauss--Codazzi 方程。
+
+    先由第一基本形式算 Christoffel 符号。因为 $E=1,F=0,G=au^2$，故唯一非零的 Christoffel 符号是
+
+$$
+\Gamma^1_{22}=-au,  \Gamma^2_{12}=\Gamma^2_{21}=\frac{1}{u}.
+$$
+
+由 Codazzi 方程
+
+$$
+h_{11;2}=h_{12;1},  h_{12;2}=h_{22;1}
+$$
+
+来看。这里
+
+$$
+h_{11}=L=\alpha u,  h_{12}=M=\beta u,  h_{22}=N=\gamma u.
+$$
+
+第一条 Codazzi 方程给出
+
+$$
+h_{11;2}
+        =\partial_v(\alpha u)-2\Gamma^2_{12}h_{12}
+        =-2\beta,
+
+h_{12;1}
+        =\partial_u(\beta u)-\Gamma^2_{21}h_{12}
+        =\beta-\beta=0.
+$$
+
+故
+
+$$
+\beta=0.
+$$
+
+第二条 Codazzi 方程给出
+
+$$
+h_{12;2}
+        =\partial_v(\beta u)-\Gamma^1_{22}h_{11}-\Gamma^2_{12}h_{22}
+        =a\alpha u^2-\gamma,
+
+h_{22;1}
+        =\partial_u(\gamma u)-2\Gamma^2_{21}h_{22}
+        =\gamma-2\gamma=-\gamma.
+$$
+
+因而
+
+$$
+a\alpha u^2-\gamma=-\gamma,
+$$
+
+从而
+
+$$
+\alpha=0.
+$$
+
+所以
+
+$$
+L=0,  M=0,  N=\gamma u.
+$$
+
+这时 Gauss 公式化为
+
+$$
+P_{uu}=0,
+        P_{uv}=\frac1u P_v,
+        P_{vv}=-au\,P_u+\gamma u\,n.
+$$
+
+由 $P_{uu}=0$ 可知
+
+$$
+P(u,v)=uA(v)+B(v),
+$$
+
+其中 $A(v),B(v)$ 只依赖于 $v$。
+
+    于是
+
+$$
+P_u=A(v),  P_v=uA'(v)+B'(v).
+$$
+
+再利用第一基本形式条件：
+
+    由 $E=1$ 得
+
+$$
+|A(v)|^2=1.
+$$
+
+由 $F=0$ 得
+
+$$
+0=\langle P_u,P_v\rangle
+        =u\langle A,A'\rangle+\langle A,B'\rangle.
+$$
+
+又因为 $|A|^2=1$，故
+
+$$
+\langle A,A'\rangle=\frac12\frac{d}{dv}|A|^2=0,
+$$
+
+从而
+
+$$
+\langle A,B'\rangle=0.
+$$
+
+最后由 $G=au^2$ 得
+
+$$
+au^2=|P_v|^2=|uA'+B'|^2=u^2|A'|^2+2u\langle A',B'\rangle+|B'|^2.
+$$
+
+比较关于 $u$ 的各次项系数，得到
+
+$$
+|B'(v)|^2=0,  \langle A'(v),B'(v)\rangle=0,  |A'(v)|^2=a.
+$$
+
+因而
+
+$$
+B'(v)=0.
+$$
+
+所以 $B(v)$ 是常向量。经过一次平移后，可设 $B(v)\equiv 0$，从而
+
+$$
+P(u,v)=uA(v),  |A(v)|=1,  |A'(v)|^2=a.
+$$
+
+    这说明曲面上每一点都位于经过固定点 $0$ 的射线上，故 $S$ 正是以原点为顶点、球面曲线 $A(v)\subset S^2$ 为准线的圆锥面的一部分。
+
+**Remark 46.**
+
+关键定理：Gauss--Codazzi 方程与 Gauss 公式。先用相容条件压缩系数，再积分出圆锥参数式。
+
+## 2026.04.22
+
+**Exercise.**
+
+设$S:P(u,v),(u,v)\in[a,b]\times[c,d]$是正则曲面的一部分，其面积为$A(S)$。$E,F,G,L,M,N$分别是$S$在这组参数下的第一、第二基本量，$n$是单位法向量场。$f(u,v)$是$[a,b]\times[c,d]$上的一个扰动函数，定义扰动后的曲面
+
+$$
+S_f:P(u,v)+f(u,v)n(u,v),
+$$
+
+取$f$足够小使得$S_f$是一个正则曲面。
+
+1. 对任意较小的$t$，定义
+
+$$
+S_{tf}:P(u,v)+tf(u,v)n(u,v),
+$$
+
+证明
+
+$$
+\left.
+
+\frac{d}{dt}\right|_{t=0}A(S_{tf})=-2\int_c^d\int_a^b fH\sqrt{EG-F^2}\,du\,dv,
+$$
+
+其中$H$是$S$的平均曲率。
+
+2. 若对任意的小扰动$f$都有$A(S_f)\geq A(S)$，证明$S$的平均曲率处处为零，即$S$是极小曲面。
+
+**解.**
+
+> **思路.** 核心是把面积元对法向扰动做一阶展开，并把结果整理成平均曲率积分。
+
+    令
+
+$$
+X_t(u,v)=P(u,v)+t\,f(u,v)n(u,v),
+$$
+
+则 $X_0=P$，并且 $A(S_{tf})$ 就是参数曲面 $X_t$ 的面积。
+
+    先求变形后第一基本形式系数在 $t=0$ 处的一阶变化。由
+
+$$
+(X_t)_u=P_u+t(f_u n+f n_u),
+        (X_t)_v=P_v+t(f_v n+f n_v),
+$$
+
+并利用
+
+$$
+\langle P_u,n\rangle=\langle P_v,n\rangle=0
+$$
+
+以及 Weingarten 公式，可得
+
+$$
+\left.\left.\left.
+
+\frac{dE_t}{dt}\right|_{t=0}
+        =2\langle P_u,fn_u\rangle=-2fL,
+
+\frac{dF_t}{dt}\right|_{t=0}
+        =\langle P_u,fn_v\rangle+\langle fn_u,P_v\rangle=-2fM,
+
+\frac{dG_t}{dt}\right|_{t=0}
+        =2\langle P_v,fn_v\rangle=-2fN.
+$$
+
+记
+
+$$
+\Delta_t=E_tG_t-F_t^2.
+$$
+
+则
+
+$$
+\left.\left.\left.\left.
+
+\frac{d\Delta_t}{dt}\right|_{t=0}
+        =G\frac{dE_t}{dt}\right|_{t=0}
+        +E\frac{dG_t}{dt}\right|_{t=0}
+        -2F\frac{dF_t}{dt}\right|_{t=0}.
+$$
+
+代入上式，
+
+$$
+\left.
+
+\frac{d\Delta_t}{dt}\right|_{t=0}
+        =-2f(GL+EN-2FM).
+$$
+
+因此面积元的一阶变化为
+
+$$
+\left.\left.
+
+\frac{d}{dt}\right|_{t=0}\sqrt{\Delta_t}
+        =\frac{1}{2\sqrt{EG-F^2}}\frac{d\Delta_t}{dt}\right|_{t=0}
+        =-\frac{f(GL+EN-2FM)}{\sqrt{EG-F^2}}.
+$$
+
+又平均曲率满足
+
+$$
+H=\frac{EN-2FM+GL}{2(EG-F^2)},
+$$
+
+所以
+
+$$
+\left.
+
+\frac{d}{dt}\right|_{t=0}\sqrt{\Delta_t}
+        =-2fH\sqrt{EG-F^2}.
+$$
+
+对参数区域积分，得到
+
+$$
+\left.
+
+\frac{d}{dt}\right|_{t=0}A(S_{tf})
+        =-2\int_c^d\int_a^b fH\sqrt{EG-F^2}\,du\,dv.
+$$
+
+这就证明了第一问。
+
+    下面证明第二问。若对任意足够小的扰动 $f$ 都有
+
+$$
+A(S_f)\geq A(S),
+$$
+
+则对任意 $f$，函数 $t\mapsto A(S_{tf})$ 在 $t=0$ 处取极小值，从而
+
+$$
+\left.
+
+\frac{d}{dt}\right|_{t=0}A(S_{tf})=0.
+$$
+
+所以
+
+$$
+\int_c^d\int_a^b fH\sqrt{EG-F^2}\,du\,dv=0
+$$
+
+对一切足够小的光滑函数 $f$ 都成立。
+
+    由于
+
+$$
+\sqrt{EG-F^2}>0
+$$
+
+处处成立，根据变分法中的基本引理，只能有
+
+$$
+H(u,v)\equiv 0.
+$$
+
+    因此曲面 $S$ 的平均曲率处处为零，所以 $S$ 是极小曲面。
+
+**Remark 47.**
+
+关键方法：把面积元对参数 $t$ 做一阶求导，并把出现的组合识别成平均曲率 $H$。
+
+## PDF
+
+Download the original write-up [here](/files/Grade3/Reports/differential-geometry-review.pdf).0:{"buildId":"rZLQ8EVqblT6xTH8wdhS0","rsc":["$","$1","c",{"children":[["$","$L2",null,{"hasContent":false,"children":[false,["$","$L3",null,{"baseLdJson":{"@context":"https://schema.org","@type":"BlogPosting","headline":"Differential Geometry — Homework II","description":"Differential geometry homework set II.","datePublished":"2026-04-15T00:00:00.000Z","dateModified":"2026-04-15T00:00:00.000Z"}}],["$","$L4",null,{"data":{"id":"post-dg-hw-b","created":"2026-04-15T00:00:00.000Z","modified":"2026-04-15T00:00:00.000Z","title":"Differential Geometry — Homework II","text":"$5","summary":"Differential geometry homework set II.","copyright":true,"tags":["Analysis","Differential Geometry"],"slug":"differential-geometry-hw-b","categoryId":"cat-analysis","category":{"id":"cat-analysis","slug":"analysis","name":"Analysis","created":"2024-07-01T00:00:00.000Z","type":0,"count":7},"images":[],"pin":null,"pinOrder":0,"related":[],"allowComment":true,"commentsIndex":0,"count":{"read":0,"like":0}}}],"$L6","$L7","$L8"]}],["$L9","$La","$Lb","$Lc","$Ld","$Le","$Lf","$L10","$L11","$L12","$L13","$L14","$L15","$L16"],"$L17"]}],"loading":null,"isPartial":false}
+6:["$","$L18",null,{"fetchedAt":"2026-08-19T10:15:07.252Z"}]
+7:["$","div",null,{"data-server-fetched-at":"2026-08-19T10:15:07.252Z","className":"relative flex min-h-[120px] grid-cols-[auto_200px] lg:grid","children":[["$","$L19",null,{"lcpOptimization":true,"className":"min-w-0","children":[["$","div",null,{"className":"relative w-full min-w-0","children":[["$","$L1a",null,{"id":"post-dg-hw-b","type":"post"}],["$","div",null,{"children":[["$","div",null,{"className":"mb-8","children":[["$","$L1b",null,{}],["$","$L1c",null,{"id":"post-dg-hw-b","type":"posts","className":"absolute -top-6 right-0"}],["$","$L1d",null,{"className":"mb-8 justify-center"}],["$","$L1e",null,{}],["$","$L1f",null,{"type":"before"}]]}],["$","$L20",null,{"eoaDetect":true,"children":[["$","$L21",null,{}],["$","$L22",null,{"children":["$","$L23",null,{"children":["$","article",null,{"className":"prose","children":[["$","div",null,{"className":"sr-only","children":["$","$L1b",null,{}]}],["$","$L24",null,{}],["$","$L25",null,{}]]}]}]}],["$","$L26",null,{"children":["$","$L27",null,{}]}]]}]]}],["$","$L28",null,{"children":[["$","$L1f",null,{}],["$","$L29",null,{}],["$","$L2a",null,{}]]}]]}],["$","$L2b",null,{"delay":500,"children":["$","$L2c",null,{"refId":"post-dg-hw-b","allowComment":true}]}]]}],["$","$L2d",null,{"className":"relative hidden lg:block"}]]}]
+8:["$","$L2e",null,{"children":["$","$L2f",null,{}]}]
+9:["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/136744c992bad96d.css","precedence":"next"}]
+a:["$","link","1",{"rel":"stylesheet","href":"/_next/static/chunks/0169140b52b18b81.css","precedence":"next"}]
+b:["$","link","2",{"rel":"stylesheet","href":"/_next/static/chunks/cf19f565ce194e50.css","precedence":"next"}]
+c:["$","link","3",{"rel":"stylesheet","href":"/_next/static/chunks/2a531debc05d9c48.css","precedence":"next"}]
+d:["$","link","4",{"rel":"stylesheet","href":"/_next/static/chunks/f6d4eb0f1595037c.css","precedence":"next"}]
+e:["$","link","5",{"rel":"stylesheet","href":"/_next/static/chunks/be9fe8599e8928e8.css","precedence":"next"}]
+f:["$","script","script-0",{"src":"/_next/static/chunks/35eaa08fca66b29e.js","async":true}]
+10:["$","script","script-1",{"src":"/_next/static/chunks/f91f857f975d1c9f.js","async":true}]
+11:["$","script","script-2",{"src":"/_next/static/chunks/dabd062b49706f28.js","async":true}]
+12:["$","script","script-3",{"src":"/_next/static/chunks/740441c5b62d2d93.js","async":true}]
+13:["$","script","script-4",{"src":"/_next/static/chunks/dcd49895cb9db447.js","async":true}]
+14:["$","script","script-5",{"src":"/_next/static/chunks/175944aa1545ac7c.js","async":true}]
+15:["$","script","script-6",{"src":"/_next/static/chunks/16494c9ed210a726.js","async":true}]
+16:["$","script","script-7",{"src":"/_next/static/chunks/19ed43205a6e84be.js","async":true}]
+17:["$","$L30",null,{"children":["$","$31",null,{"name":"Next.MetadataOutlet","children":"$@32"}]}]
+32:null

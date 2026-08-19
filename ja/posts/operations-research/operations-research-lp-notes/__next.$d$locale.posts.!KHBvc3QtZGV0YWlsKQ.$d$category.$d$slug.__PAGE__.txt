@@ -1,0 +1,1109 @@
+1:"$Sreact.fragment"
+2:I[417743,["/_next/static/chunks/d03e4f6fdf084240.js","/_next/static/chunks/525ff3aa60c02a25.js","/_next/static/chunks/ae2a70c709da2ba8.js","/_next/static/chunks/eb309b8f06731812.js","/_next/static/chunks/baa674234f056c60.js","/_next/static/chunks/2edc37b4337c096a.js","/_next/static/chunks/6f0408800ece4f06.js","/_next/static/chunks/6f95f3a6a7ed9dab.js","/_next/static/chunks/3c40fd5a14861430.js","/_next/static/chunks/e7855f92c342e0a3.js","/_next/static/chunks/a5fcaccd389d798e.js","/_next/static/chunks/c3456ef3141ade67.js","/_next/static/chunks/c92042fd5179bd95.js","/_next/static/chunks/1737ca787e6b8d4c.js","/_next/static/chunks/d691f1571e343c32.js","/_next/static/chunks/65f1d76f7ac19600.js","/_next/static/chunks/762b6f848ae7b21b.js","/_next/static/chunks/1d5a5c14848b802e.js","/_next/static/chunks/a40e2b25b1a62ac7.js","/_next/static/chunks/c6509abffeae92d2.js","/_next/static/chunks/35eaa08fca66b29e.js","/_next/static/chunks/f91f857f975d1c9f.js","/_next/static/chunks/dabd062b49706f28.js","/_next/static/chunks/740441c5b62d2d93.js","/_next/static/chunks/dcd49895cb9db447.js","/_next/static/chunks/175944aa1545ac7c.js","/_next/static/chunks/16494c9ed210a726.js","/_next/static/chunks/19ed43205a6e84be.js"],"TocHeadingStrategyProvider"]
+3:I[401946,["/_next/static/chunks/d03e4f6fdf084240.js","/_next/static/chunks/525ff3aa60c02a25.js","/_next/static/chunks/ae2a70c709da2ba8.js","/_next/static/chunks/eb309b8f06731812.js","/_next/static/chunks/baa674234f056c60.js","/_next/static/chunks/2edc37b4337c096a.js","/_next/static/chunks/6f0408800ece4f06.js","/_next/static/chunks/6f95f3a6a7ed9dab.js","/_next/static/chunks/3c40fd5a14861430.js","/_next/static/chunks/e7855f92c342e0a3.js","/_next/static/chunks/a5fcaccd389d798e.js","/_next/static/chunks/c3456ef3141ade67.js","/_next/static/chunks/c92042fd5179bd95.js","/_next/static/chunks/1737ca787e6b8d4c.js","/_next/static/chunks/d691f1571e343c32.js","/_next/static/chunks/65f1d76f7ac19600.js","/_next/static/chunks/762b6f848ae7b21b.js","/_next/static/chunks/1d5a5c14848b802e.js","/_next/static/chunks/a40e2b25b1a62ac7.js","/_next/static/chunks/c6509abffeae92d2.js","/_next/static/chunks/35eaa08fca66b29e.js","/_next/static/chunks/f91f857f975d1c9f.js","/_next/static/chunks/dabd062b49706f28.js","/_next/static/chunks/740441c5b62d2d93.js","/_next/static/chunks/dcd49895cb9db447.js","/_next/static/chunks/175944aa1545ac7c.js","/_next/static/chunks/16494c9ed210a726.js","/_next/static/chunks/19ed43205a6e84be.js"],"LdJsonWithAuthor"]
+4:I[373448,["/_next/static/chunks/d03e4f6fdf084240.js","/_next/static/chunks/525ff3aa60c02a25.js","/_next/static/chunks/ae2a70c709da2ba8.js","/_next/static/chunks/eb309b8f06731812.js","/_next/static/chunks/baa674234f056c60.js","/_next/static/chunks/2edc37b4337c096a.js","/_next/static/chunks/6f0408800ece4f06.js","/_next/static/chunks/6f95f3a6a7ed9dab.js","/_next/static/chunks/3c40fd5a14861430.js","/_next/static/chunks/e7855f92c342e0a3.js","/_next/static/chunks/a5fcaccd389d798e.js","/_next/static/chunks/c3456ef3141ade67.js","/_next/static/chunks/c92042fd5179bd95.js","/_next/static/chunks/1737ca787e6b8d4c.js","/_next/static/chunks/d691f1571e343c32.js","/_next/static/chunks/65f1d76f7ac19600.js","/_next/static/chunks/762b6f848ae7b21b.js","/_next/static/chunks/1d5a5c14848b802e.js","/_next/static/chunks/a40e2b25b1a62ac7.js","/_next/static/chunks/c6509abffeae92d2.js","/_next/static/chunks/35eaa08fca66b29e.js","/_next/static/chunks/f91f857f975d1c9f.js","/_next/static/chunks/dabd062b49706f28.js","/_next/static/chunks/740441c5b62d2d93.js","/_next/static/chunks/dcd49895cb9db447.js","/_next/static/chunks/175944aa1545ac7c.js","/_next/static/chunks/16494c9ed210a726.js","/_next/static/chunks/19ed43205a6e84be.js"],"CurrentPostDataProvider"]
+18:I[401946,["/_next/static/chunks/d03e4f6fdf084240.js","/_next/static/chunks/525ff3aa60c02a25.js","/_next/static/chunks/ae2a70c709da2ba8.js","/_next/static/chunks/eb309b8f06731812.js","/_next/static/chunks/baa674234f056c60.js","/_next/static/chunks/2edc37b4337c096a.js","/_next/static/chunks/6f0408800ece4f06.js","/_next/static/chunks/6f95f3a6a7ed9dab.js","/_next/static/chunks/3c40fd5a14861430.js","/_next/static/chunks/e7855f92c342e0a3.js","/_next/static/chunks/a5fcaccd389d798e.js","/_next/static/chunks/c3456ef3141ade67.js","/_next/static/chunks/c92042fd5179bd95.js","/_next/static/chunks/1737ca787e6b8d4c.js","/_next/static/chunks/d691f1571e343c32.js","/_next/static/chunks/65f1d76f7ac19600.js","/_next/static/chunks/762b6f848ae7b21b.js","/_next/static/chunks/1d5a5c14848b802e.js","/_next/static/chunks/a40e2b25b1a62ac7.js","/_next/static/chunks/c6509abffeae92d2.js","/_next/static/chunks/35eaa08fca66b29e.js","/_next/static/chunks/f91f857f975d1c9f.js","/_next/static/chunks/dabd062b49706f28.js","/_next/static/chunks/740441c5b62d2d93.js","/_next/static/chunks/dcd49895cb9db447.js","/_next/static/chunks/175944aa1545ac7c.js","/_next/static/chunks/16494c9ed210a726.js","/_next/static/chunks/19ed43205a6e84be.js"],"PostDataReValidate"]
+19:I[793580,["/_next/static/chunks/d03e4f6fdf084240.js","/_next/static/chunks/525ff3aa60c02a25.js","/_next/static/chunks/ae2a70c709da2ba8.js","/_next/static/chunks/eb309b8f06731812.js","/_next/static/chunks/baa674234f056c60.js","/_next/static/chunks/2edc37b4337c096a.js","/_next/static/chunks/6f0408800ece4f06.js","/_next/static/chunks/6f95f3a6a7ed9dab.js","/_next/static/chunks/3c40fd5a14861430.js","/_next/static/chunks/e7855f92c342e0a3.js","/_next/static/chunks/a5fcaccd389d798e.js","/_next/static/chunks/c3456ef3141ade67.js","/_next/static/chunks/c92042fd5179bd95.js","/_next/static/chunks/1737ca787e6b8d4c.js","/_next/static/chunks/d691f1571e343c32.js","/_next/static/chunks/65f1d76f7ac19600.js","/_next/static/chunks/762b6f848ae7b21b.js","/_next/static/chunks/1d5a5c14848b802e.js","/_next/static/chunks/a40e2b25b1a62ac7.js","/_next/static/chunks/c6509abffeae92d2.js","/_next/static/chunks/35eaa08fca66b29e.js","/_next/static/chunks/f91f857f975d1c9f.js","/_next/static/chunks/dabd062b49706f28.js","/_next/static/chunks/740441c5b62d2d93.js","/_next/static/chunks/dcd49895cb9db447.js","/_next/static/chunks/175944aa1545ac7c.js","/_next/static/chunks/16494c9ed210a726.js","/_next/static/chunks/19ed43205a6e84be.js"],"BottomToUpTransitionView"]
+1a:I[189209,["/_next/static/chunks/d03e4f6fdf084240.js","/_next/static/chunks/525ff3aa60c02a25.js","/_next/static/chunks/ae2a70c709da2ba8.js","/_next/static/chunks/eb309b8f06731812.js","/_next/static/chunks/baa674234f056c60.js","/_next/static/chunks/2edc37b4337c096a.js","/_next/static/chunks/6f0408800ece4f06.js","/_next/static/chunks/6f95f3a6a7ed9dab.js","/_next/static/chunks/3c40fd5a14861430.js","/_next/static/chunks/e7855f92c342e0a3.js","/_next/static/chunks/a5fcaccd389d798e.js","/_next/static/chunks/c3456ef3141ade67.js","/_next/static/chunks/c92042fd5179bd95.js","/_next/static/chunks/1737ca787e6b8d4c.js","/_next/static/chunks/d691f1571e343c32.js","/_next/static/chunks/65f1d76f7ac19600.js","/_next/static/chunks/762b6f848ae7b21b.js","/_next/static/chunks/1d5a5c14848b802e.js","/_next/static/chunks/a40e2b25b1a62ac7.js","/_next/static/chunks/c6509abffeae92d2.js","/_next/static/chunks/35eaa08fca66b29e.js","/_next/static/chunks/f91f857f975d1c9f.js","/_next/static/chunks/dabd062b49706f28.js","/_next/static/chunks/740441c5b62d2d93.js","/_next/static/chunks/dcd49895cb9db447.js","/_next/static/chunks/175944aa1545ac7c.js","/_next/static/chunks/16494c9ed210a726.js","/_next/static/chunks/19ed43205a6e84be.js"],"AckRead"]
+1b:I[401946,["/_next/static/chunks/d03e4f6fdf084240.js","/_next/static/chunks/525ff3aa60c02a25.js","/_next/static/chunks/ae2a70c709da2ba8.js","/_next/static/chunks/eb309b8f06731812.js","/_next/static/chunks/baa674234f056c60.js","/_next/static/chunks/2edc37b4337c096a.js","/_next/static/chunks/6f0408800ece4f06.js","/_next/static/chunks/6f95f3a6a7ed9dab.js","/_next/static/chunks/3c40fd5a14861430.js","/_next/static/chunks/e7855f92c342e0a3.js","/_next/static/chunks/a5fcaccd389d798e.js","/_next/static/chunks/c3456ef3141ade67.js","/_next/static/chunks/c92042fd5179bd95.js","/_next/static/chunks/1737ca787e6b8d4c.js","/_next/static/chunks/d691f1571e343c32.js","/_next/static/chunks/65f1d76f7ac19600.js","/_next/static/chunks/762b6f848ae7b21b.js","/_next/static/chunks/1d5a5c14848b802e.js","/_next/static/chunks/a40e2b25b1a62ac7.js","/_next/static/chunks/c6509abffeae92d2.js","/_next/static/chunks/35eaa08fca66b29e.js","/_next/static/chunks/f91f857f975d1c9f.js","/_next/static/chunks/dabd062b49706f28.js","/_next/static/chunks/740441c5b62d2d93.js","/_next/static/chunks/dcd49895cb9db447.js","/_next/static/chunks/175944aa1545ac7c.js","/_next/static/chunks/16494c9ed210a726.js","/_next/static/chunks/19ed43205a6e84be.js"],"PostTitle"]
+1c:I[923014,["/_next/static/chunks/d03e4f6fdf084240.js","/_next/static/chunks/525ff3aa60c02a25.js","/_next/static/chunks/ae2a70c709da2ba8.js","/_next/static/chunks/eb309b8f06731812.js","/_next/static/chunks/baa674234f056c60.js","/_next/static/chunks/2edc37b4337c096a.js","/_next/static/chunks/6f0408800ece4f06.js","/_next/static/chunks/6f95f3a6a7ed9dab.js","/_next/static/chunks/3c40fd5a14861430.js","/_next/static/chunks/e7855f92c342e0a3.js","/_next/static/chunks/a5fcaccd389d798e.js","/_next/static/chunks/c3456ef3141ade67.js","/_next/static/chunks/c92042fd5179bd95.js","/_next/static/chunks/1737ca787e6b8d4c.js","/_next/static/chunks/d691f1571e343c32.js","/_next/static/chunks/65f1d76f7ac19600.js","/_next/static/chunks/762b6f848ae7b21b.js","/_next/static/chunks/1d5a5c14848b802e.js","/_next/static/chunks/a40e2b25b1a62ac7.js","/_next/static/chunks/c6509abffeae92d2.js","/_next/static/chunks/35eaa08fca66b29e.js","/_next/static/chunks/f91f857f975d1c9f.js","/_next/static/chunks/dabd062b49706f28.js","/_next/static/chunks/740441c5b62d2d93.js","/_next/static/chunks/dcd49895cb9db447.js","/_next/static/chunks/175944aa1545ac7c.js","/_next/static/chunks/16494c9ed210a726.js","/_next/static/chunks/19ed43205a6e84be.js"],"GoToAdminEditingButton"]
+1d:I[401946,["/_next/static/chunks/d03e4f6fdf084240.js","/_next/static/chunks/525ff3aa60c02a25.js","/_next/static/chunks/ae2a70c709da2ba8.js","/_next/static/chunks/eb309b8f06731812.js","/_next/static/chunks/baa674234f056c60.js","/_next/static/chunks/2edc37b4337c096a.js","/_next/static/chunks/6f0408800ece4f06.js","/_next/static/chunks/6f95f3a6a7ed9dab.js","/_next/static/chunks/3c40fd5a14861430.js","/_next/static/chunks/e7855f92c342e0a3.js","/_next/static/chunks/a5fcaccd389d798e.js","/_next/static/chunks/c3456ef3141ade67.js","/_next/static/chunks/c92042fd5179bd95.js","/_next/static/chunks/1737ca787e6b8d4c.js","/_next/static/chunks/d691f1571e343c32.js","/_next/static/chunks/65f1d76f7ac19600.js","/_next/static/chunks/762b6f848ae7b21b.js","/_next/static/chunks/1d5a5c14848b802e.js","/_next/static/chunks/a40e2b25b1a62ac7.js","/_next/static/chunks/c6509abffeae92d2.js","/_next/static/chunks/35eaa08fca66b29e.js","/_next/static/chunks/f91f857f975d1c9f.js","/_next/static/chunks/dabd062b49706f28.js","/_next/static/chunks/740441c5b62d2d93.js","/_next/static/chunks/dcd49895cb9db447.js","/_next/static/chunks/175944aa1545ac7c.js","/_next/static/chunks/16494c9ed210a726.js","/_next/static/chunks/19ed43205a6e84be.js"],"PostMetaBarInternal"]
+1e:I[6169,["/_next/static/chunks/d03e4f6fdf084240.js","/_next/static/chunks/525ff3aa60c02a25.js","/_next/static/chunks/ae2a70c709da2ba8.js","/_next/static/chunks/eb309b8f06731812.js","/_next/static/chunks/baa674234f056c60.js","/_next/static/chunks/2edc37b4337c096a.js","/_next/static/chunks/6f0408800ece4f06.js","/_next/static/chunks/6f95f3a6a7ed9dab.js","/_next/static/chunks/3c40fd5a14861430.js","/_next/static/chunks/e7855f92c342e0a3.js","/_next/static/chunks/a5fcaccd389d798e.js","/_next/static/chunks/c3456ef3141ade67.js","/_next/static/chunks/c92042fd5179bd95.js","/_next/static/chunks/1737ca787e6b8d4c.js","/_next/static/chunks/d691f1571e343c32.js","/_next/static/chunks/65f1d76f7ac19600.js","/_next/static/chunks/762b6f848ae7b21b.js","/_next/static/chunks/1d5a5c14848b802e.js","/_next/static/chunks/a40e2b25b1a62ac7.js","/_next/static/chunks/c6509abffeae92d2.js","/_next/static/chunks/35eaa08fca66b29e.js","/_next/static/chunks/f91f857f975d1c9f.js","/_next/static/chunks/dabd062b49706f28.js","/_next/static/chunks/740441c5b62d2d93.js","/_next/static/chunks/dcd49895cb9db447.js","/_next/static/chunks/175944aa1545ac7c.js","/_next/static/chunks/16494c9ed210a726.js","/_next/static/chunks/19ed43205a6e84be.js"],"PostOutdate"]
+1f:I[660320,["/_next/static/chunks/d03e4f6fdf084240.js","/_next/static/chunks/525ff3aa60c02a25.js","/_next/static/chunks/ae2a70c709da2ba8.js","/_next/static/chunks/eb309b8f06731812.js","/_next/static/chunks/baa674234f056c60.js","/_next/static/chunks/2edc37b4337c096a.js","/_next/static/chunks/6f0408800ece4f06.js","/_next/static/chunks/6f95f3a6a7ed9dab.js","/_next/static/chunks/3c40fd5a14861430.js","/_next/static/chunks/e7855f92c342e0a3.js","/_next/static/chunks/a5fcaccd389d798e.js","/_next/static/chunks/c3456ef3141ade67.js","/_next/static/chunks/c92042fd5179bd95.js","/_next/static/chunks/1737ca787e6b8d4c.js","/_next/static/chunks/d691f1571e343c32.js","/_next/static/chunks/65f1d76f7ac19600.js","/_next/static/chunks/762b6f848ae7b21b.js","/_next/static/chunks/1d5a5c14848b802e.js","/_next/static/chunks/a40e2b25b1a62ac7.js","/_next/static/chunks/c6509abffeae92d2.js","/_next/static/chunks/35eaa08fca66b29e.js","/_next/static/chunks/f91f857f975d1c9f.js","/_next/static/chunks/dabd062b49706f28.js","/_next/static/chunks/740441c5b62d2d93.js","/_next/static/chunks/dcd49895cb9db447.js","/_next/static/chunks/175944aa1545ac7c.js","/_next/static/chunks/16494c9ed210a726.js","/_next/static/chunks/19ed43205a6e84be.js"],"PostRelated"]
+20:I[145557,["/_next/static/chunks/d03e4f6fdf084240.js","/_next/static/chunks/525ff3aa60c02a25.js","/_next/static/chunks/ae2a70c709da2ba8.js","/_next/static/chunks/eb309b8f06731812.js","/_next/static/chunks/baa674234f056c60.js","/_next/static/chunks/2edc37b4337c096a.js","/_next/static/chunks/6f0408800ece4f06.js","/_next/static/chunks/6f95f3a6a7ed9dab.js","/_next/static/chunks/3c40fd5a14861430.js","/_next/static/chunks/e7855f92c342e0a3.js","/_next/static/chunks/a5fcaccd389d798e.js","/_next/static/chunks/c3456ef3141ade67.js","/_next/static/chunks/c92042fd5179bd95.js","/_next/static/chunks/1737ca787e6b8d4c.js","/_next/static/chunks/d691f1571e343c32.js","/_next/static/chunks/65f1d76f7ac19600.js","/_next/static/chunks/762b6f848ae7b21b.js","/_next/static/chunks/1d5a5c14848b802e.js","/_next/static/chunks/a40e2b25b1a62ac7.js","/_next/static/chunks/c6509abffeae92d2.js","/_next/static/chunks/35eaa08fca66b29e.js","/_next/static/chunks/f91f857f975d1c9f.js","/_next/static/chunks/dabd062b49706f28.js","/_next/static/chunks/740441c5b62d2d93.js","/_next/static/chunks/dcd49895cb9db447.js","/_next/static/chunks/175944aa1545ac7c.js","/_next/static/chunks/16494c9ed210a726.js","/_next/static/chunks/19ed43205a6e84be.js"],"WrappedElementProvider"]
+21:I[125902,["/_next/static/chunks/d03e4f6fdf084240.js","/_next/static/chunks/525ff3aa60c02a25.js","/_next/static/chunks/ae2a70c709da2ba8.js","/_next/static/chunks/eb309b8f06731812.js","/_next/static/chunks/baa674234f056c60.js","/_next/static/chunks/2edc37b4337c096a.js","/_next/static/chunks/6f0408800ece4f06.js","/_next/static/chunks/6f95f3a6a7ed9dab.js","/_next/static/chunks/3c40fd5a14861430.js","/_next/static/chunks/e7855f92c342e0a3.js","/_next/static/chunks/a5fcaccd389d798e.js","/_next/static/chunks/c3456ef3141ade67.js","/_next/static/chunks/c92042fd5179bd95.js","/_next/static/chunks/1737ca787e6b8d4c.js","/_next/static/chunks/d691f1571e343c32.js","/_next/static/chunks/65f1d76f7ac19600.js","/_next/static/chunks/762b6f848ae7b21b.js","/_next/static/chunks/1d5a5c14848b802e.js","/_next/static/chunks/a40e2b25b1a62ac7.js","/_next/static/chunks/c6509abffeae92d2.js","/_next/static/chunks/35eaa08fca66b29e.js","/_next/static/chunks/f91f857f975d1c9f.js","/_next/static/chunks/dabd062b49706f28.js","/_next/static/chunks/740441c5b62d2d93.js","/_next/static/chunks/dcd49895cb9db447.js","/_next/static/chunks/175944aa1545ac7c.js","/_next/static/chunks/16494c9ed210a726.js","/_next/static/chunks/19ed43205a6e84be.js"],"ReadIndicatorForMobile"]
+22:I[401946,["/_next/static/chunks/d03e4f6fdf084240.js","/_next/static/chunks/525ff3aa60c02a25.js","/_next/static/chunks/ae2a70c709da2ba8.js","/_next/static/chunks/eb309b8f06731812.js","/_next/static/chunks/baa674234f056c60.js","/_next/static/chunks/2edc37b4337c096a.js","/_next/static/chunks/6f0408800ece4f06.js","/_next/static/chunks/6f95f3a6a7ed9dab.js","/_next/static/chunks/3c40fd5a14861430.js","/_next/static/chunks/e7855f92c342e0a3.js","/_next/static/chunks/a5fcaccd389d798e.js","/_next/static/chunks/c3456ef3141ade67.js","/_next/static/chunks/c92042fd5179bd95.js","/_next/static/chunks/1737ca787e6b8d4c.js","/_next/static/chunks/d691f1571e343c32.js","/_next/static/chunks/65f1d76f7ac19600.js","/_next/static/chunks/762b6f848ae7b21b.js","/_next/static/chunks/1d5a5c14848b802e.js","/_next/static/chunks/a40e2b25b1a62ac7.js","/_next/static/chunks/c6509abffeae92d2.js","/_next/static/chunks/35eaa08fca66b29e.js","/_next/static/chunks/f91f857f975d1c9f.js","/_next/static/chunks/dabd062b49706f28.js","/_next/static/chunks/740441c5b62d2d93.js","/_next/static/chunks/dcd49895cb9db447.js","/_next/static/chunks/175944aa1545ac7c.js","/_next/static/chunks/16494c9ed210a726.js","/_next/static/chunks/19ed43205a6e84be.js"],"PostMarkdownImageRecordProvider"]
+23:I[401946,["/_next/static/chunks/d03e4f6fdf084240.js","/_next/static/chunks/525ff3aa60c02a25.js","/_next/static/chunks/ae2a70c709da2ba8.js","/_next/static/chunks/eb309b8f06731812.js","/_next/static/chunks/baa674234f056c60.js","/_next/static/chunks/2edc37b4337c096a.js","/_next/static/chunks/6f0408800ece4f06.js","/_next/static/chunks/6f95f3a6a7ed9dab.js","/_next/static/chunks/3c40fd5a14861430.js","/_next/static/chunks/e7855f92c342e0a3.js","/_next/static/chunks/a5fcaccd389d798e.js","/_next/static/chunks/c3456ef3141ade67.js","/_next/static/chunks/c92042fd5179bd95.js","/_next/static/chunks/1737ca787e6b8d4c.js","/_next/static/chunks/d691f1571e343c32.js","/_next/static/chunks/65f1d76f7ac19600.js","/_next/static/chunks/762b6f848ae7b21b.js","/_next/static/chunks/1d5a5c14848b802e.js","/_next/static/chunks/a40e2b25b1a62ac7.js","/_next/static/chunks/c6509abffeae92d2.js","/_next/static/chunks/35eaa08fca66b29e.js","/_next/static/chunks/f91f857f975d1c9f.js","/_next/static/chunks/dabd062b49706f28.js","/_next/static/chunks/740441c5b62d2d93.js","/_next/static/chunks/dcd49895cb9db447.js","/_next/static/chunks/175944aa1545ac7c.js","/_next/static/chunks/16494c9ed210a726.js","/_next/static/chunks/19ed43205a6e84be.js"],"MarkdownSelection"]
+24:I[401946,["/_next/static/chunks/d03e4f6fdf084240.js","/_next/static/chunks/525ff3aa60c02a25.js","/_next/static/chunks/ae2a70c709da2ba8.js","/_next/static/chunks/eb309b8f06731812.js","/_next/static/chunks/baa674234f056c60.js","/_next/static/chunks/2edc37b4337c096a.js","/_next/static/chunks/6f0408800ece4f06.js","/_next/static/chunks/6f95f3a6a7ed9dab.js","/_next/static/chunks/3c40fd5a14861430.js","/_next/static/chunks/e7855f92c342e0a3.js","/_next/static/chunks/a5fcaccd389d798e.js","/_next/static/chunks/c3456ef3141ade67.js","/_next/static/chunks/c92042fd5179bd95.js","/_next/static/chunks/1737ca787e6b8d4c.js","/_next/static/chunks/d691f1571e343c32.js","/_next/static/chunks/65f1d76f7ac19600.js","/_next/static/chunks/762b6f848ae7b21b.js","/_next/static/chunks/1d5a5c14848b802e.js","/_next/static/chunks/a40e2b25b1a62ac7.js","/_next/static/chunks/c6509abffeae92d2.js","/_next/static/chunks/35eaa08fca66b29e.js","/_next/static/chunks/f91f857f975d1c9f.js","/_next/static/chunks/dabd062b49706f28.js","/_next/static/chunks/740441c5b62d2d93.js","/_next/static/chunks/dcd49895cb9db447.js","/_next/static/chunks/175944aa1545ac7c.js","/_next/static/chunks/16494c9ed210a726.js","/_next/static/chunks/19ed43205a6e84be.js"],"FocusReadingEffect"]
+25:I[502283,["/_next/static/chunks/d03e4f6fdf084240.js","/_next/static/chunks/525ff3aa60c02a25.js","/_next/static/chunks/ae2a70c709da2ba8.js","/_next/static/chunks/eb309b8f06731812.js","/_next/static/chunks/baa674234f056c60.js","/_next/static/chunks/2edc37b4337c096a.js","/_next/static/chunks/6f0408800ece4f06.js","/_next/static/chunks/6f95f3a6a7ed9dab.js","/_next/static/chunks/3c40fd5a14861430.js","/_next/static/chunks/e7855f92c342e0a3.js","/_next/static/chunks/a5fcaccd389d798e.js","/_next/static/chunks/c3456ef3141ade67.js","/_next/static/chunks/c92042fd5179bd95.js","/_next/static/chunks/1737ca787e6b8d4c.js","/_next/static/chunks/d691f1571e343c32.js","/_next/static/chunks/65f1d76f7ac19600.js","/_next/static/chunks/762b6f848ae7b21b.js","/_next/static/chunks/1d5a5c14848b802e.js","/_next/static/chunks/a40e2b25b1a62ac7.js","/_next/static/chunks/c6509abffeae92d2.js","/_next/static/chunks/35eaa08fca66b29e.js","/_next/static/chunks/f91f857f975d1c9f.js","/_next/static/chunks/dabd062b49706f28.js","/_next/static/chunks/740441c5b62d2d93.js","/_next/static/chunks/dcd49895cb9db447.js","/_next/static/chunks/175944aa1545ac7c.js","/_next/static/chunks/16494c9ed210a726.js","/_next/static/chunks/19ed43205a6e84be.js"],"PostMarkdownRenderer",1]
+26:I[194205,["/_next/static/chunks/d03e4f6fdf084240.js","/_next/static/chunks/525ff3aa60c02a25.js","/_next/static/chunks/ae2a70c709da2ba8.js","/_next/static/chunks/eb309b8f06731812.js","/_next/static/chunks/baa674234f056c60.js","/_next/static/chunks/2edc37b4337c096a.js","/_next/static/chunks/6f0408800ece4f06.js","/_next/static/chunks/6f95f3a6a7ed9dab.js","/_next/static/chunks/3c40fd5a14861430.js","/_next/static/chunks/e7855f92c342e0a3.js","/_next/static/chunks/a5fcaccd389d798e.js","/_next/static/chunks/c3456ef3141ade67.js","/_next/static/chunks/c92042fd5179bd95.js","/_next/static/chunks/1737ca787e6b8d4c.js","/_next/static/chunks/d691f1571e343c32.js","/_next/static/chunks/65f1d76f7ac19600.js","/_next/static/chunks/762b6f848ae7b21b.js","/_next/static/chunks/1d5a5c14848b802e.js","/_next/static/chunks/a40e2b25b1a62ac7.js","/_next/static/chunks/c6509abffeae92d2.js","/_next/static/chunks/35eaa08fca66b29e.js","/_next/static/chunks/f91f857f975d1c9f.js","/_next/static/chunks/dabd062b49706f28.js","/_next/static/chunks/740441c5b62d2d93.js","/_next/static/chunks/dcd49895cb9db447.js","/_next/static/chunks/175944aa1545ac7c.js","/_next/static/chunks/16494c9ed210a726.js","/_next/static/chunks/19ed43205a6e84be.js"],"LayoutRightSidePortal"]
+27:I[732298,["/_next/static/chunks/d03e4f6fdf084240.js","/_next/static/chunks/525ff3aa60c02a25.js","/_next/static/chunks/ae2a70c709da2ba8.js","/_next/static/chunks/eb309b8f06731812.js","/_next/static/chunks/baa674234f056c60.js","/_next/static/chunks/2edc37b4337c096a.js","/_next/static/chunks/6f0408800ece4f06.js","/_next/static/chunks/6f95f3a6a7ed9dab.js","/_next/static/chunks/3c40fd5a14861430.js","/_next/static/chunks/e7855f92c342e0a3.js","/_next/static/chunks/a5fcaccd389d798e.js","/_next/static/chunks/c3456ef3141ade67.js","/_next/static/chunks/c92042fd5179bd95.js","/_next/static/chunks/1737ca787e6b8d4c.js","/_next/static/chunks/d691f1571e343c32.js","/_next/static/chunks/65f1d76f7ac19600.js","/_next/static/chunks/762b6f848ae7b21b.js","/_next/static/chunks/1d5a5c14848b802e.js","/_next/static/chunks/a40e2b25b1a62ac7.js","/_next/static/chunks/c6509abffeae92d2.js","/_next/static/chunks/35eaa08fca66b29e.js","/_next/static/chunks/f91f857f975d1c9f.js","/_next/static/chunks/dabd062b49706f28.js","/_next/static/chunks/740441c5b62d2d93.js","/_next/static/chunks/dcd49895cb9db447.js","/_next/static/chunks/175944aa1545ac7c.js","/_next/static/chunks/16494c9ed210a726.js","/_next/static/chunks/19ed43205a6e84be.js"],"PostActionAside"]
+28:I[237493,["/_next/static/chunks/d03e4f6fdf084240.js","/_next/static/chunks/525ff3aa60c02a25.js","/_next/static/chunks/ae2a70c709da2ba8.js","/_next/static/chunks/eb309b8f06731812.js","/_next/static/chunks/baa674234f056c60.js","/_next/static/chunks/2edc37b4337c096a.js","/_next/static/chunks/6f0408800ece4f06.js","/_next/static/chunks/6f95f3a6a7ed9dab.js","/_next/static/chunks/3c40fd5a14861430.js","/_next/static/chunks/e7855f92c342e0a3.js","/_next/static/chunks/a5fcaccd389d798e.js","/_next/static/chunks/c3456ef3141ade67.js","/_next/static/chunks/c92042fd5179bd95.js","/_next/static/chunks/1737ca787e6b8d4c.js","/_next/static/chunks/d691f1571e343c32.js","/_next/static/chunks/65f1d76f7ac19600.js","/_next/static/chunks/762b6f848ae7b21b.js","/_next/static/chunks/1d5a5c14848b802e.js","/_next/static/chunks/a40e2b25b1a62ac7.js","/_next/static/chunks/c6509abffeae92d2.js","/_next/static/chunks/35eaa08fca66b29e.js","/_next/static/chunks/f91f857f975d1c9f.js","/_next/static/chunks/dabd062b49706f28.js","/_next/static/chunks/740441c5b62d2d93.js","/_next/static/chunks/dcd49895cb9db447.js","/_next/static/chunks/175944aa1545ac7c.js","/_next/static/chunks/16494c9ed210a726.js","/_next/static/chunks/19ed43205a6e84be.js"],"ClientOnly"]
+29:I[223245,["/_next/static/chunks/d03e4f6fdf084240.js","/_next/static/chunks/525ff3aa60c02a25.js","/_next/static/chunks/ae2a70c709da2ba8.js","/_next/static/chunks/eb309b8f06731812.js","/_next/static/chunks/baa674234f056c60.js","/_next/static/chunks/2edc37b4337c096a.js","/_next/static/chunks/6f0408800ece4f06.js","/_next/static/chunks/6f95f3a6a7ed9dab.js","/_next/static/chunks/3c40fd5a14861430.js","/_next/static/chunks/e7855f92c342e0a3.js","/_next/static/chunks/a5fcaccd389d798e.js","/_next/static/chunks/c3456ef3141ade67.js","/_next/static/chunks/c92042fd5179bd95.js","/_next/static/chunks/1737ca787e6b8d4c.js","/_next/static/chunks/d691f1571e343c32.js","/_next/static/chunks/65f1d76f7ac19600.js","/_next/static/chunks/762b6f848ae7b21b.js","/_next/static/chunks/1d5a5c14848b802e.js","/_next/static/chunks/a40e2b25b1a62ac7.js","/_next/static/chunks/c6509abffeae92d2.js","/_next/static/chunks/35eaa08fca66b29e.js","/_next/static/chunks/f91f857f975d1c9f.js","/_next/static/chunks/dabd062b49706f28.js","/_next/static/chunks/740441c5b62d2d93.js","/_next/static/chunks/dcd49895cb9db447.js","/_next/static/chunks/175944aa1545ac7c.js","/_next/static/chunks/16494c9ed210a726.js","/_next/static/chunks/19ed43205a6e84be.js"],"PostCopyright"]
+2a:I[732298,["/_next/static/chunks/d03e4f6fdf084240.js","/_next/static/chunks/525ff3aa60c02a25.js","/_next/static/chunks/ae2a70c709da2ba8.js","/_next/static/chunks/eb309b8f06731812.js","/_next/static/chunks/baa674234f056c60.js","/_next/static/chunks/2edc37b4337c096a.js","/_next/static/chunks/6f0408800ece4f06.js","/_next/static/chunks/6f95f3a6a7ed9dab.js","/_next/static/chunks/3c40fd5a14861430.js","/_next/static/chunks/e7855f92c342e0a3.js","/_next/static/chunks/a5fcaccd389d798e.js","/_next/static/chunks/c3456ef3141ade67.js","/_next/static/chunks/c92042fd5179bd95.js","/_next/static/chunks/1737ca787e6b8d4c.js","/_next/static/chunks/d691f1571e343c32.js","/_next/static/chunks/65f1d76f7ac19600.js","/_next/static/chunks/762b6f848ae7b21b.js","/_next/static/chunks/1d5a5c14848b802e.js","/_next/static/chunks/a40e2b25b1a62ac7.js","/_next/static/chunks/c6509abffeae92d2.js","/_next/static/chunks/35eaa08fca66b29e.js","/_next/static/chunks/f91f857f975d1c9f.js","/_next/static/chunks/dabd062b49706f28.js","/_next/static/chunks/740441c5b62d2d93.js","/_next/static/chunks/dcd49895cb9db447.js","/_next/static/chunks/175944aa1545ac7c.js","/_next/static/chunks/16494c9ed210a726.js","/_next/static/chunks/19ed43205a6e84be.js"],"PostBottomBarAction"]
+2b:I[832330,["/_next/static/chunks/d03e4f6fdf084240.js","/_next/static/chunks/525ff3aa60c02a25.js","/_next/static/chunks/ae2a70c709da2ba8.js","/_next/static/chunks/eb309b8f06731812.js","/_next/static/chunks/baa674234f056c60.js","/_next/static/chunks/2edc37b4337c096a.js","/_next/static/chunks/6f0408800ece4f06.js","/_next/static/chunks/6f95f3a6a7ed9dab.js","/_next/static/chunks/3c40fd5a14861430.js","/_next/static/chunks/e7855f92c342e0a3.js","/_next/static/chunks/a5fcaccd389d798e.js","/_next/static/chunks/c3456ef3141ade67.js","/_next/static/chunks/c92042fd5179bd95.js","/_next/static/chunks/1737ca787e6b8d4c.js","/_next/static/chunks/d691f1571e343c32.js","/_next/static/chunks/65f1d76f7ac19600.js","/_next/static/chunks/762b6f848ae7b21b.js","/_next/static/chunks/1d5a5c14848b802e.js","/_next/static/chunks/a40e2b25b1a62ac7.js","/_next/static/chunks/c6509abffeae92d2.js","/_next/static/chunks/35eaa08fca66b29e.js","/_next/static/chunks/f91f857f975d1c9f.js","/_next/static/chunks/dabd062b49706f28.js","/_next/static/chunks/740441c5b62d2d93.js","/_next/static/chunks/dcd49895cb9db447.js","/_next/static/chunks/175944aa1545ac7c.js","/_next/static/chunks/16494c9ed210a726.js","/_next/static/chunks/19ed43205a6e84be.js"],"BottomToUpSoftScaleTransitionView"]
+2c:I[615780,["/_next/static/chunks/d03e4f6fdf084240.js","/_next/static/chunks/525ff3aa60c02a25.js","/_next/static/chunks/ae2a70c709da2ba8.js","/_next/static/chunks/eb309b8f06731812.js","/_next/static/chunks/baa674234f056c60.js","/_next/static/chunks/2edc37b4337c096a.js","/_next/static/chunks/6f0408800ece4f06.js","/_next/static/chunks/6f95f3a6a7ed9dab.js","/_next/static/chunks/3c40fd5a14861430.js","/_next/static/chunks/e7855f92c342e0a3.js","/_next/static/chunks/a5fcaccd389d798e.js","/_next/static/chunks/c3456ef3141ade67.js","/_next/static/chunks/c92042fd5179bd95.js","/_next/static/chunks/1737ca787e6b8d4c.js","/_next/static/chunks/d691f1571e343c32.js","/_next/static/chunks/65f1d76f7ac19600.js","/_next/static/chunks/762b6f848ae7b21b.js","/_next/static/chunks/1d5a5c14848b802e.js","/_next/static/chunks/a40e2b25b1a62ac7.js","/_next/static/chunks/c6509abffeae92d2.js","/_next/static/chunks/35eaa08fca66b29e.js","/_next/static/chunks/f91f857f975d1c9f.js","/_next/static/chunks/dabd062b49706f28.js","/_next/static/chunks/740441c5b62d2d93.js","/_next/static/chunks/dcd49895cb9db447.js","/_next/static/chunks/175944aa1545ac7c.js","/_next/static/chunks/16494c9ed210a726.js","/_next/static/chunks/19ed43205a6e84be.js"],"CommentAreaRootLazy"]
+2d:I[194205,["/_next/static/chunks/d03e4f6fdf084240.js","/_next/static/chunks/525ff3aa60c02a25.js","/_next/static/chunks/ae2a70c709da2ba8.js","/_next/static/chunks/eb309b8f06731812.js","/_next/static/chunks/baa674234f056c60.js","/_next/static/chunks/2edc37b4337c096a.js","/_next/static/chunks/6f0408800ece4f06.js","/_next/static/chunks/6f95f3a6a7ed9dab.js","/_next/static/chunks/3c40fd5a14861430.js","/_next/static/chunks/e7855f92c342e0a3.js","/_next/static/chunks/a5fcaccd389d798e.js","/_next/static/chunks/c3456ef3141ade67.js","/_next/static/chunks/c92042fd5179bd95.js","/_next/static/chunks/1737ca787e6b8d4c.js","/_next/static/chunks/d691f1571e343c32.js","/_next/static/chunks/65f1d76f7ac19600.js","/_next/static/chunks/762b6f848ae7b21b.js","/_next/static/chunks/1d5a5c14848b802e.js","/_next/static/chunks/a40e2b25b1a62ac7.js","/_next/static/chunks/c6509abffeae92d2.js","/_next/static/chunks/35eaa08fca66b29e.js","/_next/static/chunks/f91f857f975d1c9f.js","/_next/static/chunks/dabd062b49706f28.js","/_next/static/chunks/740441c5b62d2d93.js","/_next/static/chunks/dcd49895cb9db447.js","/_next/static/chunks/175944aa1545ac7c.js","/_next/static/chunks/16494c9ed210a726.js","/_next/static/chunks/19ed43205a6e84be.js"],"LayoutRightSideProvider"]
+2e:I[185368,["/_next/static/chunks/d03e4f6fdf084240.js","/_next/static/chunks/525ff3aa60c02a25.js","/_next/static/chunks/ae2a70c709da2ba8.js","/_next/static/chunks/eb309b8f06731812.js","/_next/static/chunks/baa674234f056c60.js","/_next/static/chunks/2edc37b4337c096a.js","/_next/static/chunks/6f0408800ece4f06.js","/_next/static/chunks/6f95f3a6a7ed9dab.js","/_next/static/chunks/3c40fd5a14861430.js","/_next/static/chunks/e7855f92c342e0a3.js","/_next/static/chunks/a5fcaccd389d798e.js","/_next/static/chunks/c3456ef3141ade67.js","/_next/static/chunks/c92042fd5179bd95.js","/_next/static/chunks/1737ca787e6b8d4c.js","/_next/static/chunks/d691f1571e343c32.js","/_next/static/chunks/65f1d76f7ac19600.js","/_next/static/chunks/762b6f848ae7b21b.js","/_next/static/chunks/1d5a5c14848b802e.js","/_next/static/chunks/a40e2b25b1a62ac7.js","/_next/static/chunks/c6509abffeae92d2.js","/_next/static/chunks/35eaa08fca66b29e.js","/_next/static/chunks/f91f857f975d1c9f.js","/_next/static/chunks/dabd062b49706f28.js","/_next/static/chunks/740441c5b62d2d93.js","/_next/static/chunks/dcd49895cb9db447.js","/_next/static/chunks/175944aa1545ac7c.js","/_next/static/chunks/16494c9ed210a726.js","/_next/static/chunks/19ed43205a6e84be.js"],"OnlyMobile"]
+2f:I[233113,["/_next/static/chunks/d03e4f6fdf084240.js","/_next/static/chunks/525ff3aa60c02a25.js","/_next/static/chunks/ae2a70c709da2ba8.js","/_next/static/chunks/eb309b8f06731812.js","/_next/static/chunks/baa674234f056c60.js","/_next/static/chunks/2edc37b4337c096a.js","/_next/static/chunks/6f0408800ece4f06.js","/_next/static/chunks/6f95f3a6a7ed9dab.js","/_next/static/chunks/3c40fd5a14861430.js","/_next/static/chunks/e7855f92c342e0a3.js","/_next/static/chunks/a5fcaccd389d798e.js","/_next/static/chunks/c3456ef3141ade67.js","/_next/static/chunks/c92042fd5179bd95.js","/_next/static/chunks/1737ca787e6b8d4c.js","/_next/static/chunks/d691f1571e343c32.js","/_next/static/chunks/65f1d76f7ac19600.js","/_next/static/chunks/762b6f848ae7b21b.js","/_next/static/chunks/1d5a5c14848b802e.js","/_next/static/chunks/a40e2b25b1a62ac7.js","/_next/static/chunks/c6509abffeae92d2.js","/_next/static/chunks/35eaa08fca66b29e.js","/_next/static/chunks/f91f857f975d1c9f.js","/_next/static/chunks/dabd062b49706f28.js","/_next/static/chunks/740441c5b62d2d93.js","/_next/static/chunks/dcd49895cb9db447.js","/_next/static/chunks/175944aa1545ac7c.js","/_next/static/chunks/16494c9ed210a726.js","/_next/static/chunks/19ed43205a6e84be.js"],"TocFAB"]
+30:I[95276,["/_next/static/chunks/3c40fd5a14861430.js","/_next/static/chunks/4197b04c4f1d962d.js","/_next/static/chunks/70af310ba2a3e461.js","/_next/static/chunks/9df4409b3ebd95fb.js","/_next/static/chunks/e52d234aac494225.js"],"OutletBoundary"]
+31:"$Sreact.suspense"
+:HL["/_next/static/chunks/136744c992bad96d.css","style"]
+:HL["/_next/static/chunks/0169140b52b18b81.css","style"]
+:HL["/_next/static/chunks/cf19f565ce194e50.css","style"]
+:HL["/_next/static/chunks/2a531debc05d9c48.css","style"]
+:HL["/_next/static/chunks/f6d4eb0f1595037c.css","style"]
+:HL["/_next/static/chunks/be9fe8599e8928e8.css","style"]
+5:T8ee0,# 线性规划与单纯形法
+
+**Note (本章导学).**
+
+线性规划是运筹学最基础也是最重要的分支。本章将系统学习：
+
+1. 如何将实际问题建立为线性规划模型
+
+2. 图解法的几何直观
+
+3. 单纯形法的代数原理与计算步骤
+
+4. 人工变量处理技巧
+
+**核心思想：**线性规划的可行域是凸多面体，最优解一定在顶点处达到。单纯形法通过在顶点间"跳跃"来寻找最优解。
+
+## 一般线性规划问题的数学模型
+
+### 问题的提出
+
+**Definition 1 (线性规划).**
+
+如果在规划问题的数学模型中，目标函数和约束条件都是线性的，这类模型称为**线性规划**（Linear Programming, LP）问题的数学模型。
+
+线性规划是运筹学的一个重要分支，也是运筹学最基本的一个部分，它是研究现有条件下，使目标达到最优的一种数学方法。
+
+线性规划的教学理论是成熟的。求解线性规划的方法——单纯形法易于在计算机上实现。单纯形法的出现使线性规划得到了更广泛的应用，已成为现代科学管理的重要手段之一。
+
+**Problem 1 (有限资源利用问题).**
+
+某企业计划生产Ⅰ、Ⅱ两种产品，这两种产品都要分别在A、B、C、D四种不同设备上加工，各种设备的生产能力和产品的利润如下表所示，试问企业如何安排生产，使得利润最大？
+
+| \toprule
+设备 | 产品Ⅰ | 产品Ⅱ | 资源限制 |
+| --- | --- | --- | --- |
+| \midrule
+A | 2 | 2 | 12 |
+| B | 1 | 2 | 8 |
+| C | 4 | 0 | 16 |
+| D | 0 | 4 | 12 |
+| \midrule
+单位利润 | 2 | 3 |  |
+| \bottomrule |
+
+**解：**设
+
+x_1, x_2 分别表示产品Ⅰ、Ⅱ的产量，则数学模型为：
+
+\begin{aligned}
+\max   & Z = 2x_1 + 3x_2 \\
+\text{s.t.}   & 2x_1 + 2x_2 \leq 12 \\
+& x_1 + 2x_2 \leq 8 \\
+& 4x_1 \leq 16 \\
+& 4x_2 \leq 12 \\
+& x_1, x_2 \geq 0
+\end{aligned}
+
+**Remark 1 (建模要素分析).**
+
+从上述例子可以看到，规划问题的数学模型包括三个组成要素：
+
+1. **a)** **决策变量**：指决策者为实现规划目标的方案、措施，是问题中要确定的未知量
+
+2. **b)** **目标函数**：指问题要达到的目的要求，表示为决策变量的函数
+
+3. **c)** **约束条件**：指决策变量取值时受到的各种可用资源的限制，表示为含决策变量的等式或不等式
+
+### 线性规划问题的数学模型
+
+**Proposition 1 (一般形式).**
+
+一般线性规划问题的数学模型可表示为：
+
+$$
+\begin{aligned}
+\max \text{ 或 } \min   & Z = c_1 x_1 + c_2 x_2 + \cdots + c_n x_n \\
+\text{s.t.}   & a_{11} x_1 + a_{12} x_2 + \cdots + a_{1n} x_n \leq (=, \geq) b_1 \\
+& a_{21} x_1 + a_{22} x_2 + \cdots + a_{2n} x_n \leq (=, \geq) b_2 \\
+& \vdots \\
+& a_{m1} x_1 + a_{m2} x_2 + \cdots + a_{mn} x_n \leq (=, \geq) b_m \\
+& x_1, x_2, \ldots, x_n \geq 0
+\end{aligned}
+$$
+
+**Proposition 2 (简写形式).**
+
+$$
+\begin{aligned}
+\max \text{ 或 } \min   & Z = \sum_{j=1}^{n} c_j x_j \\
+\text{s.t.}   & \sum_{j=1}^{n} a_{ij} x_j \leq (=, \geq) b_i,   i = 1, 2, \ldots, m \\
+& x_j \geq 0,   j = 1, 2, \ldots, n
+\end{aligned}
+$$
+
+**Proposition 3 (向量形式).**
+
+$$
+\begin{aligned}
+\max \text{ 或 } \min   & Z = CX \\
+\text{s.t.}   & \sum_{j=1}^{n} P_j x_j \leq (=, \geq) b \\
+& X \geq 0
+\end{aligned}
+$$
+
+其中 $C = (c_1, c_2, \ldots, c_n)$，$X = (x_1, x_2, \ldots, x_n)^T$，$P_j = (a_{1j}, a_{2j}, \ldots, a_{mj})^T$，$b = (b_1, b_2, \ldots, b_m)^T$。
+
+**Proposition 4 (矩阵形式).**
+
+$$
+\begin{aligned}
+\max \text{ 或 } \min   & Z = CX \\
+\text{s.t.}   & AX \leq (=, \geq) b \\
+& X \geq 0
+\end{aligned}
+$$
+
+其中
+
+$$
+\begin{aligned}
+A = \begin{pmatrix} a_{11} & a_{12} & \cdots & a_{1n} \\ a_{21} & a_{22} & \cdots & a_{2n} \\ \vdots & \vdots & \ddots & \vdots \\ a_{m1} & a_{m2} & \cdots & a_{mn} \end{pmatrix}
+\end{aligned}
+$$
+
+为约束方程组变量的系数矩阵，或者称为约束变量的系数矩阵。
+
+### 线性规划问题的标准形式
+
+线性规划问题的目标函数和约束条件内容和形式上多种多样。为便于讨论，规定线性问题的**标准形式**为：
+
+**Definition 2 (标准形式).**
+
+$$
+\begin{aligned}
+\max   & Z = \sum_{j=1}^{n} c_j x_j \\
+\text{s.t.}   & \sum_{j=1}^{n} a_{ij} x_j = b_i,   i = 1, 2, \ldots, m \\
+& x_j \geq 0,   j = 1, 2, \ldots, n
+\end{aligned}
+$$
+
+其中 $b_i \geq 0$（$i = 1, 2, \ldots, m$）。
+
+**Remark 2.**
+
+标准形式的线性规划模型中：
+
+- 目标函数为求极大值（有些书上规定是求极小值）
+
+- 约束条件为等式
+
+- 约束条件右端常数项 $b_i$ 为非负值
+
+- 变量 $x_j$ 的取值非负
+
+**Proposition 5 (化为标准形式的方法).**
+
+对不符合标准形式的线性规划问题，可分别通过下列方法化为标准形式：
+
+**1. 目标函数为求极小值**
+
+若 $\min Z = \sum_{j=1}^{n} c_j x_j$，因为求 $\min Z$ 等价于求 $\max (-Z)$，令 $Z' = -Z$，即化为：
+
+$$
+\max Z' = -\sum_{j=1}^{n} c_j x_j = \sum_{j=1}^{n} (-c_j) x_j
+$$
+
+**2. 约束条件为不等式**
+
+当约束条件为 "$\leq$"，如 $2x_1 + 2x_2 \leq 12$，可令 $x_3 = 12 - 2x_1 - 2x_2$ 或 $2x_1 + 2x_2 + x_3 = 12$。
+
+显然 $x_3 \geq 0$ 为**松弛变量**（未被充分利用的资源）。
+
+当约束条件为 "$\geq$"，如 $10x_1 + 12x_2 \geq 18$，可令 $x_4 = 10x_1 + 12x_2 - 18$ 或 $10x_1 + 12x_2 - x_4 = 18$。
+
+显然 $x_4 \geq 0$ 为**剩余变量**（超用的资源）。
+
+$x_3$ 和 $x_4$ 是新加上去的变量，取值均为非负，加到原约束条件中去的目的是使不等式转化为等式。松弛变量和剩余变量在实际问题中分别表示未被充分利用的资源和超用的资源数，均未转化为价值和利润，所以引进模型后它们在目标函数中的系数均为 $0$。
+
+**3. 取值无约束变量（自由变量）**
+
+如果变量 $x$ 代表某产品当年计划数与上一年计划数之差，显然 $x$ 的取值可能是正也可能是负，这时可令 $x = x' - x''$，其中 $x' \geq 0, x'' \geq 0$，将其代入线性规划模型即可。
+
+**4. 变量为负数**
+
+若 $x_j \leq 0$，可令 $x_j' = -x_j$，显然 $x_j' \geq 0$。
+
+**Problem 2 (化为标准形式).**
+
+将下列线性规划模型化为标准形式：
+
+$$
+\begin{aligned}
+\min   & Z = x_1 + 2x_2 + 3x_3 \\
+\text{s.t.}   & -2x_1 + x_2 + x_3 \leq 9 \\
+& -3x_1 + x_2 + 2x_3 \geq 4 \\
+& 3x_1 - 2x_2 - 3x_3 = -6 \\
+& x_1 \leq 0,   x_2 \geq 0,   x_3 \text{ 取值无约束}
+\end{aligned}
+$$
+
+**解：**令 $Z' = -Z$，$x_3 = x_3' - x_3''$，$x_1' = -x_1$，则有：
+
+$$
+\begin{aligned}
+\max   & Z' = x_1' - 2x_2 - 3x_3' + 3x_3'' + 0x_4 + 0x_5 \\
+\text{s.t.}   & 2x_1' + x_2 + x_3' - x_3'' + x_4 = 9 \\
+& 3x_1' + x_2 + 2x_3' - 2x_3'' - x_5 = 4 \\
+& 3x_1' + 2x_2 + 3x_3' - 3x_3'' = 6 \\
+& x_1', x_2, x_3', x_3'', x_4, x_5 \geq 0
+\end{aligned}
+$$
+
+其中 $x_4$ 为松弛变量，$x_5$ 为剩余变量。
+
+**Note (化为标准形式的技巧).**
+
+1. 先处理变量：自由变量拆分为两个非负变量，负变量取反
+
+2. 再处理约束：不等式添加松弛/剩余变量，等式保持不变
+
+3. 最后处理目标函数：极小化变极大化（系数取负）
+
+4. 检查右端项：若有负数，等式两边同乘 $-1$
+
+### 线性规划问题的解
+
+**Definition 3 (线性规划问题).**
+
+$$
+\begin{aligned}
+\max   & Z = CX \\
+\text{s.t.}   & AX = b \\
+& X \geq 0
+\end{aligned}
+$$
+
+求解线性规划问题，就是从满足约束条件 $AX = b$，$X \geq 0$ 的方程组中找出一个解，使目标函数 $Z = CX$ 达到最大值。
+
+**Definition 4 (可行解与可行域).**
+
+满足上述约束条件 $AX = b$，$X \geq 0$ 的解称线性规划问题的**可行解**。全部可行解的集合称为**可行域**，记为 $S = \{x \in \mathbb{R}^n \mid Ax = b, x \geq 0\}$。
+
+**Definition 5 (最优解).**
+
+使目标函数 $Z = CX$ 达到最大值的可行解称为**最优解**。若 $\exists x^* \in S$，使得对 $\forall x \in S$，都有 $cx^* \geq cx$，则称 $x^*$ 为问题的最优解。
+
+**Definition 6 (基).**
+
+设 $A$ 是约束方程组 $AX = b$ 的 $m \times n$ 阶系数矩阵（$n > m$），秩为 $m$。$B$ 是矩阵 $A$ 中的一个 $m \times m$ 阶的满秩子矩阵，称 $B$ 是线性规划问题的一个**基**。
+
+不失一般性，设：
+
+$$
+\begin{aligned}
+B = \begin{pmatrix} a_{11} & \cdots & a_{1m} \\ \vdots & \ddots & \vdots \\ a_{m1} & \cdots & a_{mm} \end{pmatrix} = (P_1, P_2, \ldots, P_m)
+\end{aligned}
+$$
+
+- **基向量**：$B = (P_1, P_2, \ldots, P_m)$
+
+- **非基向量**：$N = (P_{m+1}, P_{m+2}, \ldots, P_n)$
+
+- **基变量**：$X_B = (x_1, x_2, \ldots, x_m)^T$
+
+- **非基变量**：$X_N = (x_{m+1}, x_{m+2}, \ldots, x_n)^T$
+
+故
+
+$$
+X = \begin{pmatrix} X_B \\ X_N \end{pmatrix}
+$$
+
+，已知 $A = (B, N)$。
+
+**Proposition 6 (基解的计算).**
+
+其中：$C = (C_B, C_N)$，$A = (B, N)$，
+
+$$
+X = \begin{pmatrix} X_B \\ X_N \end{pmatrix}
+$$
+
+由
+
+$$
+AX = (B, N) \begin{pmatrix} X_B \\ X_N \end{pmatrix} = BX_B + NX_N = b
+$$
+
+，得：
+
+$$
+X_B = B^{-1}b - B^{-1}NX_N
+$$
+
+在上式中令 $X_N = 0$，则得到 $X_B = B^{-1}b$，即
+
+$$
+x = \begin{pmatrix} B^{-1}b \\ 0 \end{pmatrix}
+$$
+
+称之为相应于基 $B$ 的**基解**。
+
+**Definition 7 (基可行解与可行基).**
+
+- **基可行解**：满足变量非负约束条件 $X \geq 0$ 的基解称为基可行解
+
+- **可行基**：对应于基可行解的基称为可行基
+
+有一个基，就可以求出一个基解，由于基的个数是有限的，最多只有 $C_n^m = \frac{n!}{m!(n-m)!}$ 个，故基解最多只有 $\frac{n!}{m!(n-m)!}$ 个，而基可行解的个数不会超过基解的个数。
+
+**Problem 3.**
+
+在下述线性规划问题中，举例说明什么是基、基变量、基解、基可行解和可行基：
+
+$$
+\begin{aligned}
+\max   & Z = 2x_1 + 3x_2 \\
+\text{s.t.}   & 2x_1 + 2x_2 \leq 12 \\
+& x_1 + 2x_2 \leq 8 \\
+& 4x_1 \leq 16 \\
+& 4x_2 \leq 12 \\
+& x_1, x_2 \geq 0
+\end{aligned}
+$$
+
+**解：**引入松弛变量化为标准型：
+
+$$
+\begin{aligned}
+\max   & Z = 2x_1 + 3x_2 + 0x_3 + 0x_4 + 0x_5 + 0x_6 \\
+\text{s.t.}   & 2x_1 + 2x_2 + x_3 = 12 \\
+& x_1 + 2x_2 + x_4 = 8 \\
+& 4x_1 + x_5 = 16 \\
+& 4x_2 + x_6 = 12 \\
+& x_j \geq 0,   j = 1, 2, \ldots, 6
+\end{aligned}
+$$
+
+约束方程组的系数矩阵 $A$（秩不大于4）：
+
+$$
+\begin{aligned}
+A = \begin{pmatrix} 2 & 2 & 1 & 0 & 0 & 0 \\ 1 & 2 & 0 & 1 & 0 & 0 \\ 4 & 0 & 0 & 0 & 1 & 0 \\ 0 & 4 & 0 & 0 & 0 & 1 \end{pmatrix}
+\end{aligned}
+
+(P_3, P_4, P_5, P_6) = \begin{pmatrix} 1 & 0 & 0 & 0 \\ 0 & 1 & 0 & 0 \\ 0 & 0 & 1 & 0 \\ 0 & 0 & 0 & 1 \end{pmatrix} 是上述线性规划问题的一个基；
+
+P_3, P_4, P_5, P_6 对应的变量 x_3, x_4, x_5, x_6 是基变量，x_1, x_2 是非基变量；
+
+在约束方程中如果令 x_1 = x_2 = 0，即可解得 x_3 = 12, x_4 = 8, x_5 = 16, x_6 = 12，因此基解中所有变量取值为非负，故它是基可行解；
+
+因而与这个基可行解对应的基 (P_3, P_4, P_5, P_6) 是一个可行基。
+$$
+
+## 图解法
+
+为便于建立 $n$ 维空间中线性规划问题的概念以及便于理解求解一般线性规划问题的单纯形法的思路，先介绍**图解法**。
+
+图解法优点是直观性强，计算方便，缺点是只适用于问题中有两个变量的情况。
+
+**Proposition 7 (图解法的步骤).**
+
+以例题2为例：
+
+$$
+\begin{aligned}
+\max   & Z = 2x_1 + 3x_2 \\
+\text{s.t.}   & 2x_1 + 2x_2 \leq 12 \\
+& x_1 + 2x_2 \leq 8 \\
+& 4x_1 \leq 16 \\
+& 4x_2 \leq 12 \\
+& x_1, x_2 \geq 0
+\end{aligned}
+$$
+
+**步骤1：**在直角坐标系中画出线性规划问题的可行域。
+
+**步骤2：**做目标函数的等值线，由 $Z=2x_1+3x_2$，得：$x_2 = -\frac{2}{3}x_1 + \frac{1}{3}Z$。
+
+**步骤3：**确定最优解。等值线覆盖于可行域上，当 $Z$ 由小变大时，等值线就沿着其法线方向向上方移动，当移动至点 $Q_2(4,2)$ 时，最优。将其代入目标函数得 $Z=14$。
+
+即该企业生产Ⅰ、Ⅱ产品的最佳方案是：生产4件产品Ⅰ，2件产品Ⅱ，能获得利润14。
+
+### 解的几种情况
+
+上例中最优解唯一，但在线性规划问题的计算中，解的情况还有可能会出现以下几种：
+
+#### 有无穷多解
+
+**Problem 4.**
+
+$$
+\begin{aligned}
+\max   & Z = x_1 + x_2 \\
+\text{s.t.}   & x_1 + x_2 \leq 7 \\
+& x_1 \leq 5 \\
+& x_2 \leq 4 \\
+& x_1, x_2 \geq 0
+\end{aligned}
+$$
+
+线性规划问题的可行域如图，则目标函数的最大值等值线与直线 $x_1+x_2=7$ 重合，故线段 $Q_2Q_3$ 上的点都是该问题的最优解，无穷多最优解。
+
+#### 无界解（无最优解）
+
+**Problem 5.**
+
+$$
+\begin{aligned}
+\max   & Z = 2x_1 + x_2 \\
+\text{s.t.}   & -x_1 + 2x_2 \leq 2 \\
+& 2x_1 + x_2 \geq 1 \\
+& x_1, x_2 \geq 0
+\end{aligned}
+$$
+
+线性规划问题的可行域如图，目标函数值在可行域中可以增加到无穷大。故本题虽有可行解，但无最优解。其原因是建模时漏掉了某些必要的资源约束。
+
+#### 无可行解
+
+**Problem 6.**
+
+$$
+\begin{aligned}
+\max   & Z = 2x_1 + 3x_2 \\
+\text{s.t.}   & 2x_1 + 2x_2 \leq 12 \\
+& x_1 + 2x_2 \geq 14 \\
+& x_1, x_2 \geq 0
+\end{aligned}
+$$
+
+当可行域是空集时，自然不会有最优解。
+
+**Theorem 1.**
+
+可行域一定是一个有界或者无界的凸多边形。若问题有最优解，则它一定位于可行域的顶点处。若在两个顶点处同时达到最优解，则它们的连线上的任一点都将是最优解，即有无穷多个最优解。
+
+**Note (图解法的启示).**
+
+对于一般的含有 $n$ 个变量的线性规划问题，上述结论是否也成立？为此，还需做进一步的理论分析。图解法告诉我们：
+
+1. 线性规划的可行域是凸集
+
+2. 最优解（如果存在）一定在顶点处达到
+
+3. 这启发我们：只需要在顶点中寻找最优解
+
+这就是单纯形法的几何基础。
+
+## 单纯形法原理
+
+**单纯形法**是求解一般线性规划问题的基本方法，在1947年由"线性规划之父"丹捷格（Dantzig）提出。
+
+**Note (单纯形法的核心思想).**
+
+单纯形法的精髓可以用一句话概括："在顶点之间跳跃，每次跳跃都变得更好"。
+
+具体来说：
+
+1. 从一个顶点（基可行解）出发
+
+2. 判断当前顶点是否最优（检验数）
+
+3. 如果不是最优，找一个相邻的更好的顶点（基变换）
+
+4. 重复直到找到最优
+
+为什么这样做有效？因为线性规划的可行域是凸多面体，最优解一定在顶点处达到。而单纯形法巧妙地利用代数方法（基变换）来实现几何上的"顶点跳跃"。
+
+### 预备知识：凸集和顶点
+
+**Definition 8 (凸集).**
+
+对于一个给定的几何图形，通常可以直观上判断其凹凸性。但这样做一方面不严格，容易产生错误；另一方面，如果一个几何形体给出的只是解析表达式，则无法从直观上进行判断。
+
+**凸集的严格定义：**若集合 $C$ 中任意两点 $X_1, X_2$，其连线上的所有点，也都是集合 $C$ 中的点，称 $C$ 为凸集。由于 $X_1, X_2$ 的连线可以表示为：
+
+$$
+\alpha X_1 + (1-\alpha) X_2,   0 < \alpha < 1
+$$
+
+**凸集的定义用数学语言表示：**对 $\forall X_1 \in C, X_2 \in C$，有 $\alpha X_1 + (1-\alpha) X_2 \in C$（$0 < \alpha < 1$）。
+
+**Definition 9 (顶点).**
+
+凸集 $C$ 中满足下述条件的点 $X$ 称为**顶点**：如果 $C$ 中不存在任意两个不同的点 $X_1$ 和 $X_2$，使 $X$ 成为这两个点连线上的一个点。即对任何 $X_1 \in C$，$X_2 \in C$，不存在 $X = \alpha X_1 + (1-\alpha) X_2$（$0 < \alpha < 1$），则称 $X$ 是凸集 $C$ 的顶点。
+
+### 几个基本定理的证明
+
+**Theorem 2 (定理一).**
+
+若线性规划问题存在可行解，则问题的可行域是凸集。
+
+**Theorem 3 (定理二).**
+
+线性规划问题的基可行解，对应线性规划问题可行域的顶点。
+
+**Lemma 1.**
+
+可行解是基可行解的充要条件：$X$ 正分量所对应的列向量是线性独立的（用于证明定理二）。
+
+**Theorem 4 (定理三).**
+
+可行域有界，则最优解必在可行域顶点达到。
+
+**Lemma 2.**
+
+若 $C$ 为有界凸集，对 $C$ 中任一点可表示为 $C$ 顶点的凸组合（用于证明定理三）。
+
+**Theorem 5 (定理四).**
+
+若在多个顶点达到最优，则在这些顶点任意凸组合上达最优。
+
+**Proposition 8 (总结：线性规划问题最优解情况).**
+
+- 可行域空集：没有可行解，不存在最优解
+
+- 可行域非空：可行域是凸集
+
+  - 可行域为有界凸集：一定存在最优解，一定在顶点取得
+
+    - 最优解唯一：最优解一定在可行域某一个顶点取得
+    - 最优解无穷多个：最优解一定至少在两个顶点取得
+  - 可行域是无界凸集合：可能有最优解，可能无最优解
+
+    - 有最优解：有唯一最优解（一个顶点）；有无穷多最优解（至少两个顶点）
+
+由于可行域顶点有限，故可以枚举法逐个比较，找到最优解，但 $m, n$ 较大时，做法不可取。
+
+### 单纯形法
+
+单纯形法是求解线性规划问题最为有效的一个方法，它的基本思想是从一个基可行解（即可行域的一个顶点）出发，经过基变换转换到另一个基可行解，最后得到最优解。
+
+**Problem 7 (引例).**
+
+$$
+\begin{aligned}
+\max   & Z = -2x_1 - 5x_2 - 8x_3 \\
+\text{s.t.}   & x_1 + x_3 = 5 \\
+& x_2 + 2x_3 = 7 \\
+& x_1, x_2, x_3 \geq 0
+\end{aligned}
+$$
+
+单纯形法的三个关键步骤：
+
+1. 确定初始基可行解
+
+2. 最优性检验及解的判定
+
+3. 基变换
+
+#### 确定初始基可行解
+
+线性规划问题如果存在最优解，一定可以在基可行解中找到，因此单纯形法的基本思路是，先找到一个初始基可行解，如果不是最优解，设法转换到另一个基可行解，不断进行一直到找到最优解为止。
+
+线性规划约束条件全部为"$\leq$"时，可按照下述方法找出初始基可行解。
+
+左式第 $i$ 个约束条件上加上松弛变量 $x_{si}$，化为标准形式：
+
+$$
+\begin{aligned}
+\max   & Z = \sum_{j=1}^{n} c_j x_j + \sum_{j=1}^{m} 0 \cdot x_{si} \\
+\text{s.t.}   & \sum_{j=1}^{n} a_{ij} x_j + x_{si} = b_i,   i = 1, 2, \ldots, m
+\end{aligned}
+$$
+
+约束方程组的系数矩阵为：
+
+$$
+\begin{aligned}
+\begin{pmatrix} a_{11} & a_{12} & \cdots & a_{1n} & 1 & 0 & \cdots & 0 \\ a_{21} & a_{22} & \cdots & a_{2n} & 0 & 1 & \cdots & 0 \\ \vdots & \vdots & \ddots & \vdots & \vdots & \vdots & \ddots & \vdots \\ a_{m1} & a_{m2} & \cdots & a_{mn} & 0 & 0 & \cdots & 1 \end{pmatrix}
+\end{aligned}
+$$
+
+以上矩阵中含有单位矩阵 $(P_{s1}, P_{s2}, \ldots, P_{sm})$。
+
+以上单位矩阵为基，解出变量值 $x_{si} = b_i$（$i = 1, \ldots, m$）。
+
+$\because b_i \geq 0$，$\therefore X = (0, \ldots, 0, b_1, \ldots, b_m)^T$ 是一个基可行解。
+
+当线性规划中约束条件为 "$=$" 或 "$\geq$" 时，化为标准形式后，一般约束条件的系数矩阵中不包含有单位矩阵。为便于找出一个初始基可行解，可添加人工变量构造单位矩阵，称作**人工基**。
+
+#### 最优性检验及解的判定
+
+设基变量 $X_B = (x_1, \ldots, x_m)^T$，非基变量 $X_N = (x_{m+1}, \ldots, x_n)^T$，$B$ 为基矩阵，位于 $A$ 前 $m$ 列，$A = (B, N)$，$C = (C_B, C_N)$。
+
+由
+
+$$
+AX = (B, N) \begin{pmatrix} X_B \\ X_N \end{pmatrix} = BX_B + NX_N = b
+$$
+
+，得：
+
+$$
+X_B + B^{-1}NX_N = B^{-1}b
+$$
+
+目标函数：
+
+$$
+Z = C_B B^{-1}b - C_B B^{-1}NX_N + C_N X_N = C_B B^{-1}b + (C_N - C_B B^{-1}N)X_N
+$$
+
+**Definition 10 (检验数).**
+
+目标函数中非基变量的系数称为**检验数**：
+
+$$
+(\delta_{m+1}, \ldots, \delta_n) = C_N - C_B B^{-1}N
+$$
+
+即 $\delta_j = c_j - C_B B^{-1}P_j = c_j - \sum_{i=1}^{m} c_{B_i} a_{ij}'$。
+
+令非基变量 $X_N = 0$ 可得 $X_B = B^{-1}b$，得到初始基可行解
+
+$$
+X^{(0)} = \begin{pmatrix} B^{-1}b \\ 0 \end{pmatrix}
+$$
+
+。
+
+**Theorem 6 (最优性判别定理).**
+
+设 $X^{(0)} = (b_1', b_2', \ldots, b_m', 0, \ldots, 0)^T$ 为对应于基 $B$ 的一个基可行解：
+
+1. **(a)** 所有 $\delta_j \leq 0$（$j = m+1, m+2, \ldots, n$）$\Rightarrow$ 最优解
+
+2. **(b)** 所有 $\delta_j \leq 0$（$j = m+1, m+2, \ldots, n$）且存在某个非基变量检验数 $\delta_{m+k} = 0$ 且按公式 $\theta = \min\left\{\frac{x_i}{a_{i,m+k}} \mid a_{i,m+k} > 0\right\}$ 可以找到 $\theta > 0$，这表明可以找到另一顶点（基可行解）目标函数值也达到最大。$\Rightarrow$ 无穷多解
+
+3. **(c)** 存在某 $\delta_{m+k} > 0$ 且对所有 $i$，有 $a_{i,m+k} \leq 0$（$i = 1, 2, \ldots, m$）$\Rightarrow$ 无界解/无最优解
+
+**Note (检验数的经济含义).**
+
+检验数 $\delta_j$ 表示：如果让非基变量 $x_j$ 增加1个单位，目标函数值会改变多少。
+
+- 若 $\delta_j > 0$：增加 $x_j$ 会使目标函数值增大（对最大化问题有利）
+
+- 若 $\delta_j < 0$：增加 $x_j$ 会使目标函数值减小
+
+- 若 $\delta_j = 0$：增加 $x_j$ 不会改变目标函数值
+
+因此，对于最大化问题，当所有 $\delta_j \leq 0$ 时，当前解就是最优的——没有任何非基变量能再改善目标函数值了。
+
+#### 基变换
+
+初始基可行解不是最优解及不能判别无界时，寻找新的基可行解，进行基变换：
+
+- 确定换入（进基）变量：从原来的非基变量中选择一个变量作为基变量
+
+- 确定换出（出基）变量：从原来的基变量中确定一个变量作为非基变量
+
+**确定进基（换入）变量：**
+
+当某些 $\delta_j > 0$ 时，$x_j$ 增加则目标函数值还可以增大，要将某个非基变量 $x_j$ 换到基变量中去（称为换入/进基变量）。
+
+若两个以上 $\delta_j > 0$，一般选 $\delta_j > 0$ 中的最大者，即：
+
+$$
+\delta_k = \max\{\delta_i \mid \delta_i > 0\}
+$$
+
+**确定换出（出基）变量：**
+
+由 $X_B = B^{-1}b - B^{-1}NX_N$，当 $x_k$ 进基时，其他非基变量仍为0，则：
+
+$$
+x_i = b_i' - a_{ik}' x_k
+$$
+
+为了保证 $x_i \geq 0$，必须有 $x_k \leq \frac{b_i'}{a_{ik}'}$（当 $a_{ik}' > 0$ 时）。
+
+令：
+
+$$
+\theta = \min\left\{\frac{b_i'}{a_{ik}'} \mid a_{ik}' > 0\right\} = \frac{b_l'}{a_{lk}'}
+$$
+
+则 $x_l$ 为出基变量。
+
+**Note (最小比值法则的理解).**
+
+为什么要用最小比值法则？
+
+当我们让进基变量 $x_k$ 增加时，为了保持等式约束成立，基变量需要相应调整。取最小比值，是为了找到第一个变为0的基变量——这就是出基变量。如果比值不是最小的那个，那么那个基变量会先变成负数，违反非负约束。
+
+**基变换总结归纳：**
+
+从一个基可行解到另一个基可行解的变换，就是进行一次基变换。从几何意义上讲，就是从可行域的一个顶点转向另一个顶点。相邻的基可行解：从一个基可行解转换为相邻的基可行解。
+
+## 单纯形表
+
+**Definition 11 (单纯形表).**
+
+**单纯形表**是将线性规划问题的系数以表格形式表示，便于进行迭代计算的工具。
+
+**Note (单纯形表的结构理解).**
+
+单纯形表实际上是把线性规划问题的所有信息浓缩在一个表格中：
+
+- 第一行：价值系数 $c_j$
+
+- 第一列：基变量的价值系数 $C_B$
+
+- 中间：约束矩阵（基变量对应的列构成单位矩阵）
+
+- 右端：当前基可行解的值 $b$
+
+- 最下行：检验数 $\delta_j$
+
+- 右下角：当前目标函数值 $Z$
+
+每次迭代就是通过行变换，把进基变量对应的列变成单位向量，同时更新检验数。
+
+### 完整单纯形表求解示例
+
+**Problem 8 (用单纯形法求解生产计划问题).**
+
+$$
+\begin{aligned}
+\max   & Z = 2x_1 + 3x_2 \\
+\text{s.t.}   & 2x_1 + 2x_2 \leq 12 \\
+& x_1 + 2x_2 \leq 8 \\
+& 4x_1 \leq 16 \\
+& 4x_2 \leq 12 \\
+& x_1, x_2 \geq 0
+\end{aligned}
+$$
+
+**第一步：化为标准型**
+
+引入松弛变量 $x_3, x_4, x_5, x_6$：
+
+$$
+\begin{aligned}
+\max   & Z = 2x_1 + 3x_2 + 0x_3 + 0x_4 + 0x_5 + 0x_6 \\
+\text{s.t.}   & 2x_1 + 2x_2 + x_3 = 12 \\
+& x_1 + 2x_2 + x_4 = 8 \\
+& 4x_1 + x_5 = 16 \\
+& 4x_2 + x_6 = 12 \\
+& x_j \geq 0,   j = 1, 2, \ldots, 6
+\end{aligned}
+$$
+
+**第二步：建立初始单纯形表**
+
+初始基变量为 $x_3, x_4, x_5, x_6$，对应单位矩阵。
+
+**初始单纯形表（迭代0）**
+
+| \toprule | $c_j$ | 2 | 3 | 0 | 0 | 0 | 0 |  |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| $C_B$ | 基 | $x_1$ | $x_2$ | $x_3$ | $x_4$ | $x_5$ | $x_6$ | $b$ | $\theta$ |
+| \midrule
+0 | $x_3$ | 2 | 2 | 1 | 0 | 0 | 0 | 12 | $12/2=6$ |
+| 0 | $x_4$ | 1 | 2 | 0 | 1 | 0 | 0 | 8 | $8/2=4$ |
+| 0 | $x_5$ | 4 | 0 | 0 | 0 | 1 | 0 | 16 | $-$ |
+| 0 | $x_6$ | 0 | **[4]** | 0 | 0 | 0 | 1 | 12 | $12/4=3$ $\leftarrow$ |
+| \midrule | $\delta_j$ | 2 | **3**$\uparrow$ | 0 | 0 | 0 | 0 | $Z=0$ |  |
+| \bottomrule |
+
+**分析：**
+
+- 检验数：$\delta_1 = 2 > 0$，$\delta_2 = 3 > 0$，当前不是最优解
+
+- 选择最大检验数：$\delta_2 = 3$，所以 $x_2$ 进基
+
+- 计算 $\theta$ 比值，最小为3，所以 $x_6$ 出基
+
+- 主元为 $a_{42} = 4$（表中用[4]标记）
+
+**第三步：第一次迭代**
+
+以 $a_{42} = 4$ 为主元进行行变换：
+
+- 第4行除以4
+
+- 其他行消去 $x_2$ 的系数
+
+**第一次迭代后（迭代1）**
+
+| \toprule | $c_j$ | 2 | 3 | 0 | 0 | 0 | 0 |  |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| $C_B$ | 基 | $x_1$ | $x_2$ | $x_3$ | $x_4$ | $x_5$ | $x_6$ | $b$ | $\theta$ |
+| \midrule
+0 | $x_3$ | 2 | 0 | 1 | 0 | 0 | $-1/2$ | 6 | $6/2=3$ |
+| 0 | $x_4$ | **[1]** | 0 | 0 | 1 | 0 | $-1/2$ | 2 | $2/1=2$ $\leftarrow$ |
+| 0 | $x_5$ | 4 | 0 | 0 | 0 | 1 | 0 | 16 | $16/4=4$ |
+| 3 | $x_2$ | 0 | 1 | 0 | 0 | 0 | $1/4$ | 3 | $-$ |
+| \midrule | $\delta_j$ | **2**$\uparrow$ | 0 | 0 | 0 | 0 | $-3/4$ | $Z=9$ |  |
+| \bottomrule |
+
+**分析：**
+
+- 检验数：$\delta_1 = 2 > 0$，当前不是最优解
+
+- $x_1$ 进基，$x_4$ 出基（最小比值2）
+
+- 主元为 $a_{21} = 1$
+
+**第四步：第二次迭代**
+
+**第二次迭代后（迭代2）**
+
+| \toprule | $c_j$ | 2 | 3 | 0 | 0 | 0 | 0 |  |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| $C_B$ | 基 | $x_1$ | $x_2$ | $x_3$ | $x_4$ | $x_5$ | $x_6$ | $b$ | $\theta$ |
+| \midrule
+0 | $x_3$ | 0 | 0 | 1 | $-2$ | 0 | $1/2$ | 2 | $2/(1/2)=4$ |
+| 2 | $x_1$ | 1 | 0 | 0 | 1 | 0 | $-1/2$ | 2 | $-$ |
+| 0 | $x_5$ | 0 | 0 | 0 | $-4$ | 1 | **[2]** | 8 | $8/2=4$ $\leftarrow$ |
+| 3 | $x_2$ | 0 | 1 | 0 | 0 | 0 | $1/4$ | 3 | $3/(1/4)=12$ |
+| \midrule | $\delta_j$ | 0 | 0 | 0 | $-2$ | 0 | **$1/4$**$\uparrow$ | $Z=13$ |  |
+| \bottomrule |
+
+**分析：**
+
+- 检验数：$\delta_6 = 1/4 > 0$，当前不是最优解
+
+- $x_6$ 进基，$x_5$ 出基（最小比值4）
+
+- 主元为 $a_{36} = 2$
+
+**第五步：第三次迭代**
+
+**第三次迭代后（迭代3）——最终表**
+
+| \toprule | $c_j$ | 2 | 3 | 0 | 0 | 0 | 0 |  |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| $C_B$ | 基 | $x_1$ | $x_2$ | $x_3$ | $x_4$ | $x_5$ | $x_6$ | $b$ |
+| \midrule
+0 | $x_3$ | 0 | 0 | 1 | $-1$ | $-1/4$ | 0 | 0 |
+| 2 | $x_1$ | 1 | 0 | 0 | 0 | $1/4$ | 0 | **4** |
+| 0 | $x_6$ | 0 | 0 | 0 | $-2$ | $1/2$ | 1 | **4** |
+| 3 | $x_2$ | 0 | 1 | 0 | $1/2$ | $-1/8$ | 0 | **2** |
+| \midrule | $\delta_j$ | 0 | 0 | 0 | **$-3/2$** | **$-1/8$** | 0 | $Z=14$ |
+| \bottomrule |
+
+**最优性检验：**所有检验数 $\delta_j \leq 0$，达到最优！
+
+**最优解：**
+
+- 基变量：$x_1 = 4, x_2 = 2, x_3 = 0, x_6 = 4$
+
+- 非基变量：$x_4 = 0, x_5 = 0$
+
+- 最优值：$Z^* = 2 \times 4 + 3 \times 2 = 14$
+
+**实际意义：**企业应生产4件产品Ⅰ，2件产品Ⅱ，可获得最大利润14元。此时设备A、B的产能刚好用完（$x_3 = x_4 = 0$），设备C还有4单位剩余（$x_6 = 4$），设备D用完（$x_5 = 0$）。
+
+**Note (单纯形法计算要点总结).**
+
+1. **初始表的建立**：引入松弛变量，确定初始基（通常是单位矩阵对应的松弛变量）
+
+2. **检验数的计算**：$\delta_j = c_j - \sum C_B \cdot a_{ij}'$
+
+3. **进基变量的选择**：最大正检验数对应的变量
+
+4. **出基变量的选择**：最小比值法则 $\theta = \min\{b_i/a_{ik} \mid a_{ik} > 0\}$
+
+5. **主元变换**：高斯消元，将进基变量列变成单位向量
+
+6. **终止条件**：所有检验数 $\leq 0$（最大化问题）
+
+### 退化现象
+
+**Definition 12 (退化的基可行解).**
+
+当确定进基变量计算 $\theta$ 值时，若有两个或多个相同的最小值，任取其中一个基变量作为出基变量，则下表中另一基变量的值将等于 $0$。含一个或多个基变量为 $0$ 的基可行解称为**退化的基可行解**。
+
+**Remark 3.**
+
+当发生退化现象时，从理论上讲，有可能出现计算过程的循环，但在实际问题的线性规划模型，计算中未曾出现过循环现象。因此，出现退化现象时可以任意决定哪一个变量作为出基变量，不必考虑理论上可能出现循环的后果。
+
+## 单纯形法的进一步讨论
+
+### 人工变量法（大M法）
+
+当约束条件为 "$=$" 或 "$\geq$" 时，化为标准形式后，一般约束条件的系数矩阵中不包含有单位矩阵。为便于找出一个初始基可行解，需要引入人工变量构造单位矩阵，称作人工基。
+
+**Proposition 9 (大M法).**
+
+对于最大化问题，在目标函数中给人工变量赋予一个很大的负系数 $-M$（$M > 0$ 为充分大的正数）：
+
+$$
+\max Z = \sum_{j=1}^{n} c_j x_j - M \sum_{i=1}^{m} x_{a_i}
+$$
+
+其中 $x_{a_i}$ 为人工变量。
+
+- 若最优解中人工变量全为 $0$，则得到原问题的最优解
+
+- 若最优解中人工变量不全为 $0$，则原问题**无可行解**
+
+由上例可看出运用大M法时，若是通过手工求解，其计算过程虽有些繁琐，但无太大困难。可是，若运用大M法在计算机上进行运算，必须对 $M$ 给出具体的赋值，如何选择一个合适的充分大的正数作为 $M$ 的取值是一个难点。
+
+### 两阶段法
+
+**Proposition 10 (两阶段法).**
+
+**第一阶段**：构造辅助问题，最小化人工变量之和
+
+$$
+\min w = \sum_{i=1}^{m} x_{a_i}
+$$
+
+两阶段法的第一阶段是先求解一个目标函数中只包含人工变量的线性规划问题，即令目标函数中其他变量系数为 $0$，人工变量的系数取某个正数（一般取 $1$），在保持原问题的约束条件不变的情况下求这个目标函数的极小化时的解。
+
+虽然在第一阶段中，当人工变量的取值为 $0$ 时，目标函数也为 $0$，这时候的最优解就是原线性规划问题的一个可行解。
+
+- 最优目标值 $w = 0$，且人工变量皆为非基变量。从第一阶段的最优解中去掉人工变量后，即为原线性规划的一个初始基可行解，再求原问题，从而进入第二阶段。
+
+- 最优目标值 $w = 0$，且存在人工变量为基变量，但取值为零。把某个非基变量与该人工变量进行调换，进入第二阶段。
+
+- 最优目标值 $w \neq 0$，也即最优解的基变量中含有人工变量，且不为 $0$。表明原线性规划问题**无可行解**。
+
+**第二阶段**：从第一阶段最终单纯形表出发，去掉人工变量，并按问题原来的目标函数，继续寻找问题的最优解。
+
+**Note (大M法 vs 两阶段法).**
+
+- **大M法**：用一个很大的数 $M$ 来"惩罚"人工变量，计算简单但 $M$ 的取值需要经验
+
+- **两阶段法**：分两个阶段求解，第一阶段找可行解，第二阶段求最优解，更加系统化，计算机实现更方便
+
+在实际计算中，两阶段法更为常用。
+
+### 关于解的判别
+
+**Proposition 11 (解的判别总结).**
+
+1. **(1)** 设 $X^{(0)} = (b_1', b_2', \ldots, b_m', 0, \ldots, 0)^T$ 为对应于基 $B$ 的一个基可行解：
+
+  1. **(a)** 所有 $\delta_j \leq 0$（$j = m+1, m+2, \ldots, n$）$\Rightarrow$ 最优解
+  2. **(b)** 所有 $\delta_j \leq 0$（$j = m+1, m+2, \ldots, n$）且存在某个非基变量检验数 $\delta_{m+k} = 0$ 且按公式 $\theta = \min\left\{\frac{x_i}{a_{i,m+k}} \mid a_{i,m+k} > 0\right\}$ 可以找到 $\theta > 0$ $\Rightarrow$ 无穷多解
+  3. **(c)** 存在某 $\delta_{m+k} > 0$ 且对所有 $i$，有 $a_{i,m+k} \leq 0$（$i = 1, 2, \ldots, m$）$\Rightarrow$ 无界解/无最优解
+
+2. **(2)** 若引入人工变量后，问题满足最优性条件时基变量仍含有人工变量，且人工变量不为零时，问题**无可行解**。
+
+**Note (各种解的情况在单纯形表中的体现).**
+
+下面对图解法中已求解过的几个例子，再用单纯形法计算，对比一下各种解在单纯形表中的出现形式：
+
+**（1）有无穷多最优解：**最优表中存在某个非基变量的检验数为0，且该变量可以进基。
+
+**（2）无界解（或无最优解）：**存在检验数大于0的列，且该列的所有系数都小于等于0。
+
+**（3）无可行解：**引入人工变量后，最优解中仍含有人工变量且不为零。
+
+## 线性规划的应用
+
+**Problem 9 (工业原材料的合理利用——下料问题).**
+
+要制作100套钢筋架子，每套有长2.9m、2.1m和1.5m的钢筋各一根，已知原材料长7.4m，应如何切割使用原材料更节省？
+
+**分析：**首先列出所有可能的切割方案（下料方式），然后设按第 $j$ 种方案切割的原材料根数为 $x_j$，建立线性规划模型，目标是最小化使用的原材料总数。
+
+**Problem 10 (排班问题).**
+
+某昼夜服务的公交线路每天各时间段内所需司机和乘务人员数如下：
+
+设司机和乘务人员分别在各时间段一开始时上班，并连续工作八小时，问该公交线路怎样安排司机和乘务人员，既能满足工作需要，又配备最少司机和乘务人员？
+
+**分析：**设第 $i$ 个时间段开始上班的人数为 $x_i$，每个工作人员工作8小时（覆盖两个时间段），建立线性规划模型，目标是最小化总人数。
+
+**Problem 11 (人员安排问题).**
+
+福安商场是个中型的百货商场，它对售货员的需求经过统计分析如下表：
+
+为了保证售货人员充分休息，售货人员每周工作5天，休息两天，并要求休息的两天是连续的。问应该如何安排售货人员的作息，既满足工作需要，又使配备的售货人员的人数最少？
+
+**分析：**设从周一开始休息的人数为 $x_1$，周二开始休息的人数为 $x_2$，依此类推。每个人休息两天，工作五天。建立线性规划模型，目标是最小化总人数。
+
+**Note (线性规划建模的一般步骤).**
+
+1. **理解问题**：明确决策目标、约束条件、决策变量
+
+2. **设定变量**：确定需要决策的未知量
+
+3. **建立目标函数**：将目标表示为变量的线性函数
+
+4. **列出约束条件**：将限制表示为变量的线性等式或不等式
+
+5. **化为标准型**：根据需要化为标准形式，便于求解
+
+# 本章小结
+
+\addcontentsline{toc}{chapter}{本章小结}
+
+> **Note.** **一、核心概念**
+
+- 线性规划的标准形式：目标函数最大化、约束为等式、变量非负、右端项非负
+
+- 基、基变量、基解、基可行解、可行基
+
+- 检验数：判断最优性的关键指标
+
+- 单纯形法的几何意义：在可行域顶点间跳跃寻找最优
+
+**二、关键定理**
+
+- 线性规划的可行域是凸集
+
+- 基可行解与可行域顶点一一对应
+
+- 最优解必在可行域顶点达到（如果存在）
+
+- 最优性判别定理（检验数）
+
+**三、单纯形法计算步骤**
+
+1. 化为标准型，确定初始基可行解
+
+2. 计算检验数，判断是否最优
+
+3. 选择进基变量（最大正检验数）
+
+4. 选择出基变量（最小比值法则）
+
+5. 进行行变换，更新单纯形表
+
+6. 重复2-5直到所有检验数 $\leq 0$
+
+**四、解的四种情况**
+
+- 唯一最优解：所有检验数 $< 0$
+
+- 无穷多最优解：存在检验数 $= 0$ 的非基变量可进基
+
+- 无界解：存在检验数 $> 0$ 且对应列全 $\leq 0$
+
+- 无可行解：人工变量无法从基中剔除
+
+**五、人工变量处理**
+
+- 大M法：用很大的数惩罚人工变量
+
+- 两阶段法：第一阶段找可行解，第二阶段求最优解
+
+**Note (学习建议).**
+
+1. 先理解图解法的几何直观，再学习单纯形法的代数运算
+
+2. 单纯形表要多练习，熟练掌握行变换
+
+3. 理解检验数的经济含义，不要死记硬背
+
+4. 注意区分松弛变量、剩余变量和人工变量的不同作用
+
+5. 多做应用题，培养建模能力
+
+## PDF
+
+Download the original write-up [here](/files/Grade3/Homework/Operations-Research/lp-simplex.pdf).0:{"buildId":"rZLQ8EVqblT6xTH8wdhS0","rsc":["$","$1","c",{"children":[["$","$L2",null,{"hasContent":false,"children":[false,["$","$L3",null,{"baseLdJson":{"@context":"https://schema.org","@type":"BlogPosting","headline":"Operations Research — Linear Programming Notes","description":"Notes on linear programming and the simplex method.","datePublished":"2026-03-20T00:00:00.000Z","dateModified":"2026-03-20T00:00:00.000Z"}}],["$","$L4",null,{"data":{"id":"post-or-lp","created":"2026-03-20T00:00:00.000Z","modified":"2026-03-20T00:00:00.000Z","title":"Operations Research — Linear Programming Notes","text":"$5","summary":"Notes on linear programming and the simplex method.","copyright":true,"tags":["Homework","Operations Research","Notes"],"slug":"operations-research-lp-notes","categoryId":"cat-or","category":{"id":"cat-or","slug":"operations-research","name":"Operations Research","created":"2026-03-01T00:00:00.000Z","type":0,"count":3},"images":[],"pin":null,"pinOrder":0,"related":[],"allowComment":true,"commentsIndex":0,"count":{"read":0,"like":0}}}],"$L6","$L7","$L8"]}],["$L9","$La","$Lb","$Lc","$Ld","$Le","$Lf","$L10","$L11","$L12","$L13","$L14","$L15","$L16"],"$L17"]}],"loading":null,"isPartial":false}
+6:["$","$L18",null,{"fetchedAt":"2026-08-19T10:14:50.708Z"}]
+7:["$","div",null,{"data-server-fetched-at":"2026-08-19T10:14:50.708Z","className":"relative flex min-h-[120px] grid-cols-[auto_200px] lg:grid","children":[["$","$L19",null,{"lcpOptimization":true,"className":"min-w-0","children":[["$","div",null,{"className":"relative w-full min-w-0","children":[["$","$L1a",null,{"id":"post-or-lp","type":"post"}],["$","div",null,{"children":[["$","div",null,{"className":"mb-8","children":[["$","$L1b",null,{}],["$","$L1c",null,{"id":"post-or-lp","type":"posts","className":"absolute -top-6 right-0"}],["$","$L1d",null,{"className":"mb-8 justify-center"}],["$","$L1e",null,{}],["$","$L1f",null,{"type":"before"}]]}],["$","$L20",null,{"eoaDetect":true,"children":[["$","$L21",null,{}],["$","$L22",null,{"children":["$","$L23",null,{"children":["$","article",null,{"className":"prose","children":[["$","div",null,{"className":"sr-only","children":["$","$L1b",null,{}]}],["$","$L24",null,{}],["$","$L25",null,{}]]}]}]}],["$","$L26",null,{"children":["$","$L27",null,{}]}]]}]]}],["$","$L28",null,{"children":[["$","$L1f",null,{}],["$","$L29",null,{}],["$","$L2a",null,{}]]}]]}],["$","$L2b",null,{"delay":500,"children":["$","$L2c",null,{"refId":"post-or-lp","allowComment":true}]}]]}],["$","$L2d",null,{"className":"relative hidden lg:block"}]]}]
+8:["$","$L2e",null,{"children":["$","$L2f",null,{}]}]
+9:["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/136744c992bad96d.css","precedence":"next"}]
+a:["$","link","1",{"rel":"stylesheet","href":"/_next/static/chunks/0169140b52b18b81.css","precedence":"next"}]
+b:["$","link","2",{"rel":"stylesheet","href":"/_next/static/chunks/cf19f565ce194e50.css","precedence":"next"}]
+c:["$","link","3",{"rel":"stylesheet","href":"/_next/static/chunks/2a531debc05d9c48.css","precedence":"next"}]
+d:["$","link","4",{"rel":"stylesheet","href":"/_next/static/chunks/f6d4eb0f1595037c.css","precedence":"next"}]
+e:["$","link","5",{"rel":"stylesheet","href":"/_next/static/chunks/be9fe8599e8928e8.css","precedence":"next"}]
+f:["$","script","script-0",{"src":"/_next/static/chunks/35eaa08fca66b29e.js","async":true}]
+10:["$","script","script-1",{"src":"/_next/static/chunks/f91f857f975d1c9f.js","async":true}]
+11:["$","script","script-2",{"src":"/_next/static/chunks/dabd062b49706f28.js","async":true}]
+12:["$","script","script-3",{"src":"/_next/static/chunks/740441c5b62d2d93.js","async":true}]
+13:["$","script","script-4",{"src":"/_next/static/chunks/dcd49895cb9db447.js","async":true}]
+14:["$","script","script-5",{"src":"/_next/static/chunks/175944aa1545ac7c.js","async":true}]
+15:["$","script","script-6",{"src":"/_next/static/chunks/16494c9ed210a726.js","async":true}]
+16:["$","script","script-7",{"src":"/_next/static/chunks/19ed43205a6e84be.js","async":true}]
+17:["$","$L30",null,{"children":["$","$31",null,{"name":"Next.MetadataOutlet","children":"$@32"}]}]
+32:null
