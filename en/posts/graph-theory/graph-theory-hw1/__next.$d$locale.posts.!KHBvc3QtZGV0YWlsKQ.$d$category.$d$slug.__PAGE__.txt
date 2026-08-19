@@ -124,7 +124,7 @@ $$
 
 ## PDF
 
-Download the original write-up [here](/files/Grade3/Homework/Graph-Theory/homework1.pdf).0:{"buildId":"4lK6jJ-LNlsa-O0kGQwZ-","rsc":["$","$1","c",{"children":[["$","div",null,{"className":"relative flex min-h-[120px] grid-cols-[auto_200px] lg:grid","children":["$","div",null,{"className":"relative w-full min-w-0","children":["$","article",null,{"className":"prose","children":[["$","h1",null,{"className":"mb-8 text-balance text-center lg:text-left text-4xl font-bold leading-tight","children":"Graph Theory — Homework 1"}],["$","$L2",null,{"allowsScript":true,"value":"$3","className":"min-w-0 overflow-hidden"}]]}]}]}],["$L4","$L5","$L6"],"$L7"]}],"loading":null,"isPartial":false}
+Download the original write-up [here](/files/Grade3/Homework/Graph-Theory/homework1.pdf).0:{"buildId":"T1vZZgbRHAvgAqrsF8hjk","rsc":["$","$1","c",{"children":[["$","div",null,{"className":"relative flex min-h-[120px] grid-cols-[auto_200px] lg:grid","children":["$","div",null,{"className":"relative w-full min-w-0","children":["$","article",null,{"className":"prose","children":[["$","h1",null,{"className":"mb-8 text-balance text-center lg:text-left text-4xl font-bold leading-tight","children":"Graph Theory — Homework 1"}],["$","$L2",null,{"allowsScript":true,"value":"$3","className":"min-w-0 overflow-hidden"}]]}]}]}],["$L4","$L5","$L6"],"$L7"]}],"loading":null,"isPartial":false}
 4:["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/90c7fe74d75f9368.css","precedence":"next"}]
 5:["$","link","1",{"rel":"stylesheet","href":"/_next/static/css/307ca07a66e4cbaa.css","precedence":"next"}]
 6:["$","link","2",{"rel":"stylesheet","href":"/_next/static/css/e990d6bfce8f7934.css","precedence":"next"}]
