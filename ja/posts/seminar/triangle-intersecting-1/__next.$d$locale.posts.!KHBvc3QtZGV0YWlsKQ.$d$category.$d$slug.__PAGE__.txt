@@ -1,40 +1,11 @@
 1:"$Sreact.fragment"
-2:I[417743,["/_next/static/chunks/d03e4f6fdf084240.js","/_next/static/chunks/525ff3aa60c02a25.js","/_next/static/chunks/ae2a70c709da2ba8.js","/_next/static/chunks/eb309b8f06731812.js","/_next/static/chunks/baa674234f056c60.js","/_next/static/chunks/2edc37b4337c096a.js","/_next/static/chunks/6f0408800ece4f06.js","/_next/static/chunks/6f95f3a6a7ed9dab.js","/_next/static/chunks/3c40fd5a14861430.js","/_next/static/chunks/e7855f92c342e0a3.js","/_next/static/chunks/a5fcaccd389d798e.js","/_next/static/chunks/c3456ef3141ade67.js","/_next/static/chunks/c92042fd5179bd95.js","/_next/static/chunks/1737ca787e6b8d4c.js","/_next/static/chunks/d691f1571e343c32.js","/_next/static/chunks/65f1d76f7ac19600.js","/_next/static/chunks/762b6f848ae7b21b.js","/_next/static/chunks/1d5a5c14848b802e.js","/_next/static/chunks/a40e2b25b1a62ac7.js","/_next/static/chunks/c6509abffeae92d2.js","/_next/static/chunks/35eaa08fca66b29e.js","/_next/static/chunks/f91f857f975d1c9f.js","/_next/static/chunks/dabd062b49706f28.js","/_next/static/chunks/740441c5b62d2d93.js","/_next/static/chunks/dcd49895cb9db447.js","/_next/static/chunks/175944aa1545ac7c.js","/_next/static/chunks/16494c9ed210a726.js","/_next/static/chunks/19ed43205a6e84be.js"],"TocHeadingStrategyProvider"]
-3:I[401946,["/_next/static/chunks/d03e4f6fdf084240.js","/_next/static/chunks/525ff3aa60c02a25.js","/_next/static/chunks/ae2a70c709da2ba8.js","/_next/static/chunks/eb309b8f06731812.js","/_next/static/chunks/baa674234f056c60.js","/_next/static/chunks/2edc37b4337c096a.js","/_next/static/chunks/6f0408800ece4f06.js","/_next/static/chunks/6f95f3a6a7ed9dab.js","/_next/static/chunks/3c40fd5a14861430.js","/_next/static/chunks/e7855f92c342e0a3.js","/_next/static/chunks/a5fcaccd389d798e.js","/_next/static/chunks/c3456ef3141ade67.js","/_next/static/chunks/c92042fd5179bd95.js","/_next/static/chunks/1737ca787e6b8d4c.js","/_next/static/chunks/d691f1571e343c32.js","/_next/static/chunks/65f1d76f7ac19600.js","/_next/static/chunks/762b6f848ae7b21b.js","/_next/static/chunks/1d5a5c14848b802e.js","/_next/static/chunks/a40e2b25b1a62ac7.js","/_next/static/chunks/c6509abffeae92d2.js","/_next/static/chunks/35eaa08fca66b29e.js","/_next/static/chunks/f91f857f975d1c9f.js","/_next/static/chunks/dabd062b49706f28.js","/_next/static/chunks/740441c5b62d2d93.js","/_next/static/chunks/dcd49895cb9db447.js","/_next/static/chunks/175944aa1545ac7c.js","/_next/static/chunks/16494c9ed210a726.js","/_next/static/chunks/19ed43205a6e84be.js"],"LdJsonWithAuthor"]
-4:I[373448,["/_next/static/chunks/d03e4f6fdf084240.js","/_next/static/chunks/525ff3aa60c02a25.js","/_next/static/chunks/ae2a70c709da2ba8.js","/_next/static/chunks/eb309b8f06731812.js","/_next/static/chunks/baa674234f056c60.js","/_next/static/chunks/2edc37b4337c096a.js","/_next/static/chunks/6f0408800ece4f06.js","/_next/static/chunks/6f95f3a6a7ed9dab.js","/_next/static/chunks/3c40fd5a14861430.js","/_next/static/chunks/e7855f92c342e0a3.js","/_next/static/chunks/a5fcaccd389d798e.js","/_next/static/chunks/c3456ef3141ade67.js","/_next/static/chunks/c92042fd5179bd95.js","/_next/static/chunks/1737ca787e6b8d4c.js","/_next/static/chunks/d691f1571e343c32.js","/_next/static/chunks/65f1d76f7ac19600.js","/_next/static/chunks/762b6f848ae7b21b.js","/_next/static/chunks/1d5a5c14848b802e.js","/_next/static/chunks/a40e2b25b1a62ac7.js","/_next/static/chunks/c6509abffeae92d2.js","/_next/static/chunks/35eaa08fca66b29e.js","/_next/static/chunks/f91f857f975d1c9f.js","/_next/static/chunks/dabd062b49706f28.js","/_next/static/chunks/740441c5b62d2d93.js","/_next/static/chunks/dcd49895cb9db447.js","/_next/static/chunks/175944aa1545ac7c.js","/_next/static/chunks/16494c9ed210a726.js","/_next/static/chunks/19ed43205a6e84be.js"],"CurrentPostDataProvider"]
-18:I[401946,["/_next/static/chunks/d03e4f6fdf084240.js","/_next/static/chunks/525ff3aa60c02a25.js","/_next/static/chunks/ae2a70c709da2ba8.js","/_next/static/chunks/eb309b8f06731812.js","/_next/static/chunks/baa674234f056c60.js","/_next/static/chunks/2edc37b4337c096a.js","/_next/static/chunks/6f0408800ece4f06.js","/_next/static/chunks/6f95f3a6a7ed9dab.js","/_next/static/chunks/3c40fd5a14861430.js","/_next/static/chunks/e7855f92c342e0a3.js","/_next/static/chunks/a5fcaccd389d798e.js","/_next/static/chunks/c3456ef3141ade67.js","/_next/static/chunks/c92042fd5179bd95.js","/_next/static/chunks/1737ca787e6b8d4c.js","/_next/static/chunks/d691f1571e343c32.js","/_next/static/chunks/65f1d76f7ac19600.js","/_next/static/chunks/762b6f848ae7b21b.js","/_next/static/chunks/1d5a5c14848b802e.js","/_next/static/chunks/a40e2b25b1a62ac7.js","/_next/static/chunks/c6509abffeae92d2.js","/_next/static/chunks/35eaa08fca66b29e.js","/_next/static/chunks/f91f857f975d1c9f.js","/_next/static/chunks/dabd062b49706f28.js","/_next/static/chunks/740441c5b62d2d93.js","/_next/static/chunks/dcd49895cb9db447.js","/_next/static/chunks/175944aa1545ac7c.js","/_next/static/chunks/16494c9ed210a726.js","/_next/static/chunks/19ed43205a6e84be.js"],"PostDataReValidate"]
-19:I[793580,["/_next/static/chunks/d03e4f6fdf084240.js","/_next/static/chunks/525ff3aa60c02a25.js","/_next/static/chunks/ae2a70c709da2ba8.js","/_next/static/chunks/eb309b8f06731812.js","/_next/static/chunks/baa674234f056c60.js","/_next/static/chunks/2edc37b4337c096a.js","/_next/static/chunks/6f0408800ece4f06.js","/_next/static/chunks/6f95f3a6a7ed9dab.js","/_next/static/chunks/3c40fd5a14861430.js","/_next/static/chunks/e7855f92c342e0a3.js","/_next/static/chunks/a5fcaccd389d798e.js","/_next/static/chunks/c3456ef3141ade67.js","/_next/static/chunks/c92042fd5179bd95.js","/_next/static/chunks/1737ca787e6b8d4c.js","/_next/static/chunks/d691f1571e343c32.js","/_next/static/chunks/65f1d76f7ac19600.js","/_next/static/chunks/762b6f848ae7b21b.js","/_next/static/chunks/1d5a5c14848b802e.js","/_next/static/chunks/a40e2b25b1a62ac7.js","/_next/static/chunks/c6509abffeae92d2.js","/_next/static/chunks/35eaa08fca66b29e.js","/_next/static/chunks/f91f857f975d1c9f.js","/_next/static/chunks/dabd062b49706f28.js","/_next/static/chunks/740441c5b62d2d93.js","/_next/static/chunks/dcd49895cb9db447.js","/_next/static/chunks/175944aa1545ac7c.js","/_next/static/chunks/16494c9ed210a726.js","/_next/static/chunks/19ed43205a6e84be.js"],"BottomToUpTransitionView"]
-1a:I[189209,["/_next/static/chunks/d03e4f6fdf084240.js","/_next/static/chunks/525ff3aa60c02a25.js","/_next/static/chunks/ae2a70c709da2ba8.js","/_next/static/chunks/eb309b8f06731812.js","/_next/static/chunks/baa674234f056c60.js","/_next/static/chunks/2edc37b4337c096a.js","/_next/static/chunks/6f0408800ece4f06.js","/_next/static/chunks/6f95f3a6a7ed9dab.js","/_next/static/chunks/3c40fd5a14861430.js","/_next/static/chunks/e7855f92c342e0a3.js","/_next/static/chunks/a5fcaccd389d798e.js","/_next/static/chunks/c3456ef3141ade67.js","/_next/static/chunks/c92042fd5179bd95.js","/_next/static/chunks/1737ca787e6b8d4c.js","/_next/static/chunks/d691f1571e343c32.js","/_next/static/chunks/65f1d76f7ac19600.js","/_next/static/chunks/762b6f848ae7b21b.js","/_next/static/chunks/1d5a5c14848b802e.js","/_next/static/chunks/a40e2b25b1a62ac7.js","/_next/static/chunks/c6509abffeae92d2.js","/_next/static/chunks/35eaa08fca66b29e.js","/_next/static/chunks/f91f857f975d1c9f.js","/_next/static/chunks/dabd062b49706f28.js","/_next/static/chunks/740441c5b62d2d93.js","/_next/static/chunks/dcd49895cb9db447.js","/_next/static/chunks/175944aa1545ac7c.js","/_next/static/chunks/16494c9ed210a726.js","/_next/static/chunks/19ed43205a6e84be.js"],"AckRead"]
-1b:I[401946,["/_next/static/chunks/d03e4f6fdf084240.js","/_next/static/chunks/525ff3aa60c02a25.js","/_next/static/chunks/ae2a70c709da2ba8.js","/_next/static/chunks/eb309b8f06731812.js","/_next/static/chunks/baa674234f056c60.js","/_next/static/chunks/2edc37b4337c096a.js","/_next/static/chunks/6f0408800ece4f06.js","/_next/static/chunks/6f95f3a6a7ed9dab.js","/_next/static/chunks/3c40fd5a14861430.js","/_next/static/chunks/e7855f92c342e0a3.js","/_next/static/chunks/a5fcaccd389d798e.js","/_next/static/chunks/c3456ef3141ade67.js","/_next/static/chunks/c92042fd5179bd95.js","/_next/static/chunks/1737ca787e6b8d4c.js","/_next/static/chunks/d691f1571e343c32.js","/_next/static/chunks/65f1d76f7ac19600.js","/_next/static/chunks/762b6f848ae7b21b.js","/_next/static/chunks/1d5a5c14848b802e.js","/_next/static/chunks/a40e2b25b1a62ac7.js","/_next/static/chunks/c6509abffeae92d2.js","/_next/static/chunks/35eaa08fca66b29e.js","/_next/static/chunks/f91f857f975d1c9f.js","/_next/static/chunks/dabd062b49706f28.js","/_next/static/chunks/740441c5b62d2d93.js","/_next/static/chunks/dcd49895cb9db447.js","/_next/static/chunks/175944aa1545ac7c.js","/_next/static/chunks/16494c9ed210a726.js","/_next/static/chunks/19ed43205a6e84be.js"],"PostTitle"]
-1c:I[923014,["/_next/static/chunks/d03e4f6fdf084240.js","/_next/static/chunks/525ff3aa60c02a25.js","/_next/static/chunks/ae2a70c709da2ba8.js","/_next/static/chunks/eb309b8f06731812.js","/_next/static/chunks/baa674234f056c60.js","/_next/static/chunks/2edc37b4337c096a.js","/_next/static/chunks/6f0408800ece4f06.js","/_next/static/chunks/6f95f3a6a7ed9dab.js","/_next/static/chunks/3c40fd5a14861430.js","/_next/static/chunks/e7855f92c342e0a3.js","/_next/static/chunks/a5fcaccd389d798e.js","/_next/static/chunks/c3456ef3141ade67.js","/_next/static/chunks/c92042fd5179bd95.js","/_next/static/chunks/1737ca787e6b8d4c.js","/_next/static/chunks/d691f1571e343c32.js","/_next/static/chunks/65f1d76f7ac19600.js","/_next/static/chunks/762b6f848ae7b21b.js","/_next/static/chunks/1d5a5c14848b802e.js","/_next/static/chunks/a40e2b25b1a62ac7.js","/_next/static/chunks/c6509abffeae92d2.js","/_next/static/chunks/35eaa08fca66b29e.js","/_next/static/chunks/f91f857f975d1c9f.js","/_next/static/chunks/dabd062b49706f28.js","/_next/static/chunks/740441c5b62d2d93.js","/_next/static/chunks/dcd49895cb9db447.js","/_next/static/chunks/175944aa1545ac7c.js","/_next/static/chunks/16494c9ed210a726.js","/_next/static/chunks/19ed43205a6e84be.js"],"GoToAdminEditingButton"]
-1d:I[401946,["/_next/static/chunks/d03e4f6fdf084240.js","/_next/static/chunks/525ff3aa60c02a25.js","/_next/static/chunks/ae2a70c709da2ba8.js","/_next/static/chunks/eb309b8f06731812.js","/_next/static/chunks/baa674234f056c60.js","/_next/static/chunks/2edc37b4337c096a.js","/_next/static/chunks/6f0408800ece4f06.js","/_next/static/chunks/6f95f3a6a7ed9dab.js","/_next/static/chunks/3c40fd5a14861430.js","/_next/static/chunks/e7855f92c342e0a3.js","/_next/static/chunks/a5fcaccd389d798e.js","/_next/static/chunks/c3456ef3141ade67.js","/_next/static/chunks/c92042fd5179bd95.js","/_next/static/chunks/1737ca787e6b8d4c.js","/_next/static/chunks/d691f1571e343c32.js","/_next/static/chunks/65f1d76f7ac19600.js","/_next/static/chunks/762b6f848ae7b21b.js","/_next/static/chunks/1d5a5c14848b802e.js","/_next/static/chunks/a40e2b25b1a62ac7.js","/_next/static/chunks/c6509abffeae92d2.js","/_next/static/chunks/35eaa08fca66b29e.js","/_next/static/chunks/f91f857f975d1c9f.js","/_next/static/chunks/dabd062b49706f28.js","/_next/static/chunks/740441c5b62d2d93.js","/_next/static/chunks/dcd49895cb9db447.js","/_next/static/chunks/175944aa1545ac7c.js","/_next/static/chunks/16494c9ed210a726.js","/_next/static/chunks/19ed43205a6e84be.js"],"PostMetaBarInternal"]
-1e:I[6169,["/_next/static/chunks/d03e4f6fdf084240.js","/_next/static/chunks/525ff3aa60c02a25.js","/_next/static/chunks/ae2a70c709da2ba8.js","/_next/static/chunks/eb309b8f06731812.js","/_next/static/chunks/baa674234f056c60.js","/_next/static/chunks/2edc37b4337c096a.js","/_next/static/chunks/6f0408800ece4f06.js","/_next/static/chunks/6f95f3a6a7ed9dab.js","/_next/static/chunks/3c40fd5a14861430.js","/_next/static/chunks/e7855f92c342e0a3.js","/_next/static/chunks/a5fcaccd389d798e.js","/_next/static/chunks/c3456ef3141ade67.js","/_next/static/chunks/c92042fd5179bd95.js","/_next/static/chunks/1737ca787e6b8d4c.js","/_next/static/chunks/d691f1571e343c32.js","/_next/static/chunks/65f1d76f7ac19600.js","/_next/static/chunks/762b6f848ae7b21b.js","/_next/static/chunks/1d5a5c14848b802e.js","/_next/static/chunks/a40e2b25b1a62ac7.js","/_next/static/chunks/c6509abffeae92d2.js","/_next/static/chunks/35eaa08fca66b29e.js","/_next/static/chunks/f91f857f975d1c9f.js","/_next/static/chunks/dabd062b49706f28.js","/_next/static/chunks/740441c5b62d2d93.js","/_next/static/chunks/dcd49895cb9db447.js","/_next/static/chunks/175944aa1545ac7c.js","/_next/static/chunks/16494c9ed210a726.js","/_next/static/chunks/19ed43205a6e84be.js"],"PostOutdate"]
-1f:I[660320,["/_next/static/chunks/d03e4f6fdf084240.js","/_next/static/chunks/525ff3aa60c02a25.js","/_next/static/chunks/ae2a70c709da2ba8.js","/_next/static/chunks/eb309b8f06731812.js","/_next/static/chunks/baa674234f056c60.js","/_next/static/chunks/2edc37b4337c096a.js","/_next/static/chunks/6f0408800ece4f06.js","/_next/static/chunks/6f95f3a6a7ed9dab.js","/_next/static/chunks/3c40fd5a14861430.js","/_next/static/chunks/e7855f92c342e0a3.js","/_next/static/chunks/a5fcaccd389d798e.js","/_next/static/chunks/c3456ef3141ade67.js","/_next/static/chunks/c92042fd5179bd95.js","/_next/static/chunks/1737ca787e6b8d4c.js","/_next/static/chunks/d691f1571e343c32.js","/_next/static/chunks/65f1d76f7ac19600.js","/_next/static/chunks/762b6f848ae7b21b.js","/_next/static/chunks/1d5a5c14848b802e.js","/_next/static/chunks/a40e2b25b1a62ac7.js","/_next/static/chunks/c6509abffeae92d2.js","/_next/static/chunks/35eaa08fca66b29e.js","/_next/static/chunks/f91f857f975d1c9f.js","/_next/static/chunks/dabd062b49706f28.js","/_next/static/chunks/740441c5b62d2d93.js","/_next/static/chunks/dcd49895cb9db447.js","/_next/static/chunks/175944aa1545ac7c.js","/_next/static/chunks/16494c9ed210a726.js","/_next/static/chunks/19ed43205a6e84be.js"],"PostRelated"]
-20:I[145557,["/_next/static/chunks/d03e4f6fdf084240.js","/_next/static/chunks/525ff3aa60c02a25.js","/_next/static/chunks/ae2a70c709da2ba8.js","/_next/static/chunks/eb309b8f06731812.js","/_next/static/chunks/baa674234f056c60.js","/_next/static/chunks/2edc37b4337c096a.js","/_next/static/chunks/6f0408800ece4f06.js","/_next/static/chunks/6f95f3a6a7ed9dab.js","/_next/static/chunks/3c40fd5a14861430.js","/_next/static/chunks/e7855f92c342e0a3.js","/_next/static/chunks/a5fcaccd389d798e.js","/_next/static/chunks/c3456ef3141ade67.js","/_next/static/chunks/c92042fd5179bd95.js","/_next/static/chunks/1737ca787e6b8d4c.js","/_next/static/chunks/d691f1571e343c32.js","/_next/static/chunks/65f1d76f7ac19600.js","/_next/static/chunks/762b6f848ae7b21b.js","/_next/static/chunks/1d5a5c14848b802e.js","/_next/static/chunks/a40e2b25b1a62ac7.js","/_next/static/chunks/c6509abffeae92d2.js","/_next/static/chunks/35eaa08fca66b29e.js","/_next/static/chunks/f91f857f975d1c9f.js","/_next/static/chunks/dabd062b49706f28.js","/_next/static/chunks/740441c5b62d2d93.js","/_next/static/chunks/dcd49895cb9db447.js","/_next/static/chunks/175944aa1545ac7c.js","/_next/static/chunks/16494c9ed210a726.js","/_next/static/chunks/19ed43205a6e84be.js"],"WrappedElementProvider"]
-21:I[125902,["/_next/static/chunks/d03e4f6fdf084240.js","/_next/static/chunks/525ff3aa60c02a25.js","/_next/static/chunks/ae2a70c709da2ba8.js","/_next/static/chunks/eb309b8f06731812.js","/_next/static/chunks/baa674234f056c60.js","/_next/static/chunks/2edc37b4337c096a.js","/_next/static/chunks/6f0408800ece4f06.js","/_next/static/chunks/6f95f3a6a7ed9dab.js","/_next/static/chunks/3c40fd5a14861430.js","/_next/static/chunks/e7855f92c342e0a3.js","/_next/static/chunks/a5fcaccd389d798e.js","/_next/static/chunks/c3456ef3141ade67.js","/_next/static/chunks/c92042fd5179bd95.js","/_next/static/chunks/1737ca787e6b8d4c.js","/_next/static/chunks/d691f1571e343c32.js","/_next/static/chunks/65f1d76f7ac19600.js","/_next/static/chunks/762b6f848ae7b21b.js","/_next/static/chunks/1d5a5c14848b802e.js","/_next/static/chunks/a40e2b25b1a62ac7.js","/_next/static/chunks/c6509abffeae92d2.js","/_next/static/chunks/35eaa08fca66b29e.js","/_next/static/chunks/f91f857f975d1c9f.js","/_next/static/chunks/dabd062b49706f28.js","/_next/static/chunks/740441c5b62d2d93.js","/_next/static/chunks/dcd49895cb9db447.js","/_next/static/chunks/175944aa1545ac7c.js","/_next/static/chunks/16494c9ed210a726.js","/_next/static/chunks/19ed43205a6e84be.js"],"ReadIndicatorForMobile"]
-22:I[401946,["/_next/static/chunks/d03e4f6fdf084240.js","/_next/static/chunks/525ff3aa60c02a25.js","/_next/static/chunks/ae2a70c709da2ba8.js","/_next/static/chunks/eb309b8f06731812.js","/_next/static/chunks/baa674234f056c60.js","/_next/static/chunks/2edc37b4337c096a.js","/_next/static/chunks/6f0408800ece4f06.js","/_next/static/chunks/6f95f3a6a7ed9dab.js","/_next/static/chunks/3c40fd5a14861430.js","/_next/static/chunks/e7855f92c342e0a3.js","/_next/static/chunks/a5fcaccd389d798e.js","/_next/static/chunks/c3456ef3141ade67.js","/_next/static/chunks/c92042fd5179bd95.js","/_next/static/chunks/1737ca787e6b8d4c.js","/_next/static/chunks/d691f1571e343c32.js","/_next/static/chunks/65f1d76f7ac19600.js","/_next/static/chunks/762b6f848ae7b21b.js","/_next/static/chunks/1d5a5c14848b802e.js","/_next/static/chunks/a40e2b25b1a62ac7.js","/_next/static/chunks/c6509abffeae92d2.js","/_next/static/chunks/35eaa08fca66b29e.js","/_next/static/chunks/f91f857f975d1c9f.js","/_next/static/chunks/dabd062b49706f28.js","/_next/static/chunks/740441c5b62d2d93.js","/_next/static/chunks/dcd49895cb9db447.js","/_next/static/chunks/175944aa1545ac7c.js","/_next/static/chunks/16494c9ed210a726.js","/_next/static/chunks/19ed43205a6e84be.js"],"PostMarkdownImageRecordProvider"]
-23:I[401946,["/_next/static/chunks/d03e4f6fdf084240.js","/_next/static/chunks/525ff3aa60c02a25.js","/_next/static/chunks/ae2a70c709da2ba8.js","/_next/static/chunks/eb309b8f06731812.js","/_next/static/chunks/baa674234f056c60.js","/_next/static/chunks/2edc37b4337c096a.js","/_next/static/chunks/6f0408800ece4f06.js","/_next/static/chunks/6f95f3a6a7ed9dab.js","/_next/static/chunks/3c40fd5a14861430.js","/_next/static/chunks/e7855f92c342e0a3.js","/_next/static/chunks/a5fcaccd389d798e.js","/_next/static/chunks/c3456ef3141ade67.js","/_next/static/chunks/c92042fd5179bd95.js","/_next/static/chunks/1737ca787e6b8d4c.js","/_next/static/chunks/d691f1571e343c32.js","/_next/static/chunks/65f1d76f7ac19600.js","/_next/static/chunks/762b6f848ae7b21b.js","/_next/static/chunks/1d5a5c14848b802e.js","/_next/static/chunks/a40e2b25b1a62ac7.js","/_next/static/chunks/c6509abffeae92d2.js","/_next/static/chunks/35eaa08fca66b29e.js","/_next/static/chunks/f91f857f975d1c9f.js","/_next/static/chunks/dabd062b49706f28.js","/_next/static/chunks/740441c5b62d2d93.js","/_next/static/chunks/dcd49895cb9db447.js","/_next/static/chunks/175944aa1545ac7c.js","/_next/static/chunks/16494c9ed210a726.js","/_next/static/chunks/19ed43205a6e84be.js"],"MarkdownSelection"]
-24:I[401946,["/_next/static/chunks/d03e4f6fdf084240.js","/_next/static/chunks/525ff3aa60c02a25.js","/_next/static/chunks/ae2a70c709da2ba8.js","/_next/static/chunks/eb309b8f06731812.js","/_next/static/chunks/baa674234f056c60.js","/_next/static/chunks/2edc37b4337c096a.js","/_next/static/chunks/6f0408800ece4f06.js","/_next/static/chunks/6f95f3a6a7ed9dab.js","/_next/static/chunks/3c40fd5a14861430.js","/_next/static/chunks/e7855f92c342e0a3.js","/_next/static/chunks/a5fcaccd389d798e.js","/_next/static/chunks/c3456ef3141ade67.js","/_next/static/chunks/c92042fd5179bd95.js","/_next/static/chunks/1737ca787e6b8d4c.js","/_next/static/chunks/d691f1571e343c32.js","/_next/static/chunks/65f1d76f7ac19600.js","/_next/static/chunks/762b6f848ae7b21b.js","/_next/static/chunks/1d5a5c14848b802e.js","/_next/static/chunks/a40e2b25b1a62ac7.js","/_next/static/chunks/c6509abffeae92d2.js","/_next/static/chunks/35eaa08fca66b29e.js","/_next/static/chunks/f91f857f975d1c9f.js","/_next/static/chunks/dabd062b49706f28.js","/_next/static/chunks/740441c5b62d2d93.js","/_next/static/chunks/dcd49895cb9db447.js","/_next/static/chunks/175944aa1545ac7c.js","/_next/static/chunks/16494c9ed210a726.js","/_next/static/chunks/19ed43205a6e84be.js"],"FocusReadingEffect"]
-25:I[502283,["/_next/static/chunks/d03e4f6fdf084240.js","/_next/static/chunks/525ff3aa60c02a25.js","/_next/static/chunks/ae2a70c709da2ba8.js","/_next/static/chunks/eb309b8f06731812.js","/_next/static/chunks/baa674234f056c60.js","/_next/static/chunks/2edc37b4337c096a.js","/_next/static/chunks/6f0408800ece4f06.js","/_next/static/chunks/6f95f3a6a7ed9dab.js","/_next/static/chunks/3c40fd5a14861430.js","/_next/static/chunks/e7855f92c342e0a3.js","/_next/static/chunks/a5fcaccd389d798e.js","/_next/static/chunks/c3456ef3141ade67.js","/_next/static/chunks/c92042fd5179bd95.js","/_next/static/chunks/1737ca787e6b8d4c.js","/_next/static/chunks/d691f1571e343c32.js","/_next/static/chunks/65f1d76f7ac19600.js","/_next/static/chunks/762b6f848ae7b21b.js","/_next/static/chunks/1d5a5c14848b802e.js","/_next/static/chunks/a40e2b25b1a62ac7.js","/_next/static/chunks/c6509abffeae92d2.js","/_next/static/chunks/35eaa08fca66b29e.js","/_next/static/chunks/f91f857f975d1c9f.js","/_next/static/chunks/dabd062b49706f28.js","/_next/static/chunks/740441c5b62d2d93.js","/_next/static/chunks/dcd49895cb9db447.js","/_next/static/chunks/175944aa1545ac7c.js","/_next/static/chunks/16494c9ed210a726.js","/_next/static/chunks/19ed43205a6e84be.js"],"PostMarkdownRenderer",1]
-26:I[194205,["/_next/static/chunks/d03e4f6fdf084240.js","/_next/static/chunks/525ff3aa60c02a25.js","/_next/static/chunks/ae2a70c709da2ba8.js","/_next/static/chunks/eb309b8f06731812.js","/_next/static/chunks/baa674234f056c60.js","/_next/static/chunks/2edc37b4337c096a.js","/_next/static/chunks/6f0408800ece4f06.js","/_next/static/chunks/6f95f3a6a7ed9dab.js","/_next/static/chunks/3c40fd5a14861430.js","/_next/static/chunks/e7855f92c342e0a3.js","/_next/static/chunks/a5fcaccd389d798e.js","/_next/static/chunks/c3456ef3141ade67.js","/_next/static/chunks/c92042fd5179bd95.js","/_next/static/chunks/1737ca787e6b8d4c.js","/_next/static/chunks/d691f1571e343c32.js","/_next/static/chunks/65f1d76f7ac19600.js","/_next/static/chunks/762b6f848ae7b21b.js","/_next/static/chunks/1d5a5c14848b802e.js","/_next/static/chunks/a40e2b25b1a62ac7.js","/_next/static/chunks/c6509abffeae92d2.js","/_next/static/chunks/35eaa08fca66b29e.js","/_next/static/chunks/f91f857f975d1c9f.js","/_next/static/chunks/dabd062b49706f28.js","/_next/static/chunks/740441c5b62d2d93.js","/_next/static/chunks/dcd49895cb9db447.js","/_next/static/chunks/175944aa1545ac7c.js","/_next/static/chunks/16494c9ed210a726.js","/_next/static/chunks/19ed43205a6e84be.js"],"LayoutRightSidePortal"]
-27:I[732298,["/_next/static/chunks/d03e4f6fdf084240.js","/_next/static/chunks/525ff3aa60c02a25.js","/_next/static/chunks/ae2a70c709da2ba8.js","/_next/static/chunks/eb309b8f06731812.js","/_next/static/chunks/baa674234f056c60.js","/_next/static/chunks/2edc37b4337c096a.js","/_next/static/chunks/6f0408800ece4f06.js","/_next/static/chunks/6f95f3a6a7ed9dab.js","/_next/static/chunks/3c40fd5a14861430.js","/_next/static/chunks/e7855f92c342e0a3.js","/_next/static/chunks/a5fcaccd389d798e.js","/_next/static/chunks/c3456ef3141ade67.js","/_next/static/chunks/c92042fd5179bd95.js","/_next/static/chunks/1737ca787e6b8d4c.js","/_next/static/chunks/d691f1571e343c32.js","/_next/static/chunks/65f1d76f7ac19600.js","/_next/static/chunks/762b6f848ae7b21b.js","/_next/static/chunks/1d5a5c14848b802e.js","/_next/static/chunks/a40e2b25b1a62ac7.js","/_next/static/chunks/c6509abffeae92d2.js","/_next/static/chunks/35eaa08fca66b29e.js","/_next/static/chunks/f91f857f975d1c9f.js","/_next/static/chunks/dabd062b49706f28.js","/_next/static/chunks/740441c5b62d2d93.js","/_next/static/chunks/dcd49895cb9db447.js","/_next/static/chunks/175944aa1545ac7c.js","/_next/static/chunks/16494c9ed210a726.js","/_next/static/chunks/19ed43205a6e84be.js"],"PostActionAside"]
-28:I[237493,["/_next/static/chunks/d03e4f6fdf084240.js","/_next/static/chunks/525ff3aa60c02a25.js","/_next/static/chunks/ae2a70c709da2ba8.js","/_next/static/chunks/eb309b8f06731812.js","/_next/static/chunks/baa674234f056c60.js","/_next/static/chunks/2edc37b4337c096a.js","/_next/static/chunks/6f0408800ece4f06.js","/_next/static/chunks/6f95f3a6a7ed9dab.js","/_next/static/chunks/3c40fd5a14861430.js","/_next/static/chunks/e7855f92c342e0a3.js","/_next/static/chunks/a5fcaccd389d798e.js","/_next/static/chunks/c3456ef3141ade67.js","/_next/static/chunks/c92042fd5179bd95.js","/_next/static/chunks/1737ca787e6b8d4c.js","/_next/static/chunks/d691f1571e343c32.js","/_next/static/chunks/65f1d76f7ac19600.js","/_next/static/chunks/762b6f848ae7b21b.js","/_next/static/chunks/1d5a5c14848b802e.js","/_next/static/chunks/a40e2b25b1a62ac7.js","/_next/static/chunks/c6509abffeae92d2.js","/_next/static/chunks/35eaa08fca66b29e.js","/_next/static/chunks/f91f857f975d1c9f.js","/_next/static/chunks/dabd062b49706f28.js","/_next/static/chunks/740441c5b62d2d93.js","/_next/static/chunks/dcd49895cb9db447.js","/_next/static/chunks/175944aa1545ac7c.js","/_next/static/chunks/16494c9ed210a726.js","/_next/static/chunks/19ed43205a6e84be.js"],"ClientOnly"]
-29:I[223245,["/_next/static/chunks/d03e4f6fdf084240.js","/_next/static/chunks/525ff3aa60c02a25.js","/_next/static/chunks/ae2a70c709da2ba8.js","/_next/static/chunks/eb309b8f06731812.js","/_next/static/chunks/baa674234f056c60.js","/_next/static/chunks/2edc37b4337c096a.js","/_next/static/chunks/6f0408800ece4f06.js","/_next/static/chunks/6f95f3a6a7ed9dab.js","/_next/static/chunks/3c40fd5a14861430.js","/_next/static/chunks/e7855f92c342e0a3.js","/_next/static/chunks/a5fcaccd389d798e.js","/_next/static/chunks/c3456ef3141ade67.js","/_next/static/chunks/c92042fd5179bd95.js","/_next/static/chunks/1737ca787e6b8d4c.js","/_next/static/chunks/d691f1571e343c32.js","/_next/static/chunks/65f1d76f7ac19600.js","/_next/static/chunks/762b6f848ae7b21b.js","/_next/static/chunks/1d5a5c14848b802e.js","/_next/static/chunks/a40e2b25b1a62ac7.js","/_next/static/chunks/c6509abffeae92d2.js","/_next/static/chunks/35eaa08fca66b29e.js","/_next/static/chunks/f91f857f975d1c9f.js","/_next/static/chunks/dabd062b49706f28.js","/_next/static/chunks/740441c5b62d2d93.js","/_next/static/chunks/dcd49895cb9db447.js","/_next/static/chunks/175944aa1545ac7c.js","/_next/static/chunks/16494c9ed210a726.js","/_next/static/chunks/19ed43205a6e84be.js"],"PostCopyright"]
-2a:I[732298,["/_next/static/chunks/d03e4f6fdf084240.js","/_next/static/chunks/525ff3aa60c02a25.js","/_next/static/chunks/ae2a70c709da2ba8.js","/_next/static/chunks/eb309b8f06731812.js","/_next/static/chunks/baa674234f056c60.js","/_next/static/chunks/2edc37b4337c096a.js","/_next/static/chunks/6f0408800ece4f06.js","/_next/static/chunks/6f95f3a6a7ed9dab.js","/_next/static/chunks/3c40fd5a14861430.js","/_next/static/chunks/e7855f92c342e0a3.js","/_next/static/chunks/a5fcaccd389d798e.js","/_next/static/chunks/c3456ef3141ade67.js","/_next/static/chunks/c92042fd5179bd95.js","/_next/static/chunks/1737ca787e6b8d4c.js","/_next/static/chunks/d691f1571e343c32.js","/_next/static/chunks/65f1d76f7ac19600.js","/_next/static/chunks/762b6f848ae7b21b.js","/_next/static/chunks/1d5a5c14848b802e.js","/_next/static/chunks/a40e2b25b1a62ac7.js","/_next/static/chunks/c6509abffeae92d2.js","/_next/static/chunks/35eaa08fca66b29e.js","/_next/static/chunks/f91f857f975d1c9f.js","/_next/static/chunks/dabd062b49706f28.js","/_next/static/chunks/740441c5b62d2d93.js","/_next/static/chunks/dcd49895cb9db447.js","/_next/static/chunks/175944aa1545ac7c.js","/_next/static/chunks/16494c9ed210a726.js","/_next/static/chunks/19ed43205a6e84be.js"],"PostBottomBarAction"]
-2b:I[832330,["/_next/static/chunks/d03e4f6fdf084240.js","/_next/static/chunks/525ff3aa60c02a25.js","/_next/static/chunks/ae2a70c709da2ba8.js","/_next/static/chunks/eb309b8f06731812.js","/_next/static/chunks/baa674234f056c60.js","/_next/static/chunks/2edc37b4337c096a.js","/_next/static/chunks/6f0408800ece4f06.js","/_next/static/chunks/6f95f3a6a7ed9dab.js","/_next/static/chunks/3c40fd5a14861430.js","/_next/static/chunks/e7855f92c342e0a3.js","/_next/static/chunks/a5fcaccd389d798e.js","/_next/static/chunks/c3456ef3141ade67.js","/_next/static/chunks/c92042fd5179bd95.js","/_next/static/chunks/1737ca787e6b8d4c.js","/_next/static/chunks/d691f1571e343c32.js","/_next/static/chunks/65f1d76f7ac19600.js","/_next/static/chunks/762b6f848ae7b21b.js","/_next/static/chunks/1d5a5c14848b802e.js","/_next/static/chunks/a40e2b25b1a62ac7.js","/_next/static/chunks/c6509abffeae92d2.js","/_next/static/chunks/35eaa08fca66b29e.js","/_next/static/chunks/f91f857f975d1c9f.js","/_next/static/chunks/dabd062b49706f28.js","/_next/static/chunks/740441c5b62d2d93.js","/_next/static/chunks/dcd49895cb9db447.js","/_next/static/chunks/175944aa1545ac7c.js","/_next/static/chunks/16494c9ed210a726.js","/_next/static/chunks/19ed43205a6e84be.js"],"BottomToUpSoftScaleTransitionView"]
-2c:I[615780,["/_next/static/chunks/d03e4f6fdf084240.js","/_next/static/chunks/525ff3aa60c02a25.js","/_next/static/chunks/ae2a70c709da2ba8.js","/_next/static/chunks/eb309b8f06731812.js","/_next/static/chunks/baa674234f056c60.js","/_next/static/chunks/2edc37b4337c096a.js","/_next/static/chunks/6f0408800ece4f06.js","/_next/static/chunks/6f95f3a6a7ed9dab.js","/_next/static/chunks/3c40fd5a14861430.js","/_next/static/chunks/e7855f92c342e0a3.js","/_next/static/chunks/a5fcaccd389d798e.js","/_next/static/chunks/c3456ef3141ade67.js","/_next/static/chunks/c92042fd5179bd95.js","/_next/static/chunks/1737ca787e6b8d4c.js","/_next/static/chunks/d691f1571e343c32.js","/_next/static/chunks/65f1d76f7ac19600.js","/_next/static/chunks/762b6f848ae7b21b.js","/_next/static/chunks/1d5a5c14848b802e.js","/_next/static/chunks/a40e2b25b1a62ac7.js","/_next/static/chunks/c6509abffeae92d2.js","/_next/static/chunks/35eaa08fca66b29e.js","/_next/static/chunks/f91f857f975d1c9f.js","/_next/static/chunks/dabd062b49706f28.js","/_next/static/chunks/740441c5b62d2d93.js","/_next/static/chunks/dcd49895cb9db447.js","/_next/static/chunks/175944aa1545ac7c.js","/_next/static/chunks/16494c9ed210a726.js","/_next/static/chunks/19ed43205a6e84be.js"],"CommentAreaRootLazy"]
-2d:I[194205,["/_next/static/chunks/d03e4f6fdf084240.js","/_next/static/chunks/525ff3aa60c02a25.js","/_next/static/chunks/ae2a70c709da2ba8.js","/_next/static/chunks/eb309b8f06731812.js","/_next/static/chunks/baa674234f056c60.js","/_next/static/chunks/2edc37b4337c096a.js","/_next/static/chunks/6f0408800ece4f06.js","/_next/static/chunks/6f95f3a6a7ed9dab.js","/_next/static/chunks/3c40fd5a14861430.js","/_next/static/chunks/e7855f92c342e0a3.js","/_next/static/chunks/a5fcaccd389d798e.js","/_next/static/chunks/c3456ef3141ade67.js","/_next/static/chunks/c92042fd5179bd95.js","/_next/static/chunks/1737ca787e6b8d4c.js","/_next/static/chunks/d691f1571e343c32.js","/_next/static/chunks/65f1d76f7ac19600.js","/_next/static/chunks/762b6f848ae7b21b.js","/_next/static/chunks/1d5a5c14848b802e.js","/_next/static/chunks/a40e2b25b1a62ac7.js","/_next/static/chunks/c6509abffeae92d2.js","/_next/static/chunks/35eaa08fca66b29e.js","/_next/static/chunks/f91f857f975d1c9f.js","/_next/static/chunks/dabd062b49706f28.js","/_next/static/chunks/740441c5b62d2d93.js","/_next/static/chunks/dcd49895cb9db447.js","/_next/static/chunks/175944aa1545ac7c.js","/_next/static/chunks/16494c9ed210a726.js","/_next/static/chunks/19ed43205a6e84be.js"],"LayoutRightSideProvider"]
-2e:I[185368,["/_next/static/chunks/d03e4f6fdf084240.js","/_next/static/chunks/525ff3aa60c02a25.js","/_next/static/chunks/ae2a70c709da2ba8.js","/_next/static/chunks/eb309b8f06731812.js","/_next/static/chunks/baa674234f056c60.js","/_next/static/chunks/2edc37b4337c096a.js","/_next/static/chunks/6f0408800ece4f06.js","/_next/static/chunks/6f95f3a6a7ed9dab.js","/_next/static/chunks/3c40fd5a14861430.js","/_next/static/chunks/e7855f92c342e0a3.js","/_next/static/chunks/a5fcaccd389d798e.js","/_next/static/chunks/c3456ef3141ade67.js","/_next/static/chunks/c92042fd5179bd95.js","/_next/static/chunks/1737ca787e6b8d4c.js","/_next/static/chunks/d691f1571e343c32.js","/_next/static/chunks/65f1d76f7ac19600.js","/_next/static/chunks/762b6f848ae7b21b.js","/_next/static/chunks/1d5a5c14848b802e.js","/_next/static/chunks/a40e2b25b1a62ac7.js","/_next/static/chunks/c6509abffeae92d2.js","/_next/static/chunks/35eaa08fca66b29e.js","/_next/static/chunks/f91f857f975d1c9f.js","/_next/static/chunks/dabd062b49706f28.js","/_next/static/chunks/740441c5b62d2d93.js","/_next/static/chunks/dcd49895cb9db447.js","/_next/static/chunks/175944aa1545ac7c.js","/_next/static/chunks/16494c9ed210a726.js","/_next/static/chunks/19ed43205a6e84be.js"],"OnlyMobile"]
-2f:I[233113,["/_next/static/chunks/d03e4f6fdf084240.js","/_next/static/chunks/525ff3aa60c02a25.js","/_next/static/chunks/ae2a70c709da2ba8.js","/_next/static/chunks/eb309b8f06731812.js","/_next/static/chunks/baa674234f056c60.js","/_next/static/chunks/2edc37b4337c096a.js","/_next/static/chunks/6f0408800ece4f06.js","/_next/static/chunks/6f95f3a6a7ed9dab.js","/_next/static/chunks/3c40fd5a14861430.js","/_next/static/chunks/e7855f92c342e0a3.js","/_next/static/chunks/a5fcaccd389d798e.js","/_next/static/chunks/c3456ef3141ade67.js","/_next/static/chunks/c92042fd5179bd95.js","/_next/static/chunks/1737ca787e6b8d4c.js","/_next/static/chunks/d691f1571e343c32.js","/_next/static/chunks/65f1d76f7ac19600.js","/_next/static/chunks/762b6f848ae7b21b.js","/_next/static/chunks/1d5a5c14848b802e.js","/_next/static/chunks/a40e2b25b1a62ac7.js","/_next/static/chunks/c6509abffeae92d2.js","/_next/static/chunks/35eaa08fca66b29e.js","/_next/static/chunks/f91f857f975d1c9f.js","/_next/static/chunks/dabd062b49706f28.js","/_next/static/chunks/740441c5b62d2d93.js","/_next/static/chunks/dcd49895cb9db447.js","/_next/static/chunks/175944aa1545ac7c.js","/_next/static/chunks/16494c9ed210a726.js","/_next/static/chunks/19ed43205a6e84be.js"],"TocFAB"]
-30:I[95276,["/_next/static/chunks/3c40fd5a14861430.js","/_next/static/chunks/4197b04c4f1d962d.js","/_next/static/chunks/70af310ba2a3e461.js","/_next/static/chunks/9df4409b3ebd95fb.js","/_next/static/chunks/e52d234aac494225.js"],"OutletBoundary"]
-31:"$Sreact.suspense"
-:HL["/_next/static/chunks/136744c992bad96d.css","style"]
-:HL["/_next/static/chunks/0169140b52b18b81.css","style"]
-:HL["/_next/static/chunks/cf19f565ce194e50.css","style"]
-:HL["/_next/static/chunks/2a531debc05d9c48.css","style"]
-:HL["/_next/static/chunks/f6d4eb0f1595037c.css","style"]
-:HL["/_next/static/chunks/be9fe8599e8928e8.css","style"]
-5:Tb227,*Part 1 of 3.* [Part 2 →](/posts/seminar/triangle-intersecting-2)
+2:I[28856,["1433","static/chunks/5da11c83-22ed8340ae03271b.js","4266","static/chunks/cb69f5e5-38b1876d0364eabd.js","6618","static/chunks/962d60d4-2f97a7306ab44fe1.js","3374","static/chunks/3374-064cfbbe2608b69a.js","2115","static/chunks/2115-72ad8ab6a0a482e5.js","3371","static/chunks/3371-4aa89e9112feba6f.js","915","static/chunks/915-f2d3aa6318478d87.js","8476","static/chunks/8476-5b9555f1f11850f5.js","2017","static/chunks/2017-eafa67d1f3f02b3a.js","2250","static/chunks/2250-55633d86d5c24bd9.js","9823","static/chunks/9823-752ded14ff1fc8ed.js","6702","static/chunks/6702-07d2c1d4b5ee85d1.js","7515","static/chunks/7515-6533e3f4c74944ed.js","6480","static/chunks/6480-b6c8f5836b943902.js","6688","static/chunks/6688-0f8e2d763478d477.js","1290","static/chunks/1290-e076e18743f534af.js","3506","static/chunks/3506-639c9b819e6097ea.js","943","static/chunks/943-e94be4a59502ba15.js","54","static/chunks/54-8b1b2030ec661343.js","7404","static/chunks/7404-9397f040ad174577.js","6407","static/chunks/6407-8c126658ecad0efb.js","6604","static/chunks/6604-2ce40200432fa70a.js","4622","static/chunks/4622-ef5ab3d6ab17025c.js","8773","static/chunks/8773-934b5bf44c7f6a8a.js","9352","static/chunks/9352-8bd04c7a92b8c94f.js","8593","static/chunks/8593-43e74ed84413e4ab.js","1934","static/chunks/1934-ab221361094c1a84.js","8952","static/chunks/8952-34075c0626f7e8e5.js","3605","static/chunks/3605-28d867c0960294c1.js","4707","static/chunks/4707-7a61e4e3d65323ba.js","6954","static/chunks/6954-7f08e3e495b0916f.js","4374","static/chunks/app/%5Blocale%5D/posts/(post-detail)/%5Bcategory%5D/%5Bslug%5D/page-8ef55090b58442ba.js"],"MainMarkdown",1]
+8:I[87071,[],"OutletBoundary"]
+9:"$Sreact.suspense"
+:HL["/_next/static/css/90c7fe74d75f9368.css","style"]
+:HL["/_next/static/css/307ca07a66e4cbaa.css","style"]
+:HL["/_next/static/css/e990d6bfce8f7934.css","style"]
+3:Tb4ff,*Part 1 of 3.* [Part 2 →](/posts/seminar/triangle-intersecting-2)
 
 > 图见 [PDF](/files/Grade3/Reports/triangle-intersecting.pdf)。
 
@@ -66,8 +37,7 @@ A family of graphs $\mathcal{F}$ is **triangle-intersecting** if for every $G,H\
 
 这里的“intersecting”不是说两个图有公共边就够了，而是要求公共部分里必须完整地出现一个三角形。这个条件比“交集非空”强很多，因此真正可行的范围会明显变小，也更容易出现清晰的极值结构。
 
-**Question 1 (Simonovits--S\'os, Original).**
-
+\paragraph{Question 1 (Simonovits--S\'os, Original).}
 What is the maximum size of a triangle-intersecting family of subgraphs of the complete graph on $n$ vertices?
 
 **Remark.**
@@ -88,15 +58,14 @@ Equality holds if and only if \mathcal{F} consists of all graphs containing a fi
 这个结论包含两层信息。第一层是数值上界 1/8；第二层是结构唯一性：恰好达到上界的家族必须是“固定某个三角形，然后取所有包含它的图”。
 $$
 
-**Main Strengthenings (Original).**
-
+\paragraph{Main Strengthenings (Original).}
 *Our main result in this paper is actually a strengthening of the above in several aspects:*
 
-- ***odd-cycle-intersecting** replaces triangle-intersecting;*
+- *\keypart{odd-cycle-intersecting} replaces triangle-intersecting;*
 
-- *size is measured under **product measure** $\mu_p$ ($p\le 1/2$), not only uniform measure;*
+- *size is measured under \keypart{product measure} $\mu_p$ ($p\le 1/2$), not only uniform measure;*
 
-- *for $p=1/2$, one may pass from intersecting to **agreeing**.*
+- *for $p=1/2$, one may pass from intersecting to \keypart{agreeing}.*
 
 **Remark 2.**
 
@@ -106,28 +75,26 @@ $$
 
 **Definition 1 (Definition 1.3 (Original)).**
 
-A family $\mathcal{F}$ of subgraphs of $K_n$ is **triangle-intersecting** (respectively **odd-cycle-intersecting**) if for every $G,H\in\mathcal{F}$, \keypart{$G\cap H$} contains a triangle (respectively an odd cycle). We will say that $\mathcal{F}$ is **triangle-agreeing** (respectively **odd-cycle-agreeing**) if for every $G,H\in\mathcal{F}$, \keypart{$G\oplus H$} contains a triangle (respectively an odd cycle).
+A family $\mathcal{F}$ of subgraphs of $K_n$ is \keypart{triangle-intersecting} (respectively \keypart{odd-cycle-intersecting}) if for every $G,H\in\mathcal{F}$, \keypart{$G\cap H$} contains a triangle (respectively an odd cycle). We will say that $\mathcal{F}$ is \keypart{triangle-agreeing} (respectively \keypart{odd-cycle-agreeing}) if for every $G,H\in\mathcal{F}$, \keypart{$G\oplus H$} contains a triangle (respectively an odd cycle).
 
 **Remark 3.**
 
 这里最关键的是两个运算的角色不同：$G\cap H$ 是共同保留的边，$G\oplus H$ 是两图不一致的边。前者描述“共同拥有什么”，后者描述“差异里缺了什么”。论文在两个视角间来回切换，是因为谱方法在群结构（对称差）下更自然。
 
-**Immediate Consequence (Original).**
-
+\paragraph{Immediate Consequence (Original).}
 *Note that $G\cap H$ is contained in $\overline{G\oplus H}$, so a triangle-intersecting family is also triangle-agreeing.*
 
 **Remark 4.**
 
 因此 intersecting 条件蕴含 agreeing 条件，说明前者更“硬”，后者更“松”。证明时若先拿到更松条件下的 sharp 上界，通常也能回推更强条件版本。
 
-\paragraph{****难点（对应此处）****：$G\cap H$ 与 $G\oplus H$ 为什么能在同一框架里处理？}
+\paragraph{**\keypart{难点（对应此处）}**：$G\cap H$ 与 $G\oplus H$ 为什么能在同一框架里处理？}
 
 **Remark 5.**
 
 关键在于后面把图空间看成 $\mathbb{Z}_2$ 上的阿贝尔群，$\oplus$ 成为天然运算；很多算子和谱分解都围绕这个运算定义。于是 agreeing 版本更容易进入代数分析，再通过包含关系或 shift 结果转回 intersecting 版本。
 
-**Basic Notation (Original).**
-
+\paragraph{Basic Notation (Original).}
 Let $n$ be fixed. The power set of $X$ is denoted by $P(X)$; $[n]=\{1,\dots,n\}$; and
 
 $$
@@ -146,8 +113,7 @@ whose group operation is symmetric difference (denoted by $\oplus$ or $\triangle
 
 这一段是后续所有计算的坐标系：把“图”改写成“边指示向量”，把“翻边”改写成“模 2 加法”。
 
-**Further Notation (Original).**
-
+\paragraph{Further Notation (Original).}
 Further notation in the original text:
 
 - $\overline{G}$ denotes the complement graph of $G$;
@@ -168,8 +134,7 @@ Further notation in the original text:
 
 - a biconnected component of $G$ means a maximal biconnected subgraph of $G$.
 
-**Measure and Inner Product (Original).**
-
+\paragraph{Measure and Inner Product (Original).}
 For any $p\in[0,1]$ and graph $G$ on $n$ vertices,
 
 $$
@@ -188,13 +153,12 @@ $$
 \langle f,g\rangle=\mathbb{E}(fg)=\sum_G \mu(G)f(G)g(G).
 $$
 
-**Additional Conventions (Original).**
-
+\paragraph{Additional Conventions (Original).}
 Additional original conventions:
 
 - identify $P(X)$ with $\{0,1\}^X=\mathbb{Z}_2^X$;
 
-- an **up-set** $\mathcal{F}$ means: $S\in\mathcal{F},\,T\supset S \Rightarrow T\in\mathcal{F}$;
+- an \keypart{up-set} $\mathcal{F}$ means: $S\in\mathcal{F},\,T\supset S \Rightarrow T\in\mathcal{F}$;
 
 - $1_P$ denotes the indicator of predicate $P$;
 
@@ -204,9 +168,8 @@ Additional original conventions:
 
 这些对象在方法段会立刻用到：尤其是 Cayley 图与特征值分析直接相关。
 
-**Terminology (Original).**
-
-A **triangle junta** is a family of all subgraphs of $K_n$ with a prescribed intersection with a given triangle. In the special case of the triangle junta being the family of all graphs containing a given triangle, we will call this family a \keypart{$\triangle$umvirate}.
+\paragraph{Terminology (Original).}
+A \keypart{triangle junta} is a family of all subgraphs of $K_n$ with a prescribed intersection with a given triangle. In the special case of the triangle junta being the family of all graphs containing a given triangle, we will call this family a \keypart{$\triangle$umvirate}.
 
 **Remark 8.**
 
@@ -248,14 +211,13 @@ then there exists a triangle $T$ such that all but at most $c\varepsilon |\mathc
 
 这说明结论不仅在全体子图空间里成立，在“恰有 $M$ 条边”的分层模型里也成立。也就是说，从概率模型投影到定边数模型，最优结构依旧保持不变。
 
-******难点（对应此处）****：稳定性结论到底在控制什么？**
+\paragraph{**\keypart{难点（对应此处）}**：稳定性结论到底在控制什么？}
 
 **Remark 11.**
 
 它不只是控制“数值接近上界”，而是控制“结构接近极值构造”。也就是从“几乎最优”推出“几乎是某个固定三角形族”，这是比单纯上界强得多的陈述。
 
-**Proof Idea for Corollary 1.5 (Original).**
-
+\paragraph{Proof Idea for Corollary 1.5 (Original).}
 The idea of the proof is to study the family of all graphs containing a graph from $\mathcal{F}$, and to apply Theorem 1.4 to it, together with some Chernoff-type concentration of measure results.
 
 **Remark 12.**
@@ -266,7 +228,7 @@ The idea of the proof is to study the family of all graphs containing a graph fr
 
 **Definition 2 (Definition 1.6 (Original)).**
 
-We say that a family $\mathcal{F}$ of hypergraphs on $[n]$ is **odd-linear-dependency-intersecting** if for any $G,H\in\mathcal{F}$ there exist $l\in\mathbb{N}$ and nonempty sets $A_1,\dots,A_{2l+1}\in G\cap H$ such that
+We say that a family $\mathcal{F}$ of hypergraphs on $[n]$ is \keypart{odd-linear-dependency-intersecting} if for any $G,H\in\mathcal{F}$ there exist $l\in\mathbb{N}$ and nonempty sets $A_1,\dots,A_{2l+1}\in G\cap H$ such that
 
 $$
 A_1\triangle \cdots \triangle A_{2l+1}=\emptyset.
@@ -278,7 +240,7 @@ $$
 
 **Definition 3 (Definition 1.7 (Original)).**
 
-A family $\mathcal{F}$ of subsets of $\mathbb{Z}_2^n$ is **odd-linear-dependency-intersecting** if for any two subsets $S,T\in\mathcal{F}$, there exist $l\in\mathbb{N}$ and non-zero vectors $v_1,\dots,v_{2l+1}\in S\cap T$ such that
+A family $\mathcal{F}$ of subsets of $\mathbb{Z}_2^n$ is \keypart{odd-linear-dependency-intersecting} if for any two subsets $S,T\in\mathcal{F}$, there exist $l\in\mathbb{N}$ and non-zero vectors $v_1,\dots,v_{2l+1}\in S\cap T$ such that
 
 $$
 v_1+\cdots+v_{2l+1}=0.
@@ -288,8 +250,7 @@ $$
 
 向量版本让“对称差”直接变成“模 2 加法”，因此后续 Fourier 角色函数和谱算子都能自然落在群结构上。这是从组合叙述过渡到分析工具的关键一步。
 
-**Odd-LD-Agreeing And Schur Terminology (Original).**
-
+\paragraph{Odd-LD-Agreeing And Schur Terminology (Original).}
 Naturally, an odd-linear-dependency-agreeing family is defined by replacing $G\cap H$ with $G\triangle H$, and replacing $S\cap T$ with $S\triangle T$.
 Note that a Schur triple is a linearly dependent set of size $3$, so Schur-triple-intersecting implies odd-linear-dependency-intersecting.
 A family $\mathcal{F}$ of subsets of $\mathbb{Z}_2^n$ is a Schur-umvirate if there exists a non-zero Schur triple $\{x,y,x+y\}$ such that $\mathcal{F}$ consists of all subsets containing $\{x,y,x+y\}$.
@@ -319,8 +280,7 @@ For $p=1/2$, the corresponding statements hold for odd-linear-dependency-agreein
 
 这说明主现象并不依赖“图”本身，而依赖“奇线性依赖”这一骨架。换句话说，triangle 是一个具体外观，odd dependency 才是底层机制。
 
-**Post-Theorem Remarks (Original).**
-
+\paragraph{Post-Theorem Remarks (Original).}
 This is indeed a generalization: any triangle-intersecting family of graphs can be lifted to a Schur-triple-intersecting family in the natural way.
 Also, $\{0,1\}^n$ can be viewed as a vector matroid over $\mathbb{Z}_2$, and any odd linear dependency contains a minimal odd dependency (an odd circuit), so Theorem 1.8 can also be interpreted as an odd-circuit-intersecting theorem in a $\mathbb{Z}_2$-matroid.
 The proof of Theorem 1.8 is deferred to Section 5.
@@ -329,8 +289,7 @@ The proof of Theorem 1.8 is deferred to Section 5.
 
 这段在方法上很关键：作者强调“图论问题只是外层壳”，真正稳定的结构来自 $\mathbb{Z}_2$ 线性依赖与 matroid 奇回路。
 
-**Original Follow-up Remarks.**
-
+\paragraph{Original Follow-up Remarks.}
 Original follow-up remarks:
 
 - this is a genuine generalization: triangle-intersecting graph families can be lifted to Schur-triple-intersecting hypergraph families;
@@ -343,8 +302,7 @@ Original follow-up remarks:
 
 作者在这里强调的是“抽象层级提升”：从图上的三角形，升维到 vector matroid （由矩阵列向量的线性无关关系定义出的拟阵）的奇回路约束，现象依旧稳定。
 
-**Methodological Observation (Original).**
-
+\paragraph{Methodological Observation (Original).}
 *The ground set is a vector space over $\mathbb{Z}_2$; a triangle is not only a "triangle", but an \keypart{odd linear dependency over $\mathbb{Z}_2$}. This makes discrete Fourier analysis a natural choice.*
 
 **Remark 19.**
@@ -353,16 +311,14 @@ Original follow-up remarks:
 
 ### Historical Background
 
-**Prior Bound In [4] (Original).**
-
+\paragraph{Prior Bound In [4] (Original).}
 *In [4], if $\mathcal{F}$ is triangle-intersecting, then \keypart{$\mu(\mathcal{F})\le 1/4$}; this improves the trivial bound $1/2$.*
 
 **Remark 20.**
 
 历史上先达到 $1/4$，本文进一步压到 sharp 的 $1/8$（均匀测度）。这体现了方法升级带来的精度提升。
 
-**Original Remarks Related To [4].**
-
+\paragraph{Original Remarks Related To [4].}
 Original remarks related to [4]:
 
 - because the argument there uses bipartiteness, it already extends from triangle-intersecting to odd-cycle-intersecting;
@@ -377,8 +333,7 @@ Original remarks related to [4]:
 
 这一组历史注记解释了本文创新点：不是从零开始，而是在既有熵方法基础上换到更强的谱路径。
 
-**Connection To [8] (Original).**
-
+\paragraph{Connection To [8] (Original).}
 The paper [8] on $t$-intersecting families under product measure is a key thematic predecessor.
 For $S\subset [n]$,
 
@@ -402,16 +357,14 @@ Under product measure, for $p<1/(t+1)$, [8] shows that the unique largest-measur
 
 这段是“祖先问题”定位：本文不是孤立技巧，而是把成熟的 $t$-intersecting 谱框架迁移到了图空间与奇环约束。
 
-**Core Observation (Original).**
-
+\paragraph{Core Observation (Original).}
 *Given triangle-intersecting $\mathcal{F}$ and bipartite $B$, for any $F_1,F_2\in\mathcal{F}$, the set $F_1\cap F_2$ must intersect $B$ non-trivially.*
 
 **Remark 24.**
 
 这是许多后续算子的出发点：二分图不含奇环，因此可以作为“排除模板”去制造强约束。
 
-**Shift Equivalence (Original).**
-
+\paragraph{Shift Equivalence (Original).}
 *A triangle-agreeing family can be transformed, via monotone shifts, into a triangle-intersecting family of the same size.*
 
 **Remark 25.**
@@ -420,8 +373,7 @@ Under product measure, for $p<1/(t+1)$, [8] shows that the unique largest-measur
 
 ### Method Framework
 
-**Operator Motivation (Original).**
-
+\paragraph{Operator Motivation (Original).}
 *If $\mathcal{F}$ is triangle-intersecting (or odd-cycle-agreeing) and $B$ is bipartite, then*
 
 $$
@@ -434,8 +386,7 @@ $$
 
 这一步把组合条件变成了运算闭包失效条件，进而可以转写为算子恒等式；这是从“看图”到“看线性变换”的关键转场。
 
-******Operator Lift**** (Original).**
-
+\paragraph{**\keypart{Operator Lift}** (Original).}
 *Let us lift this operation to an \keypart{operator $A_B$} on functions over subgraphs of $K_n$ (equivalently $\mathbb{Z}_2^{\binom{n}{2}}$):*
 
 $$
@@ -452,8 +403,7 @@ $$
 
 这里把“翻边”动作算子化后，可以系统研究特征值与特征函数。很多极值问题在这个步骤之后就转化成谱半径或最小特征值估计问题。
 
-**Key Identity (Original).**
-
+\paragraph{Key Identity (Original).}
 *If $f=1_{\mathcal{F}}$, then $f(G)=1\Rightarrow A_{\mathcal{B}}f(G)=0$, hence*
 
 $$
@@ -466,9 +416,8 @@ $$
 
 这是全文最关键的代数约束之一。后续只要把 $f$ 展开到 Fourier 基，结合算子特征值，就能把“零内积”翻译成关于频谱质量分布的不等式，从而推导上界与稳定性。
 
-**Linear Combination Step (Original).**
-
-For **coefficients** $c_B$ (not necessarily positive), define
+\paragraph{Linear Combination Step (Original).}
+For \keypart{coefficients} $c_B$ (not necessarily positive), define
 
 $$
 A=\sum_B c_B A_B.
@@ -486,22 +435,20 @@ The next step is to identify eigenvalues/eigenfunctions of $A$ and feed (1) into
 
 这就是全文的“谱引擎”：把组合约束压缩成一个二次型等式，再用特征值把不同频段逐个控制。
 
-\paragraph{****难点（对应此处）****：为什么 $\langle f,Af\rangle=0$ 这么关键？}
+\paragraph{**\keypart{难点（对应此处）}**：为什么 $\langle f,Af\rangle=0$ 这么关键？}
 
 **Remark 30.**
 
 因为它是“可全局分解”的约束。一旦投影到特征基上，它会变成一串可比较的权重关系，从而直接产出 sharp 上界和稳定性误差界。
 
-**Next Technical Step (Original).**
-
+\paragraph{Next Technical Step (Original).}
 *The next step is to identify eigenvalues/eigenfunctions of $A$, then use the identity above to control the Fourier transform of $f$, and finally deduce structure of $\mathcal{F}$.*
 
 **Remark 31.**
 
 整条证明链可以记成：构造算子 $\Rightarrow$ 计算谱 $\Rightarrow$ 限制 Fourier 支持 $\Rightarrow$ 读出极值构造与近极值构造。
 
-**Method Difficulty Remark (Original).**
-
+\paragraph{Method Difficulty Remark (Original).}
 *Even after finding the spectral route, the hard part is choosing the distributions $\mathcal B$ and coefficients $c_B$ so that the resulting eigenvalues are exactly the right ones.*
 
 **Remark 32.**
@@ -510,16 +457,14 @@ The next step is to identify eigenvalues/eigenfunctions of $A$ and feed (1) into
 
 ### Structure Of The Paper
 
-**Roadmap (Original).**
-
+\paragraph{Roadmap (Original).}
 *The paper treats $p=1/2$ and $p<1/2$ separately; then extends to Schur-triple-intersecting families, and ends with open problems.*
 
 **Remark 33.**
 
 阅读时可以把它看成三层推进：均匀模型（最直观）$\to$ 偏置模型（技术更细）$\to$ 抽象推广（结构本质）。
 
-**Section 1 Supplement.**
-
+\paragraph{Section 1 Supplement.}
 *Section 1 sets the target values $1/8$ (uniform measure) and $p^3$ (skew measure), and the rest of the paper constructs explicit spectra that force these bounds together with uniqueness and stability.*
 
 **Remark 34.**
@@ -544,14 +489,14 @@ $$
 \chi_R(S)=(-1)^{|R\cap S|}.
 $$
 
-Then $\chi_R(S\oplus T)=\chi_R(S)\chi_R(T)$, and $\{\chi_R:R\subseteq X\}$ is a **complete orthonormal basis** (the **Fourier--Walsh basis**).
+Then $\chi_R(S\oplus T)=\chi_R(S)\chi_R(T)$, and $\{\chi_R:R\subseteq X\}$ is a \keypart{complete orthonormal basis} (the \keypart{Fourier--Walsh basis}).
 Hence every $f$ has expansion
 
 $$
 f=\sum_{R\subseteq X}\widehat f(R)\chi_R, \tag{2}
 $$
 
-with $\widehat f(R)=\langle f,\chi_R\rangle$, and **Parseval**:
+with $\widehat f(R)=\langle f,\chi_R\rangle$, and \keypart{Parseval}:
 
 $$
 \langle f,g\rangle=\sum_{R\subseteq X}\widehat f(R)\widehat g(R).
@@ -569,7 +514,7 @@ $$
 \mu(\mathcal F)=\widehat{\mathcal F}(\emptyset)=\sum_{R\subseteq X}\widehat{\mathcal F}(R)^2.
 $$
 
-A useful formula is the **convolution identity**
+A useful formula is the \keypart{convolution identity}
 
 $$
 \widehat{f*g}=\widehat f\cdot \widehat g,
@@ -580,15 +525,14 @@ $$
 
 这一小节是后续全部谱估计的坐标系：把家族问题转成 Fourier 系数的二次型问题，才能和 OCC 算子直接耦合。
 
-\paragraph{****难点（对应此处）****：为什么 Boolean 情形下 $\mu(\mathcal F)=\sum \widehat{\mathcal F}(R)^2$ 这么重要？}
+\paragraph{**\keypart{难点（对应此处）}**：为什么 Boolean 情形下 $\mu(\mathcal F)=\sum \widehat{\mathcal F}(R)^2$ 这么重要？}
 
 **Remark 36.**
 
 因为它把“家族大小”变成“频谱总能量”。后面定理就是用算子把这份能量强行压在低阶（或 tight 图对应频段）上，从而导出上界和结构唯一性。
 
-******Key Mechanism (Original)****: energy, not counting.**
-
-In the Fourier view, **measure** is identified with **spectral energy**, and operator constraints become algebraic identities on Fourier coefficients.
+\paragraph{**\keypart{Key Mechanism (Original)}**: energy, not counting.}
+In the Fourier view, \keypart{measure} is identified with \keypart{spectral energy}, and operator constraints become algebraic identities on Fourier coefficients.
 
 **Remark 37.**
 
@@ -596,15 +540,14 @@ In the Fourier view, **measure** is identified with **spectral energy**, and ope
 
 ### Cayley Operators And Their Spectra
 
-**Spectral Route (Original).**
-
-Largest intersecting-family questions can be converted into **independent-set** questions in suitable Cayley graphs, then controlled via **Hoffman-type eigenvalue bounds** and **weighted perturbations**.
+\paragraph{Spectral Route (Original).}
+Largest intersecting-family questions can be converted into \keypart{independent-set} questions in suitable Cayley graphs, then controlled via \keypart{Hoffman-type eigenvalue bounds} and \keypart{weighted perturbations}.
 
 **Remark 38.**
 
-这段是方法定位：先图论化（独立集），再谱化（特征值），最后通过加权构造把上界压到 sharp 值。**Hoffman方法+加权扰动**
+这段是方法定位：先图论化（独立集），再谱化（特征值），最后通过加权构造把上界压到 sharp 值。\keypart{Hoffman方法+加权扰动}
 
-**Definition 4 (Definition 2.1 (**Odd-Cycle-Cayley Operator**, Original)).**
+**Definition 4 (Definition 2.1 (\keypart{Odd-Cycle-Cayley Operator}, Original)).**
 
 A linear operator $A$ on real-valued functions on $\mathbb Z_2^{[n]^{(2)}}$ is called Odd-Cycle-Cayley (OCC) if:
 
@@ -620,29 +563,27 @@ $$
 
 定义 2.1 把组合约束和可对角化要求合并成一个对象。没有第 1 条就无法编码 odd-cycle 条件，没有第 2 条就无法做频谱计算。
 
-**Spectrum Notation (Original).**
-
+\paragraph{Spectrum Notation (Original).}
 For each $G\subseteq K_n$, let $\lambda_G$ be the eigenvalue of $\chi_G$.
-Write $\Lambda=(\lambda_G)_{G\subseteq K_n}$ for the **OCC spectrum**, $\lambda_{\min}$ for its minimum, and
+Write $\Lambda=(\lambda_G)_{G\subseteq K_n}$ for the \keypart{OCC spectrum}, $\lambda_{\min}$ for its minimum, and
 
 $$
 \Lambda_{\min}=\{G:\lambda_G=\lambda_{\min}\}.
 $$
 
-The **spectral gap** is the maximal $\gamma$ such that
+The \keypart{spectral gap} is the maximal $\gamma$ such that
 
 $$
 \lambda_H\ge \lambda_{\min}+\gamma,  H\notin\Lambda_{\min}.
 $$
 
-OCC operators (hence OCC spectra) form a **linear space**.
+OCC operators (hence OCC spectra) form a \keypart{linear space}.
 
 **Remark 40.**
 
 线性空间性质是后面“先做一套主谱，再加一套修正谱”的根本原因。
 
-**Operator Construction (Original).**
-
+\paragraph{Operator Construction (Original).}
 Let $B$ be a bipartite graph, and define
 
 $$
@@ -659,8 +600,7 @@ $$
 
 这是 Section 1 里“翻边”动作的算子化版本。
 
-******Markov Walk View**** (Original).**
-
+\paragraph{**\keypart{Markov Walk View}** (Original).}
 The same operator can be viewed as a random walk on graph space with stationary uniform measure; if $\mathcal F$ is odd-cycle-intersecting, two consecutive states cannot both lie in $\mathcal F$.
 
 **Remark 42.**
@@ -678,14 +618,14 @@ $$
 **Proof.**
 
 If $\mathcal F$ is odd-cycle-agreeing and $f=1_{\mathcal F}$, then
-****key annihilation step****
+**\keypart{key annihilation step}**
 
 $$
 f(G)=1\Rightarrow A_{\mathcal B}f(G)=0.
 $$
 
 Also, for Fourier characters:
-****key eigenfunction step****
+**\keypart{key eigenfunction step}**
 
 $$
 A_{\mathcal B}\chi_R(G)=\mathbb E[\chi_R(G\oplus B)]
@@ -699,7 +639,7 @@ $$
 $$
 
 This can be rewritten in the claim form:
-****key spectral formula****
+**\keypart{key spectral formula}**
 
 $$
 \lambda_R=(-1)^{|R|}\mathbb E[\chi_B(R)]
@@ -743,11 +683,11 @@ $$
 
 For any odd-cycle-agreeing family $\mathcal F$:
 
-- **Upper bound**: $\mu(\mathcal F)\le \nu$.
+- \keypart{Upper bound}: $\mu(\mathcal F)\le \nu$.
 
-- **Uniqueness**: if $\mu(\mathcal F)=\nu$, then $\widehat{\mathcal F}(G)\neq 0$ only for $G\in\Lambda_{\min}\cup\{\emptyset\}$.
+- \keypart{Uniqueness}: if $\mu(\mathcal F)=\nu$, then $\widehat{\mathcal F}(G)\neq 0$ only for $G\in\Lambda_{\min}\cup\{\emptyset\}$.
 
-- **Stability**: letting
+- \keypart{Stability}: letting
 
 $$
 w=\sum_{G\notin\Lambda_{\min}\cup\{\emptyset\}}\widehat{\mathcal F}(G)^2,
@@ -768,7 +708,7 @@ A(\mathcal F)=\sum_G \lambda_G\widehat{\mathcal F}(G)\chi_G,
 $$
 
 and thus
-****key quadratic identity****
+**\keypart{key quadratic identity}**
 
 $$
 0=\langle \mathcal F,A\mathcal F\rangle
@@ -782,7 +722,7 @@ w=\sum_{G\notin\Lambda_{\min}\cup\{\emptyset\}}\widehat{\mathcal F}(G)^2,
 $$
 
 we get
-****key mass decomposition****
+**\keypart{key mass decomposition}**
 
 $$
 \sum_{G\in\Lambda_{\min}}\widehat{\mathcal F}(G)^2
@@ -790,7 +730,7 @@ $$
 $$
 
 Therefore,
-****core spectral inequality****
+**\keypart{core spectral inequality}**
 
 $$
 \begin{aligned}
@@ -805,7 +745,7 @@ $$
 $$
 
 Hence
-****key bound transfer****
+**\keypart{key bound transfer}**
 
 $$
 \mu(\mathcal F)^2-\mu(\mathcal F)\nu+w\gamma(1-\nu)\le 0.
@@ -819,7 +759,7 @@ $$
 $$
 
 so
-****key stability estimate****
+**\keypart{key stability estimate}**
 
 $$
 w\le \frac{\mu(\mathcal F)}{(1-\nu)\gamma}\,(\nu-\mu(\mathcal F))
@@ -832,8 +772,7 @@ $$
 
 Theorem 2.2 是 Section 2 的总模板：同一个二次型不等式同时产出上界、等号频谱支撑和稳定性误差界。
 
-******Key Quadratic Constraint**** (Original).**
-
+\paragraph{**\keypart{Key Quadratic Constraint}** (Original).}
 The whole theorem is driven by the identity
 
 $$
@@ -859,7 +798,7 @@ Then for any odd-cycle-agreeing family $\mathcal F\subseteq 2^{E(K_n)}$:
 
 - \keypart{$\mu(\mathcal F)\le \frac18$};
 
-- if $\mu(\mathcal F)=\frac18$, then $\mathcal F$ is a **triangle junta**;
+- if $\mu(\mathcal F)=\frac18$, then $\mathcal F$ is a \keypart{triangle junta};
 
 - if $\mu(\mathcal F)\ge \frac18-\varepsilon$, then there exists a triangle junta $\mathcal T$ such that
 
@@ -871,11 +810,11 @@ for an absolute constant $c>0$.
 
 **Proof.**
 
-****Upper bound key step:**** The upper bound follows directly from Theorem 2.2.
+**\keypart{Upper bound key step:}** The upper bound follows directly from Theorem 2.2.
 
 **Uniqueness.**
 First assume $\mathcal F$ is odd-cycle-intersecting; the reduction from agreeing to intersecting is Lemma 2.7 below.
-****key low-degree reduction:**** since the Fourier transform is supported on graphs with at most three edges, Nisan--Szegedy implies $\mathcal F$ depends on at most $3\cdot 2^3=24$ coordinates.
+**\keypart{key low-degree reduction:}** since the Fourier transform is supported on graphs with at most three edges, Nisan--Szegedy implies $\mathcal F$ depends on at most $3\cdot 2^3=24$ coordinates.
 We may additionally assume $\mathcal F$ is an up-set (replace by up-filter if needed), and $\mu(\mathcal F)=1/8$.
 Then Lemma 2.4 applies: **\keypart{$\mathcal F$ is a 3-umvirate}**; in this setting, triangle-intersecting forces it to be a $\triangle$umvirate.
 Finally, Lemma 2.7 gives the odd-cycle-agreeing-to-junta reduction.
@@ -883,7 +822,7 @@ Finally, Lemma 2.7 gives the odd-cycle-agreeing-to-junta reduction.
 **Stability.**
 Use Theorem 2.5 (Kindler--Safra).
 Assume $\mu(\mathcal F)>1/8-\varepsilon$. By Theorem 2.2,
-****key Fourier-tail estimate****
+**\keypart{key Fourier-tail estimate}**
 
 $$
 w=\sum_{G\notin\Lambda_{\min}\cup\{\emptyset\}}\widehat{\mathcal F}(G)^2\le \frac{1}{7\gamma}\varepsilon.
@@ -899,7 +838,7 @@ to some family depending on at most $T_0$ coordinates.
 There are only finitely many such families that are not triangle juntas; by uniqueness, all of them have measure $<1/8$.
 Choose $\varepsilon_1>0$ so that each has measure $<1/8-\left(1+\frac{c_0}{7\gamma}\right)\varepsilon_1$.
 If $\varepsilon\le \varepsilon_1$, $\mathcal F$ cannot be that close to any of them while still having measure at least $1/8-\varepsilon$.
-Hence ****the approximating family must be a triangle junta****.
+Hence **\keypart{the approximating family must be a triangle junta}**.
 If $\varepsilon>\min(7\gamma\varepsilon_0,\varepsilon_1)=:\varepsilon_2$, take $c=1/\varepsilon_2$.
 
 ∎
@@ -908,10 +847,9 @@ If $\varepsilon>\min(7\gamma\varepsilon_0,\varepsilon_1)=:\varepsilon_2$, take $
 
 这个证明的结构是“谱稳定性 $\to$ 有限坐标逼近 $\to$ 排除有限坏例”：它不是直接分类全部族，而是借有限性做反证收口。
 
-******Key Reduction In Uniqueness**** (Original).**
-
+\paragraph{**\keypart{Key Reduction In Uniqueness}** (Original).}
 The uniqueness proof combines three ingredients in order:
-**low-degree Fourier support** $\Rightarrow$ **bounded-coordinate dependence** $\Rightarrow$ **umvirate/junta rigidity**.
+\keypart{low-degree Fourier support} $\Rightarrow$ \keypart{bounded-coordinate dependence} $\Rightarrow$ \keypart{umvirate/junta rigidity}.
 
 **Remark 48.**
 
@@ -951,7 +889,7 @@ $$
 
 这里最强的一点是：只要高阶尾质量足够小，逼近函数所需坐标数就被统一上界住，不随 $\varepsilon$ 继续恶化。
 
-******难点（对应此处）****：为什么 Corollary 2.3 的稳定性要引入“有限坏族排除”？**
+\paragraph{**\keypart{难点（对应此处）}**：为什么 Corollary 2.3 的稳定性要引入“有限坏族排除”？}
 
 **Remark 51.**
 
@@ -959,8 +897,7 @@ $$
 
 ### The Intersecting/Agreeing Equivalence
 
-**Abstract Setup (Original).**
-
+\paragraph{Abstract Setup (Original).}
 Let $X$ be finite and $\mathcal Z\subseteq P(X)$.
 A family $\mathcal A\subseteq P(X)$ is $\mathcal Z$-intersecting if for all $A,B\in\mathcal A$ there exists $Z\in\mathcal Z$ with $Z\subseteq A\cap B$.
 It is $\mathcal Z$-agreeing if for all $A,B\in\mathcal A$ there exists $Z\in\mathcal Z$ with
@@ -981,9 +918,8 @@ $$
 
 这一步把图论中的 agreeing/intersecting 问题抽象成集合系统命题，方便直接调用压缩（monotonization）方法。
 
-******Monotonization Principle**** (Original).**
-
-Compression operators $C_i$ preserve family size and the agreeing property, while driving the family toward an **up-set**; once up-closed, agreeing upgrades to intersecting.
+\paragraph{**\keypart{Monotonization Principle}** (Original).}
+Compression operators $C_i$ preserve family size and the agreeing property, while driving the family toward an \keypart{up-set}; once up-closed, agreeing upgrades to intersecting.
 
 **Remark 53.**
 
@@ -999,7 +935,7 @@ $$
 
 **Proof.**
 
-****first inequality****
+**\keypart{first inequality}**
 Clearly, every $\mathcal Z$-intersecting family is $\mathcal Z$-agreeing, so
 
 $$
@@ -1026,7 +962,7 @@ $$
 
 At each step, the sum of set sizes in the family increases by at least $1$, so the process terminates at some $\mathcal F_\ell$.
 Let $\mathcal F'=\mathcal F_\ell$.
-Then $\mathcal F'$ is $\mathcal Z$-agreeing, $|\mathcal F'|=|\mathcal F|$, and $\mathcal F'$ is an ****up-set****.
+Then $\mathcal F'$ is $\mathcal Z$-agreeing, $|\mathcal F'|=|\mathcal F|$, and $\mathcal F'$ is an **\keypart{up-set}**.
 
 Now for $F,G\in\mathcal F'$, we have $F\cup G\in\mathcal F'$.
 Since $\mathcal F'$ is $\mathcal Z$-agreeing, there exists $Z\in\mathcal Z$ such that
@@ -1086,7 +1022,7 @@ $$
 Therefore every $G\in\mathcal D$ has $G\cap T=S$, and every $G\in\mathcal C$ has $G\cap T=S-e$.
 
 Since $\mathcal F_{k+1}\neq \mathcal F_k$, we have $\mathcal C\neq\emptyset$.
-****key claim:**** we claim $\mathcal D=\emptyset$.
+**\keypart{key claim:}** we claim $\mathcal D=\emptyset$.
 Assume not; let $|\mathcal D|=N\ge 1$, then
 
 $$
@@ -1122,7 +1058,7 @@ H\oplus S\in\mathcal D,
 H\oplus f\oplus S\oplus T\oplus e\in\mathcal C.
 $$
 
-These two graphs agree only on $T\oplus e\oplus f$, a 3-edge graph containing exactly two edges of $T$, thus not a triangle, ****contradicting odd-cycle-agreeing**** of $\mathcal F_k$.
+These two graphs agree only on $T\oplus e\oplus f$, a 3-edge graph containing exactly two edges of $T$, thus not a triangle, **\keypart{contradicting odd-cycle-agreeing}** of $\mathcal F_k$.
 
 Therefore $\mathcal D=\emptyset$, i.e.
 
@@ -1131,7 +1067,7 @@ $$
 $$
 
 so $\mathcal F_k$ is also a $T$-junta.
-****backward induction closes the proof:**** $\mathcal F_0=\mathcal F$ is a $T$-junta.
+**\keypart{backward induction closes the proof:}** $\mathcal F_0=\mathcal F$ is a $T$-junta.
 
 ∎
 
@@ -1139,7 +1075,7 @@ so $\mathcal F_k$ is also a $T$-junta.
 
 Lemma 2.7 的技术点是：把一次压缩前后的差异编码成 $\mathcal C,\mathcal D$，再用“相邻子图”反证 agreeing 条件，从而把 junta 结构向前逐步回传。
 
-\paragraph{****难点（对应此处）****：为什么要引入 $V,W$ 这两个类？}
+\paragraph{**\keypart{难点（对应此处）}**：为什么要引入 $V,W$ 这两个类？}
 
 **Remark 56.**
 
@@ -1147,10 +1083,9 @@ Lemma 2.7 的技术点是：把一次压缩前后的差异编码成 $\mathcal C,
 
 ### Constructing The Required OCC Spectrum
 
-**Two-Step Plan (Original).**
-
-First construct an OCC spectrum $\Lambda^{(1)}$ with correct minimum value but extra **tight graphs** (all 4-forests and $K_4^-$).
-Then add a multiple of $\Lambda^{(2)}$, which is **positive on problematic graphs** and **zero on all graphs with at most three edges**.
+\paragraph{Two-Step Plan (Original).}
+First construct an OCC spectrum $\Lambda^{(1)}$ with correct minimum value but extra \keypart{tight graphs} (all 4-forests and $K_4^-$).
+Then add a multiple of $\Lambda^{(2)}$, which is \keypart{positive on problematic graphs} and \keypart{zero on all graphs with at most three edges}.
 
 **Remark 57.**
 
@@ -1177,14 +1112,14 @@ $$
 $$
 
 is an OCC spectrum for each $B'\subseteq B$.
-Since $\{\chi_{B'}:B'\subseteq B\}$ ****spans all functions**** on subgraphs of $B$, for any $f$ the vector
+Since $\{\chi_{B'}:B'\subseteq B\}$ **\keypart{spans all functions}** on subgraphs of $B$, for any $f$ the vector
 
 $$
 \lambda_G=(-1)^{|G|}f(G\cap B)
 $$
 
 is OCC.
-****taking expectation**** over random $B\sim\mathcal B$ gives the statement.
+**\keypart{taking expectation}** over random $B\sim\mathcal B$ gives the statement.
 
 ∎
 
@@ -1192,8 +1127,7 @@ is OCC.
 
 Lemma 2.8 说明：只要你能把目标特征值写成 cut 子图统计的线性组合，就自动得到一个 OCC 谱。
 
-**Concrete Choice Of Building Blocks (Original).**
-
+\paragraph{Concrete Choice Of Building Blocks (Original).}
 The distribution $\mathcal B$ is the uniform distribution on complete bipartite subgraphs from random bipartitions.
 Functions $f_B$ are chosen as indicators of:
 
@@ -1205,9 +1139,8 @@ Functions $f_B$ are chosen as indicators of:
 
 这就是为什么后面会出现 $q_i(G)$ 和 $q_R(G)$：它们正是可控且可组合的“谱基底坐标”。
 
-******Engineering Insight**** (Original).**
-
-The $q_i(G)$ and $q_R(G)$ coordinates are rich enough to interpolate exact values on small graphs, while decaying fast enough on large graphs to preserve a **strict spectral gap**.
+\paragraph{**\keypart{Engineering Insight}** (Original).}
+The $q_i(G)$ and $q_R(G)$ coordinates are rich enough to interpolate exact values on small graphs, while decaying fast enough on large graphs to preserve a \keypart{strict spectral gap}.
 
 **Remark 60.**
 
@@ -1309,8 +1242,7 @@ Then:
 
 Claim 3 的作用是“只动坏点，不动低阶目标点”：它对 $|G|\le 3$ 全零，因此不会破坏主谱在关键小图上的定标。
 
-**Proof Placement (Original).**
-
+\paragraph{Proof Placement (Original).}
 The proof of Claim 2 is deferred to Section 3 (cut statistics analysis).
 
 **Remark 64.**
@@ -1340,7 +1272,7 @@ $$
 **Proof.**
 
 For any 4-forest $F$,
-****lift bad tight points:****
+**\keypart{lift bad tight points:}**
 
 $$
 \lambda_F=-\frac17+\frac{16}{17}\gamma'\cdot\frac1{16}
@@ -1368,8 +1300,7 @@ So **\keypart{taking $\gamma=\gamma'/17$}** yields the desired gap.
 
 Corollary 2.10 完成了 $p=1/2$ 的谱闭环：值、tight 集、gap 三个条件同时就位。
 
-******Section 2 Closing Point**** (Original).**
-
+\paragraph{**\keypart{Section 2 Closing Point}** (Original).}
 After Corollary 2.10, the uniform-measure case is reduced to verifying Claim 2, which is exactly the cut-statistics analysis in Section 3.
 
 **Remark 66.**
@@ -1378,23 +1309,9 @@ After Corollary 2.10, the uniform-measure case is reduced to verifying Claim 2, 
 
 ## PDF
 
-Download the original write-up [here](/files/Grade3/Reports/triangle-intersecting.pdf).0:{"buildId":"rZLQ8EVqblT6xTH8wdhS0","rsc":["$","$1","c",{"children":[["$","$L2",null,{"hasContent":false,"children":[false,["$","$L3",null,{"baseLdJson":{"@context":"https://schema.org","@type":"BlogPosting","headline":"Triangle-Intersecting Families I","description":"Reading notes on triangle-intersecting families of graphs.","datePublished":"2026-04-12T00:00:00.000Z","dateModified":"2026-04-12T00:00:00.000Z"}}],["$","$L4",null,{"data":{"id":"post-triangle-1","created":"2026-04-12T00:00:00.000Z","modified":"2026-04-12T00:00:00.000Z","title":"Triangle-Intersecting Families I","text":"$5","summary":"Reading notes on triangle-intersecting families of graphs.","copyright":true,"tags":["Seminar","Combinatorics"],"slug":"triangle-intersecting-1","categoryId":"cat-seminar","category":{"id":"cat-seminar","slug":"seminar","name":"Seminar","created":"2024-07-01T00:00:00.000Z","type":0,"count":10},"images":[],"pin":null,"pinOrder":0,"related":[],"allowComment":true,"commentsIndex":0,"count":{"read":0,"like":0}}}],"$L6","$L7","$L8"]}],["$L9","$La","$Lb","$Lc","$Ld","$Le","$Lf","$L10","$L11","$L12","$L13","$L14","$L15","$L16"],"$L17"]}],"loading":null,"isPartial":false}
-6:["$","$L18",null,{"fetchedAt":"2026-08-19T10:14:43.429Z"}]
-7:["$","div",null,{"data-server-fetched-at":"2026-08-19T10:14:43.429Z","className":"relative flex min-h-[120px] grid-cols-[auto_200px] lg:grid","children":[["$","$L19",null,{"lcpOptimization":true,"className":"min-w-0","children":[["$","div",null,{"className":"relative w-full min-w-0","children":[["$","$L1a",null,{"id":"post-triangle-1","type":"post"}],["$","div",null,{"children":[["$","div",null,{"className":"mb-8","children":[["$","$L1b",null,{}],["$","$L1c",null,{"id":"post-triangle-1","type":"posts","className":"absolute -top-6 right-0"}],["$","$L1d",null,{"className":"mb-8 justify-center"}],["$","$L1e",null,{}],["$","$L1f",null,{"type":"before"}]]}],["$","$L20",null,{"eoaDetect":true,"children":[["$","$L21",null,{}],["$","$L22",null,{"children":["$","$L23",null,{"children":["$","article",null,{"className":"prose","children":[["$","div",null,{"className":"sr-only","children":["$","$L1b",null,{}]}],["$","$L24",null,{}],["$","$L25",null,{}]]}]}]}],["$","$L26",null,{"children":["$","$L27",null,{}]}]]}]]}],["$","$L28",null,{"children":[["$","$L1f",null,{}],["$","$L29",null,{}],["$","$L2a",null,{}]]}]]}],["$","$L2b",null,{"delay":500,"children":["$","$L2c",null,{"refId":"post-triangle-1","allowComment":true}]}]]}],["$","$L2d",null,{"className":"relative hidden lg:block"}]]}]
-8:["$","$L2e",null,{"children":["$","$L2f",null,{}]}]
-9:["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/136744c992bad96d.css","precedence":"next"}]
-a:["$","link","1",{"rel":"stylesheet","href":"/_next/static/chunks/0169140b52b18b81.css","precedence":"next"}]
-b:["$","link","2",{"rel":"stylesheet","href":"/_next/static/chunks/cf19f565ce194e50.css","precedence":"next"}]
-c:["$","link","3",{"rel":"stylesheet","href":"/_next/static/chunks/2a531debc05d9c48.css","precedence":"next"}]
-d:["$","link","4",{"rel":"stylesheet","href":"/_next/static/chunks/f6d4eb0f1595037c.css","precedence":"next"}]
-e:["$","link","5",{"rel":"stylesheet","href":"/_next/static/chunks/be9fe8599e8928e8.css","precedence":"next"}]
-f:["$","script","script-0",{"src":"/_next/static/chunks/35eaa08fca66b29e.js","async":true}]
-10:["$","script","script-1",{"src":"/_next/static/chunks/f91f857f975d1c9f.js","async":true}]
-11:["$","script","script-2",{"src":"/_next/static/chunks/dabd062b49706f28.js","async":true}]
-12:["$","script","script-3",{"src":"/_next/static/chunks/740441c5b62d2d93.js","async":true}]
-13:["$","script","script-4",{"src":"/_next/static/chunks/dcd49895cb9db447.js","async":true}]
-14:["$","script","script-5",{"src":"/_next/static/chunks/175944aa1545ac7c.js","async":true}]
-15:["$","script","script-6",{"src":"/_next/static/chunks/16494c9ed210a726.js","async":true}]
-16:["$","script","script-7",{"src":"/_next/static/chunks/19ed43205a6e84be.js","async":true}]
-17:["$","$L30",null,{"children":["$","$31",null,{"name":"Next.MetadataOutlet","children":"$@32"}]}]
-32:null
+Download the original write-up [here](/files/Grade3/Reports/triangle-intersecting.pdf).0:{"buildId":"4lK6jJ-LNlsa-O0kGQwZ-","rsc":["$","$1","c",{"children":[["$","div",null,{"className":"relative flex min-h-[120px] grid-cols-[auto_200px] lg:grid","children":["$","div",null,{"className":"relative w-full min-w-0","children":["$","article",null,{"className":"prose","children":[["$","h1",null,{"className":"mb-8 text-balance text-center lg:text-left text-4xl font-bold leading-tight","children":"Triangle-Intersecting Families I"}],["$","$L2",null,{"allowsScript":true,"value":"$3","className":"min-w-0 overflow-hidden"}]]}]}]}],["$L4","$L5","$L6"],"$L7"]}],"loading":null,"isPartial":false}
+4:["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/90c7fe74d75f9368.css","precedence":"next"}]
+5:["$","link","1",{"rel":"stylesheet","href":"/_next/static/css/307ca07a66e4cbaa.css","precedence":"next"}]
+6:["$","link","2",{"rel":"stylesheet","href":"/_next/static/css/e990d6bfce8f7934.css","precedence":"next"}]
+7:["$","$L8",null,{"children":["$","$9",null,{"name":"Next.MetadataOutlet","children":"$@a"}]}]
+a:null

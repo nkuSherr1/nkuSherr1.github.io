@@ -1,40 +1,11 @@
 1:"$Sreact.fragment"
-2:I[417743,["/_next/static/chunks/d03e4f6fdf084240.js","/_next/static/chunks/525ff3aa60c02a25.js","/_next/static/chunks/ae2a70c709da2ba8.js","/_next/static/chunks/eb309b8f06731812.js","/_next/static/chunks/baa674234f056c60.js","/_next/static/chunks/2edc37b4337c096a.js","/_next/static/chunks/6f0408800ece4f06.js","/_next/static/chunks/6f95f3a6a7ed9dab.js","/_next/static/chunks/3c40fd5a14861430.js","/_next/static/chunks/e7855f92c342e0a3.js","/_next/static/chunks/a5fcaccd389d798e.js","/_next/static/chunks/c3456ef3141ade67.js","/_next/static/chunks/c92042fd5179bd95.js","/_next/static/chunks/1737ca787e6b8d4c.js","/_next/static/chunks/d691f1571e343c32.js","/_next/static/chunks/65f1d76f7ac19600.js","/_next/static/chunks/762b6f848ae7b21b.js","/_next/static/chunks/1d5a5c14848b802e.js","/_next/static/chunks/a40e2b25b1a62ac7.js","/_next/static/chunks/c6509abffeae92d2.js","/_next/static/chunks/35eaa08fca66b29e.js","/_next/static/chunks/f91f857f975d1c9f.js","/_next/static/chunks/dabd062b49706f28.js","/_next/static/chunks/740441c5b62d2d93.js","/_next/static/chunks/dcd49895cb9db447.js","/_next/static/chunks/175944aa1545ac7c.js","/_next/static/chunks/16494c9ed210a726.js","/_next/static/chunks/19ed43205a6e84be.js"],"TocHeadingStrategyProvider"]
-3:I[401946,["/_next/static/chunks/d03e4f6fdf084240.js","/_next/static/chunks/525ff3aa60c02a25.js","/_next/static/chunks/ae2a70c709da2ba8.js","/_next/static/chunks/eb309b8f06731812.js","/_next/static/chunks/baa674234f056c60.js","/_next/static/chunks/2edc37b4337c096a.js","/_next/static/chunks/6f0408800ece4f06.js","/_next/static/chunks/6f95f3a6a7ed9dab.js","/_next/static/chunks/3c40fd5a14861430.js","/_next/static/chunks/e7855f92c342e0a3.js","/_next/static/chunks/a5fcaccd389d798e.js","/_next/static/chunks/c3456ef3141ade67.js","/_next/static/chunks/c92042fd5179bd95.js","/_next/static/chunks/1737ca787e6b8d4c.js","/_next/static/chunks/d691f1571e343c32.js","/_next/static/chunks/65f1d76f7ac19600.js","/_next/static/chunks/762b6f848ae7b21b.js","/_next/static/chunks/1d5a5c14848b802e.js","/_next/static/chunks/a40e2b25b1a62ac7.js","/_next/static/chunks/c6509abffeae92d2.js","/_next/static/chunks/35eaa08fca66b29e.js","/_next/static/chunks/f91f857f975d1c9f.js","/_next/static/chunks/dabd062b49706f28.js","/_next/static/chunks/740441c5b62d2d93.js","/_next/static/chunks/dcd49895cb9db447.js","/_next/static/chunks/175944aa1545ac7c.js","/_next/static/chunks/16494c9ed210a726.js","/_next/static/chunks/19ed43205a6e84be.js"],"LdJsonWithAuthor"]
-4:I[373448,["/_next/static/chunks/d03e4f6fdf084240.js","/_next/static/chunks/525ff3aa60c02a25.js","/_next/static/chunks/ae2a70c709da2ba8.js","/_next/static/chunks/eb309b8f06731812.js","/_next/static/chunks/baa674234f056c60.js","/_next/static/chunks/2edc37b4337c096a.js","/_next/static/chunks/6f0408800ece4f06.js","/_next/static/chunks/6f95f3a6a7ed9dab.js","/_next/static/chunks/3c40fd5a14861430.js","/_next/static/chunks/e7855f92c342e0a3.js","/_next/static/chunks/a5fcaccd389d798e.js","/_next/static/chunks/c3456ef3141ade67.js","/_next/static/chunks/c92042fd5179bd95.js","/_next/static/chunks/1737ca787e6b8d4c.js","/_next/static/chunks/d691f1571e343c32.js","/_next/static/chunks/65f1d76f7ac19600.js","/_next/static/chunks/762b6f848ae7b21b.js","/_next/static/chunks/1d5a5c14848b802e.js","/_next/static/chunks/a40e2b25b1a62ac7.js","/_next/static/chunks/c6509abffeae92d2.js","/_next/static/chunks/35eaa08fca66b29e.js","/_next/static/chunks/f91f857f975d1c9f.js","/_next/static/chunks/dabd062b49706f28.js","/_next/static/chunks/740441c5b62d2d93.js","/_next/static/chunks/dcd49895cb9db447.js","/_next/static/chunks/175944aa1545ac7c.js","/_next/static/chunks/16494c9ed210a726.js","/_next/static/chunks/19ed43205a6e84be.js"],"CurrentPostDataProvider"]
-18:I[401946,["/_next/static/chunks/d03e4f6fdf084240.js","/_next/static/chunks/525ff3aa60c02a25.js","/_next/static/chunks/ae2a70c709da2ba8.js","/_next/static/chunks/eb309b8f06731812.js","/_next/static/chunks/baa674234f056c60.js","/_next/static/chunks/2edc37b4337c096a.js","/_next/static/chunks/6f0408800ece4f06.js","/_next/static/chunks/6f95f3a6a7ed9dab.js","/_next/static/chunks/3c40fd5a14861430.js","/_next/static/chunks/e7855f92c342e0a3.js","/_next/static/chunks/a5fcaccd389d798e.js","/_next/static/chunks/c3456ef3141ade67.js","/_next/static/chunks/c92042fd5179bd95.js","/_next/static/chunks/1737ca787e6b8d4c.js","/_next/static/chunks/d691f1571e343c32.js","/_next/static/chunks/65f1d76f7ac19600.js","/_next/static/chunks/762b6f848ae7b21b.js","/_next/static/chunks/1d5a5c14848b802e.js","/_next/static/chunks/a40e2b25b1a62ac7.js","/_next/static/chunks/c6509abffeae92d2.js","/_next/static/chunks/35eaa08fca66b29e.js","/_next/static/chunks/f91f857f975d1c9f.js","/_next/static/chunks/dabd062b49706f28.js","/_next/static/chunks/740441c5b62d2d93.js","/_next/static/chunks/dcd49895cb9db447.js","/_next/static/chunks/175944aa1545ac7c.js","/_next/static/chunks/16494c9ed210a726.js","/_next/static/chunks/19ed43205a6e84be.js"],"PostDataReValidate"]
-19:I[793580,["/_next/static/chunks/d03e4f6fdf084240.js","/_next/static/chunks/525ff3aa60c02a25.js","/_next/static/chunks/ae2a70c709da2ba8.js","/_next/static/chunks/eb309b8f06731812.js","/_next/static/chunks/baa674234f056c60.js","/_next/static/chunks/2edc37b4337c096a.js","/_next/static/chunks/6f0408800ece4f06.js","/_next/static/chunks/6f95f3a6a7ed9dab.js","/_next/static/chunks/3c40fd5a14861430.js","/_next/static/chunks/e7855f92c342e0a3.js","/_next/static/chunks/a5fcaccd389d798e.js","/_next/static/chunks/c3456ef3141ade67.js","/_next/static/chunks/c92042fd5179bd95.js","/_next/static/chunks/1737ca787e6b8d4c.js","/_next/static/chunks/d691f1571e343c32.js","/_next/static/chunks/65f1d76f7ac19600.js","/_next/static/chunks/762b6f848ae7b21b.js","/_next/static/chunks/1d5a5c14848b802e.js","/_next/static/chunks/a40e2b25b1a62ac7.js","/_next/static/chunks/c6509abffeae92d2.js","/_next/static/chunks/35eaa08fca66b29e.js","/_next/static/chunks/f91f857f975d1c9f.js","/_next/static/chunks/dabd062b49706f28.js","/_next/static/chunks/740441c5b62d2d93.js","/_next/static/chunks/dcd49895cb9db447.js","/_next/static/chunks/175944aa1545ac7c.js","/_next/static/chunks/16494c9ed210a726.js","/_next/static/chunks/19ed43205a6e84be.js"],"BottomToUpTransitionView"]
-1a:I[189209,["/_next/static/chunks/d03e4f6fdf084240.js","/_next/static/chunks/525ff3aa60c02a25.js","/_next/static/chunks/ae2a70c709da2ba8.js","/_next/static/chunks/eb309b8f06731812.js","/_next/static/chunks/baa674234f056c60.js","/_next/static/chunks/2edc37b4337c096a.js","/_next/static/chunks/6f0408800ece4f06.js","/_next/static/chunks/6f95f3a6a7ed9dab.js","/_next/static/chunks/3c40fd5a14861430.js","/_next/static/chunks/e7855f92c342e0a3.js","/_next/static/chunks/a5fcaccd389d798e.js","/_next/static/chunks/c3456ef3141ade67.js","/_next/static/chunks/c92042fd5179bd95.js","/_next/static/chunks/1737ca787e6b8d4c.js","/_next/static/chunks/d691f1571e343c32.js","/_next/static/chunks/65f1d76f7ac19600.js","/_next/static/chunks/762b6f848ae7b21b.js","/_next/static/chunks/1d5a5c14848b802e.js","/_next/static/chunks/a40e2b25b1a62ac7.js","/_next/static/chunks/c6509abffeae92d2.js","/_next/static/chunks/35eaa08fca66b29e.js","/_next/static/chunks/f91f857f975d1c9f.js","/_next/static/chunks/dabd062b49706f28.js","/_next/static/chunks/740441c5b62d2d93.js","/_next/static/chunks/dcd49895cb9db447.js","/_next/static/chunks/175944aa1545ac7c.js","/_next/static/chunks/16494c9ed210a726.js","/_next/static/chunks/19ed43205a6e84be.js"],"AckRead"]
-1b:I[401946,["/_next/static/chunks/d03e4f6fdf084240.js","/_next/static/chunks/525ff3aa60c02a25.js","/_next/static/chunks/ae2a70c709da2ba8.js","/_next/static/chunks/eb309b8f06731812.js","/_next/static/chunks/baa674234f056c60.js","/_next/static/chunks/2edc37b4337c096a.js","/_next/static/chunks/6f0408800ece4f06.js","/_next/static/chunks/6f95f3a6a7ed9dab.js","/_next/static/chunks/3c40fd5a14861430.js","/_next/static/chunks/e7855f92c342e0a3.js","/_next/static/chunks/a5fcaccd389d798e.js","/_next/static/chunks/c3456ef3141ade67.js","/_next/static/chunks/c92042fd5179bd95.js","/_next/static/chunks/1737ca787e6b8d4c.js","/_next/static/chunks/d691f1571e343c32.js","/_next/static/chunks/65f1d76f7ac19600.js","/_next/static/chunks/762b6f848ae7b21b.js","/_next/static/chunks/1d5a5c14848b802e.js","/_next/static/chunks/a40e2b25b1a62ac7.js","/_next/static/chunks/c6509abffeae92d2.js","/_next/static/chunks/35eaa08fca66b29e.js","/_next/static/chunks/f91f857f975d1c9f.js","/_next/static/chunks/dabd062b49706f28.js","/_next/static/chunks/740441c5b62d2d93.js","/_next/static/chunks/dcd49895cb9db447.js","/_next/static/chunks/175944aa1545ac7c.js","/_next/static/chunks/16494c9ed210a726.js","/_next/static/chunks/19ed43205a6e84be.js"],"PostTitle"]
-1c:I[923014,["/_next/static/chunks/d03e4f6fdf084240.js","/_next/static/chunks/525ff3aa60c02a25.js","/_next/static/chunks/ae2a70c709da2ba8.js","/_next/static/chunks/eb309b8f06731812.js","/_next/static/chunks/baa674234f056c60.js","/_next/static/chunks/2edc37b4337c096a.js","/_next/static/chunks/6f0408800ece4f06.js","/_next/static/chunks/6f95f3a6a7ed9dab.js","/_next/static/chunks/3c40fd5a14861430.js","/_next/static/chunks/e7855f92c342e0a3.js","/_next/static/chunks/a5fcaccd389d798e.js","/_next/static/chunks/c3456ef3141ade67.js","/_next/static/chunks/c92042fd5179bd95.js","/_next/static/chunks/1737ca787e6b8d4c.js","/_next/static/chunks/d691f1571e343c32.js","/_next/static/chunks/65f1d76f7ac19600.js","/_next/static/chunks/762b6f848ae7b21b.js","/_next/static/chunks/1d5a5c14848b802e.js","/_next/static/chunks/a40e2b25b1a62ac7.js","/_next/static/chunks/c6509abffeae92d2.js","/_next/static/chunks/35eaa08fca66b29e.js","/_next/static/chunks/f91f857f975d1c9f.js","/_next/static/chunks/dabd062b49706f28.js","/_next/static/chunks/740441c5b62d2d93.js","/_next/static/chunks/dcd49895cb9db447.js","/_next/static/chunks/175944aa1545ac7c.js","/_next/static/chunks/16494c9ed210a726.js","/_next/static/chunks/19ed43205a6e84be.js"],"GoToAdminEditingButton"]
-1d:I[401946,["/_next/static/chunks/d03e4f6fdf084240.js","/_next/static/chunks/525ff3aa60c02a25.js","/_next/static/chunks/ae2a70c709da2ba8.js","/_next/static/chunks/eb309b8f06731812.js","/_next/static/chunks/baa674234f056c60.js","/_next/static/chunks/2edc37b4337c096a.js","/_next/static/chunks/6f0408800ece4f06.js","/_next/static/chunks/6f95f3a6a7ed9dab.js","/_next/static/chunks/3c40fd5a14861430.js","/_next/static/chunks/e7855f92c342e0a3.js","/_next/static/chunks/a5fcaccd389d798e.js","/_next/static/chunks/c3456ef3141ade67.js","/_next/static/chunks/c92042fd5179bd95.js","/_next/static/chunks/1737ca787e6b8d4c.js","/_next/static/chunks/d691f1571e343c32.js","/_next/static/chunks/65f1d76f7ac19600.js","/_next/static/chunks/762b6f848ae7b21b.js","/_next/static/chunks/1d5a5c14848b802e.js","/_next/static/chunks/a40e2b25b1a62ac7.js","/_next/static/chunks/c6509abffeae92d2.js","/_next/static/chunks/35eaa08fca66b29e.js","/_next/static/chunks/f91f857f975d1c9f.js","/_next/static/chunks/dabd062b49706f28.js","/_next/static/chunks/740441c5b62d2d93.js","/_next/static/chunks/dcd49895cb9db447.js","/_next/static/chunks/175944aa1545ac7c.js","/_next/static/chunks/16494c9ed210a726.js","/_next/static/chunks/19ed43205a6e84be.js"],"PostMetaBarInternal"]
-1e:I[6169,["/_next/static/chunks/d03e4f6fdf084240.js","/_next/static/chunks/525ff3aa60c02a25.js","/_next/static/chunks/ae2a70c709da2ba8.js","/_next/static/chunks/eb309b8f06731812.js","/_next/static/chunks/baa674234f056c60.js","/_next/static/chunks/2edc37b4337c096a.js","/_next/static/chunks/6f0408800ece4f06.js","/_next/static/chunks/6f95f3a6a7ed9dab.js","/_next/static/chunks/3c40fd5a14861430.js","/_next/static/chunks/e7855f92c342e0a3.js","/_next/static/chunks/a5fcaccd389d798e.js","/_next/static/chunks/c3456ef3141ade67.js","/_next/static/chunks/c92042fd5179bd95.js","/_next/static/chunks/1737ca787e6b8d4c.js","/_next/static/chunks/d691f1571e343c32.js","/_next/static/chunks/65f1d76f7ac19600.js","/_next/static/chunks/762b6f848ae7b21b.js","/_next/static/chunks/1d5a5c14848b802e.js","/_next/static/chunks/a40e2b25b1a62ac7.js","/_next/static/chunks/c6509abffeae92d2.js","/_next/static/chunks/35eaa08fca66b29e.js","/_next/static/chunks/f91f857f975d1c9f.js","/_next/static/chunks/dabd062b49706f28.js","/_next/static/chunks/740441c5b62d2d93.js","/_next/static/chunks/dcd49895cb9db447.js","/_next/static/chunks/175944aa1545ac7c.js","/_next/static/chunks/16494c9ed210a726.js","/_next/static/chunks/19ed43205a6e84be.js"],"PostOutdate"]
-1f:I[660320,["/_next/static/chunks/d03e4f6fdf084240.js","/_next/static/chunks/525ff3aa60c02a25.js","/_next/static/chunks/ae2a70c709da2ba8.js","/_next/static/chunks/eb309b8f06731812.js","/_next/static/chunks/baa674234f056c60.js","/_next/static/chunks/2edc37b4337c096a.js","/_next/static/chunks/6f0408800ece4f06.js","/_next/static/chunks/6f95f3a6a7ed9dab.js","/_next/static/chunks/3c40fd5a14861430.js","/_next/static/chunks/e7855f92c342e0a3.js","/_next/static/chunks/a5fcaccd389d798e.js","/_next/static/chunks/c3456ef3141ade67.js","/_next/static/chunks/c92042fd5179bd95.js","/_next/static/chunks/1737ca787e6b8d4c.js","/_next/static/chunks/d691f1571e343c32.js","/_next/static/chunks/65f1d76f7ac19600.js","/_next/static/chunks/762b6f848ae7b21b.js","/_next/static/chunks/1d5a5c14848b802e.js","/_next/static/chunks/a40e2b25b1a62ac7.js","/_next/static/chunks/c6509abffeae92d2.js","/_next/static/chunks/35eaa08fca66b29e.js","/_next/static/chunks/f91f857f975d1c9f.js","/_next/static/chunks/dabd062b49706f28.js","/_next/static/chunks/740441c5b62d2d93.js","/_next/static/chunks/dcd49895cb9db447.js","/_next/static/chunks/175944aa1545ac7c.js","/_next/static/chunks/16494c9ed210a726.js","/_next/static/chunks/19ed43205a6e84be.js"],"PostRelated"]
-20:I[145557,["/_next/static/chunks/d03e4f6fdf084240.js","/_next/static/chunks/525ff3aa60c02a25.js","/_next/static/chunks/ae2a70c709da2ba8.js","/_next/static/chunks/eb309b8f06731812.js","/_next/static/chunks/baa674234f056c60.js","/_next/static/chunks/2edc37b4337c096a.js","/_next/static/chunks/6f0408800ece4f06.js","/_next/static/chunks/6f95f3a6a7ed9dab.js","/_next/static/chunks/3c40fd5a14861430.js","/_next/static/chunks/e7855f92c342e0a3.js","/_next/static/chunks/a5fcaccd389d798e.js","/_next/static/chunks/c3456ef3141ade67.js","/_next/static/chunks/c92042fd5179bd95.js","/_next/static/chunks/1737ca787e6b8d4c.js","/_next/static/chunks/d691f1571e343c32.js","/_next/static/chunks/65f1d76f7ac19600.js","/_next/static/chunks/762b6f848ae7b21b.js","/_next/static/chunks/1d5a5c14848b802e.js","/_next/static/chunks/a40e2b25b1a62ac7.js","/_next/static/chunks/c6509abffeae92d2.js","/_next/static/chunks/35eaa08fca66b29e.js","/_next/static/chunks/f91f857f975d1c9f.js","/_next/static/chunks/dabd062b49706f28.js","/_next/static/chunks/740441c5b62d2d93.js","/_next/static/chunks/dcd49895cb9db447.js","/_next/static/chunks/175944aa1545ac7c.js","/_next/static/chunks/16494c9ed210a726.js","/_next/static/chunks/19ed43205a6e84be.js"],"WrappedElementProvider"]
-21:I[125902,["/_next/static/chunks/d03e4f6fdf084240.js","/_next/static/chunks/525ff3aa60c02a25.js","/_next/static/chunks/ae2a70c709da2ba8.js","/_next/static/chunks/eb309b8f06731812.js","/_next/static/chunks/baa674234f056c60.js","/_next/static/chunks/2edc37b4337c096a.js","/_next/static/chunks/6f0408800ece4f06.js","/_next/static/chunks/6f95f3a6a7ed9dab.js","/_next/static/chunks/3c40fd5a14861430.js","/_next/static/chunks/e7855f92c342e0a3.js","/_next/static/chunks/a5fcaccd389d798e.js","/_next/static/chunks/c3456ef3141ade67.js","/_next/static/chunks/c92042fd5179bd95.js","/_next/static/chunks/1737ca787e6b8d4c.js","/_next/static/chunks/d691f1571e343c32.js","/_next/static/chunks/65f1d76f7ac19600.js","/_next/static/chunks/762b6f848ae7b21b.js","/_next/static/chunks/1d5a5c14848b802e.js","/_next/static/chunks/a40e2b25b1a62ac7.js","/_next/static/chunks/c6509abffeae92d2.js","/_next/static/chunks/35eaa08fca66b29e.js","/_next/static/chunks/f91f857f975d1c9f.js","/_next/static/chunks/dabd062b49706f28.js","/_next/static/chunks/740441c5b62d2d93.js","/_next/static/chunks/dcd49895cb9db447.js","/_next/static/chunks/175944aa1545ac7c.js","/_next/static/chunks/16494c9ed210a726.js","/_next/static/chunks/19ed43205a6e84be.js"],"ReadIndicatorForMobile"]
-22:I[401946,["/_next/static/chunks/d03e4f6fdf084240.js","/_next/static/chunks/525ff3aa60c02a25.js","/_next/static/chunks/ae2a70c709da2ba8.js","/_next/static/chunks/eb309b8f06731812.js","/_next/static/chunks/baa674234f056c60.js","/_next/static/chunks/2edc37b4337c096a.js","/_next/static/chunks/6f0408800ece4f06.js","/_next/static/chunks/6f95f3a6a7ed9dab.js","/_next/static/chunks/3c40fd5a14861430.js","/_next/static/chunks/e7855f92c342e0a3.js","/_next/static/chunks/a5fcaccd389d798e.js","/_next/static/chunks/c3456ef3141ade67.js","/_next/static/chunks/c92042fd5179bd95.js","/_next/static/chunks/1737ca787e6b8d4c.js","/_next/static/chunks/d691f1571e343c32.js","/_next/static/chunks/65f1d76f7ac19600.js","/_next/static/chunks/762b6f848ae7b21b.js","/_next/static/chunks/1d5a5c14848b802e.js","/_next/static/chunks/a40e2b25b1a62ac7.js","/_next/static/chunks/c6509abffeae92d2.js","/_next/static/chunks/35eaa08fca66b29e.js","/_next/static/chunks/f91f857f975d1c9f.js","/_next/static/chunks/dabd062b49706f28.js","/_next/static/chunks/740441c5b62d2d93.js","/_next/static/chunks/dcd49895cb9db447.js","/_next/static/chunks/175944aa1545ac7c.js","/_next/static/chunks/16494c9ed210a726.js","/_next/static/chunks/19ed43205a6e84be.js"],"PostMarkdownImageRecordProvider"]
-23:I[401946,["/_next/static/chunks/d03e4f6fdf084240.js","/_next/static/chunks/525ff3aa60c02a25.js","/_next/static/chunks/ae2a70c709da2ba8.js","/_next/static/chunks/eb309b8f06731812.js","/_next/static/chunks/baa674234f056c60.js","/_next/static/chunks/2edc37b4337c096a.js","/_next/static/chunks/6f0408800ece4f06.js","/_next/static/chunks/6f95f3a6a7ed9dab.js","/_next/static/chunks/3c40fd5a14861430.js","/_next/static/chunks/e7855f92c342e0a3.js","/_next/static/chunks/a5fcaccd389d798e.js","/_next/static/chunks/c3456ef3141ade67.js","/_next/static/chunks/c92042fd5179bd95.js","/_next/static/chunks/1737ca787e6b8d4c.js","/_next/static/chunks/d691f1571e343c32.js","/_next/static/chunks/65f1d76f7ac19600.js","/_next/static/chunks/762b6f848ae7b21b.js","/_next/static/chunks/1d5a5c14848b802e.js","/_next/static/chunks/a40e2b25b1a62ac7.js","/_next/static/chunks/c6509abffeae92d2.js","/_next/static/chunks/35eaa08fca66b29e.js","/_next/static/chunks/f91f857f975d1c9f.js","/_next/static/chunks/dabd062b49706f28.js","/_next/static/chunks/740441c5b62d2d93.js","/_next/static/chunks/dcd49895cb9db447.js","/_next/static/chunks/175944aa1545ac7c.js","/_next/static/chunks/16494c9ed210a726.js","/_next/static/chunks/19ed43205a6e84be.js"],"MarkdownSelection"]
-24:I[401946,["/_next/static/chunks/d03e4f6fdf084240.js","/_next/static/chunks/525ff3aa60c02a25.js","/_next/static/chunks/ae2a70c709da2ba8.js","/_next/static/chunks/eb309b8f06731812.js","/_next/static/chunks/baa674234f056c60.js","/_next/static/chunks/2edc37b4337c096a.js","/_next/static/chunks/6f0408800ece4f06.js","/_next/static/chunks/6f95f3a6a7ed9dab.js","/_next/static/chunks/3c40fd5a14861430.js","/_next/static/chunks/e7855f92c342e0a3.js","/_next/static/chunks/a5fcaccd389d798e.js","/_next/static/chunks/c3456ef3141ade67.js","/_next/static/chunks/c92042fd5179bd95.js","/_next/static/chunks/1737ca787e6b8d4c.js","/_next/static/chunks/d691f1571e343c32.js","/_next/static/chunks/65f1d76f7ac19600.js","/_next/static/chunks/762b6f848ae7b21b.js","/_next/static/chunks/1d5a5c14848b802e.js","/_next/static/chunks/a40e2b25b1a62ac7.js","/_next/static/chunks/c6509abffeae92d2.js","/_next/static/chunks/35eaa08fca66b29e.js","/_next/static/chunks/f91f857f975d1c9f.js","/_next/static/chunks/dabd062b49706f28.js","/_next/static/chunks/740441c5b62d2d93.js","/_next/static/chunks/dcd49895cb9db447.js","/_next/static/chunks/175944aa1545ac7c.js","/_next/static/chunks/16494c9ed210a726.js","/_next/static/chunks/19ed43205a6e84be.js"],"FocusReadingEffect"]
-25:I[502283,["/_next/static/chunks/d03e4f6fdf084240.js","/_next/static/chunks/525ff3aa60c02a25.js","/_next/static/chunks/ae2a70c709da2ba8.js","/_next/static/chunks/eb309b8f06731812.js","/_next/static/chunks/baa674234f056c60.js","/_next/static/chunks/2edc37b4337c096a.js","/_next/static/chunks/6f0408800ece4f06.js","/_next/static/chunks/6f95f3a6a7ed9dab.js","/_next/static/chunks/3c40fd5a14861430.js","/_next/static/chunks/e7855f92c342e0a3.js","/_next/static/chunks/a5fcaccd389d798e.js","/_next/static/chunks/c3456ef3141ade67.js","/_next/static/chunks/c92042fd5179bd95.js","/_next/static/chunks/1737ca787e6b8d4c.js","/_next/static/chunks/d691f1571e343c32.js","/_next/static/chunks/65f1d76f7ac19600.js","/_next/static/chunks/762b6f848ae7b21b.js","/_next/static/chunks/1d5a5c14848b802e.js","/_next/static/chunks/a40e2b25b1a62ac7.js","/_next/static/chunks/c6509abffeae92d2.js","/_next/static/chunks/35eaa08fca66b29e.js","/_next/static/chunks/f91f857f975d1c9f.js","/_next/static/chunks/dabd062b49706f28.js","/_next/static/chunks/740441c5b62d2d93.js","/_next/static/chunks/dcd49895cb9db447.js","/_next/static/chunks/175944aa1545ac7c.js","/_next/static/chunks/16494c9ed210a726.js","/_next/static/chunks/19ed43205a6e84be.js"],"PostMarkdownRenderer",1]
-26:I[194205,["/_next/static/chunks/d03e4f6fdf084240.js","/_next/static/chunks/525ff3aa60c02a25.js","/_next/static/chunks/ae2a70c709da2ba8.js","/_next/static/chunks/eb309b8f06731812.js","/_next/static/chunks/baa674234f056c60.js","/_next/static/chunks/2edc37b4337c096a.js","/_next/static/chunks/6f0408800ece4f06.js","/_next/static/chunks/6f95f3a6a7ed9dab.js","/_next/static/chunks/3c40fd5a14861430.js","/_next/static/chunks/e7855f92c342e0a3.js","/_next/static/chunks/a5fcaccd389d798e.js","/_next/static/chunks/c3456ef3141ade67.js","/_next/static/chunks/c92042fd5179bd95.js","/_next/static/chunks/1737ca787e6b8d4c.js","/_next/static/chunks/d691f1571e343c32.js","/_next/static/chunks/65f1d76f7ac19600.js","/_next/static/chunks/762b6f848ae7b21b.js","/_next/static/chunks/1d5a5c14848b802e.js","/_next/static/chunks/a40e2b25b1a62ac7.js","/_next/static/chunks/c6509abffeae92d2.js","/_next/static/chunks/35eaa08fca66b29e.js","/_next/static/chunks/f91f857f975d1c9f.js","/_next/static/chunks/dabd062b49706f28.js","/_next/static/chunks/740441c5b62d2d93.js","/_next/static/chunks/dcd49895cb9db447.js","/_next/static/chunks/175944aa1545ac7c.js","/_next/static/chunks/16494c9ed210a726.js","/_next/static/chunks/19ed43205a6e84be.js"],"LayoutRightSidePortal"]
-27:I[732298,["/_next/static/chunks/d03e4f6fdf084240.js","/_next/static/chunks/525ff3aa60c02a25.js","/_next/static/chunks/ae2a70c709da2ba8.js","/_next/static/chunks/eb309b8f06731812.js","/_next/static/chunks/baa674234f056c60.js","/_next/static/chunks/2edc37b4337c096a.js","/_next/static/chunks/6f0408800ece4f06.js","/_next/static/chunks/6f95f3a6a7ed9dab.js","/_next/static/chunks/3c40fd5a14861430.js","/_next/static/chunks/e7855f92c342e0a3.js","/_next/static/chunks/a5fcaccd389d798e.js","/_next/static/chunks/c3456ef3141ade67.js","/_next/static/chunks/c92042fd5179bd95.js","/_next/static/chunks/1737ca787e6b8d4c.js","/_next/static/chunks/d691f1571e343c32.js","/_next/static/chunks/65f1d76f7ac19600.js","/_next/static/chunks/762b6f848ae7b21b.js","/_next/static/chunks/1d5a5c14848b802e.js","/_next/static/chunks/a40e2b25b1a62ac7.js","/_next/static/chunks/c6509abffeae92d2.js","/_next/static/chunks/35eaa08fca66b29e.js","/_next/static/chunks/f91f857f975d1c9f.js","/_next/static/chunks/dabd062b49706f28.js","/_next/static/chunks/740441c5b62d2d93.js","/_next/static/chunks/dcd49895cb9db447.js","/_next/static/chunks/175944aa1545ac7c.js","/_next/static/chunks/16494c9ed210a726.js","/_next/static/chunks/19ed43205a6e84be.js"],"PostActionAside"]
-28:I[237493,["/_next/static/chunks/d03e4f6fdf084240.js","/_next/static/chunks/525ff3aa60c02a25.js","/_next/static/chunks/ae2a70c709da2ba8.js","/_next/static/chunks/eb309b8f06731812.js","/_next/static/chunks/baa674234f056c60.js","/_next/static/chunks/2edc37b4337c096a.js","/_next/static/chunks/6f0408800ece4f06.js","/_next/static/chunks/6f95f3a6a7ed9dab.js","/_next/static/chunks/3c40fd5a14861430.js","/_next/static/chunks/e7855f92c342e0a3.js","/_next/static/chunks/a5fcaccd389d798e.js","/_next/static/chunks/c3456ef3141ade67.js","/_next/static/chunks/c92042fd5179bd95.js","/_next/static/chunks/1737ca787e6b8d4c.js","/_next/static/chunks/d691f1571e343c32.js","/_next/static/chunks/65f1d76f7ac19600.js","/_next/static/chunks/762b6f848ae7b21b.js","/_next/static/chunks/1d5a5c14848b802e.js","/_next/static/chunks/a40e2b25b1a62ac7.js","/_next/static/chunks/c6509abffeae92d2.js","/_next/static/chunks/35eaa08fca66b29e.js","/_next/static/chunks/f91f857f975d1c9f.js","/_next/static/chunks/dabd062b49706f28.js","/_next/static/chunks/740441c5b62d2d93.js","/_next/static/chunks/dcd49895cb9db447.js","/_next/static/chunks/175944aa1545ac7c.js","/_next/static/chunks/16494c9ed210a726.js","/_next/static/chunks/19ed43205a6e84be.js"],"ClientOnly"]
-29:I[223245,["/_next/static/chunks/d03e4f6fdf084240.js","/_next/static/chunks/525ff3aa60c02a25.js","/_next/static/chunks/ae2a70c709da2ba8.js","/_next/static/chunks/eb309b8f06731812.js","/_next/static/chunks/baa674234f056c60.js","/_next/static/chunks/2edc37b4337c096a.js","/_next/static/chunks/6f0408800ece4f06.js","/_next/static/chunks/6f95f3a6a7ed9dab.js","/_next/static/chunks/3c40fd5a14861430.js","/_next/static/chunks/e7855f92c342e0a3.js","/_next/static/chunks/a5fcaccd389d798e.js","/_next/static/chunks/c3456ef3141ade67.js","/_next/static/chunks/c92042fd5179bd95.js","/_next/static/chunks/1737ca787e6b8d4c.js","/_next/static/chunks/d691f1571e343c32.js","/_next/static/chunks/65f1d76f7ac19600.js","/_next/static/chunks/762b6f848ae7b21b.js","/_next/static/chunks/1d5a5c14848b802e.js","/_next/static/chunks/a40e2b25b1a62ac7.js","/_next/static/chunks/c6509abffeae92d2.js","/_next/static/chunks/35eaa08fca66b29e.js","/_next/static/chunks/f91f857f975d1c9f.js","/_next/static/chunks/dabd062b49706f28.js","/_next/static/chunks/740441c5b62d2d93.js","/_next/static/chunks/dcd49895cb9db447.js","/_next/static/chunks/175944aa1545ac7c.js","/_next/static/chunks/16494c9ed210a726.js","/_next/static/chunks/19ed43205a6e84be.js"],"PostCopyright"]
-2a:I[732298,["/_next/static/chunks/d03e4f6fdf084240.js","/_next/static/chunks/525ff3aa60c02a25.js","/_next/static/chunks/ae2a70c709da2ba8.js","/_next/static/chunks/eb309b8f06731812.js","/_next/static/chunks/baa674234f056c60.js","/_next/static/chunks/2edc37b4337c096a.js","/_next/static/chunks/6f0408800ece4f06.js","/_next/static/chunks/6f95f3a6a7ed9dab.js","/_next/static/chunks/3c40fd5a14861430.js","/_next/static/chunks/e7855f92c342e0a3.js","/_next/static/chunks/a5fcaccd389d798e.js","/_next/static/chunks/c3456ef3141ade67.js","/_next/static/chunks/c92042fd5179bd95.js","/_next/static/chunks/1737ca787e6b8d4c.js","/_next/static/chunks/d691f1571e343c32.js","/_next/static/chunks/65f1d76f7ac19600.js","/_next/static/chunks/762b6f848ae7b21b.js","/_next/static/chunks/1d5a5c14848b802e.js","/_next/static/chunks/a40e2b25b1a62ac7.js","/_next/static/chunks/c6509abffeae92d2.js","/_next/static/chunks/35eaa08fca66b29e.js","/_next/static/chunks/f91f857f975d1c9f.js","/_next/static/chunks/dabd062b49706f28.js","/_next/static/chunks/740441c5b62d2d93.js","/_next/static/chunks/dcd49895cb9db447.js","/_next/static/chunks/175944aa1545ac7c.js","/_next/static/chunks/16494c9ed210a726.js","/_next/static/chunks/19ed43205a6e84be.js"],"PostBottomBarAction"]
-2b:I[832330,["/_next/static/chunks/d03e4f6fdf084240.js","/_next/static/chunks/525ff3aa60c02a25.js","/_next/static/chunks/ae2a70c709da2ba8.js","/_next/static/chunks/eb309b8f06731812.js","/_next/static/chunks/baa674234f056c60.js","/_next/static/chunks/2edc37b4337c096a.js","/_next/static/chunks/6f0408800ece4f06.js","/_next/static/chunks/6f95f3a6a7ed9dab.js","/_next/static/chunks/3c40fd5a14861430.js","/_next/static/chunks/e7855f92c342e0a3.js","/_next/static/chunks/a5fcaccd389d798e.js","/_next/static/chunks/c3456ef3141ade67.js","/_next/static/chunks/c92042fd5179bd95.js","/_next/static/chunks/1737ca787e6b8d4c.js","/_next/static/chunks/d691f1571e343c32.js","/_next/static/chunks/65f1d76f7ac19600.js","/_next/static/chunks/762b6f848ae7b21b.js","/_next/static/chunks/1d5a5c14848b802e.js","/_next/static/chunks/a40e2b25b1a62ac7.js","/_next/static/chunks/c6509abffeae92d2.js","/_next/static/chunks/35eaa08fca66b29e.js","/_next/static/chunks/f91f857f975d1c9f.js","/_next/static/chunks/dabd062b49706f28.js","/_next/static/chunks/740441c5b62d2d93.js","/_next/static/chunks/dcd49895cb9db447.js","/_next/static/chunks/175944aa1545ac7c.js","/_next/static/chunks/16494c9ed210a726.js","/_next/static/chunks/19ed43205a6e84be.js"],"BottomToUpSoftScaleTransitionView"]
-2c:I[615780,["/_next/static/chunks/d03e4f6fdf084240.js","/_next/static/chunks/525ff3aa60c02a25.js","/_next/static/chunks/ae2a70c709da2ba8.js","/_next/static/chunks/eb309b8f06731812.js","/_next/static/chunks/baa674234f056c60.js","/_next/static/chunks/2edc37b4337c096a.js","/_next/static/chunks/6f0408800ece4f06.js","/_next/static/chunks/6f95f3a6a7ed9dab.js","/_next/static/chunks/3c40fd5a14861430.js","/_next/static/chunks/e7855f92c342e0a3.js","/_next/static/chunks/a5fcaccd389d798e.js","/_next/static/chunks/c3456ef3141ade67.js","/_next/static/chunks/c92042fd5179bd95.js","/_next/static/chunks/1737ca787e6b8d4c.js","/_next/static/chunks/d691f1571e343c32.js","/_next/static/chunks/65f1d76f7ac19600.js","/_next/static/chunks/762b6f848ae7b21b.js","/_next/static/chunks/1d5a5c14848b802e.js","/_next/static/chunks/a40e2b25b1a62ac7.js","/_next/static/chunks/c6509abffeae92d2.js","/_next/static/chunks/35eaa08fca66b29e.js","/_next/static/chunks/f91f857f975d1c9f.js","/_next/static/chunks/dabd062b49706f28.js","/_next/static/chunks/740441c5b62d2d93.js","/_next/static/chunks/dcd49895cb9db447.js","/_next/static/chunks/175944aa1545ac7c.js","/_next/static/chunks/16494c9ed210a726.js","/_next/static/chunks/19ed43205a6e84be.js"],"CommentAreaRootLazy"]
-2d:I[194205,["/_next/static/chunks/d03e4f6fdf084240.js","/_next/static/chunks/525ff3aa60c02a25.js","/_next/static/chunks/ae2a70c709da2ba8.js","/_next/static/chunks/eb309b8f06731812.js","/_next/static/chunks/baa674234f056c60.js","/_next/static/chunks/2edc37b4337c096a.js","/_next/static/chunks/6f0408800ece4f06.js","/_next/static/chunks/6f95f3a6a7ed9dab.js","/_next/static/chunks/3c40fd5a14861430.js","/_next/static/chunks/e7855f92c342e0a3.js","/_next/static/chunks/a5fcaccd389d798e.js","/_next/static/chunks/c3456ef3141ade67.js","/_next/static/chunks/c92042fd5179bd95.js","/_next/static/chunks/1737ca787e6b8d4c.js","/_next/static/chunks/d691f1571e343c32.js","/_next/static/chunks/65f1d76f7ac19600.js","/_next/static/chunks/762b6f848ae7b21b.js","/_next/static/chunks/1d5a5c14848b802e.js","/_next/static/chunks/a40e2b25b1a62ac7.js","/_next/static/chunks/c6509abffeae92d2.js","/_next/static/chunks/35eaa08fca66b29e.js","/_next/static/chunks/f91f857f975d1c9f.js","/_next/static/chunks/dabd062b49706f28.js","/_next/static/chunks/740441c5b62d2d93.js","/_next/static/chunks/dcd49895cb9db447.js","/_next/static/chunks/175944aa1545ac7c.js","/_next/static/chunks/16494c9ed210a726.js","/_next/static/chunks/19ed43205a6e84be.js"],"LayoutRightSideProvider"]
-2e:I[185368,["/_next/static/chunks/d03e4f6fdf084240.js","/_next/static/chunks/525ff3aa60c02a25.js","/_next/static/chunks/ae2a70c709da2ba8.js","/_next/static/chunks/eb309b8f06731812.js","/_next/static/chunks/baa674234f056c60.js","/_next/static/chunks/2edc37b4337c096a.js","/_next/static/chunks/6f0408800ece4f06.js","/_next/static/chunks/6f95f3a6a7ed9dab.js","/_next/static/chunks/3c40fd5a14861430.js","/_next/static/chunks/e7855f92c342e0a3.js","/_next/static/chunks/a5fcaccd389d798e.js","/_next/static/chunks/c3456ef3141ade67.js","/_next/static/chunks/c92042fd5179bd95.js","/_next/static/chunks/1737ca787e6b8d4c.js","/_next/static/chunks/d691f1571e343c32.js","/_next/static/chunks/65f1d76f7ac19600.js","/_next/static/chunks/762b6f848ae7b21b.js","/_next/static/chunks/1d5a5c14848b802e.js","/_next/static/chunks/a40e2b25b1a62ac7.js","/_next/static/chunks/c6509abffeae92d2.js","/_next/static/chunks/35eaa08fca66b29e.js","/_next/static/chunks/f91f857f975d1c9f.js","/_next/static/chunks/dabd062b49706f28.js","/_next/static/chunks/740441c5b62d2d93.js","/_next/static/chunks/dcd49895cb9db447.js","/_next/static/chunks/175944aa1545ac7c.js","/_next/static/chunks/16494c9ed210a726.js","/_next/static/chunks/19ed43205a6e84be.js"],"OnlyMobile"]
-2f:I[233113,["/_next/static/chunks/d03e4f6fdf084240.js","/_next/static/chunks/525ff3aa60c02a25.js","/_next/static/chunks/ae2a70c709da2ba8.js","/_next/static/chunks/eb309b8f06731812.js","/_next/static/chunks/baa674234f056c60.js","/_next/static/chunks/2edc37b4337c096a.js","/_next/static/chunks/6f0408800ece4f06.js","/_next/static/chunks/6f95f3a6a7ed9dab.js","/_next/static/chunks/3c40fd5a14861430.js","/_next/static/chunks/e7855f92c342e0a3.js","/_next/static/chunks/a5fcaccd389d798e.js","/_next/static/chunks/c3456ef3141ade67.js","/_next/static/chunks/c92042fd5179bd95.js","/_next/static/chunks/1737ca787e6b8d4c.js","/_next/static/chunks/d691f1571e343c32.js","/_next/static/chunks/65f1d76f7ac19600.js","/_next/static/chunks/762b6f848ae7b21b.js","/_next/static/chunks/1d5a5c14848b802e.js","/_next/static/chunks/a40e2b25b1a62ac7.js","/_next/static/chunks/c6509abffeae92d2.js","/_next/static/chunks/35eaa08fca66b29e.js","/_next/static/chunks/f91f857f975d1c9f.js","/_next/static/chunks/dabd062b49706f28.js","/_next/static/chunks/740441c5b62d2d93.js","/_next/static/chunks/dcd49895cb9db447.js","/_next/static/chunks/175944aa1545ac7c.js","/_next/static/chunks/16494c9ed210a726.js","/_next/static/chunks/19ed43205a6e84be.js"],"TocFAB"]
-30:I[95276,["/_next/static/chunks/3c40fd5a14861430.js","/_next/static/chunks/4197b04c4f1d962d.js","/_next/static/chunks/70af310ba2a3e461.js","/_next/static/chunks/9df4409b3ebd95fb.js","/_next/static/chunks/e52d234aac494225.js"],"OutletBoundary"]
-31:"$Sreact.suspense"
-:HL["/_next/static/chunks/136744c992bad96d.css","style"]
-:HL["/_next/static/chunks/0169140b52b18b81.css","style"]
-:HL["/_next/static/chunks/cf19f565ce194e50.css","style"]
-:HL["/_next/static/chunks/2a531debc05d9c48.css","style"]
-:HL["/_next/static/chunks/f6d4eb0f1595037c.css","style"]
-:HL["/_next/static/chunks/be9fe8599e8928e8.css","style"]
-5:Tbf9c,## 总体设计思路
+2:I[28856,["1433","static/chunks/5da11c83-22ed8340ae03271b.js","4266","static/chunks/cb69f5e5-38b1876d0364eabd.js","6618","static/chunks/962d60d4-2f97a7306ab44fe1.js","3374","static/chunks/3374-064cfbbe2608b69a.js","2115","static/chunks/2115-72ad8ab6a0a482e5.js","3371","static/chunks/3371-4aa89e9112feba6f.js","915","static/chunks/915-f2d3aa6318478d87.js","8476","static/chunks/8476-5b9555f1f11850f5.js","2017","static/chunks/2017-eafa67d1f3f02b3a.js","2250","static/chunks/2250-55633d86d5c24bd9.js","9823","static/chunks/9823-752ded14ff1fc8ed.js","6702","static/chunks/6702-07d2c1d4b5ee85d1.js","7515","static/chunks/7515-6533e3f4c74944ed.js","6480","static/chunks/6480-b6c8f5836b943902.js","6688","static/chunks/6688-0f8e2d763478d477.js","1290","static/chunks/1290-e076e18743f534af.js","3506","static/chunks/3506-639c9b819e6097ea.js","943","static/chunks/943-e94be4a59502ba15.js","54","static/chunks/54-8b1b2030ec661343.js","7404","static/chunks/7404-9397f040ad174577.js","6407","static/chunks/6407-8c126658ecad0efb.js","6604","static/chunks/6604-2ce40200432fa70a.js","4622","static/chunks/4622-ef5ab3d6ab17025c.js","8773","static/chunks/8773-934b5bf44c7f6a8a.js","9352","static/chunks/9352-8bd04c7a92b8c94f.js","8593","static/chunks/8593-43e74ed84413e4ab.js","1934","static/chunks/1934-ab221361094c1a84.js","8952","static/chunks/8952-34075c0626f7e8e5.js","3605","static/chunks/3605-28d867c0960294c1.js","4707","static/chunks/4707-7a61e4e3d65323ba.js","6954","static/chunks/6954-7f08e3e495b0916f.js","4374","static/chunks/app/%5Blocale%5D/posts/(post-detail)/%5Bcategory%5D/%5Bslug%5D/page-8ef55090b58442ba.js"],"MainMarkdown",1]
+8:I[87071,[],"OutletBoundary"]
+9:"$Sreact.suspense"
+:HL["/_next/static/css/90c7fe74d75f9368.css","style"]
+:HL["/_next/static/css/307ca07a66e4cbaa.css","style"]
+:HL["/_next/static/css/e990d6bfce8f7934.css","style"]
+3:Tc1bc,## 总体设计思路
 
 本次讨论班讲解的论文是 Ge--Hua--Zhou 于 2021 年发表在 *Advances in Mathematics* 上的
 Combinatorial Ricci Flows for Ideal Circle Patterns. 论文把 Chow--Luo 提出的
@@ -189,25 +160,25 @@ Hamilton 的连续 Ricci flow $\partial_t g_{ij}=-2\,\mathrm{Ric}_{ij}$
       顶点上的半径函数映成顶点上的曲率函数；
       它的 Jacobian $\partial K_i/\partial u_j$ 在
       *$v_i,v_j$ 不相邻时为 $0$*（局部性！），
-      所以恰好可以用**加权图 Laplacian**的语言来分析。
-      流的指数收敛速度 $c_1$ 由这个"图 Laplacian"的**谱隙 (spectral gap)**决定。
+      所以恰好可以用\keypart{加权图 Laplacian}的语言来分析。
+      流的指数收敛速度 $c_1$ 由这个"图 Laplacian"的\keypart{谱隙 (spectral gap)}决定。
       （这条留到 Part V-1 详细讲。）
 
-5. **Proposition 1.6 = 图上的离散 Gauss--Bonnet.**
+5. \keypart{Proposition 1.6 = 图上的离散 Gauss--Bonnet.}
       它把一个*顶点子集* $A\subseteq V$ 周边的角度求和
       改写为"$A$ 的链环 $Lk(A)$"上的角和加上"$A$ 周围子复形 $S(A)$"
       的 Euler 数 $\chi(S(A))$。这是
       *$|A|-|E_A|+|F_A|=\chi(S(A))$*（图上的 Euler 公式）的等价变形，
       可以看成离散版本的 Gauss--Bonnet 公式。
 
-**离散分析的"三件套".**
+\paragraph{离散分析的"三件套".}
 
-1. ***离散几何对象***：曲面 + 胞腔分解 + 半径向量；
+1. \keypart{*离散几何对象*}：曲面 + 胞腔分解 + 半径向量；
 
-2. ***离散分析工具***：势函数 $\Phi$（变分）、组合 Ricci 流（动力学）、
+2. \keypart{*离散分析工具*}：势函数 $\Phi$（变分）、组合 Ricci 流（动力学）、
       离散 Gauss--Bonnet（拓扑约束）；
 
-3. ***离散组合刻画***：H1--H5、E1--E4、Rivin / BS 不等式。
+3. \keypart{*离散组合刻画*}：H1--H5、E1--E4、Rivin / BS 不等式。
 
 论文的精彩之处正是这三件套*严格等价*——
 "几何能不能实现"$=$"ODE 能不能收敛"$=$"图上的组合不等式"。
@@ -423,7 +394,9 @@ $$
 
     \sum_{l=1}^m \Theta(e_l)=(m-2)\pi.
 
+$$
 -  **(C2)** 对每条不是 2-cell 边界的 pseudo-Jordan 曲线
+$$
 
 e_1,\dots,e_s：
 
@@ -441,6 +414,10 @@ $$
 > 讲的时候建议：先在一页里一次性列完 Definition 1.1 + (C1)(C2) + 两个流方程 + H/E 条件编号，
 后面每一节只“调用编号”，不重复写长句，听众会清楚很多。
 
+$$
+
+$$
+
 ### I-2. 论文 Section 1.2：已有存在性结果（严格同序时应放在这里）
 
 **Theorem 1 (Rivin, Theorem 1.2).**
@@ -457,7 +434,7 @@ $\iff$ (C1) 与 (C2) 成立。
 
 曲率映射 $\mathrm{Th}$ 的像由一组子集不等式刻画（双曲为严格不等式，欧氏为非严格并带缩放规范）。
 
-> 这三条在论文中先出现，后续 Section 3/4 的 Ricci 流定理是在这个存在性框架上补上“动力学收敛等价 + 算法化构造”。
+\ans{这三条在论文中先出现，后续 Section 3/4 的 Ricci 流定理是在这个存在性框架上补上“动力学收敛等价 + 算法化构造”。}
 
 ### 板书建议
 
@@ -476,9 +453,9 @@ $\iff$ (C1) 与 (C2) 成立。
 
 **Definition 1 (同胚（homeomorphism）).**
 
-两个拓扑空间 $X,Y$ 若存在双射 $f:X\to Y$，且 $f,f^{-1}$ 都连续，则称 $X,Y$ **同胚**，记作 $X\cong Y$。
+两个拓扑空间 $X,Y$ 若存在双射 $f:X\to Y$，且 $f,f^{-1}$ 都连续，则称 $X,Y$ \keypart{同胚}，记作 $X\cong Y$。
 
-> 同胚表示 "拓扑上一样"：允许拉伸、弯曲，但不允许撕裂和粘连。比如咖啡杯与甜甜圈同胚。
+\ans{同胚表示 "拓扑上一样"：允许拉伸、弯曲，但不允许撕裂和粘连。比如咖啡杯与甜甜圈同胚。}
 
 **Definition 2 (同痕（通常称同伦，homotopy）).**
 
@@ -488,10 +465,10 @@ $$
 H:X\times[0,1]\to Y,  H(x,0)=f_0(x),\ H(x,1)=f_1(x),
 $$
 
-则称 $f_0$ 与 $f_1$ **同痕/同伦**。
+则称 $f_0$ 与 $f_1$ \keypart{同痕/同伦}。
 
-> 同痕表示 "可以连续变形过去"。在本报告里可把它理解成：曲线能否在曲面上不剪断地缩到一点，
-这和 pseudo-Jordan 条件、"是否围出单连通区域" 的直觉是同一类问题。
+\ans{同痕表示 "可以连续变形过去"。在本报告里可把它理解成：曲线能否在曲面上不剪断地缩到一点，
+这和 pseudo-Jordan 条件、"是否围出单连通区域" 的直觉是同一类问题。}
 
 **Definition 3 (亏格（genus）).**
 
@@ -518,14 +495,14 @@ $k$-cell 是与 $\mathbb{R}^k$ 中开球同胚的拓扑空间。
 
 **Definition 5 (胞腔分解).**
 
-空间 $X$ 的 **胞腔分解 (cellular decomposition)** 是把 $X$ 写成若干互不相交的 cell 的并，
+空间 $X$ 的 \keypart{胞腔分解 (cellular decomposition)} 是把 $X$ 写成若干互不相交的 cell 的并，
 并且满足一定的粘合规则。
 
 **Problem 1.**
 
 四面体的表面就是球面 $S^2$ 的一个最简单的胞腔分解：$4$ 个 0-cell、$6$ 个 1-cell、$4$ 个 2-cell.
 
-**讲法提示：** 这里只需要让大家有 "把曲面像 lego 一样切碎" 的直观，
+\hl{讲法提示：} 这里只需要让大家有 "把曲面像 lego 一样切碎" 的直观，
 不必引入 CW-复形的所有细节。
 
 ### II-2. 三角剖分 $T(\mathfrak{D})$、primal/star vertices（4 min）
@@ -534,13 +511,13 @@ $k$-cell 是与 $\mathbb{R}^k$ 中开球同胚的拓扑空间。
 
 **Definition 6 ($T(\mathfrak{D})$).**
 
-对 $\mathfrak{D}$ 中每个二维胞腔 $\tau$ 在其内部添一个 **star vertex**,
+对 $\mathfrak{D}$ 中每个二维胞腔 $\tau$ 在其内部添一个 \keypart{star vertex},
 并把它与 $\tau$ 的所有顶点连起来。
 得到的三角剖分记为 $T(\mathfrak{D})$.
 
-原来的顶点称为 **primal vertex**, 新增的称为 **star vertex**.
+原来的顶点称为 \keypart{primal vertex}, 新增的称为 \keypart{star vertex}.
 
-**为什么这样做？** \ans{因为后续的 Thurston 构造是按三角形逐块赋予几何数据
+\hl{为什么这样做？} \ans{因为后续的 Thurston 构造是按三角形逐块赋予几何数据
 （边长由 $r_i,r_j,\Theta_{ij}$ 决定）并再粘合成 cone metric；若不先细分为三角剖分，就无法逐块定义与拼接。}
 
 ### II-3. circle pattern 与 ideal circle pattern（6 min）
@@ -554,22 +531,22 @@ $\mathfrak{D}$-型 circle pattern $\mathcal{P}=\{C_v\}_{v\in V}$ 是 $(S,\mu)$ �
 
 - 当且仅当 $\mathfrak{D}$ 中存在边 $[u,v]$ 时，$C_u \cap C_v \neq \varnothing$.
 
-每条边 $e=[u,v]$ 对应一个 **外交角 (exterior intersection angle)**
+每条边 $e=[u,v]$ 对应一个 \keypart{外交角 (exterior intersection angle)}
 $\Theta(e)\in [0,\pi)$.
 
 **Definition 8 (interstice).**
 
-设 $D_v$ 是 $C_v$ 围成的开圆盘，则集合 $S\setminus \bigcup_v \overline{D_v}$ 的每个连通分支称为 **interstice（间隙）**.
+设 $D_v$ 是 $C_v$ 围成的开圆盘，则集合 $S\setminus \bigcup_v \overline{D_v}$ 的每个连通分支称为 \keypart{interstice（间隙）}.
 
 **Definition 9 (Ideal circle pattern).**
 
-$\mathfrak{D}$-型 circle pattern $\mathcal{P}$ 称为 **ideal（理想）**, 若
+$\mathfrak{D}$-型 circle pattern $\mathcal{P}$ 称为 \keypart{ideal（理想）}, 若
 
 1. interstice 与 $\mathfrak{D}$ 的 2-cell 一一对应；
 
 2. 每个 interstice 只是 *一个点*.
 
-**普通圆模式（non-ideal）与理想圆模式（ideal）的详细理解**
+\paragraph{普通圆模式（non-ideal）与理想圆模式（ideal）的详细理解}
 
 **Definition 10 (普通圆模式（相对于 ideal 的说法）).**
 
@@ -577,8 +554,8 @@ $\mathfrak{D}$-型 circle pattern $\mathcal{P}$ 称为 **ideal（理想）**, �
 但*不*要求 interstice 退化为点，则称为这里的 "普通" $\mathfrak{D}$-型圆模式。
 此时 interstice 一般是有面积的小区域（常见为曲边多边形状）。
 
-> 可以把普通圆模式想成 "圆之间留缝"，把理想圆模式想成 "缝被压扁到点"。
-因此 ideal 是 ordinary 的一个极限/边界情形。
+\ans{可以把普通圆模式想成 "圆之间留缝"，把理想圆模式想成 "缝被压扁到点"。
+因此 ideal 是 ordinary 的一个极限/边界情形。}
 
 \toprule
 **比较项** | **普通圆模式** | **理想圆模式** |
@@ -596,17 +573,17 @@ interstice 形状 | 一般是二维区域（有面积） | 每个 interstice 退
 ideal 设定把几何可实现性更直接地翻译成组合不等式与曲率方程，
 从而 Ricci 流的 "收敛 $\Leftrightarrow$ 存在" 结构最清晰；这正是本文主线。
 
-**讲法提示：** 画一张图：相邻三个圆两两相交，把中间的 "缝" 收成一个点
+\hl{讲法提示：} 画一张图：相邻三个圆两两相交，把中间的 "缝" 收成一个点
 $\Rightarrow$ 这就是 "ideal".
 "ideal" 这个名字来自双曲几何里的 "ideal point"（在无穷远处）。
 
 **Remark 5 (如何理解 ideal（给初学者的三层直觉）).**
 
-1. **组合层**：每个 2-cell 对应一个 interstice，而且 interstice 不再有面积，只剩一个顶点型对象。
+1. \keypart{组合层}：每个 2-cell 对应一个 interstice，而且 interstice 不再有面积，只剩一个顶点型对象。
 
-2. **几何层**：这些 "点状间隙" 对应双曲几何的理想点（在边界无穷远处）。
+2. \keypart{几何层}：这些 "点状间隙" 对应双曲几何的理想点（在边界无穷远处）。
 
-3. **分析层**：ideal 条件把局部角度约束压成代数条件 (C1)，从而能进入 Ricci 流/变分框架。
+3. \keypart{分析层}：ideal 条件把局部角度约束压成代数条件 (C1)，从而能进入 Ricci 流/变分框架。
 
 **Remark 6 (条件 (C1) 的来源).**
 
@@ -623,9 +600,9 @@ $$
 
 听众可能没学过双曲几何，但只需要记住下面两件事就够用：
 
-1. **双曲三角形** 的角度和 $< \pi$；
+1. \keypart{双曲三角形} 的角度和 $< \pi$；
 
-2. **双曲余弦定理**：
+2. \keypart{双曲余弦定理}：
 
 $$
 \cosh l_{ij} = \cosh r_i \cosh r_j + \sinh r_i \sinh r_j \cos\Theta_{ij},
@@ -637,13 +614,13 @@ $$
 l_{ij}^2 = r_i^2 + r_j^2 + 2 r_i r_j \cos\Theta_{ij}.
 $$
 
-**再补充四条常用知识（建议板书）**
+\paragraph{再补充四条常用知识（建议板书）}
 
-1. **测地线模型**：在 Poincaré 圆盘模型里，测地线是与边界圆正交的圆弧（或过圆心的直径）。
+1. \keypart{测地线模型}：在 Poincaré 圆盘模型里，测地线是与边界圆正交的圆弧（或过圆心的直径）。
 
-2. **理想点**：圆盘边界 $\partial\mathbb{D}$ 不是内部点，但可作为 "无穷远方向"，这正是 ideal 一词来源。
+2. \keypart{理想点}：圆盘边界 $\partial\mathbb{D}$ 不是内部点，但可作为 "无穷远方向"，这正是 ideal 一词来源。
 
-3. **面积-角亏公式**（曲率归一化为 $-1$）：若三角形内角为 $\alpha,\beta,\gamma$，则
+3. \keypart{面积-角亏公式}（曲率归一化为 $-1$）：若三角形内角为 $\alpha,\beta,\gamma$，则
 
 $$
 \mathrm{Area}(\triangle)=\pi-(\alpha+\beta+\gamma).
@@ -651,9 +628,9 @@ $$
 
       所以角和越小，三角形越 "大"。
 
-4. **理想三角形**：三个顶点都在无穷远时，角和为 $0$，面积恰为 $\pi$。
+4. \keypart{理想三角形}：三个顶点都在无穷远时，角和为 $0$，面积恰为 $\pi$。
 
-**讲法提示：** 直接告诉听众 "双曲是负曲率，欧氏是零曲率，球面是正曲率".
+\hl{讲法提示：} 直接告诉听众 "双曲是负曲率，欧氏是零曲率，球面是正曲率".
 不需要讲 Poincaré 盘模型，
 只需要 *接受* 一个双曲三角形可以由两边夹角唯一确定，并满足上面那条余弦律即可。
 
@@ -663,7 +640,7 @@ $$
 
 把若干个常曲率（双曲 / 欧氏 / 球面）三角形沿公共边粘起来，得到一个曲面 $S$ 上的度量。
 这个度量在三角形内部是光滑的，但是在顶点处可能出现 *锥尖奇性*：
-顶点处的 **锥角 (cone angle)** 等于所有以这个顶点为顶点的三角形 *内角之和*.
+顶点处的 \keypart{锥角 (cone angle)} 等于所有以这个顶点为顶点的三角形 *内角之和*.
 
 **Definition 12 (vertex curvature).**
 
@@ -676,9 +653,9 @@ $$
 - $K_i = 0 \iff$ 在 $v_i$ 处的 cone metric 是光滑的；
 - $K_i \neq 0 \iff v_i$ 是一个锥尖。
 
-**怎么理解 cone angle（建议讲 2 分钟）**
+\paragraph{怎么理解 cone angle（建议讲 2 分钟）}
 
-1. **局部拼角度的总和**：在顶点 $v_i$ 周围，把所有以 $v_i$ 为顶点的小三角形内角加起来，
+1. \keypart{局部拼角度的总和}：在顶点 $v_i$ 周围，把所有以 $v_i$ 为顶点的小三角形内角加起来，
       这个总和就是 cone angle，记作 $\alpha_i$。
 
 2. \keypart{与平面 $2\pi$ 比较}：
@@ -689,10 +666,10 @@ $$
     \alpha_i>2\pi \Rightarrow \text{鞍锥（负曲率）}.
 $$
 
-3. **纸模型直观**：把若干扇形纸片在顶点处粘起来。若总角度少于一整圈会“拱起来”成尖；
+3. \keypart{纸模型直观}：把若干扇形纸片在顶点处粘起来。若总角度少于一整圈会“拱起来”成尖；
       若多于一整圈会“起褶”成鞍；刚好一整圈就能平铺。
 
-4. **本文的曲率定义**：$K_i=2\pi-\alpha_i$，所以
+4. \keypart{本文的曲率定义}：$K_i=2\pi-\alpha_i$，所以
 
 $$
 K_i>0 \Leftrightarrow \alpha_i<2\pi,
@@ -708,7 +685,7 @@ $$
 
 由于很多听众不熟悉 "Ricci flow", 这里要从经典版本快速过渡到组合版本。
 
-#### II-6.1 经典 Ricci flow（Hamilton 1982）
+\subsubsection*{II-6.1 经典 Ricci flow（Hamilton 1982）}
 
 对一个黎曼流形 $(M, g)$，Hamilton 引入演化方程
 
@@ -719,7 +696,7 @@ $$
 意思是 "*曲率大的地方让度量收缩、曲率小的地方让度量膨胀*"，
 从而把度量逐渐磨平。Perelman 用它证了 3-维 Poincaré 猜想。
 
-#### II-6.2 组合 Ricci flow（Chow--Luo 2003）
+\subsubsection*{II-6.2 组合 Ricci flow（Chow--Luo 2003）}
 
 在 *离散* 的情形（曲面上的三角剖分 / 圆填充 / 圆图案），
 我们没有 "黎曼度量" 这个连续对象，但有：
@@ -736,39 +713,39 @@ $$
 
 *思想完全一样*：曲率大的地方让 $r_i$ 变小 / 度量收缩，使得 $K_i \to 0$（或其它目标值）。
 
-#### II-6.3 本文用的两个组合 Ricci 流
+\subsubsection*{II-6.3 本文用的两个组合 Ricci 流}
 
 **Definition 13 (本文使用的组合 Ricci flow).**
 
-- **双曲背景：**
+- \keypart{双曲背景：}
 
 $$
 \frac{dr_i}{dt} = -K_i \sinh r_i,  i=1,\dots,|V|.
 $$
 
-- **欧氏背景：**
+- \keypart{欧氏背景：}
 
 $$
 \frac{dr_i}{dt} = (K_{\mathrm{av}} - K_i)\,r_i,
       K_{\mathrm{av}}:=\frac{2\pi \chi(S)}{|V|}.
 $$
 
-#### II-6.4 如何理解 Ricci 流（连续/离散统一视角）
+\subsubsection*{II-6.4 如何理解 Ricci 流（连续/离散统一视角）}
 
-1. **一句话**：Ricci 流就是 "用曲率误差驱动度量更新" 的负反馈系统。
+1. \keypart{一句话}：Ricci 流就是 "用曲率误差驱动度量更新" 的负反馈系统。
 
-2. **连续曲面直观**：在二维里 $\mathrm{Ric}=K\,g$，所以（规范化后）可写成
+2. \keypart{连续曲面直观}：在二维里 $\mathrm{Ric}=K\,g$，所以（规范化后）可写成
       $\partial_t g = -2(K-\bar K)g$，目标是把曲率拉回平均值附近。
 
-3. **离散版本直观**：把 "度量" 换成顶点半径向量 $r$，把 "曲率" 换成顶点角缺 $K_i$，
+3. \keypart{离散版本直观}：把 "度量" 换成顶点半径向量 $r$，把 "曲率" 换成顶点角缺 $K_i$，
       得到有限维 ODE；这本质上是梯度下降/Lyapunov 下降过程。
 
-4. **为什么它好用**：既给存在唯一性结论，也给可计算算法（数值积分即可逼近目标图案）。
+4. \keypart{为什么它好用}：既给存在唯一性结论，也给可计算算法（数值积分即可逼近目标图案）。
 
-> 可以把它类比成自动调参：某点曲率偏大就往反方向改半径，偏差越大改得越快，
-最终把全局误差压到零（双曲）或压到常数目标（欧氏）。
+\ans{可以把它类比成自动调参：某点曲率偏大就往反方向改半径，偏差越大改得越快，
+最终把全局误差压到零（双曲）或压到常数目标（欧氏）。}
 
-**讲法提示：** 这里画 "若 $K_i>0$（锥角偏小、太尖），$r_i$ 要变小" 这种箭头图，
+\hl{讲法提示：} 这里画 "若 $K_i>0$（锥角偏小、太尖），$r_i$ 要变小" 这种箭头图，
 对听众理解流的几何意义非常关键。
 
 ### II-7. prismatic $s$-circuit 与 pseudo-Jordan 曲线（5 min）
@@ -784,22 +761,22 @@ $\{e_1^*,\dots,e_s^*\}$ 在 $P^*$ 中构成一条简单闭曲线，
 
 **Remark 7.**
 
-**直观**："绕过去但不绕过某一个面"。在三棱柱中，连接两个三角形面的 3 条侧边构成一个 prismatic 3-circuit.
+\hl{直观}："绕过去但不绕过某一个面"。在三棱柱中，连接两个三角形面的 3 条侧边构成一个 prismatic 3-circuit.
 
 **Definition 15 (pseudo-Jordan 曲线).**
 
-$S$ 中的闭曲线 $\gamma$（不必简单）称为 **pseudo-Jordan (伪-Jordan)**,
+$S$ 中的闭曲线 $\gamma$（不必简单）称为 \keypart{pseudo-Jordan (伪-Jordan)},
 如果 $S\setminus\gamma$ 包含一个 *单连通* 连通分支，
 且该分支的边界恰好等于 $\gamma$.
 
-**讲法提示：** 在亏格 $g=0$（球面）情形，pseudo-Jordan $=$ 普通 Jordan，
+\hl{讲法提示：} 在亏格 $g=0$（球面）情形，pseudo-Jordan $=$ 普通 Jordan，
 是 Rivin 定理中的 prismatic 概念在高亏格曲面上的推广。
 
 ## Part III：对应论文 Section 2（Thurston 构造、曲率映射、关键引理）（约 20 min）
 
 ### III-1. Thurston 构造（详细版）：从 $r$ 到 $\mu(r)$ 与 $K(r)$
 
-**输入数据（固定不动）**
+\paragraph{输入数据（固定不动）}
 
 - 曲面胞腔分解 $\mathfrak{D}=(V,E,F)$；
 
@@ -807,7 +784,7 @@ $S$ 中的闭曲线 $\gamma$（不必简单）称为 **pseudo-Jordan (伪-Jordan
 
 - 细分三角剖分 $T(\mathfrak{D})$（每个 face 加一个 star vertex）。
 
-**可变数据（Ricci 流会更新）**
+\paragraph{可变数据（Ricci 流会更新）}
 
 $$
 r=(r_1,\dots,r_{|V|})\in \mathbb{R}^{|V|}_{+}.
@@ -815,7 +792,7 @@ $$
 
 每个 primal vertex $v_i$ 对应一个半径 $r_i$。
 
-**构造流程（建议按这 8 步讲）**
+\paragraph{构造流程（建议按这 8 步讲）}
 
 1. 取 $T(\mathfrak{D})$ 中任意一个小三角形 $(v_i v_j \tau)$，其边 $(v_i,v_j)$ 对应外交角 $\Theta_{ij}$。
 
@@ -844,7 +821,7 @@ $$
 
 8. 于是得到曲率映射 $\mathrm{Th}:r\mapsto K(r)$；Ricci 流就是在 $r$ 空间里驱动 $K(r)$ 逼近目标值。
 
-**为什么 (C1) 在这里关键？**
+\paragraph{为什么 (C1) 在这里关键？}
 
 - 对每个 star vertex $\tau$，其周围角和是
 
@@ -870,7 +847,7 @@ $$
 
 其中 $K_i = 2\pi - (\text{顶点 } v_i \text{ 的锥角})$.
 
-**核心翻译**：
+\keypart{核心翻译}：
 
 | | $\Longleftrightarrow$ | |
 **存在 ideal circle pattern** | **$0\in \mathrm{Im}(\mathrm{Th})$**（双曲情形） |
@@ -885,7 +862,7 @@ $$
 
 固定 $\Theta_k\in(0,\pi)$. 对两圆构型中两个圆心处的内角 $\vartheta_i, \vartheta_j$:
 
-- **欧氏几何：**
+- \keypart{欧氏几何：}
 
 $$
 \dfrac{\partial \vartheta_i}{\partial r_i}<0,
@@ -893,7 +870,7 @@ $$
     = r_i\dfrac{\partial \vartheta_j}{\partial r_i}>0.
 $$
 
-- **双曲几何：**
+- \keypart{双曲几何：}
 
 $$
 \dfrac{\partial \vartheta_i}{\partial r_i}<0,
@@ -902,13 +879,13 @@ $$
     \dfrac{\partial \mathrm{Area}}{\partial r_i}>0.
 $$
 
-**两个推论** 一定要在黑板上强调：
+\keypart{两个推论} 一定要在黑板上强调：
 
-1. **对称性** $\Rightarrow$ 1-form $\omega = \sum K_i\,du_i$ 是 *闭的*，所以可以定义 **势函数** $\Phi(u)=\int \omega$.
+1. \keypart{对称性} $\Rightarrow$ 1-form $\omega = \sum K_i\,du_i$ 是 *闭的*，所以可以定义 \keypart{势函数} $\Phi(u)=\int \omega$.
 
-2. **单调性** + Hessian 对称 $\Rightarrow$ $\Phi$ 是 **严格凸** 的（Bobenko--Springborn 2004; Guo 2011 的另证）。
+2. \keypart{单调性} + Hessian 对称 $\Rightarrow$ $\Phi$ 是 \keypart{严格凸} 的（Bobenko--Springborn 2004; Guo 2011 的另证）。
 
-**讲法提示：** 这就是 "变分法路线" 的入口；本文虽然走的是 "ODE 路线"，但 ODE 的 Lyapunov 函数正是这个 $\Phi$.
+\hl{讲法提示：} 这就是 "变分法路线" 的入口；本文虽然走的是 "ODE 路线"，但 ODE 的 Lyapunov 函数正是这个 $\Phi$.
 
 ## Part IV：对应论文 Section 3--4（双曲/欧氏 Ricci 流主结果）（约 30 min）
 
@@ -922,7 +899,7 @@ $$
 \frac{dr_i}{dt} = -K_i \sinh r_i
 $$
 
-任意正初值都对 $t\geq 0$ 全时间存在；且下面 **五条等价**：
+任意正初值都对 $t\geq 0$ 全时间存在；且下面 \keypart{五条等价}：
 
 - ****H1****  $r(t)$ 在 $t\to+\infty$ 时收敛；
 
@@ -937,9 +914,9 @@ $$
 - ****H5****  $g>1$ 且对每条不是 2-cell 边界的 pseudo-Jordan 曲线 $e_1,\dots,e_s$，
     $\sum_l \Theta(e_l) < (s-2)\pi$（即 (C2)）。
 
- 若流收敛，则 **指数收敛** 到使所有 $K_i=0$ 的唯一 $r^*$.
+ 若流收敛，则 \keypart{指数收敛} 到使所有 $K_i=0$ 的唯一 $r^*$.
 
-**讲解节奏建议：**
+\keypart{讲解节奏建议：}
 
 1. 先把 H1--H5 *原样写到黑板上*，让大家看清楚 "它们都在说同一件事"；
 
@@ -968,7 +945,7 @@ $$
 \frac{dr_i}{dt}=(K_{\mathrm{av}}-K_i)\,r_i,
 $$
 
-任意正初值都全时间存在；且下面 **四条等价**：
+任意正初值都全时间存在；且下面 \keypart{四条等价}：
 
 - ****E1****  $r(t)$ 收敛；
 
@@ -986,13 +963,13 @@ $$
 
 .
 
-若流收敛，则 **指数收敛** 到使每个 $K_i=K_{\mathrm{av}}$ 的 $r^*$。
+若流收敛，则 \keypart{指数收敛} 到使每个 $K_i=K_{\mathrm{av}}$ 的 $r^*$。
 
-**讲法提示：** 欧氏情形和双曲情形的差别要点出来：
+\hl{讲法提示：} 欧氏情形和双曲情形的差别要点出来：
 
-- 欧氏情形 $\sum_i K_i = 2\pi\chi(S)$ 是 "固定预算"，所以目标只能是 **均匀分配**；
+- 欧氏情形 $\sum_i K_i = 2\pi\chi(S)$ 是 "固定预算"，所以目标只能是 \keypart{均匀分配}；
 
-- 双曲情形可以 "真正光滑"，目标是 **全 0**；
+- 双曲情形可以 "真正光滑"，目标是 \keypart{全 0}；
 
 - 欧氏情形流保持 $\prod_i r_i =$ 常数（缩放不变性），相当于已经固定了一个 gauge.
 
@@ -1016,7 +993,7 @@ $$
 
 - 收敛时为指数收敛。
 
-**讲法提示：** 一句话带过即可，目的是让听众知道 "主定理 1.7 / 1.8 是一个统一框架的特例".
+\hl{讲法提示：} 一句话带过即可，目的是让听众知道 "主定理 1.7 / 1.8 是一个统一框架的特例".
 
 ## Part V：对应论文 Section 5（restriction flow 与 Rivin 算法证明）（约 15 min）
 
@@ -1046,13 +1023,13 @@ $$
 = \sum_{(e,\tau)\in Lk(A)}(\Theta(e)-\pi) + 2\pi \chi(S(A)).
 $$
 
-> 这条恒等式在讲稿里作为“统一换元工具”：它把 H3/E3 的边和条件改写成 H4/E4 的 link+Euler 条件。
+\ans{这条恒等式在讲稿里作为“统一换元工具”：它把 H3/E3 的边和条件改写成 H4/E4 的 link+Euler 条件。}
 
 ### V-3. 证明骨架（跨 Section 3/4 的总结，8 min）
 
 只讲思路，*不* 写细节。统一的证明模式如下。
 
-1. **变量替换.**
+1. \keypart{变量替换.}
 
       双曲：$u_i = \ln\tanh(r_i/2) \in (-\infty,0)$；
 
@@ -1060,12 +1037,12 @@ $$
 
       则原 ODE 写成自治系统 $\frac{du_i}{dt} = -K_i$（或 $K_{\mathrm{av}}-K_i$）。
 
-2. **长时间存在性.**
+2. \keypart{长时间存在性.}
 
       用 $|K_i|$ 一致有界（依赖 $\mathfrak{D}$）$\Rightarrow$ $u_i(t)$ 至多线性增长
       $\Rightarrow$ $r_i$ 不会触及 $0$ 或 $+\infty$ 边界（双曲情形再用 Lemma 2.3：$r_i$ 很大时 $K_i>\pi$，从而 $r_i$ 自动下压）。
 
-3. **势函数 + Lyapunov 论证.**
+3. \keypart{势函数 + Lyapunov 论证.}
 
       在变量 $u$ 下定义 $\Phi(u)=\int \omega,\ \omega=\sum K_i\,du_i$（或 $\sum(K_i-K_{\mathrm{av}})\,du_i$）。
 
@@ -1077,17 +1054,17 @@ $$
       H2 / E2（存在 $r^*$）$\Rightarrow$ $\Phi$ 有下界 $\Rightarrow$ 轨道留在紧集
       $\Rightarrow$ 收敛到 $r^*$.
 
-5. **指数收敛.**
+5. \keypart{指数收敛.}
 
       对 $g(t)=\sum (K_i-K_{\mathrm{av}})^2$ 求导，用 Lemma 2.2 给出的 $\partial K_i/\partial u_j$ 一致负性
       $\Rightarrow$ $\frac{dg}{dt}\leq -c_1 g \Rightarrow g(t)\leq g(0)e^{-c_1 t}$，
       再积分得 $|r_i(t)-r_i^*|\leq Ce^{-c t}$.
 
-**讲法提示：** 这一段最好画一张 "$\Phi$ 是一个严格凸的碗，轨道沿碗滑到底" 的示意图。
+\hl{讲法提示：} 这一段最好画一张 "$\Phi$ 是一个严格凸的碗，轨道沿碗滑到底" 的示意图。
 
 ### V-4. 每个主结论的证明逻辑链（可直接照讲，6 min）
 
-**(A) Theorem 1.7（双曲）逻辑链**
+\paragraph{(A) Theorem 1.7（双曲）逻辑链}
 
 1. \keypart{H2 $\Rightarrow$ H1（存在解 $\Rightarrow$ 流收敛）}：
 
@@ -1113,9 +1090,9 @@ $$
 
       这是组合拓扑翻译：把 $A\subseteq V$ 的 link 条件改写成伪 Jordan 曲线条件（论文附录给出细节），即 (C2)。
 
-**(B) Theorem 1.8（欧氏）逻辑链**
+\paragraph{(B) Theorem 1.8（欧氏）逻辑链}
 
-1. **先规范化自由度**：欧氏有缩放不变性，先固定 $\prod_i r_i=\text{const}$（等价于 $\sum_i u_i=\text{const}$）。
+1. \keypart{先规范化自由度}：欧氏有缩放不变性，先固定 $\prod_i r_i=\text{const}$（等价于 $\sum_i u_i=\text{const}$）。
 
 2. \keypart{E2 $\Rightarrow$ E1}：在该超平面上构造严格凸势函数
       $\Phi_{\mathrm{euc}}(u)=\int\sum_i (K_i-K_{\mathrm{av}})\,du_i$，
@@ -1127,7 +1104,7 @@ $$
 
 5. \keypart{E3 $\Leftrightarrow$ E4}：同样由 Proposition 1.6 的代数改写得到。
 
-**(C) Section 5 restriction Ricci flow 逻辑链**
+\paragraph{(C) Section 5 restriction Ricci flow 逻辑链}
 
 1. 先选定 "无穷远面" $\tau_\infty$，把对应顶点固定在无穷远（等价于若干 $r_i=+\infty$ 的边界处理）。
 
@@ -1180,7 +1157,7 @@ $$
 | --- | 总结 + Q\ | A | 一张图小结 | 8 min | 135 min |
 | \bottomrule |
 
-**说明：** 表中累计超出 120 min（约 135 min），是 "严格按论文顺序 + 定义补全版" 的上限时长。
+\hl{说明：} 表中累计超出 120 min（约 135 min），是 "严格按论文顺序 + 定义补全版" 的上限时长。
 若要严格控制在 120 min，可优先压缩 II-0（6 min $\to$ 3 min）与 V-4（4 min $\to$ 2 min），
 并把 V-3 的证明骨架从 5 min 压到 3 min。
 
@@ -1282,9 +1259,9 @@ $k$-cell, 胞腔分解 | 与 $\mathbb{R}^k$ 中开球同胚；曲面上 "由图�
 
 3. **Q：为什么不直接用变分法？**
 
-> 变分法（Bobenko--Springborn / Guo）已经能证明存在性；但 Ricci 流额外给出
-      **算法** 和 **指数收敛速度**，并且很多技巧（例如长时间存在性）
-      可以推广到更一般情形（论文 Remark 3.4 强调过这点）。
+      \ans{变分法（Bobenko--Springborn / Guo）已经能证明存在性；但 Ricci 流额外给出
+      \keypart{算法} 和 \keypart{指数收敛速度}，并且很多技巧（例如长时间存在性）
+      可以推广到更一般情形（论文 Remark 3.4 强调过这点）。}
 
 4. **Q：H3 / E3 那条不等式直观上是什么意思？**
 
@@ -1317,28 +1294,14 @@ $$
 $$
 
  |
-|  而且收敛 $\Rightarrow$ **指数收敛** $\Rightarrow$ 一个可实现的数值算法。 |
+|  而且收敛 $\Rightarrow$ \keypart{指数收敛} $\Rightarrow$ 一个可实现的数值算法。 |
 | \bottomrule |
 
 ## PDF
 
-Download the original write-up [here](/files/Grade3/Reports/circle-patterns-seminar.pdf).0:{"buildId":"rZLQ8EVqblT6xTH8wdhS0","rsc":["$","$1","c",{"children":[["$","$L2",null,{"hasContent":false,"children":[false,["$","$L3",null,{"baseLdJson":{"@context":"https://schema.org","@type":"BlogPosting","headline":"Combinatorial Ricci Flows for Ideal Circle Patterns","description":"Seminar plan on combinatorial Ricci flows for ideal circle patterns.","datePublished":"2026-04-08T00:00:00.000Z","dateModified":"2026-04-08T00:00:00.000Z"}}],["$","$L4",null,{"data":{"id":"post-da-seminar","created":"2026-04-08T00:00:00.000Z","modified":"2026-04-08T00:00:00.000Z","title":"Combinatorial Ricci Flows for Ideal Circle Patterns","text":"$5","summary":"Seminar plan on combinatorial Ricci flows for ideal circle patterns.","copyright":true,"tags":["Seminar","Discrete Analysis"],"slug":"circle-patterns-seminar","categoryId":"cat-seminar","category":{"id":"cat-seminar","slug":"seminar","name":"Seminar","created":"2024-07-01T00:00:00.000Z","type":0,"count":10},"images":[],"pin":null,"pinOrder":0,"related":[],"allowComment":true,"commentsIndex":0,"count":{"read":0,"like":0}}}],"$L6","$L7","$L8"]}],["$L9","$La","$Lb","$Lc","$Ld","$Le","$Lf","$L10","$L11","$L12","$L13","$L14","$L15","$L16"],"$L17"]}],"loading":null,"isPartial":false}
-6:["$","$L18",null,{"fetchedAt":"2026-08-19T10:15:06.386Z"}]
-7:["$","div",null,{"data-server-fetched-at":"2026-08-19T10:15:06.386Z","className":"relative flex min-h-[120px] grid-cols-[auto_200px] lg:grid","children":[["$","$L19",null,{"lcpOptimization":true,"className":"min-w-0","children":[["$","div",null,{"className":"relative w-full min-w-0","children":[["$","$L1a",null,{"id":"post-da-seminar","type":"post"}],["$","div",null,{"children":[["$","div",null,{"className":"mb-8","children":[["$","$L1b",null,{}],["$","$L1c",null,{"id":"post-da-seminar","type":"posts","className":"absolute -top-6 right-0"}],["$","$L1d",null,{"className":"mb-8 justify-center"}],["$","$L1e",null,{}],["$","$L1f",null,{"type":"before"}]]}],["$","$L20",null,{"eoaDetect":true,"children":[["$","$L21",null,{}],["$","$L22",null,{"children":["$","$L23",null,{"children":["$","article",null,{"className":"prose","children":[["$","div",null,{"className":"sr-only","children":["$","$L1b",null,{}]}],["$","$L24",null,{}],["$","$L25",null,{}]]}]}]}],["$","$L26",null,{"children":["$","$L27",null,{}]}]]}]]}],["$","$L28",null,{"children":[["$","$L1f",null,{}],["$","$L29",null,{}],["$","$L2a",null,{}]]}]]}],["$","$L2b",null,{"delay":500,"children":["$","$L2c",null,{"refId":"post-da-seminar","allowComment":true}]}]]}],["$","$L2d",null,{"className":"relative hidden lg:block"}]]}]
-8:["$","$L2e",null,{"children":["$","$L2f",null,{}]}]
-9:["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/136744c992bad96d.css","precedence":"next"}]
-a:["$","link","1",{"rel":"stylesheet","href":"/_next/static/chunks/0169140b52b18b81.css","precedence":"next"}]
-b:["$","link","2",{"rel":"stylesheet","href":"/_next/static/chunks/cf19f565ce194e50.css","precedence":"next"}]
-c:["$","link","3",{"rel":"stylesheet","href":"/_next/static/chunks/2a531debc05d9c48.css","precedence":"next"}]
-d:["$","link","4",{"rel":"stylesheet","href":"/_next/static/chunks/f6d4eb0f1595037c.css","precedence":"next"}]
-e:["$","link","5",{"rel":"stylesheet","href":"/_next/static/chunks/be9fe8599e8928e8.css","precedence":"next"}]
-f:["$","script","script-0",{"src":"/_next/static/chunks/35eaa08fca66b29e.js","async":true}]
-10:["$","script","script-1",{"src":"/_next/static/chunks/f91f857f975d1c9f.js","async":true}]
-11:["$","script","script-2",{"src":"/_next/static/chunks/dabd062b49706f28.js","async":true}]
-12:["$","script","script-3",{"src":"/_next/static/chunks/740441c5b62d2d93.js","async":true}]
-13:["$","script","script-4",{"src":"/_next/static/chunks/dcd49895cb9db447.js","async":true}]
-14:["$","script","script-5",{"src":"/_next/static/chunks/175944aa1545ac7c.js","async":true}]
-15:["$","script","script-6",{"src":"/_next/static/chunks/16494c9ed210a726.js","async":true}]
-16:["$","script","script-7",{"src":"/_next/static/chunks/19ed43205a6e84be.js","async":true}]
-17:["$","$L30",null,{"children":["$","$31",null,{"name":"Next.MetadataOutlet","children":"$@32"}]}]
-32:null
+Download the original write-up [here](/files/Grade3/Reports/circle-patterns-seminar.pdf).0:{"buildId":"4lK6jJ-LNlsa-O0kGQwZ-","rsc":["$","$1","c",{"children":[["$","div",null,{"className":"relative flex min-h-[120px] grid-cols-[auto_200px] lg:grid","children":["$","div",null,{"className":"relative w-full min-w-0","children":["$","article",null,{"className":"prose","children":[["$","h1",null,{"className":"mb-8 text-balance text-center lg:text-left text-4xl font-bold leading-tight","children":"Combinatorial Ricci Flows for Ideal Circle Patterns"}],["$","$L2",null,{"allowsScript":true,"value":"$3","className":"min-w-0 overflow-hidden"}]]}]}]}],["$L4","$L5","$L6"],"$L7"]}],"loading":null,"isPartial":false}
+4:["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/90c7fe74d75f9368.css","precedence":"next"}]
+5:["$","link","1",{"rel":"stylesheet","href":"/_next/static/css/307ca07a66e4cbaa.css","precedence":"next"}]
+6:["$","link","2",{"rel":"stylesheet","href":"/_next/static/css/e990d6bfce8f7934.css","precedence":"next"}]
+7:["$","$L8",null,{"children":["$","$9",null,{"name":"Next.MetadataOutlet","children":"$@a"}]}]
+a:null

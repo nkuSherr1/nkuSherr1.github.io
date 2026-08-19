@@ -1,1 +1,0 @@
-(globalThis.TURBOPACK||(globalThis.TURBOPACK=[])).push(["object"==typeof document?document.currentScript:void 0,414558,e=>{"use strict";var t=e.i(565773),u=e.i(624475);let o=()=>{let e=(0,u.useSetHeaderShouldShowBg)();(0,t.useEffect)(()=>(e(!1),()=>{e(!0)}),[])};e.s(["HeaderHideBg",0,()=>(o(),null),"useHideHeaderBgInRoute",0,o])}]);

@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunk_N_E=self.webpackChunk_N_E||[]).push([[131],{20131:(e,s,n)=>{n.r(s),n.d(s,{default:()=>u});var r=n(42744);n(54348);var t=n(54836),a=n(12442),l=n(34879);function u({id:e}){let s=(0,l.Y)();return(0,r.jsx)("span",{className:"flex justify-center",children:(0,r.jsx)(t.Suspense,{children:(0,r.jsx)(a.J,{id:e,theme:s?"dark":"light"})})})}}}]);

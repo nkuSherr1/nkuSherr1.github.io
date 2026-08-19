@@ -1,1 +1,0 @@
-(globalThis.TURBOPACK||(globalThis.TURBOPACK=[])).push(["object"==typeof document?document.currentScript:void 0,216392,o=>{"use strict";var e=o.i(376809),i=o.i(548150);o.s(["MobilePhotoView",0,({src:o,children:t})=>(0,e.jsx)(i.PhotoProvider,{photoClosable:!0,children:(0,e.jsx)(i.PhotoView,{src:o,children:t})})])}]);

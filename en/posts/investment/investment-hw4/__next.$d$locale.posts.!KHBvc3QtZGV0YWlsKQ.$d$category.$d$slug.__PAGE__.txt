@@ -1,213 +1,184 @@
 1:"$Sreact.fragment"
-2:I[417743,["/_next/static/chunks/d03e4f6fdf084240.js","/_next/static/chunks/525ff3aa60c02a25.js","/_next/static/chunks/ae2a70c709da2ba8.js","/_next/static/chunks/eb309b8f06731812.js","/_next/static/chunks/baa674234f056c60.js","/_next/static/chunks/2edc37b4337c096a.js","/_next/static/chunks/6f0408800ece4f06.js","/_next/static/chunks/6f95f3a6a7ed9dab.js","/_next/static/chunks/3c40fd5a14861430.js","/_next/static/chunks/e7855f92c342e0a3.js","/_next/static/chunks/a5fcaccd389d798e.js","/_next/static/chunks/c3456ef3141ade67.js","/_next/static/chunks/c92042fd5179bd95.js","/_next/static/chunks/1737ca787e6b8d4c.js","/_next/static/chunks/d691f1571e343c32.js","/_next/static/chunks/65f1d76f7ac19600.js","/_next/static/chunks/762b6f848ae7b21b.js","/_next/static/chunks/1d5a5c14848b802e.js","/_next/static/chunks/a40e2b25b1a62ac7.js","/_next/static/chunks/c6509abffeae92d2.js","/_next/static/chunks/35eaa08fca66b29e.js","/_next/static/chunks/f91f857f975d1c9f.js","/_next/static/chunks/dabd062b49706f28.js","/_next/static/chunks/740441c5b62d2d93.js","/_next/static/chunks/dcd49895cb9db447.js","/_next/static/chunks/175944aa1545ac7c.js","/_next/static/chunks/16494c9ed210a726.js","/_next/static/chunks/19ed43205a6e84be.js"],"TocHeadingStrategyProvider"]
-3:I[401946,["/_next/static/chunks/d03e4f6fdf084240.js","/_next/static/chunks/525ff3aa60c02a25.js","/_next/static/chunks/ae2a70c709da2ba8.js","/_next/static/chunks/eb309b8f06731812.js","/_next/static/chunks/baa674234f056c60.js","/_next/static/chunks/2edc37b4337c096a.js","/_next/static/chunks/6f0408800ece4f06.js","/_next/static/chunks/6f95f3a6a7ed9dab.js","/_next/static/chunks/3c40fd5a14861430.js","/_next/static/chunks/e7855f92c342e0a3.js","/_next/static/chunks/a5fcaccd389d798e.js","/_next/static/chunks/c3456ef3141ade67.js","/_next/static/chunks/c92042fd5179bd95.js","/_next/static/chunks/1737ca787e6b8d4c.js","/_next/static/chunks/d691f1571e343c32.js","/_next/static/chunks/65f1d76f7ac19600.js","/_next/static/chunks/762b6f848ae7b21b.js","/_next/static/chunks/1d5a5c14848b802e.js","/_next/static/chunks/a40e2b25b1a62ac7.js","/_next/static/chunks/c6509abffeae92d2.js","/_next/static/chunks/35eaa08fca66b29e.js","/_next/static/chunks/f91f857f975d1c9f.js","/_next/static/chunks/dabd062b49706f28.js","/_next/static/chunks/740441c5b62d2d93.js","/_next/static/chunks/dcd49895cb9db447.js","/_next/static/chunks/175944aa1545ac7c.js","/_next/static/chunks/16494c9ed210a726.js","/_next/static/chunks/19ed43205a6e84be.js"],"LdJsonWithAuthor"]
-4:I[373448,["/_next/static/chunks/d03e4f6fdf084240.js","/_next/static/chunks/525ff3aa60c02a25.js","/_next/static/chunks/ae2a70c709da2ba8.js","/_next/static/chunks/eb309b8f06731812.js","/_next/static/chunks/baa674234f056c60.js","/_next/static/chunks/2edc37b4337c096a.js","/_next/static/chunks/6f0408800ece4f06.js","/_next/static/chunks/6f95f3a6a7ed9dab.js","/_next/static/chunks/3c40fd5a14861430.js","/_next/static/chunks/e7855f92c342e0a3.js","/_next/static/chunks/a5fcaccd389d798e.js","/_next/static/chunks/c3456ef3141ade67.js","/_next/static/chunks/c92042fd5179bd95.js","/_next/static/chunks/1737ca787e6b8d4c.js","/_next/static/chunks/d691f1571e343c32.js","/_next/static/chunks/65f1d76f7ac19600.js","/_next/static/chunks/762b6f848ae7b21b.js","/_next/static/chunks/1d5a5c14848b802e.js","/_next/static/chunks/a40e2b25b1a62ac7.js","/_next/static/chunks/c6509abffeae92d2.js","/_next/static/chunks/35eaa08fca66b29e.js","/_next/static/chunks/f91f857f975d1c9f.js","/_next/static/chunks/dabd062b49706f28.js","/_next/static/chunks/740441c5b62d2d93.js","/_next/static/chunks/dcd49895cb9db447.js","/_next/static/chunks/175944aa1545ac7c.js","/_next/static/chunks/16494c9ed210a726.js","/_next/static/chunks/19ed43205a6e84be.js"],"CurrentPostDataProvider"]
-18:I[401946,["/_next/static/chunks/d03e4f6fdf084240.js","/_next/static/chunks/525ff3aa60c02a25.js","/_next/static/chunks/ae2a70c709da2ba8.js","/_next/static/chunks/eb309b8f06731812.js","/_next/static/chunks/baa674234f056c60.js","/_next/static/chunks/2edc37b4337c096a.js","/_next/static/chunks/6f0408800ece4f06.js","/_next/static/chunks/6f95f3a6a7ed9dab.js","/_next/static/chunks/3c40fd5a14861430.js","/_next/static/chunks/e7855f92c342e0a3.js","/_next/static/chunks/a5fcaccd389d798e.js","/_next/static/chunks/c3456ef3141ade67.js","/_next/static/chunks/c92042fd5179bd95.js","/_next/static/chunks/1737ca787e6b8d4c.js","/_next/static/chunks/d691f1571e343c32.js","/_next/static/chunks/65f1d76f7ac19600.js","/_next/static/chunks/762b6f848ae7b21b.js","/_next/static/chunks/1d5a5c14848b802e.js","/_next/static/chunks/a40e2b25b1a62ac7.js","/_next/static/chunks/c6509abffeae92d2.js","/_next/static/chunks/35eaa08fca66b29e.js","/_next/static/chunks/f91f857f975d1c9f.js","/_next/static/chunks/dabd062b49706f28.js","/_next/static/chunks/740441c5b62d2d93.js","/_next/static/chunks/dcd49895cb9db447.js","/_next/static/chunks/175944aa1545ac7c.js","/_next/static/chunks/16494c9ed210a726.js","/_next/static/chunks/19ed43205a6e84be.js"],"PostDataReValidate"]
-19:I[793580,["/_next/static/chunks/d03e4f6fdf084240.js","/_next/static/chunks/525ff3aa60c02a25.js","/_next/static/chunks/ae2a70c709da2ba8.js","/_next/static/chunks/eb309b8f06731812.js","/_next/static/chunks/baa674234f056c60.js","/_next/static/chunks/2edc37b4337c096a.js","/_next/static/chunks/6f0408800ece4f06.js","/_next/static/chunks/6f95f3a6a7ed9dab.js","/_next/static/chunks/3c40fd5a14861430.js","/_next/static/chunks/e7855f92c342e0a3.js","/_next/static/chunks/a5fcaccd389d798e.js","/_next/static/chunks/c3456ef3141ade67.js","/_next/static/chunks/c92042fd5179bd95.js","/_next/static/chunks/1737ca787e6b8d4c.js","/_next/static/chunks/d691f1571e343c32.js","/_next/static/chunks/65f1d76f7ac19600.js","/_next/static/chunks/762b6f848ae7b21b.js","/_next/static/chunks/1d5a5c14848b802e.js","/_next/static/chunks/a40e2b25b1a62ac7.js","/_next/static/chunks/c6509abffeae92d2.js","/_next/static/chunks/35eaa08fca66b29e.js","/_next/static/chunks/f91f857f975d1c9f.js","/_next/static/chunks/dabd062b49706f28.js","/_next/static/chunks/740441c5b62d2d93.js","/_next/static/chunks/dcd49895cb9db447.js","/_next/static/chunks/175944aa1545ac7c.js","/_next/static/chunks/16494c9ed210a726.js","/_next/static/chunks/19ed43205a6e84be.js"],"BottomToUpTransitionView"]
-1a:I[189209,["/_next/static/chunks/d03e4f6fdf084240.js","/_next/static/chunks/525ff3aa60c02a25.js","/_next/static/chunks/ae2a70c709da2ba8.js","/_next/static/chunks/eb309b8f06731812.js","/_next/static/chunks/baa674234f056c60.js","/_next/static/chunks/2edc37b4337c096a.js","/_next/static/chunks/6f0408800ece4f06.js","/_next/static/chunks/6f95f3a6a7ed9dab.js","/_next/static/chunks/3c40fd5a14861430.js","/_next/static/chunks/e7855f92c342e0a3.js","/_next/static/chunks/a5fcaccd389d798e.js","/_next/static/chunks/c3456ef3141ade67.js","/_next/static/chunks/c92042fd5179bd95.js","/_next/static/chunks/1737ca787e6b8d4c.js","/_next/static/chunks/d691f1571e343c32.js","/_next/static/chunks/65f1d76f7ac19600.js","/_next/static/chunks/762b6f848ae7b21b.js","/_next/static/chunks/1d5a5c14848b802e.js","/_next/static/chunks/a40e2b25b1a62ac7.js","/_next/static/chunks/c6509abffeae92d2.js","/_next/static/chunks/35eaa08fca66b29e.js","/_next/static/chunks/f91f857f975d1c9f.js","/_next/static/chunks/dabd062b49706f28.js","/_next/static/chunks/740441c5b62d2d93.js","/_next/static/chunks/dcd49895cb9db447.js","/_next/static/chunks/175944aa1545ac7c.js","/_next/static/chunks/16494c9ed210a726.js","/_next/static/chunks/19ed43205a6e84be.js"],"AckRead"]
-1b:I[401946,["/_next/static/chunks/d03e4f6fdf084240.js","/_next/static/chunks/525ff3aa60c02a25.js","/_next/static/chunks/ae2a70c709da2ba8.js","/_next/static/chunks/eb309b8f06731812.js","/_next/static/chunks/baa674234f056c60.js","/_next/static/chunks/2edc37b4337c096a.js","/_next/static/chunks/6f0408800ece4f06.js","/_next/static/chunks/6f95f3a6a7ed9dab.js","/_next/static/chunks/3c40fd5a14861430.js","/_next/static/chunks/e7855f92c342e0a3.js","/_next/static/chunks/a5fcaccd389d798e.js","/_next/static/chunks/c3456ef3141ade67.js","/_next/static/chunks/c92042fd5179bd95.js","/_next/static/chunks/1737ca787e6b8d4c.js","/_next/static/chunks/d691f1571e343c32.js","/_next/static/chunks/65f1d76f7ac19600.js","/_next/static/chunks/762b6f848ae7b21b.js","/_next/static/chunks/1d5a5c14848b802e.js","/_next/static/chunks/a40e2b25b1a62ac7.js","/_next/static/chunks/c6509abffeae92d2.js","/_next/static/chunks/35eaa08fca66b29e.js","/_next/static/chunks/f91f857f975d1c9f.js","/_next/static/chunks/dabd062b49706f28.js","/_next/static/chunks/740441c5b62d2d93.js","/_next/static/chunks/dcd49895cb9db447.js","/_next/static/chunks/175944aa1545ac7c.js","/_next/static/chunks/16494c9ed210a726.js","/_next/static/chunks/19ed43205a6e84be.js"],"PostTitle"]
-1c:I[923014,["/_next/static/chunks/d03e4f6fdf084240.js","/_next/static/chunks/525ff3aa60c02a25.js","/_next/static/chunks/ae2a70c709da2ba8.js","/_next/static/chunks/eb309b8f06731812.js","/_next/static/chunks/baa674234f056c60.js","/_next/static/chunks/2edc37b4337c096a.js","/_next/static/chunks/6f0408800ece4f06.js","/_next/static/chunks/6f95f3a6a7ed9dab.js","/_next/static/chunks/3c40fd5a14861430.js","/_next/static/chunks/e7855f92c342e0a3.js","/_next/static/chunks/a5fcaccd389d798e.js","/_next/static/chunks/c3456ef3141ade67.js","/_next/static/chunks/c92042fd5179bd95.js","/_next/static/chunks/1737ca787e6b8d4c.js","/_next/static/chunks/d691f1571e343c32.js","/_next/static/chunks/65f1d76f7ac19600.js","/_next/static/chunks/762b6f848ae7b21b.js","/_next/static/chunks/1d5a5c14848b802e.js","/_next/static/chunks/a40e2b25b1a62ac7.js","/_next/static/chunks/c6509abffeae92d2.js","/_next/static/chunks/35eaa08fca66b29e.js","/_next/static/chunks/f91f857f975d1c9f.js","/_next/static/chunks/dabd062b49706f28.js","/_next/static/chunks/740441c5b62d2d93.js","/_next/static/chunks/dcd49895cb9db447.js","/_next/static/chunks/175944aa1545ac7c.js","/_next/static/chunks/16494c9ed210a726.js","/_next/static/chunks/19ed43205a6e84be.js"],"GoToAdminEditingButton"]
-1d:I[401946,["/_next/static/chunks/d03e4f6fdf084240.js","/_next/static/chunks/525ff3aa60c02a25.js","/_next/static/chunks/ae2a70c709da2ba8.js","/_next/static/chunks/eb309b8f06731812.js","/_next/static/chunks/baa674234f056c60.js","/_next/static/chunks/2edc37b4337c096a.js","/_next/static/chunks/6f0408800ece4f06.js","/_next/static/chunks/6f95f3a6a7ed9dab.js","/_next/static/chunks/3c40fd5a14861430.js","/_next/static/chunks/e7855f92c342e0a3.js","/_next/static/chunks/a5fcaccd389d798e.js","/_next/static/chunks/c3456ef3141ade67.js","/_next/static/chunks/c92042fd5179bd95.js","/_next/static/chunks/1737ca787e6b8d4c.js","/_next/static/chunks/d691f1571e343c32.js","/_next/static/chunks/65f1d76f7ac19600.js","/_next/static/chunks/762b6f848ae7b21b.js","/_next/static/chunks/1d5a5c14848b802e.js","/_next/static/chunks/a40e2b25b1a62ac7.js","/_next/static/chunks/c6509abffeae92d2.js","/_next/static/chunks/35eaa08fca66b29e.js","/_next/static/chunks/f91f857f975d1c9f.js","/_next/static/chunks/dabd062b49706f28.js","/_next/static/chunks/740441c5b62d2d93.js","/_next/static/chunks/dcd49895cb9db447.js","/_next/static/chunks/175944aa1545ac7c.js","/_next/static/chunks/16494c9ed210a726.js","/_next/static/chunks/19ed43205a6e84be.js"],"PostMetaBarInternal"]
-1e:I[6169,["/_next/static/chunks/d03e4f6fdf084240.js","/_next/static/chunks/525ff3aa60c02a25.js","/_next/static/chunks/ae2a70c709da2ba8.js","/_next/static/chunks/eb309b8f06731812.js","/_next/static/chunks/baa674234f056c60.js","/_next/static/chunks/2edc37b4337c096a.js","/_next/static/chunks/6f0408800ece4f06.js","/_next/static/chunks/6f95f3a6a7ed9dab.js","/_next/static/chunks/3c40fd5a14861430.js","/_next/static/chunks/e7855f92c342e0a3.js","/_next/static/chunks/a5fcaccd389d798e.js","/_next/static/chunks/c3456ef3141ade67.js","/_next/static/chunks/c92042fd5179bd95.js","/_next/static/chunks/1737ca787e6b8d4c.js","/_next/static/chunks/d691f1571e343c32.js","/_next/static/chunks/65f1d76f7ac19600.js","/_next/static/chunks/762b6f848ae7b21b.js","/_next/static/chunks/1d5a5c14848b802e.js","/_next/static/chunks/a40e2b25b1a62ac7.js","/_next/static/chunks/c6509abffeae92d2.js","/_next/static/chunks/35eaa08fca66b29e.js","/_next/static/chunks/f91f857f975d1c9f.js","/_next/static/chunks/dabd062b49706f28.js","/_next/static/chunks/740441c5b62d2d93.js","/_next/static/chunks/dcd49895cb9db447.js","/_next/static/chunks/175944aa1545ac7c.js","/_next/static/chunks/16494c9ed210a726.js","/_next/static/chunks/19ed43205a6e84be.js"],"PostOutdate"]
-1f:I[660320,["/_next/static/chunks/d03e4f6fdf084240.js","/_next/static/chunks/525ff3aa60c02a25.js","/_next/static/chunks/ae2a70c709da2ba8.js","/_next/static/chunks/eb309b8f06731812.js","/_next/static/chunks/baa674234f056c60.js","/_next/static/chunks/2edc37b4337c096a.js","/_next/static/chunks/6f0408800ece4f06.js","/_next/static/chunks/6f95f3a6a7ed9dab.js","/_next/static/chunks/3c40fd5a14861430.js","/_next/static/chunks/e7855f92c342e0a3.js","/_next/static/chunks/a5fcaccd389d798e.js","/_next/static/chunks/c3456ef3141ade67.js","/_next/static/chunks/c92042fd5179bd95.js","/_next/static/chunks/1737ca787e6b8d4c.js","/_next/static/chunks/d691f1571e343c32.js","/_next/static/chunks/65f1d76f7ac19600.js","/_next/static/chunks/762b6f848ae7b21b.js","/_next/static/chunks/1d5a5c14848b802e.js","/_next/static/chunks/a40e2b25b1a62ac7.js","/_next/static/chunks/c6509abffeae92d2.js","/_next/static/chunks/35eaa08fca66b29e.js","/_next/static/chunks/f91f857f975d1c9f.js","/_next/static/chunks/dabd062b49706f28.js","/_next/static/chunks/740441c5b62d2d93.js","/_next/static/chunks/dcd49895cb9db447.js","/_next/static/chunks/175944aa1545ac7c.js","/_next/static/chunks/16494c9ed210a726.js","/_next/static/chunks/19ed43205a6e84be.js"],"PostRelated"]
-20:I[145557,["/_next/static/chunks/d03e4f6fdf084240.js","/_next/static/chunks/525ff3aa60c02a25.js","/_next/static/chunks/ae2a70c709da2ba8.js","/_next/static/chunks/eb309b8f06731812.js","/_next/static/chunks/baa674234f056c60.js","/_next/static/chunks/2edc37b4337c096a.js","/_next/static/chunks/6f0408800ece4f06.js","/_next/static/chunks/6f95f3a6a7ed9dab.js","/_next/static/chunks/3c40fd5a14861430.js","/_next/static/chunks/e7855f92c342e0a3.js","/_next/static/chunks/a5fcaccd389d798e.js","/_next/static/chunks/c3456ef3141ade67.js","/_next/static/chunks/c92042fd5179bd95.js","/_next/static/chunks/1737ca787e6b8d4c.js","/_next/static/chunks/d691f1571e343c32.js","/_next/static/chunks/65f1d76f7ac19600.js","/_next/static/chunks/762b6f848ae7b21b.js","/_next/static/chunks/1d5a5c14848b802e.js","/_next/static/chunks/a40e2b25b1a62ac7.js","/_next/static/chunks/c6509abffeae92d2.js","/_next/static/chunks/35eaa08fca66b29e.js","/_next/static/chunks/f91f857f975d1c9f.js","/_next/static/chunks/dabd062b49706f28.js","/_next/static/chunks/740441c5b62d2d93.js","/_next/static/chunks/dcd49895cb9db447.js","/_next/static/chunks/175944aa1545ac7c.js","/_next/static/chunks/16494c9ed210a726.js","/_next/static/chunks/19ed43205a6e84be.js"],"WrappedElementProvider"]
-21:I[125902,["/_next/static/chunks/d03e4f6fdf084240.js","/_next/static/chunks/525ff3aa60c02a25.js","/_next/static/chunks/ae2a70c709da2ba8.js","/_next/static/chunks/eb309b8f06731812.js","/_next/static/chunks/baa674234f056c60.js","/_next/static/chunks/2edc37b4337c096a.js","/_next/static/chunks/6f0408800ece4f06.js","/_next/static/chunks/6f95f3a6a7ed9dab.js","/_next/static/chunks/3c40fd5a14861430.js","/_next/static/chunks/e7855f92c342e0a3.js","/_next/static/chunks/a5fcaccd389d798e.js","/_next/static/chunks/c3456ef3141ade67.js","/_next/static/chunks/c92042fd5179bd95.js","/_next/static/chunks/1737ca787e6b8d4c.js","/_next/static/chunks/d691f1571e343c32.js","/_next/static/chunks/65f1d76f7ac19600.js","/_next/static/chunks/762b6f848ae7b21b.js","/_next/static/chunks/1d5a5c14848b802e.js","/_next/static/chunks/a40e2b25b1a62ac7.js","/_next/static/chunks/c6509abffeae92d2.js","/_next/static/chunks/35eaa08fca66b29e.js","/_next/static/chunks/f91f857f975d1c9f.js","/_next/static/chunks/dabd062b49706f28.js","/_next/static/chunks/740441c5b62d2d93.js","/_next/static/chunks/dcd49895cb9db447.js","/_next/static/chunks/175944aa1545ac7c.js","/_next/static/chunks/16494c9ed210a726.js","/_next/static/chunks/19ed43205a6e84be.js"],"ReadIndicatorForMobile"]
-22:I[401946,["/_next/static/chunks/d03e4f6fdf084240.js","/_next/static/chunks/525ff3aa60c02a25.js","/_next/static/chunks/ae2a70c709da2ba8.js","/_next/static/chunks/eb309b8f06731812.js","/_next/static/chunks/baa674234f056c60.js","/_next/static/chunks/2edc37b4337c096a.js","/_next/static/chunks/6f0408800ece4f06.js","/_next/static/chunks/6f95f3a6a7ed9dab.js","/_next/static/chunks/3c40fd5a14861430.js","/_next/static/chunks/e7855f92c342e0a3.js","/_next/static/chunks/a5fcaccd389d798e.js","/_next/static/chunks/c3456ef3141ade67.js","/_next/static/chunks/c92042fd5179bd95.js","/_next/static/chunks/1737ca787e6b8d4c.js","/_next/static/chunks/d691f1571e343c32.js","/_next/static/chunks/65f1d76f7ac19600.js","/_next/static/chunks/762b6f848ae7b21b.js","/_next/static/chunks/1d5a5c14848b802e.js","/_next/static/chunks/a40e2b25b1a62ac7.js","/_next/static/chunks/c6509abffeae92d2.js","/_next/static/chunks/35eaa08fca66b29e.js","/_next/static/chunks/f91f857f975d1c9f.js","/_next/static/chunks/dabd062b49706f28.js","/_next/static/chunks/740441c5b62d2d93.js","/_next/static/chunks/dcd49895cb9db447.js","/_next/static/chunks/175944aa1545ac7c.js","/_next/static/chunks/16494c9ed210a726.js","/_next/static/chunks/19ed43205a6e84be.js"],"PostMarkdownImageRecordProvider"]
-23:I[401946,["/_next/static/chunks/d03e4f6fdf084240.js","/_next/static/chunks/525ff3aa60c02a25.js","/_next/static/chunks/ae2a70c709da2ba8.js","/_next/static/chunks/eb309b8f06731812.js","/_next/static/chunks/baa674234f056c60.js","/_next/static/chunks/2edc37b4337c096a.js","/_next/static/chunks/6f0408800ece4f06.js","/_next/static/chunks/6f95f3a6a7ed9dab.js","/_next/static/chunks/3c40fd5a14861430.js","/_next/static/chunks/e7855f92c342e0a3.js","/_next/static/chunks/a5fcaccd389d798e.js","/_next/static/chunks/c3456ef3141ade67.js","/_next/static/chunks/c92042fd5179bd95.js","/_next/static/chunks/1737ca787e6b8d4c.js","/_next/static/chunks/d691f1571e343c32.js","/_next/static/chunks/65f1d76f7ac19600.js","/_next/static/chunks/762b6f848ae7b21b.js","/_next/static/chunks/1d5a5c14848b802e.js","/_next/static/chunks/a40e2b25b1a62ac7.js","/_next/static/chunks/c6509abffeae92d2.js","/_next/static/chunks/35eaa08fca66b29e.js","/_next/static/chunks/f91f857f975d1c9f.js","/_next/static/chunks/dabd062b49706f28.js","/_next/static/chunks/740441c5b62d2d93.js","/_next/static/chunks/dcd49895cb9db447.js","/_next/static/chunks/175944aa1545ac7c.js","/_next/static/chunks/16494c9ed210a726.js","/_next/static/chunks/19ed43205a6e84be.js"],"MarkdownSelection"]
-24:I[401946,["/_next/static/chunks/d03e4f6fdf084240.js","/_next/static/chunks/525ff3aa60c02a25.js","/_next/static/chunks/ae2a70c709da2ba8.js","/_next/static/chunks/eb309b8f06731812.js","/_next/static/chunks/baa674234f056c60.js","/_next/static/chunks/2edc37b4337c096a.js","/_next/static/chunks/6f0408800ece4f06.js","/_next/static/chunks/6f95f3a6a7ed9dab.js","/_next/static/chunks/3c40fd5a14861430.js","/_next/static/chunks/e7855f92c342e0a3.js","/_next/static/chunks/a5fcaccd389d798e.js","/_next/static/chunks/c3456ef3141ade67.js","/_next/static/chunks/c92042fd5179bd95.js","/_next/static/chunks/1737ca787e6b8d4c.js","/_next/static/chunks/d691f1571e343c32.js","/_next/static/chunks/65f1d76f7ac19600.js","/_next/static/chunks/762b6f848ae7b21b.js","/_next/static/chunks/1d5a5c14848b802e.js","/_next/static/chunks/a40e2b25b1a62ac7.js","/_next/static/chunks/c6509abffeae92d2.js","/_next/static/chunks/35eaa08fca66b29e.js","/_next/static/chunks/f91f857f975d1c9f.js","/_next/static/chunks/dabd062b49706f28.js","/_next/static/chunks/740441c5b62d2d93.js","/_next/static/chunks/dcd49895cb9db447.js","/_next/static/chunks/175944aa1545ac7c.js","/_next/static/chunks/16494c9ed210a726.js","/_next/static/chunks/19ed43205a6e84be.js"],"FocusReadingEffect"]
-25:I[502283,["/_next/static/chunks/d03e4f6fdf084240.js","/_next/static/chunks/525ff3aa60c02a25.js","/_next/static/chunks/ae2a70c709da2ba8.js","/_next/static/chunks/eb309b8f06731812.js","/_next/static/chunks/baa674234f056c60.js","/_next/static/chunks/2edc37b4337c096a.js","/_next/static/chunks/6f0408800ece4f06.js","/_next/static/chunks/6f95f3a6a7ed9dab.js","/_next/static/chunks/3c40fd5a14861430.js","/_next/static/chunks/e7855f92c342e0a3.js","/_next/static/chunks/a5fcaccd389d798e.js","/_next/static/chunks/c3456ef3141ade67.js","/_next/static/chunks/c92042fd5179bd95.js","/_next/static/chunks/1737ca787e6b8d4c.js","/_next/static/chunks/d691f1571e343c32.js","/_next/static/chunks/65f1d76f7ac19600.js","/_next/static/chunks/762b6f848ae7b21b.js","/_next/static/chunks/1d5a5c14848b802e.js","/_next/static/chunks/a40e2b25b1a62ac7.js","/_next/static/chunks/c6509abffeae92d2.js","/_next/static/chunks/35eaa08fca66b29e.js","/_next/static/chunks/f91f857f975d1c9f.js","/_next/static/chunks/dabd062b49706f28.js","/_next/static/chunks/740441c5b62d2d93.js","/_next/static/chunks/dcd49895cb9db447.js","/_next/static/chunks/175944aa1545ac7c.js","/_next/static/chunks/16494c9ed210a726.js","/_next/static/chunks/19ed43205a6e84be.js"],"PostMarkdownRenderer",1]
-26:I[194205,["/_next/static/chunks/d03e4f6fdf084240.js","/_next/static/chunks/525ff3aa60c02a25.js","/_next/static/chunks/ae2a70c709da2ba8.js","/_next/static/chunks/eb309b8f06731812.js","/_next/static/chunks/baa674234f056c60.js","/_next/static/chunks/2edc37b4337c096a.js","/_next/static/chunks/6f0408800ece4f06.js","/_next/static/chunks/6f95f3a6a7ed9dab.js","/_next/static/chunks/3c40fd5a14861430.js","/_next/static/chunks/e7855f92c342e0a3.js","/_next/static/chunks/a5fcaccd389d798e.js","/_next/static/chunks/c3456ef3141ade67.js","/_next/static/chunks/c92042fd5179bd95.js","/_next/static/chunks/1737ca787e6b8d4c.js","/_next/static/chunks/d691f1571e343c32.js","/_next/static/chunks/65f1d76f7ac19600.js","/_next/static/chunks/762b6f848ae7b21b.js","/_next/static/chunks/1d5a5c14848b802e.js","/_next/static/chunks/a40e2b25b1a62ac7.js","/_next/static/chunks/c6509abffeae92d2.js","/_next/static/chunks/35eaa08fca66b29e.js","/_next/static/chunks/f91f857f975d1c9f.js","/_next/static/chunks/dabd062b49706f28.js","/_next/static/chunks/740441c5b62d2d93.js","/_next/static/chunks/dcd49895cb9db447.js","/_next/static/chunks/175944aa1545ac7c.js","/_next/static/chunks/16494c9ed210a726.js","/_next/static/chunks/19ed43205a6e84be.js"],"LayoutRightSidePortal"]
-27:I[732298,["/_next/static/chunks/d03e4f6fdf084240.js","/_next/static/chunks/525ff3aa60c02a25.js","/_next/static/chunks/ae2a70c709da2ba8.js","/_next/static/chunks/eb309b8f06731812.js","/_next/static/chunks/baa674234f056c60.js","/_next/static/chunks/2edc37b4337c096a.js","/_next/static/chunks/6f0408800ece4f06.js","/_next/static/chunks/6f95f3a6a7ed9dab.js","/_next/static/chunks/3c40fd5a14861430.js","/_next/static/chunks/e7855f92c342e0a3.js","/_next/static/chunks/a5fcaccd389d798e.js","/_next/static/chunks/c3456ef3141ade67.js","/_next/static/chunks/c92042fd5179bd95.js","/_next/static/chunks/1737ca787e6b8d4c.js","/_next/static/chunks/d691f1571e343c32.js","/_next/static/chunks/65f1d76f7ac19600.js","/_next/static/chunks/762b6f848ae7b21b.js","/_next/static/chunks/1d5a5c14848b802e.js","/_next/static/chunks/a40e2b25b1a62ac7.js","/_next/static/chunks/c6509abffeae92d2.js","/_next/static/chunks/35eaa08fca66b29e.js","/_next/static/chunks/f91f857f975d1c9f.js","/_next/static/chunks/dabd062b49706f28.js","/_next/static/chunks/740441c5b62d2d93.js","/_next/static/chunks/dcd49895cb9db447.js","/_next/static/chunks/175944aa1545ac7c.js","/_next/static/chunks/16494c9ed210a726.js","/_next/static/chunks/19ed43205a6e84be.js"],"PostActionAside"]
-28:I[237493,["/_next/static/chunks/d03e4f6fdf084240.js","/_next/static/chunks/525ff3aa60c02a25.js","/_next/static/chunks/ae2a70c709da2ba8.js","/_next/static/chunks/eb309b8f06731812.js","/_next/static/chunks/baa674234f056c60.js","/_next/static/chunks/2edc37b4337c096a.js","/_next/static/chunks/6f0408800ece4f06.js","/_next/static/chunks/6f95f3a6a7ed9dab.js","/_next/static/chunks/3c40fd5a14861430.js","/_next/static/chunks/e7855f92c342e0a3.js","/_next/static/chunks/a5fcaccd389d798e.js","/_next/static/chunks/c3456ef3141ade67.js","/_next/static/chunks/c92042fd5179bd95.js","/_next/static/chunks/1737ca787e6b8d4c.js","/_next/static/chunks/d691f1571e343c32.js","/_next/static/chunks/65f1d76f7ac19600.js","/_next/static/chunks/762b6f848ae7b21b.js","/_next/static/chunks/1d5a5c14848b802e.js","/_next/static/chunks/a40e2b25b1a62ac7.js","/_next/static/chunks/c6509abffeae92d2.js","/_next/static/chunks/35eaa08fca66b29e.js","/_next/static/chunks/f91f857f975d1c9f.js","/_next/static/chunks/dabd062b49706f28.js","/_next/static/chunks/740441c5b62d2d93.js","/_next/static/chunks/dcd49895cb9db447.js","/_next/static/chunks/175944aa1545ac7c.js","/_next/static/chunks/16494c9ed210a726.js","/_next/static/chunks/19ed43205a6e84be.js"],"ClientOnly"]
-29:I[223245,["/_next/static/chunks/d03e4f6fdf084240.js","/_next/static/chunks/525ff3aa60c02a25.js","/_next/static/chunks/ae2a70c709da2ba8.js","/_next/static/chunks/eb309b8f06731812.js","/_next/static/chunks/baa674234f056c60.js","/_next/static/chunks/2edc37b4337c096a.js","/_next/static/chunks/6f0408800ece4f06.js","/_next/static/chunks/6f95f3a6a7ed9dab.js","/_next/static/chunks/3c40fd5a14861430.js","/_next/static/chunks/e7855f92c342e0a3.js","/_next/static/chunks/a5fcaccd389d798e.js","/_next/static/chunks/c3456ef3141ade67.js","/_next/static/chunks/c92042fd5179bd95.js","/_next/static/chunks/1737ca787e6b8d4c.js","/_next/static/chunks/d691f1571e343c32.js","/_next/static/chunks/65f1d76f7ac19600.js","/_next/static/chunks/762b6f848ae7b21b.js","/_next/static/chunks/1d5a5c14848b802e.js","/_next/static/chunks/a40e2b25b1a62ac7.js","/_next/static/chunks/c6509abffeae92d2.js","/_next/static/chunks/35eaa08fca66b29e.js","/_next/static/chunks/f91f857f975d1c9f.js","/_next/static/chunks/dabd062b49706f28.js","/_next/static/chunks/740441c5b62d2d93.js","/_next/static/chunks/dcd49895cb9db447.js","/_next/static/chunks/175944aa1545ac7c.js","/_next/static/chunks/16494c9ed210a726.js","/_next/static/chunks/19ed43205a6e84be.js"],"PostCopyright"]
-2a:I[732298,["/_next/static/chunks/d03e4f6fdf084240.js","/_next/static/chunks/525ff3aa60c02a25.js","/_next/static/chunks/ae2a70c709da2ba8.js","/_next/static/chunks/eb309b8f06731812.js","/_next/static/chunks/baa674234f056c60.js","/_next/static/chunks/2edc37b4337c096a.js","/_next/static/chunks/6f0408800ece4f06.js","/_next/static/chunks/6f95f3a6a7ed9dab.js","/_next/static/chunks/3c40fd5a14861430.js","/_next/static/chunks/e7855f92c342e0a3.js","/_next/static/chunks/a5fcaccd389d798e.js","/_next/static/chunks/c3456ef3141ade67.js","/_next/static/chunks/c92042fd5179bd95.js","/_next/static/chunks/1737ca787e6b8d4c.js","/_next/static/chunks/d691f1571e343c32.js","/_next/static/chunks/65f1d76f7ac19600.js","/_next/static/chunks/762b6f848ae7b21b.js","/_next/static/chunks/1d5a5c14848b802e.js","/_next/static/chunks/a40e2b25b1a62ac7.js","/_next/static/chunks/c6509abffeae92d2.js","/_next/static/chunks/35eaa08fca66b29e.js","/_next/static/chunks/f91f857f975d1c9f.js","/_next/static/chunks/dabd062b49706f28.js","/_next/static/chunks/740441c5b62d2d93.js","/_next/static/chunks/dcd49895cb9db447.js","/_next/static/chunks/175944aa1545ac7c.js","/_next/static/chunks/16494c9ed210a726.js","/_next/static/chunks/19ed43205a6e84be.js"],"PostBottomBarAction"]
-2b:I[832330,["/_next/static/chunks/d03e4f6fdf084240.js","/_next/static/chunks/525ff3aa60c02a25.js","/_next/static/chunks/ae2a70c709da2ba8.js","/_next/static/chunks/eb309b8f06731812.js","/_next/static/chunks/baa674234f056c60.js","/_next/static/chunks/2edc37b4337c096a.js","/_next/static/chunks/6f0408800ece4f06.js","/_next/static/chunks/6f95f3a6a7ed9dab.js","/_next/static/chunks/3c40fd5a14861430.js","/_next/static/chunks/e7855f92c342e0a3.js","/_next/static/chunks/a5fcaccd389d798e.js","/_next/static/chunks/c3456ef3141ade67.js","/_next/static/chunks/c92042fd5179bd95.js","/_next/static/chunks/1737ca787e6b8d4c.js","/_next/static/chunks/d691f1571e343c32.js","/_next/static/chunks/65f1d76f7ac19600.js","/_next/static/chunks/762b6f848ae7b21b.js","/_next/static/chunks/1d5a5c14848b802e.js","/_next/static/chunks/a40e2b25b1a62ac7.js","/_next/static/chunks/c6509abffeae92d2.js","/_next/static/chunks/35eaa08fca66b29e.js","/_next/static/chunks/f91f857f975d1c9f.js","/_next/static/chunks/dabd062b49706f28.js","/_next/static/chunks/740441c5b62d2d93.js","/_next/static/chunks/dcd49895cb9db447.js","/_next/static/chunks/175944aa1545ac7c.js","/_next/static/chunks/16494c9ed210a726.js","/_next/static/chunks/19ed43205a6e84be.js"],"BottomToUpSoftScaleTransitionView"]
-2c:I[615780,["/_next/static/chunks/d03e4f6fdf084240.js","/_next/static/chunks/525ff3aa60c02a25.js","/_next/static/chunks/ae2a70c709da2ba8.js","/_next/static/chunks/eb309b8f06731812.js","/_next/static/chunks/baa674234f056c60.js","/_next/static/chunks/2edc37b4337c096a.js","/_next/static/chunks/6f0408800ece4f06.js","/_next/static/chunks/6f95f3a6a7ed9dab.js","/_next/static/chunks/3c40fd5a14861430.js","/_next/static/chunks/e7855f92c342e0a3.js","/_next/static/chunks/a5fcaccd389d798e.js","/_next/static/chunks/c3456ef3141ade67.js","/_next/static/chunks/c92042fd5179bd95.js","/_next/static/chunks/1737ca787e6b8d4c.js","/_next/static/chunks/d691f1571e343c32.js","/_next/static/chunks/65f1d76f7ac19600.js","/_next/static/chunks/762b6f848ae7b21b.js","/_next/static/chunks/1d5a5c14848b802e.js","/_next/static/chunks/a40e2b25b1a62ac7.js","/_next/static/chunks/c6509abffeae92d2.js","/_next/static/chunks/35eaa08fca66b29e.js","/_next/static/chunks/f91f857f975d1c9f.js","/_next/static/chunks/dabd062b49706f28.js","/_next/static/chunks/740441c5b62d2d93.js","/_next/static/chunks/dcd49895cb9db447.js","/_next/static/chunks/175944aa1545ac7c.js","/_next/static/chunks/16494c9ed210a726.js","/_next/static/chunks/19ed43205a6e84be.js"],"CommentAreaRootLazy"]
-2d:I[194205,["/_next/static/chunks/d03e4f6fdf084240.js","/_next/static/chunks/525ff3aa60c02a25.js","/_next/static/chunks/ae2a70c709da2ba8.js","/_next/static/chunks/eb309b8f06731812.js","/_next/static/chunks/baa674234f056c60.js","/_next/static/chunks/2edc37b4337c096a.js","/_next/static/chunks/6f0408800ece4f06.js","/_next/static/chunks/6f95f3a6a7ed9dab.js","/_next/static/chunks/3c40fd5a14861430.js","/_next/static/chunks/e7855f92c342e0a3.js","/_next/static/chunks/a5fcaccd389d798e.js","/_next/static/chunks/c3456ef3141ade67.js","/_next/static/chunks/c92042fd5179bd95.js","/_next/static/chunks/1737ca787e6b8d4c.js","/_next/static/chunks/d691f1571e343c32.js","/_next/static/chunks/65f1d76f7ac19600.js","/_next/static/chunks/762b6f848ae7b21b.js","/_next/static/chunks/1d5a5c14848b802e.js","/_next/static/chunks/a40e2b25b1a62ac7.js","/_next/static/chunks/c6509abffeae92d2.js","/_next/static/chunks/35eaa08fca66b29e.js","/_next/static/chunks/f91f857f975d1c9f.js","/_next/static/chunks/dabd062b49706f28.js","/_next/static/chunks/740441c5b62d2d93.js","/_next/static/chunks/dcd49895cb9db447.js","/_next/static/chunks/175944aa1545ac7c.js","/_next/static/chunks/16494c9ed210a726.js","/_next/static/chunks/19ed43205a6e84be.js"],"LayoutRightSideProvider"]
-2e:I[185368,["/_next/static/chunks/d03e4f6fdf084240.js","/_next/static/chunks/525ff3aa60c02a25.js","/_next/static/chunks/ae2a70c709da2ba8.js","/_next/static/chunks/eb309b8f06731812.js","/_next/static/chunks/baa674234f056c60.js","/_next/static/chunks/2edc37b4337c096a.js","/_next/static/chunks/6f0408800ece4f06.js","/_next/static/chunks/6f95f3a6a7ed9dab.js","/_next/static/chunks/3c40fd5a14861430.js","/_next/static/chunks/e7855f92c342e0a3.js","/_next/static/chunks/a5fcaccd389d798e.js","/_next/static/chunks/c3456ef3141ade67.js","/_next/static/chunks/c92042fd5179bd95.js","/_next/static/chunks/1737ca787e6b8d4c.js","/_next/static/chunks/d691f1571e343c32.js","/_next/static/chunks/65f1d76f7ac19600.js","/_next/static/chunks/762b6f848ae7b21b.js","/_next/static/chunks/1d5a5c14848b802e.js","/_next/static/chunks/a40e2b25b1a62ac7.js","/_next/static/chunks/c6509abffeae92d2.js","/_next/static/chunks/35eaa08fca66b29e.js","/_next/static/chunks/f91f857f975d1c9f.js","/_next/static/chunks/dabd062b49706f28.js","/_next/static/chunks/740441c5b62d2d93.js","/_next/static/chunks/dcd49895cb9db447.js","/_next/static/chunks/175944aa1545ac7c.js","/_next/static/chunks/16494c9ed210a726.js","/_next/static/chunks/19ed43205a6e84be.js"],"OnlyMobile"]
-2f:I[233113,["/_next/static/chunks/d03e4f6fdf084240.js","/_next/static/chunks/525ff3aa60c02a25.js","/_next/static/chunks/ae2a70c709da2ba8.js","/_next/static/chunks/eb309b8f06731812.js","/_next/static/chunks/baa674234f056c60.js","/_next/static/chunks/2edc37b4337c096a.js","/_next/static/chunks/6f0408800ece4f06.js","/_next/static/chunks/6f95f3a6a7ed9dab.js","/_next/static/chunks/3c40fd5a14861430.js","/_next/static/chunks/e7855f92c342e0a3.js","/_next/static/chunks/a5fcaccd389d798e.js","/_next/static/chunks/c3456ef3141ade67.js","/_next/static/chunks/c92042fd5179bd95.js","/_next/static/chunks/1737ca787e6b8d4c.js","/_next/static/chunks/d691f1571e343c32.js","/_next/static/chunks/65f1d76f7ac19600.js","/_next/static/chunks/762b6f848ae7b21b.js","/_next/static/chunks/1d5a5c14848b802e.js","/_next/static/chunks/a40e2b25b1a62ac7.js","/_next/static/chunks/c6509abffeae92d2.js","/_next/static/chunks/35eaa08fca66b29e.js","/_next/static/chunks/f91f857f975d1c9f.js","/_next/static/chunks/dabd062b49706f28.js","/_next/static/chunks/740441c5b62d2d93.js","/_next/static/chunks/dcd49895cb9db447.js","/_next/static/chunks/175944aa1545ac7c.js","/_next/static/chunks/16494c9ed210a726.js","/_next/static/chunks/19ed43205a6e84be.js"],"TocFAB"]
-30:I[95276,["/_next/static/chunks/3c40fd5a14861430.js","/_next/static/chunks/4197b04c4f1d962d.js","/_next/static/chunks/70af310ba2a3e461.js","/_next/static/chunks/9df4409b3ebd95fb.js","/_next/static/chunks/e52d234aac494225.js"],"OutletBoundary"]
-31:"$Sreact.suspense"
-:HL["/_next/static/chunks/136744c992bad96d.css","style"]
-:HL["/_next/static/chunks/0169140b52b18b81.css","style"]
-:HL["/_next/static/chunks/cf19f565ce194e50.css","style"]
-:HL["/_next/static/chunks/2a531debc05d9c48.css","style"]
-:HL["/_next/static/chunks/f6d4eb0f1595037c.css","style"]
-:HL["/_next/static/chunks/be9fe8599e8928e8.css","style"]
-5:T356a,**Problem 1.**
+2:I[28856,["1433","static/chunks/5da11c83-22ed8340ae03271b.js","4266","static/chunks/cb69f5e5-38b1876d0364eabd.js","6618","static/chunks/962d60d4-2f97a7306ab44fe1.js","3374","static/chunks/3374-064cfbbe2608b69a.js","2115","static/chunks/2115-72ad8ab6a0a482e5.js","3371","static/chunks/3371-4aa89e9112feba6f.js","915","static/chunks/915-f2d3aa6318478d87.js","8476","static/chunks/8476-5b9555f1f11850f5.js","2017","static/chunks/2017-eafa67d1f3f02b3a.js","2250","static/chunks/2250-55633d86d5c24bd9.js","9823","static/chunks/9823-752ded14ff1fc8ed.js","6702","static/chunks/6702-07d2c1d4b5ee85d1.js","7515","static/chunks/7515-6533e3f4c74944ed.js","6480","static/chunks/6480-b6c8f5836b943902.js","6688","static/chunks/6688-0f8e2d763478d477.js","1290","static/chunks/1290-e076e18743f534af.js","3506","static/chunks/3506-639c9b819e6097ea.js","943","static/chunks/943-e94be4a59502ba15.js","54","static/chunks/54-8b1b2030ec661343.js","7404","static/chunks/7404-9397f040ad174577.js","6407","static/chunks/6407-8c126658ecad0efb.js","6604","static/chunks/6604-2ce40200432fa70a.js","4622","static/chunks/4622-ef5ab3d6ab17025c.js","8773","static/chunks/8773-934b5bf44c7f6a8a.js","9352","static/chunks/9352-8bd04c7a92b8c94f.js","8593","static/chunks/8593-43e74ed84413e4ab.js","1934","static/chunks/1934-ab221361094c1a84.js","8952","static/chunks/8952-34075c0626f7e8e5.js","3605","static/chunks/3605-28d867c0960294c1.js","4707","static/chunks/4707-7a61e4e3d65323ba.js","6954","static/chunks/6954-7f08e3e495b0916f.js","4374","static/chunks/app/%5Blocale%5D/posts/(post-detail)/%5Bcategory%5D/%5Bslug%5D/page-8ef55090b58442ba.js"],"MainMarkdown",1]
+8:I[87071,[],"OutletBoundary"]
+9:"$Sreact.suspense"
+:HL["/_next/static/css/90c7fe74d75f9368.css","style"]
+:HL["/_next/static/css/307ca07a66e4cbaa.css","style"]
+:HL["/_next/static/css/e990d6bfce8f7934.css","style"]
+3:T272b,**Problem 1.**
 
 利用夏普比率求切点坐标对应的投资组合比例：
 
 $$
-\max S_p = \frac{E \left(r_p\right) - r_f}{\sigma_p} = \frac{\boldsymbol{x}^T \boldsymbol{R} - r_f}{\left(\boldsymbol{x}^T \boldsymbol{V} \boldsymbol{x}\right)^{1/2}}
+\max S_p = \frac{E \left(r_p\right) - r_f}{\sigma_p} = \frac{\bm{x}^T \bm{R} - r_f}{\left(\bm{x}^T \bm{V} \bm{x}\right)^{1/2}}
 $$
 
 $$
-\mathrm{s.t.}   \boldsymbol{x}^T \boldsymbol{e} = 1
+\mathrm{s.t.}   \bm{x}^T \bm{e} = 1
 $$
 
 **解.**
 
-利用约束条件 $\boldsymbol{x}^T \boldsymbol{e} = 1$，我们可将夏普比率改写为：
+利用约束条件 $\bm{x}^T \bm{e} = 1$，我们可将夏普比率改写为：
 
 $$
-S_p = \frac{\boldsymbol{x}^T \boldsymbol{R} - r_f \boldsymbol{x}^T \boldsymbol{e}}{\sqrt{\boldsymbol{x}^T \boldsymbol{V} \boldsymbol{x}}} = \frac{\boldsymbol{x}^T (\boldsymbol{R} - r_f \boldsymbol{e})}{\sqrt{\boldsymbol{x}^T \boldsymbol{V} \boldsymbol{x}}}.
+S_p = \frac{\bm{x}^T \bm{R} - r_f \bm{x}^T \bm{e}}{\sqrt{\bm{x}^T \bm{V} \bm{x}}} = \frac{\bm{x}^T (\bm{R} - r_f \bm{e})}{\sqrt{\bm{x}^T \bm{V} \bm{x}}}.
 $$
 
 **Remark 1.**
 
 实际上我们将原约束优化问题转化为无约束问题。
 
-记 $\boldsymbol{R}_f = \boldsymbol{R} - r_f \boldsymbol{e}$，则问题等价于：
+记 $\bm{R}_f = \bm{R} - r_f \bm{e}$，则问题等价于：
 
 $$
-\max_{\boldsymbol{x}} \; \frac{\boldsymbol{x}^T \boldsymbol{R}_f}{\sqrt{\boldsymbol{x}^T \boldsymbol{V} \boldsymbol{x}}}.
+\max_{\bm{x}} \; \frac{\bm{x}^T \bm{R}_f}{\sqrt{\bm{x}^T \bm{V} \bm{x}}}.
 $$
 
-我们令$g(\boldsymbol{x})=f(\boldsymbol{x})^2$，即：
+我们令$g(\bm{x})=f(\bm{x})^2$，即：
 
 $$
-g(\boldsymbol{x}) = \frac{(\boldsymbol{x}^T \boldsymbol{R}_f)^2}{\boldsymbol{x}^T \boldsymbol{V} \boldsymbol{x}}.
+g(\bm{x}) = \frac{(\bm{x}^T \bm{R}_f)^2}{\bm{x}^T \bm{V} \bm{x}}.
 $$
 
 那么：
 
 $$
 \begin{aligned}
-\nabla g(\boldsymbol{x}) &= \frac{2(\boldsymbol{x}^T \boldsymbol{R}_f) \boldsymbol{R}_f \cdot (\boldsymbol{x}^T \boldsymbol{V} \boldsymbol{x}) - (\boldsymbol{x}^T \boldsymbol{R}_f)^2 \cdot 2\boldsymbol{V}\boldsymbol{x}}{(\boldsymbol{x}^T \boldsymbol{V} \boldsymbol{x})^2} \\
-&= \frac{2(\boldsymbol{x}^T \boldsymbol{R}_f)}{(\boldsymbol{x}^T \boldsymbol{V} \boldsymbol{x})^2} \left[ \boldsymbol{R}_f (\boldsymbol{x}^T \boldsymbol{V} \boldsymbol{x}) - (\boldsymbol{x}^T \boldsymbol{R}_f) \boldsymbol{V} \boldsymbol{x} \right].
+\nabla g(\bm{x}) &= \frac{2(\bm{x}^T \bm{R}_f) \bm{R}_f \cdot (\bm{x}^T \bm{V} \bm{x}) - (\bm{x}^T \bm{R}_f)^2 \cdot 2\bm{V}\bm{x}}{(\bm{x}^T \bm{V} \bm{x})^2} \\
+&= \frac{2(\bm{x}^T \bm{R}_f)}{(\bm{x}^T \bm{V} \bm{x})^2} \left[ \bm{R}_f (\bm{x}^T \bm{V} \bm{x}) - (\bm{x}^T \bm{R}_f) \bm{V} \bm{x} \right].
 \end{aligned}
 $$
 
-令 $\nabla g(\boldsymbol{x}) = \boldsymbol{0}$，由于 $\boldsymbol{x}^T \boldsymbol{V} \boldsymbol{x} > 0$（$\boldsymbol{V}$ 正定），且$\boldsymbol{x}^T \boldsymbol{R}_f \neq 0$，可得：
+令 $\nabla g(\bm{x}) = \bm{0}$，由于 $\bm{x}^T \bm{V} \bm{x} > 0$（$\bm{V}$ 正定），且$\bm{x}^T \bm{R}_f \neq 0$，可得：
 
 $$
-\boldsymbol{R}_f (\boldsymbol{x}^T \boldsymbol{V} \boldsymbol{x}) = (\boldsymbol{x}^T \boldsymbol{R}_f) \boldsymbol{V} \boldsymbol{x}.
+\bm{R}_f (\bm{x}^T \bm{V} \bm{x}) = (\bm{x}^T \bm{R}_f) \bm{V} \bm{x}.
 $$
 
 **Remark 2.**
 
-若 $\boldsymbol{x}^*$ 是 $g(\boldsymbol{x})$ 的一个局部极大值点，且 $g$ 在 $\boldsymbol{x}^*$ 处可微，则必有 $\nabla g(\boldsymbol{x}^*) = \boldsymbol{0}$。
+若 $\bm{x}^*$ 是 $g(\bm{x})$ 的一个局部极大值点，且 $g$ 在 $\bm{x}^*$ 处可微，则必有 $\nabla g(\bm{x}^*) = \bm{0}$。
 
 	我们正是利用这一必要条件来计算可能的最优解。
 
-令 $\lambda = \dfrac{\boldsymbol{x}^T \boldsymbol{V} \boldsymbol{x}}{\boldsymbol{x}^T \boldsymbol{R}_f}$，则上式化为：
+令 $\lambda = \dfrac{\bm{x}^T \bm{V} \bm{x}}{\bm{x}^T \bm{R}_f}$，则上式化为：
 
 $$
-\boldsymbol{V} \boldsymbol{x} = \lambda \boldsymbol{R}_f.
+\bm{V} \bm{x} = \lambda \bm{R}_f.
 $$
 
-由于 $\boldsymbol{V}$ 可逆，解得：
+由于 $\bm{V}$ 可逆，解得：
 
 $$
-\boldsymbol{x}^* = \lambda \boldsymbol{V}^{-1} \boldsymbol{R}_f.
+\bm{x}^* = \lambda \bm{V}^{-1} \bm{R}_f.
 $$
 
-将 $\boldsymbol{x}^*$ 代入约束条件 $\boldsymbol{x}^T \boldsymbol{e} = 1$：
+将 $\bm{x}^*$ 代入约束条件 $\bm{x}^T \bm{e} = 1$：
 
 $$
-\lambda \boldsymbol{e}^T \boldsymbol{V}^{-1} \boldsymbol{R}_f = 1   \Rightarrow   \lambda = \frac{1}{\boldsymbol{e}^T \boldsymbol{V}^{-1} \boldsymbol{R}_f}.
+\lambda \bm{e}^T \bm{V}^{-1} \bm{R}_f = 1   \Rightarrow   \lambda = \frac{1}{\bm{e}^T \bm{V}^{-1} \bm{R}_f}.
 $$
 
-因此此时投资组合比例$\boldsymbol{x}^*$为：
+因此此时投资组合比例$\bm{x}^*$为：
 
 $$
-\boldsymbol{x}^* = \frac{\boldsymbol{V}^{-1} \boldsymbol{R}_f}{\boldsymbol{e}^T \boldsymbol{V}^{-1} \boldsymbol{R}_f} = \frac{\boldsymbol{V}^{-1}(\boldsymbol{R} - r_f \boldsymbol{e})}{\boldsymbol{e}^T \boldsymbol{V}^{-1}(\boldsymbol{R} - r_f \boldsymbol{e})}.
+\bm{x}^* = \frac{\bm{V}^{-1} \bm{R}_f}{\bm{e}^T \bm{V}^{-1} \bm{R}_f} = \frac{\bm{V}^{-1}(\bm{R} - r_f \bm{e})}{\bm{e}^T \bm{V}^{-1}(\bm{R} - r_f \bm{e})}.
 $$
 
-将 $\boldsymbol{x}^*$ 代入式((HW5-1))计算最大夏普比率$S_p^*$：
+将 $\bm{x}^*$ 代入式((HW5-1))计算最大夏普比率$S_p^*$：
 
 $$
 \begin{aligned}
-S_p^* &= \frac{(\boldsymbol{x}^*)^T (\boldsymbol{R} - r_f \boldsymbol{e})}{\sqrt{(\boldsymbol{x}^*)^T \boldsymbol{V} \boldsymbol{x}^*}} \\
-&= \frac{\frac{(\boldsymbol{R} - r_f \boldsymbol{e})^T \boldsymbol{V}^{-1} (\boldsymbol{R} - r_f \boldsymbol{e})}{\boldsymbol{e}^T \boldsymbol{V}^{-1}(\boldsymbol{R} - r_f \boldsymbol{e})}}{\sqrt{\frac{(\boldsymbol{R} - r_f \boldsymbol{e})^T \boldsymbol{V}^{-1} (\boldsymbol{R} - r_f \boldsymbol{e})}{[\boldsymbol{e}^T \boldsymbol{V}^{-1}(\boldsymbol{R} - r_f \boldsymbol{e})]^2}}} \\
-&= \frac{(\boldsymbol{R} - r_f \boldsymbol{e})^T \boldsymbol{V}^{-1} (\boldsymbol{R} - r_f \boldsymbol{e}) / \boldsymbol{e}^T \boldsymbol{V}^{-1}(\boldsymbol{R} - r_f \boldsymbol{e})}{\sqrt{(\boldsymbol{R} - r_f \boldsymbol{e})^T \boldsymbol{V}^{-1} (\boldsymbol{R} - r_f \boldsymbol{e})} / |\boldsymbol{e}^T \boldsymbol{V}^{-1}(\boldsymbol{R} - r_f \boldsymbol{e})|} \\
-&= \sqrt{(\boldsymbol{R} - r_f \boldsymbol{e})^T \boldsymbol{V}^{-1} (\boldsymbol{R} - r_f \boldsymbol{e})}.
+S_p^* &= \frac{(\bm{x}^*)^T (\bm{R} - r_f \bm{e})}{\sqrt{(\bm{x}^*)^T \bm{V} \bm{x}^*}} \\
+&= \frac{\frac{(\bm{R} - r_f \bm{e})^T \bm{V}^{-1} (\bm{R} - r_f \bm{e})}{\bm{e}^T \bm{V}^{-1}(\bm{R} - r_f \bm{e})}}{\sqrt{\frac{(\bm{R} - r_f \bm{e})^T \bm{V}^{-1} (\bm{R} - r_f \bm{e})}{[\bm{e}^T \bm{V}^{-1}(\bm{R} - r_f \bm{e})]^2}}} \\
+&= \frac{(\bm{R} - r_f \bm{e})^T \bm{V}^{-1} (\bm{R} - r_f \bm{e}) / \bm{e}^T \bm{V}^{-1}(\bm{R} - r_f \bm{e})}{\sqrt{(\bm{R} - r_f \bm{e})^T \bm{V}^{-1} (\bm{R} - r_f \bm{e})} / |\bm{e}^T \bm{V}^{-1}(\bm{R} - r_f \bm{e})|} \\
+&= \sqrt{(\bm{R} - r_f \bm{e})^T \bm{V}^{-1} (\bm{R} - r_f \bm{e})}.
 \end{aligned}
 $$
 
 故最大夏普比率$S_p^*$为：
 
 $$
-S_p^* = \sqrt{(\boldsymbol{R} - r_f \boldsymbol{e})^T \boldsymbol{V}^{-1} (\boldsymbol{R} - r_f \boldsymbol{e})}.
+S_p^* = \sqrt{(\bm{R} - r_f \bm{e})^T \bm{V}^{-1} (\bm{R} - r_f \bm{e})}.
 $$
 
 此时的期望收益率$\mu_p^*$为：
 
 $$
-\mu_p^* = (\boldsymbol{x}^*)^T \boldsymbol{R} = \frac{(\boldsymbol{R} - r_f \boldsymbol{e})^T \boldsymbol{V}^{-1} \boldsymbol{R}}{\boldsymbol{e}^T \boldsymbol{V}^{-1}(\boldsymbol{R} - r_f \boldsymbol{e})}.
+\mu_p^* = (\bm{x}^*)^T \bm{R} = \frac{(\bm{R} - r_f \bm{e})^T \bm{V}^{-1} \bm{R}}{\bm{e}^T \bm{V}^{-1}(\bm{R} - r_f \bm{e})}.
 $$
 
 方差$(\sigma_p^*)^2$为：
 
 $$
-(\sigma_p^*)^2 = (\boldsymbol{x}^*)^T \boldsymbol{V} \boldsymbol{x}^* = \frac{(\boldsymbol{R} - r_f \boldsymbol{e})^T \boldsymbol{V}^{-1} (\boldsymbol{R} - r_f \boldsymbol{e})}{[\boldsymbol{e}^T \boldsymbol{V}^{-1}(\boldsymbol{R} - r_f \boldsymbol{e})]^2}.
+(\sigma_p^*)^2 = (\bm{x}^*)^T \bm{V} \bm{x}^* = \frac{(\bm{R} - r_f \bm{e})^T \bm{V}^{-1} (\bm{R} - r_f \bm{e})}{[\bm{e}^T \bm{V}^{-1}(\bm{R} - r_f \bm{e})]^2}.
 $$
 
 **Remark 3.**
 
-好像还有一点不大严谨的是：我们需要说明**利用梯度为$0$求出来的$\boldsymbol{x}^*$为最大值的点**(梯度为$0$是$g$极值点的必要条件，还需要确定到底是极小值点还是极大值点)，还需要进一步说明：
+好像还有一点不大严谨的是：我们需要说明**利用梯度为$0$求出来的$\bm{x}^*$为最大值的点**(梯度为$0$是$g$极值点的必要条件，还需要确定到底是极小值点还是极大值点)，还需要进一步说明：
 
-考虑函数 $g(\boldsymbol{x}) = \dfrac{(\boldsymbol{x}^T \boldsymbol{R}_f)^2}{\boldsymbol{x}^T \boldsymbol{V} \boldsymbol{x}}$，其中 $\boldsymbol{R}_f = \boldsymbol{R} - r_f \boldsymbol{e}$，$\boldsymbol{V}$ 是正定对称矩阵。
+考虑函数 $g(\bm{x}) = \dfrac{(\bm{x}^T \bm{R}_f)^2}{\bm{x}^T \bm{V} \bm{x}}$，其中 $\bm{R}_f = \bm{R} - r_f \bm{e}$，$\bm{V}$ 是正定对称矩阵。
 
-我们已经通过梯度为零求得驻点 $\boldsymbol{x}^* = \dfrac{\boldsymbol{V}^{-1} \boldsymbol{R}_f}{\boldsymbol{e}^T \boldsymbol{V}^{-1} \boldsymbol{R}_f}$。现在我们需要验证该点对应的是最大值而不是最小值，我们可以通过计算 $g(\boldsymbol{x})$ 在 $\boldsymbol{x}^*$ 处的黑塞矩阵并证明其在约束切空间上的负定性则可说明选取的$\boldsymbol{x}^*$是最大值条件。
+我们已经通过梯度为零求得驻点 $\bm{x}^* = \dfrac{\bm{V}^{-1} \bm{R}_f}{\bm{e}^T \bm{V}^{-1} \bm{R}_f}$。现在我们需要验证该点对应的是最大值而不是最小值，我们可以通过计算 $g(\bm{x})$ 在 $\bm{x}^*$ 处的黑塞矩阵并证明其在约束切空间上的负定性则可说明选取的$\bm{x}^*$是最大值条件。
 
-首先我们先来计算黑塞矩阵。记 $\alpha = \boldsymbol{x}^T \boldsymbol{R}_f$，$\beta = \boldsymbol{x}^T \boldsymbol{V} \boldsymbol{x}$，则 $g(\boldsymbol{x}) = \alpha^2 / \beta$。
-
-$$
-\nabla g(\boldsymbol{x}) = \frac{\partial}{\partial \boldsymbol{x}} \left( \frac{\alpha^2}{\beta} \right) = \frac{2\alpha \boldsymbol{R}_f \beta - \alpha^2 (2 \boldsymbol{V} \boldsymbol{x})}{\beta^2} = \frac{2\alpha}{\beta^2} (\beta \boldsymbol{R}_f - \alpha \boldsymbol{V} \boldsymbol{x}).
-$$
-
-此时我们对梯度再求导得到黑塞矩阵 $\boldsymbol{H}(\boldsymbol{x}) = \nabla^2 g(\boldsymbol{x})$：
+首先我们先来计算黑塞矩阵。记 $\alpha = \bm{x}^T \bm{R}_f$，$\beta = \bm{x}^T \bm{V} \bm{x}$，则 $g(\bm{x}) = \alpha^2 / \beta$。
 
 $$
-\boldsymbol{H}(\boldsymbol{x}) = \frac{\partial}{\partial \boldsymbol{x}} \left[ \frac{2\alpha}{\beta^2} (\beta \boldsymbol{R}_f - \alpha \boldsymbol{V} \boldsymbol{x}) \right] = 2 \frac{\partial}{\partial \boldsymbol{x}} \left[ \frac{\alpha}{\beta^2} \right] (\beta \boldsymbol{R}_f - \alpha \boldsymbol{V} \boldsymbol{x})^T + \frac{2\alpha}{\beta^2} \frac{\partial}{\partial \boldsymbol{x}} (\beta \boldsymbol{R}_f - \alpha \boldsymbol{V} \boldsymbol{x}).
+\nabla g(\bm{x}) = \frac{\partial}{\partial \bm{x}} \left( \frac{\alpha^2}{\beta} \right) = \frac{2\alpha \bm{R}_f \beta - \alpha^2 (2 \bm{V} \bm{x})}{\beta^2} = \frac{2\alpha}{\beta^2} (\beta \bm{R}_f - \alpha \bm{V} \bm{x}).
+$$
+
+此时我们对梯度再求导得到黑塞矩阵 $\bm{H}(\bm{x}) = \nabla^2 g(\bm{x})$：
+
+$$
+\bm{H}(\bm{x}) = \frac{\partial}{\partial \bm{x}} \left[ \frac{2\alpha}{\beta^2} (\beta \bm{R}_f - \alpha \bm{V} \bm{x}) \right] = 2 \frac{\partial}{\partial \bm{x}} \left[ \frac{\alpha}{\beta^2} \right] (\beta \bm{R}_f - \alpha \bm{V} \bm{x})^T + \frac{2\alpha}{\beta^2} \frac{\partial}{\partial \bm{x}} (\beta \bm{R}_f - \alpha \bm{V} \bm{x}).
 $$
 
 其中：
 
 $$
-\frac{\partial}{\partial \boldsymbol{x}} \left( \frac{\alpha}{\beta^2} \right) = \frac{\boldsymbol{R}_f \beta^2 - \alpha (2\beta \cdot 2\boldsymbol{V} \boldsymbol{x})}{\beta^4} = \frac{\boldsymbol{R}_f}{\beta^2} - \frac{4\alpha \boldsymbol{V} \boldsymbol{x}}{\beta^3},
+\frac{\partial}{\partial \bm{x}} \left( \frac{\alpha}{\beta^2} \right) = \frac{\bm{R}_f \beta^2 - \alpha (2\beta \cdot 2\bm{V} \bm{x})}{\beta^4} = \frac{\bm{R}_f}{\beta^2} - \frac{4\alpha \bm{V} \bm{x}}{\beta^3},
 $$
 
 $$
-\frac{\partial}{\partial \boldsymbol{x}} (\beta \boldsymbol{R}_f - \alpha \boldsymbol{V} \boldsymbol{x}) = \boldsymbol{R}_f (2\boldsymbol{V} \boldsymbol{x})^T - [\boldsymbol{R}_f (\boldsymbol{V} \boldsymbol{x})^T + \alpha \boldsymbol{V}] = \boldsymbol{R}_f \boldsymbol{x}^T \boldsymbol{V} - \alpha \boldsymbol{V}.
+\frac{\partial}{\partial \bm{x}} (\beta \bm{R}_f - \alpha \bm{V} \bm{x}) = \bm{R}_f (2\bm{V} \bm{x})^T - [\bm{R}_f (\bm{V} \bm{x})^T + \alpha \bm{V}] = \bm{R}_f \bm{x}^T \bm{V} - \alpha \bm{V}.
 $$
 
 代入得：
 
 $$
 \begin{aligned}
-\boldsymbol{H}(\boldsymbol{x}) &= 2 \left( \frac{\boldsymbol{R}_f}{\beta^2} - \frac{4\alpha \boldsymbol{V} \boldsymbol{x}}{\beta^3} \right) (\beta \boldsymbol{R}_f - \alpha \boldsymbol{V} \boldsymbol{x})^T + \frac{2\alpha}{\beta^2} (\boldsymbol{R}_f \boldsymbol{x}^T \boldsymbol{V} - \alpha \boldsymbol{V}) \\
-&= \frac{2}{\beta^2} \boldsymbol{R}_f (\beta \boldsymbol{R}_f - \alpha \boldsymbol{V} \boldsymbol{x})^T - \frac{8\alpha}{\beta^3} \boldsymbol{V} \boldsymbol{x} (\beta \boldsymbol{R}_f - \alpha \boldsymbol{V} \boldsymbol{x})^T + \frac{2\alpha}{\beta^2} (\boldsymbol{R}_f \boldsymbol{x}^T \boldsymbol{V} - \alpha \boldsymbol{V}).
+\bm{H}(\bm{x}) &= 2 \left( \frac{\bm{R}_f}{\beta^2} - \frac{4\alpha \bm{V} \bm{x}}{\beta^3} \right) (\beta \bm{R}_f - \alpha \bm{V} \bm{x})^T + \frac{2\alpha}{\beta^2} (\bm{R}_f \bm{x}^T \bm{V} - \alpha \bm{V}) \\
+&= \frac{2}{\beta^2} \bm{R}_f (\beta \bm{R}_f - \alpha \bm{V} \bm{x})^T - \frac{8\alpha}{\beta^3} \bm{V} \bm{x} (\beta \bm{R}_f - \alpha \bm{V} \bm{x})^T + \frac{2\alpha}{\beta^2} (\bm{R}_f \bm{x}^T \bm{V} - \alpha \bm{V}).
 \end{aligned}
 $$
 
-在驻点 $\boldsymbol{x}^*$ 处，由一阶条件有 $\beta^* \boldsymbol{R}_f = \alpha^* \boldsymbol{V} \boldsymbol{x}^*$，其中 $\alpha^* = (\boldsymbol{x}^*)^T \boldsymbol{R}_f$，$\beta^* = (\boldsymbol{x}^*)^T \boldsymbol{V} \boldsymbol{x}^*$。代入上式，前两项均为零，只剩第三项：
+在驻点 $\bm{x}^*$ 处，由一阶条件有 $\beta^* \bm{R}_f = \alpha^* \bm{V} \bm{x}^*$，其中 $\alpha^* = (\bm{x}^*)^T \bm{R}_f$，$\beta^* = (\bm{x}^*)^T \bm{V} \bm{x}^*$。代入上式，前两项均为零，只剩第三项：
 
 $$
-\boldsymbol{H}(\boldsymbol{x}^*) = \frac{2\alpha^*}{(\beta^*)^2} (\boldsymbol{R}_f (\boldsymbol{x}^*)^T \boldsymbol{V} - \alpha^* \boldsymbol{V}).
+\bm{H}(\bm{x}^*) = \frac{2\alpha^*}{(\beta^*)^2} (\bm{R}_f (\bm{x}^*)^T \bm{V} - \alpha^* \bm{V}).
 $$
 
-利用关系 $\boldsymbol{R}_f = \dfrac{\alpha^*}{\beta^*} \boldsymbol{V} \boldsymbol{x}^*$，可得：
+利用关系 $\bm{R}_f = \dfrac{\alpha^*}{\beta^*} \bm{V} \bm{x}^*$，可得：
 
 $$
-\boldsymbol{H}(\boldsymbol{x}^*) = \frac{2\alpha^*}{(\beta^*)^2} \left( \frac{\alpha^*}{\beta^*} \boldsymbol{V} \boldsymbol{x}^* (\boldsymbol{x}^*)^T \boldsymbol{V} - \alpha^* \boldsymbol{V} \right) = \frac{2(\alpha^*)^2}{(\beta^*)^3} \boldsymbol{V} \boldsymbol{x}^* (\boldsymbol{x}^*)^T \boldsymbol{V} - \frac{2(\alpha^*)^2}{(\beta^*)^2} \boldsymbol{V}.
+\bm{H}(\bm{x}^*) = \frac{2\alpha^*}{(\beta^*)^2} \left( \frac{\alpha^*}{\beta^*} \bm{V} \bm{x}^* (\bm{x}^*)^T \bm{V} - \alpha^* \bm{V} \right) = \frac{2(\alpha^*)^2}{(\beta^*)^3} \bm{V} \bm{x}^* (\bm{x}^*)^T \bm{V} - \frac{2(\alpha^*)^2}{(\beta^*)^2} \bm{V}.
 $$
 
 由一阶条件有：
 
 $$
-\beta^* \boldsymbol{R}_f = \alpha^* \boldsymbol{V} \boldsymbol{x}^*\iff\boldsymbol{x}^* = \frac{\beta^*}{\alpha^*} \boldsymbol{V}^{-1} \boldsymbol{R}_f
+\beta^* \bm{R}_f = \alpha^* \bm{V} \bm{x}^*\iff\bm{x}^* = \frac{\beta^*}{\alpha^*} \bm{V}^{-1} \bm{R}_f
 $$
 
-将 $\boldsymbol{x}^*$ 代入 $\boldsymbol{V} \boldsymbol{x}^* (\boldsymbol{x}^*)^T \boldsymbol{V}$：
+将 $\bm{x}^*$ 代入 $\bm{V} \bm{x}^* (\bm{x}^*)^T \bm{V}$：
 
 $$
 \begin{aligned}
-\boldsymbol{V} \boldsymbol{x}^* (\boldsymbol{x}^*)^T \boldsymbol{V} &= \boldsymbol{V} \left( \frac{\beta^*}{\alpha^*} \boldsymbol{V}^{-1} \boldsymbol{R}_f \right) \left( \frac{\beta^*}{\alpha^*} \boldsymbol{R}_f^T (\boldsymbol{V}^{-1})^T \right) \boldsymbol{V} \\
-    &= \frac{(\beta^*)^2}{(\alpha^*)^2} \boldsymbol{V} \boldsymbol{V}^{-1} \boldsymbol{R}_f \boldsymbol{R}_f^T \boldsymbol{V}^{-1} \boldsymbol{V} \\
-    &= \frac{(\beta^*)^2}{(\alpha^*)^2} \boldsymbol{R}_f \boldsymbol{R}_f^T
+\bm{V} \bm{x}^* (\bm{x}^*)^T \bm{V} &= \bm{V} \left( \frac{\beta^*}{\alpha^*} \bm{V}^{-1} \bm{R}_f \right) \left( \frac{\beta^*}{\alpha^*} \bm{R}_f^T (\bm{V}^{-1})^T \right) \bm{V} \\
+    &= \frac{(\beta^*)^2}{(\alpha^*)^2} \bm{V} \bm{V}^{-1} \bm{R}_f \bm{R}_f^T \bm{V}^{-1} \bm{V} \\
+    &= \frac{(\beta^*)^2}{(\alpha^*)^2} \bm{R}_f \bm{R}_f^T
 \end{aligned}
 $$
 
@@ -215,64 +186,51 @@ $$
 
 $$
 \begin{aligned}
-\boldsymbol{H}(\boldsymbol{x}^*) &= \frac{2(\alpha^*)^2}{(\beta^*)^3} \left[ \frac{(\beta^*)^2}{(\alpha^*)^2} \boldsymbol{R}_f \boldsymbol{R}_f^T \right] - \frac{2(\alpha^*)^2}{(\beta^*)^2} \boldsymbol{V} \\
-    &= \frac{2}{\beta^*} \boldsymbol{R}_f \boldsymbol{R}_f^T - \frac{2(\alpha^*)^2}{(\beta^*)^2} \boldsymbol{V} \\
-    &= \frac{2}{(\beta^*)^2} \left[ \beta^* \boldsymbol{R}_f \boldsymbol{R}_f^T - (\alpha^*)^2 \boldsymbol{V} \right]
+\bm{H}(\bm{x}^*) &= \frac{2(\alpha^*)^2}{(\beta^*)^3} \left[ \frac{(\beta^*)^2}{(\alpha^*)^2} \bm{R}_f \bm{R}_f^T \right] - \frac{2(\alpha^*)^2}{(\beta^*)^2} \bm{V} \\
+    &= \frac{2}{\beta^*} \bm{R}_f \bm{R}_f^T - \frac{2(\alpha^*)^2}{(\beta^*)^2} \bm{V} \\
+    &= \frac{2}{(\beta^*)^2} \left[ \beta^* \bm{R}_f \bm{R}_f^T - (\alpha^*)^2 \bm{V} \right]
 \end{aligned}
 $$
 
-将 $\boldsymbol{x}^*$ 的表达式代入 $\alpha^*$ 的定义式：
+将 $\bm{x}^*$ 的表达式代入 $\alpha^*$ 的定义式：
 
 $$
-\alpha^* = (\boldsymbol{x}^*)^T \boldsymbol{R}_f = \left( \frac{\beta^*}{\alpha^*} \boldsymbol{R}_f^T \boldsymbol{V}^{-1} \right) \boldsymbol{R}_f = \frac{\beta^*}{\alpha^*} \left( \boldsymbol{R}_f^T \boldsymbol{V}^{-1} \boldsymbol{R}_f \right)\Rightarrow\boldsymbol{R}_f^T \boldsymbol{V}^{-1} \boldsymbol{R}_f = \frac{(\alpha^*)^2}{\beta^*}
+\alpha^* = (\bm{x}^*)^T \bm{R}_f = \left( \frac{\beta^*}{\alpha^*} \bm{R}_f^T \bm{V}^{-1} \right) \bm{R}_f = \frac{\beta^*}{\alpha^*} \left( \bm{R}_f^T \bm{V}^{-1} \bm{R}_f \right)\Rightarrow\bm{R}_f^T \bm{V}^{-1} \bm{R}_f = \frac{(\alpha^*)^2}{\beta^*}
 $$
 
 故：
 
 $$
 \begin{aligned}
-\boldsymbol{H}(\boldsymbol{x}^*) &= \frac{2}{(\beta^*)^2} \left[ \beta^* \boldsymbol{R}_f \boldsymbol{R}_f^T - (\alpha^*)^2 \boldsymbol{V} \right] \\
-    &= \frac{2(\alpha^*)^2}{(\beta^*)^2} \left[ \frac{\beta^*}{(\alpha^*)^2} \boldsymbol{R}_f \boldsymbol{R}_f^T - \boldsymbol{V} \right] \\
-    &= \frac{2(\alpha^*)^2}{(\beta^*)^2} \left[ \frac{1}{\boldsymbol{R}_f^T \boldsymbol{V}^{-1} \boldsymbol{R}_f} \boldsymbol{R}_f \boldsymbol{R}_f^T - \boldsymbol{V} \right] \\
-	&= -\frac{2(\alpha^*)^2}{(\beta^*)^2} \left[ \boldsymbol{V} - \frac{\boldsymbol{R}_f \boldsymbol{R}_f^T}{\boldsymbol{R}_f^T \boldsymbol{V}^{-1} \boldsymbol{R}_f} \right]
+\bm{H}(\bm{x}^*) &= \frac{2}{(\beta^*)^2} \left[ \beta^* \bm{R}_f \bm{R}_f^T - (\alpha^*)^2 \bm{V} \right] \\
+    &= \frac{2(\alpha^*)^2}{(\beta^*)^2} \left[ \frac{\beta^*}{(\alpha^*)^2} \bm{R}_f \bm{R}_f^T - \bm{V} \right] \\
+    &= \frac{2(\alpha^*)^2}{(\beta^*)^2} \left[ \frac{1}{\bm{R}_f^T \bm{V}^{-1} \bm{R}_f} \bm{R}_f \bm{R}_f^T - \bm{V} \right] \\
+	&= -\frac{2(\alpha^*)^2}{(\beta^*)^2} \left[ \bm{V} - \frac{\bm{R}_f \bm{R}_f^T}{\bm{R}_f^T \bm{V}^{-1} \bm{R}_f} \right]
 \end{aligned}
 $$
 
-令 $\boldsymbol{A} = \boldsymbol{V} - \dfrac{\boldsymbol{R}_f \boldsymbol{R}_f^T}{\boldsymbol{R}_f^T \boldsymbol{V}^{-1} \boldsymbol{R}_f}$，则 $\boldsymbol{H}(\boldsymbol{x}^*) = -\frac{2(\alpha^*)^2}{(\beta^*)^2} \boldsymbol{A}$。
+令 $\bm{A} = \bm{V} - \dfrac{\bm{R}_f \bm{R}_f^T}{\bm{R}_f^T \bm{V}^{-1} \bm{R}_f}$，则 $\bm{H}(\bm{x}^*) = -\frac{2(\alpha^*)^2}{(\beta^*)^2} \bm{A}$。
 
-现在我们只需要证明 $\boldsymbol{A}$ 在约束切空间 $\mathcal{T} = \{\boldsymbol{z} : \boldsymbol{z}^T \boldsymbol{e} = 0\}$ 上是正定的。对任意非零 $\boldsymbol{z} \in \mathbb{R}^n$：
+现在我们只需要证明 $\bm{A}$ 在约束切空间 $\mathcal{T} = \{\bm{z} : \bm{z}^T \bm{e} = 0\}$ 上是正定的。对任意非零 $\bm{z} \in \mathbb{R}^n$：
 
 $$
-\boldsymbol{z}^T \boldsymbol{A} \boldsymbol{z} = \boldsymbol{z}^T \boldsymbol{V} \boldsymbol{z} - \frac{(\boldsymbol{z}^T \boldsymbol{R}_f)^2}{\boldsymbol{R}_f^T \boldsymbol{V}^{-1} \boldsymbol{R}_f}.
+\bm{z}^T \bm{A} \bm{z} = \bm{z}^T \bm{V} \bm{z} - \frac{(\bm{z}^T \bm{R}_f)^2}{\bm{R}_f^T \bm{V}^{-1} \bm{R}_f}.
 $$
 
-由 Cauchy-Schwarz 不等式 $(\boldsymbol{z}^T \boldsymbol{R}_f)^2 \leq (\boldsymbol{z}^T \boldsymbol{V} \boldsymbol{z})(\boldsymbol{R}_f^T \boldsymbol{V}^{-1} \boldsymbol{R}_f)$，可知 $\boldsymbol{z}^T \boldsymbol{A} \boldsymbol{z} \geq 0$。等号成立当且仅当 $\boldsymbol{z}$ 与 $\boldsymbol{V}^{-1} \boldsymbol{R}_f$ 共线，即 $\boldsymbol{z} = k \boldsymbol{V}^{-1} \boldsymbol{R}_f$。由于 $\boldsymbol{e}^T \boldsymbol{V}^{-1} \boldsymbol{R}_f > 0$，故 $\boldsymbol{V}^{-1} \boldsymbol{R}_f$ 不在切空间 $\mathcal{T}$ 中，因此对任意非零 $\boldsymbol{z} \in \mathcal{T}$，$\boldsymbol{z}$ 不与 $\boldsymbol{V}^{-1} \boldsymbol{R}_f$ 共线，从而 $\boldsymbol{z}^T \boldsymbol{A} \boldsymbol{z} > 0$。这表明 $\boldsymbol{A}$ 在 $\mathcal{T}$ 上是正定的。
+由 Cauchy-Schwarz 不等式 $(\bm{z}^T \bm{R}_f)^2 \leq (\bm{z}^T \bm{V} \bm{z})(\bm{R}_f^T \bm{V}^{-1} \bm{R}_f)$，可知 $\bm{z}^T \bm{A} \bm{z} \geq 0$。等号成立当且仅当 $\bm{z}$ 与 $\bm{V}^{-1} \bm{R}_f$ 共线，即 $\bm{z} = k \bm{V}^{-1} \bm{R}_f$。由于 $\bm{e}^T \bm{V}^{-1} \bm{R}_f > 0$，故 $\bm{V}^{-1} \bm{R}_f$ 不在切空间 $\mathcal{T}$ 中，因此对任意非零 $\bm{z} \in \mathcal{T}$，$\bm{z}$ 不与 $\bm{V}^{-1} \bm{R}_f$ 共线，从而 $\bm{z}^T \bm{A} \bm{z} > 0$。这表明 $\bm{A}$ 在 $\mathcal{T}$ 上是正定的。
 
-于是 $\boldsymbol{H}(\boldsymbol{x}^*) = -\frac{2(\alpha^*)^2}{(\beta^*)^2} \boldsymbol{A}$ 在 $\mathcal{T}$ 上是负定的。根据约束优化问题的二阶充分条件，在满足一阶条件的驻点处，若拉格朗日函数关于变量的黑塞矩阵在约束切空间上负定，则该点是局部极大值点。
+于是 $\bm{H}(\bm{x}^*) = -\frac{2(\alpha^*)^2}{(\beta^*)^2} \bm{A}$ 在 $\mathcal{T}$ 上是负定的。根据约束优化问题的二阶充分条件，在满足一阶条件的驻点处，若拉格朗日函数关于变量的黑塞矩阵在约束切空间上负定，则该点是局部极大值点。
 
 而这样的点只有一个，故我们能说明这个极大值点就是全局最大值点！
 
 ∎
 
+
 ## PDF
 
-Download the original write-up [here](/files/Grade3/Homework/Investment/hw4.pdf).0:{"buildId":"rZLQ8EVqblT6xTH8wdhS0","rsc":["$","$1","c",{"children":[["$","$L2",null,{"hasContent":false,"children":[false,["$","$L3",null,{"baseLdJson":{"@context":"https://schema.org","@type":"BlogPosting","headline":"Investment — Homework 4","description":"Investment homework.","datePublished":"2025-10-29T00:00:00.000Z","dateModified":"2025-10-29T00:00:00.000Z"}}],["$","$L4",null,{"data":{"id":"post-inv-hw4","created":"2025-10-29T00:00:00.000Z","modified":"2025-10-29T00:00:00.000Z","title":"Investment — Homework 4","text":"$5","summary":"Investment homework.","copyright":true,"tags":["Homework","Investment"],"slug":"investment-hw4","categoryId":"cat-inv","category":{"id":"cat-inv","slug":"investment","name":"Investment","created":"2025-09-01T00:00:00.000Z","type":0,"count":8},"images":[],"pin":null,"pinOrder":0,"related":[],"allowComment":true,"commentsIndex":0,"count":{"read":0,"like":0}}}],"$L6","$L7","$L8"]}],["$L9","$La","$Lb","$Lc","$Ld","$Le","$Lf","$L10","$L11","$L12","$L13","$L14","$L15","$L16"],"$L17"]}],"loading":null,"isPartial":false}
-6:["$","$L18",null,{"fetchedAt":"2026-08-19T10:14:48.798Z"}]
-7:["$","div",null,{"data-server-fetched-at":"2026-08-19T10:14:48.798Z","className":"relative flex min-h-[120px] grid-cols-[auto_200px] lg:grid","children":[["$","$L19",null,{"lcpOptimization":true,"className":"min-w-0","children":[["$","div",null,{"className":"relative w-full min-w-0","children":[["$","$L1a",null,{"id":"post-inv-hw4","type":"post"}],["$","div",null,{"children":[["$","div",null,{"className":"mb-8","children":[["$","$L1b",null,{}],["$","$L1c",null,{"id":"post-inv-hw4","type":"posts","className":"absolute -top-6 right-0"}],["$","$L1d",null,{"className":"mb-8 justify-center"}],["$","$L1e",null,{}],["$","$L1f",null,{"type":"before"}]]}],["$","$L20",null,{"eoaDetect":true,"children":[["$","$L21",null,{}],["$","$L22",null,{"children":["$","$L23",null,{"children":["$","article",null,{"className":"prose","children":[["$","div",null,{"className":"sr-only","children":["$","$L1b",null,{}]}],["$","$L24",null,{}],["$","$L25",null,{}]]}]}]}],["$","$L26",null,{"children":["$","$L27",null,{}]}]]}]]}],["$","$L28",null,{"children":[["$","$L1f",null,{}],["$","$L29",null,{}],["$","$L2a",null,{}]]}]]}],["$","$L2b",null,{"delay":500,"children":["$","$L2c",null,{"refId":"post-inv-hw4","allowComment":true}]}]]}],["$","$L2d",null,{"className":"relative hidden lg:block"}]]}]
-8:["$","$L2e",null,{"children":["$","$L2f",null,{}]}]
-9:["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/136744c992bad96d.css","precedence":"next"}]
-a:["$","link","1",{"rel":"stylesheet","href":"/_next/static/chunks/0169140b52b18b81.css","precedence":"next"}]
-b:["$","link","2",{"rel":"stylesheet","href":"/_next/static/chunks/cf19f565ce194e50.css","precedence":"next"}]
-c:["$","link","3",{"rel":"stylesheet","href":"/_next/static/chunks/2a531debc05d9c48.css","precedence":"next"}]
-d:["$","link","4",{"rel":"stylesheet","href":"/_next/static/chunks/f6d4eb0f1595037c.css","precedence":"next"}]
-e:["$","link","5",{"rel":"stylesheet","href":"/_next/static/chunks/be9fe8599e8928e8.css","precedence":"next"}]
-f:["$","script","script-0",{"src":"/_next/static/chunks/35eaa08fca66b29e.js","async":true}]
-10:["$","script","script-1",{"src":"/_next/static/chunks/f91f857f975d1c9f.js","async":true}]
-11:["$","script","script-2",{"src":"/_next/static/chunks/dabd062b49706f28.js","async":true}]
-12:["$","script","script-3",{"src":"/_next/static/chunks/740441c5b62d2d93.js","async":true}]
-13:["$","script","script-4",{"src":"/_next/static/chunks/dcd49895cb9db447.js","async":true}]
-14:["$","script","script-5",{"src":"/_next/static/chunks/175944aa1545ac7c.js","async":true}]
-15:["$","script","script-6",{"src":"/_next/static/chunks/16494c9ed210a726.js","async":true}]
-16:["$","script","script-7",{"src":"/_next/static/chunks/19ed43205a6e84be.js","async":true}]
-17:["$","$L30",null,{"children":["$","$31",null,{"name":"Next.MetadataOutlet","children":"$@32"}]}]
-32:null
+Download the original write-up [here](/files/Grade3/Homework/Investment/hw4.pdf).0:{"buildId":"4lK6jJ-LNlsa-O0kGQwZ-","rsc":["$","$1","c",{"children":[["$","div",null,{"className":"relative flex min-h-[120px] grid-cols-[auto_200px] lg:grid","children":["$","div",null,{"className":"relative w-full min-w-0","children":["$","article",null,{"className":"prose","children":[["$","h1",null,{"className":"mb-8 text-balance text-center lg:text-left text-4xl font-bold leading-tight","children":"Investment — Homework 4"}],["$","$L2",null,{"allowsScript":true,"value":"$3","className":"min-w-0 overflow-hidden"}]]}]}]}],["$L4","$L5","$L6"],"$L7"]}],"loading":null,"isPartial":false}
+4:["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/90c7fe74d75f9368.css","precedence":"next"}]
+5:["$","link","1",{"rel":"stylesheet","href":"/_next/static/css/307ca07a66e4cbaa.css","precedence":"next"}]
+6:["$","link","2",{"rel":"stylesheet","href":"/_next/static/css/e990d6bfce8f7934.css","precedence":"next"}]
+7:["$","$L8",null,{"children":["$","$9",null,{"name":"Next.MetadataOutlet","children":"$@a"}]}]
+a:null

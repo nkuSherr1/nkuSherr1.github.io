@@ -1,1 +1,0 @@
-@layer properties{@supports (((-webkit-hyphens:none)) and (not (margin-trim:inline))) or ((-moz-orient:inline) and (not (color:rgb(from red r g b)))){*,:before,:after,::backdrop{--tw-leading:initial}}}.comment__message *{--tw-leading:calc(var(--spacing,.25rem)*6);line-height:calc(var(--spacing,.25rem)*6);overflow-wrap:break-word}@property --tw-leading{syntax:"*";inherits:false}
