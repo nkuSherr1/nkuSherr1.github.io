@@ -1,6 +1,6 @@
 1:"$Sreact.fragment"
 3:I[87071,[],"OutletBoundary"]
 4:"$Sreact.suspense"
-0:{"buildId":"Gjj4c77f1CMN3kPmxCQ-a","rsc":["$","$1","c",{"children":["$L2",null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+0:{"buildId":"pNXlAyJ7FSSjQPYZR0y7r","rsc":["$","$1","c",{"children":["$L2",null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
 5:null
 2:E{"digest":"NEXT_REDIRECT;replace;/ja/categories/modern-graph-theory;307;"}
