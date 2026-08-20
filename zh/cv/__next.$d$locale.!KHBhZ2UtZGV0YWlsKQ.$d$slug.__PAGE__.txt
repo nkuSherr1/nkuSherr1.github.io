@@ -80,5 +80,5 @@
 ### Fall 2023
 
 - Mathematical Analysis I — Huagui Duan, Fusheng Lv
-- Advanced Algebra and Analytic Geometry 2-1 — Libing Huang, Ning Li0:{"buildId":"AoER6zaifJlL-7IlsWLH1","rsc":["$","$1","c",{"children":[["$","$L2",null,{"kicker":"Curriculum","title":"CV","subtitle":"Curriculum vitae","text":"$3"}],[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/307ca07a66e4cbaa.css","precedence":"next"}],["$","link","1",{"rel":"stylesheet","href":"/_next/static/css/e990d6bfce8f7934.css","precedence":"next"}]],["$","$L4",null,{"children":["$","$5",null,{"name":"Next.MetadataOutlet","children":"$@6"}]}]]}],"loading":null,"isPartial":false}
+- Advanced Algebra and Analytic Geometry 2-1 — Libing Huang, Ning Li0:{"buildId":"ntKbQT4ZKSx4f9uyaha_x","rsc":["$","$1","c",{"children":[["$","$L2",null,{"kicker":"Curriculum","title":"CV","subtitle":"Curriculum vitae","text":"$3"}],[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/307ca07a66e4cbaa.css","precedence":"next"}],["$","link","1",{"rel":"stylesheet","href":"/_next/static/css/e990d6bfce8f7934.css","precedence":"next"}]],["$","$L4",null,{"children":["$","$5",null,{"name":"Next.MetadataOutlet","children":"$@6"}]}]]}],"loading":null,"isPartial":false}
 6:null
