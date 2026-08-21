@@ -1160,3 +1160,11 @@ body:has(.index-article) .chess-corner,
     transform: none !important;
   }
 }
+
+/* posts-visibility: kill leftover motion initial that hid rows 02+ */
+.index-layout-grid .index-list-stack > li > div,
+.index-layout-grid .index-list-stack .index-list-row,
+.index-featured {
+  opacity: 1 !important;
+  transform: none !important;
+}
