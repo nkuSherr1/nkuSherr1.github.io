@@ -4,3 +4,7 @@
 .chess-corner::before{background:repeating-linear-gradient(27deg,transparent 0 8px,color-mix(in srgb,currentColor 32%,transparent) 8.5px 9px,transparent 9.5px 13px);opacity:.16}
 .chess-corner::after{background:repeating-linear-gradient(151deg,transparent 0 12px,color-mix(in srgb,currentColor 27%,transparent) 12.5px 13px,transparent 13.5px 19px),repeating-radial-gradient(ellipse at 50% 62%,transparent 0 16px,color-mix(in srgb,currentColor 20%,transparent) 16.5px 17px,transparent 17.5px 26px);opacity:.13}
 [data-theme=dark] .chess-corner::before,[data-theme=dark] .chess-corner::after{mix-blend-mode:screen}
+/* royal-crown-emphasis-v3 */
+.chess-sketch__accent--royal{stroke-width:calc(1.45 * var(--chess-line-scale));opacity:.86}
+/* royal-body-shadow-v4 */
+.chess-sketch__hatch--dense{opacity:.88}.chess-sketch__hatch--cross{stroke-width:calc(.46 * var(--chess-line-scale));opacity:.6}.chess-sketch__hatch--secondary{stroke-width:calc(.42 * var(--chess-line-scale));opacity:.82}.chess-sketch__body-shadow{fill:currentColor;stroke:none!important;opacity:.12;filter:blur(.7px)}.chess-sketch__body-shadow--deep{opacity:.18}
