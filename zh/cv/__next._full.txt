@@ -26,6 +26,7 @@ f:I[31437,["2115","static/chunks/2115-72ad8ab6a0a482e5.js","3371","static/chunks
 
 ## Awards
 
+- The Mathematical Contest in Modeling (MCM/ICM), **Meritorious Winner, May 2026**
 - National Scholarship, **Tianjin, Dec. 2025**
 - Jiang Lifu Scholarship of Nankai University, **Second Place, Nov. 2025**
 - National College Students' Mathematical Modeling Contest, **Second Place, Oct. 2025**
@@ -37,6 +38,18 @@ f:I[31437,["2115","static/chunks/2115-72ad8ab6a0a482e5.js","3371","static/chunks
 - 2016 World Robot Olympiad (WRO) China Final, **Second Place, Aug. 2016**
 
 ## Courses and Seminars
+
+### Spring 2026
+
+**Courses**
+- 运筹学 — 胡威
+- 微分几何 — 王险峰
+- 现代图论 — 王周宁馨
+- 金融工程 — 李静
+
+**Seminars**
+- 极值图论 — 艾江东
+- 离散分析 — 艾江东
 
 ### Fall 2025
 
@@ -62,11 +75,9 @@ f:I[31437,["2115","static/chunks/2115-72ad8ab6a0a482e5.js","3371","static/chunks
 - Discrete Optimization — Yongtang Shi
 - Combinatorics — Hui Sun, Qianghui Guo
 - Data Mining — Shengquan Chen
-
 **Seminars**
 
 - Graph Theory — Jiangdong Ai, Yongtang Shi
-
 ### Fall 2024
 
 **Courses**

@@ -20,6 +20,7 @@ My interests include **extremal graph theory**, **additive combinatorics**, and 
 
 ## Awards
 
+- The Mathematical Contest in Modeling (MCM/ICM), Meritorious Winner, *May 2026*
 - National Scholarship, *Tianjin, Dec. 2025*
 - Jiang Lifu Scholarship of Nankai University, Second Place, *Nov. 2025*
 - National College Students' Mathematical Modeling Contest, Second Place, *Oct. 2025*
@@ -105,6 +106,7 @@ Course notes also appear in the **Notes** timeline. PDF originals are linked bel
 
 ## Awards
 
+- The Mathematical Contest in Modeling (MCM/ICM), **Meritorious Winner, May 2026**
 - National Scholarship, **Tianjin, Dec. 2025**
 - Jiang Lifu Scholarship of Nankai University, **Second Place, Nov. 2025**
 - National College Students' Mathematical Modeling Contest, **Second Place, Oct. 2025**
@@ -116,6 +118,18 @@ Course notes also appear in the **Notes** timeline. PDF originals are linked bel
 - 2016 World Robot Olympiad (WRO) China Final, **Second Place, Aug. 2016**
 
 ## Courses and Seminars
+
+### Spring 2026
+
+**Courses**
+- Operations Research — Wei Hu
+- Differential Geometry — Xianfeng Wang
+- Modern Graph Theory — Zhouningxin Wang
+- Financial Engineering — Jing Li
+
+**Seminars**
+- Extremal Graph Theory — Jiangdong Ai
+- Discrete Analysis — Jiangdong Ai
 
 ### Fall 2025
 
