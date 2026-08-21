@@ -599,3 +599,62 @@ article.article-prose:not(:has(.reading-cover)) > h1::after {
   }
 }
 
+
+/* shiro-chess-empty 2026-08-21 */
+/* ── Empty board / 404 / search miss ── */
+.chess-empty {
+  margin: 0;
+  text-align: center;
+}
+
+.chess-empty__board {
+  width: 9.5rem;
+  height: auto;
+}
+
+.chess-empty__frame {
+  stroke: color-mix(in srgb, var(--accent, #9f1239) 28%, currentColor);
+  stroke-width: 1.25;
+}
+
+.chess-empty__dark {
+  fill: color-mix(in srgb, var(--accent, #9f1239) 12%, transparent);
+}
+
+.chess-empty__light {
+  fill: color-mix(in srgb, var(--color-paper-bg) 55%, transparent);
+}
+
+.chess-empty__glyph {
+  font-family: var(--app-font-serif), Georgia, 'Times New Roman', serif;
+  font-size: 28px;
+  font-style: italic;
+  fill: color-mix(in srgb, var(--accent, #9f1239) 72%, currentColor);
+}
+
+.chess-empty__coord,
+.chess-empty__caption,
+.chess-empty-page__kicker {
+  font-family: var(--app-font-serif), Georgia, 'Times New Roman', serif;
+  font-size: 10px;
+  letter-spacing: 0.18em;
+  fill: color-mix(in srgb, var(--accent, #9f1239) 48%, #94a3b8);
+  color: color-mix(in srgb, var(--accent, #9f1239) 58%, #94a3b8);
+}
+
+.chess-empty__caption {
+  margin-top: 0.45rem;
+  font-style: italic;
+}
+
+.chess-empty-page__kicker {
+  font-variant: small-caps;
+  letter-spacing: 0.28em;
+}
+
+.chess-empty-page__copy {
+  max-width: 22rem;
+  text-align: center;
+  color: color-mix(in srgb, currentColor 62%, #64748b);
+}
+
