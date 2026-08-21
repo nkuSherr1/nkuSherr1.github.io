@@ -8,3 +8,5 @@
 .chess-sketch__accent--royal{stroke-width:calc(1.45 * var(--chess-line-scale));opacity:.86}
 /* royal-body-shadow-v4 */
 .chess-sketch__hatch--dense{opacity:.88}.chess-sketch__hatch--cross{stroke-width:calc(.46 * var(--chess-line-scale));opacity:.6}.chess-sketch__hatch--secondary{stroke-width:calc(.42 * var(--chess-line-scale));opacity:.82}.chess-sketch__body-shadow{fill:currentColor;stroke:none!important;opacity:.12;filter:blur(.7px)}.chess-sketch__body-shadow--deep{opacity:.18}
+/* lower-corners-and-red-notes-v5 */
+.chess-corner--board-analysis{bottom:1%}.chess-corner--queen{bottom:1%}.chess-sketch__note{fill:#a32638;fill-opacity:.76}[data-theme=dark] .chess-sketch__note{fill:#d45a68;fill-opacity:.84}@media(max-width:720px){.chess-corner--board-analysis,.chess-corner--queen{bottom:2%}}
