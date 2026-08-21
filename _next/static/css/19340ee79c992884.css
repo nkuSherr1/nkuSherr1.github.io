@@ -1168,3 +1168,37 @@ body:has(.index-article) .chess-corner,
   opacity: 1 !important;
   transform: none !important;
 }
+
+/* visibility-2: diary/posts leftover motion + pager + lyrics */
+.index-page-header,
+.index-intro,
+.index-featured,
+.index-list-row,
+.index-list-stack > li,
+.index-article,
+.diary-dropcap,
+.diary-lyrics,
+.diary-lyrics p,
+.diary-pager,
+.index-kicker,
+.index-title,
+.index-title span,
+.index-page [style*="opacity:0.001"],
+.index-article [style*="opacity:0.001"] {
+  opacity: 1 !important;
+  transform: none !important;
+}
+.index-article {
+  animation: none !important;
+}
+.index-layout-grid .index-list-row::before {
+  content: none !important;
+  display: none !important;
+}
+.diary-lyrics__line {
+  margin-top: 0.35rem !important;
+  text-align: center;
+}
+.diary-lyrics__break {
+  margin-top: 1.35rem !important;
+}
