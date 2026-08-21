@@ -647,6 +647,63 @@ article.article-prose:not(:has(.reading-cover)) > h1::after {
   font-style: italic;
 }
 
+.index-layout-grid .index-list-stack {
+  gap: 0;
+  border-top: 1px solid color-mix(in srgb, var(--about-accent, #9f1239) 16%, transparent);
+  counter-reset: post-issue;
+}
+.index-layout-grid .index-list-stack > li {
+  position: relative;
+  counter-increment: post-issue;
+}
+.index-layout-grid .index-list-stack > li::before {
+  content: counter(post-issue, decimal-leading-zero);
+  position: absolute;
+  left: 0;
+  top: 0.78rem;
+  z-index: 1;
+  font-family: var(--app-font-serif), Georgia, 'Times New Roman', serif;
+  font-size: 10px;
+  letter-spacing: 0.1em;
+  font-variant-numeric: tabular-nums;
+  color: color-mix(in srgb, var(--about-accent, #9f1239) 58%, #94a3b8);
+  pointer-events: none;
+}
+.index-layout-grid .index-list-row {
+  margin: 0 !important;
+  padding: 0.68rem 0.2rem 0.68rem 2.35rem !important;
+  border-radius: 0 !important;
+  border: 0 !important;
+  border-bottom: 1px solid color-mix(in srgb, var(--about-accent, #9f1239) 8%, transparent) !important;
+  background: transparent !important;
+  box-shadow: none !important;
+}
+.index-layout-grid .index-list-row::after {
+  display: none !important;
+}
+.index-layout-grid .index-list-row:hover {
+  transform: none !important;
+  background: color-mix(in srgb, var(--about-accent, #9f1239) 4.5%, transparent) !important;
+  box-shadow: none !important;
+}
+.index-featured {
+  border-radius: 2px;
+  padding: 1rem 1.1rem;
+}
+.index-layout-grid aside {
+  position: sticky;
+  top: 5.5rem;
+  padding: 0.9rem 1rem 1.05rem;
+  border: 1px solid color-mix(in srgb, var(--about-accent, #9f1239) 11%, transparent);
+  border-radius: 2px;
+  background: color-mix(in srgb, var(--color-paper-bg) 74%, transparent);
+}
+.index-main-column .border-b.pb-3 {
+  border-bottom: 1px double color-mix(in srgb, var(--about-accent, #9f1239) 22%, transparent);
+  padding-bottom: 0.55rem;
+}
+
+
 .chess-empty-page__kicker {
   font-variant: small-caps;
   letter-spacing: 0.28em;
