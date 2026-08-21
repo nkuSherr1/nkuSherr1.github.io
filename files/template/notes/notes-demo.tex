@@ -1,0 +1,56 @@
+% !TeX program = xelatex
+\documentclass[a4paper,11pt]{article}
+\usepackage[margin=1in]{geometry}
+\usepackage{setspace}
+\setstretch{1.25}
+\input{environment.tex}
+
+\title{\textbf{Notes template}\\[4pt]\large left-bar environments}
+\author{Yang Kun \quad Nankai University}
+\date{}
+
+\begin{document}
+\maketitle
+
+\section{Environments}
+
+\begin{definition}[边密度]
+设 $X,Y$ 为图 $G$ 的顶点子集。边密度定义为
+\[
+d_G(X,Y)=\frac{e_G(X,Y)}{|X|\,|Y|}.
+\]
+\end{definition}
+
+\begin{theorem}[正则性引理]
+对每个 $\varepsilon>0$，存在 $M=M(\varepsilon)$，使得每个图都有一个至多 $M$ 块的 $\varepsilon$-正则剖分。
+\end{theorem}
+
+\begin{lemma}
+能量在加细下单调不减。
+\end{lemma}
+
+\begin{proposition}
+不规则对的能量提升至少为 $\varepsilon^5$。
+\end{proposition}
+
+\begin{corollary}
+塔型上界不能改成 $\varepsilon$ 的多项式。
+\end{corollary}
+
+\begin{example}
+完全二部图的每一对分部都是 $0$-正则的。
+\end{example}
+
+\begin{remark}
+同一份笔记里，$\varepsilon$ 既控制子集大小，也控制密度偏差。
+\end{remark}
+
+\begin{note}
+把图标放在 \texttt{icon/} 目录，路径相对于当前 \texttt{.tex}。
+\end{note}
+
+\begin{cbox}
+这是一条侧栏提示。作业题解、课程笔记都可以丢进这种盒子。
+\end{cbox}
+
+\end{document}
