@@ -28,6 +28,18 @@
 
 ## Courses and Seminars
 
+### Spring 2026
+
+**Courses**
+- 运筹学 — 胡威
+- 微分几何 — 王险峰
+- 现代图论 — 王周宁馨
+- 金融工程 — 李静
+
+**Seminars**
+- 极值图论 — 艾江东
+- 离散分析 — 艾江东
+
 ### Fall 2025
 
 **Courses**
@@ -52,17 +64,9 @@
 - Discrete Optimization — Yongtang Shi
 - Combinatorics — Hui Sun, Qianghui Guo
 - Data Mining — Shengquan Chen
-- 运筹学 — 胡威
-- 微分几何 — 王险峰
-- 现代图论 — 王周宁馨
-- 金融工程 — 李静
-
 **Seminars**
 
 - Graph Theory — Jiangdong Ai, Yongtang Shi
-- 极值图论 — 艾江东
-- 离散分析 — 艾江东
-
 ### Fall 2024
 
 **Courses**
