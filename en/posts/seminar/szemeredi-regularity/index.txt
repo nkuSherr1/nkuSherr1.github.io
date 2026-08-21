@@ -22,7 +22,7 @@ e:I[87071,[],"MetadataBoundary"]
 14:I[93217,["4266","static/chunks/cb69f5e5-38b1876d0364eabd.js","6618","static/chunks/962d60d4-2f97a7306ab44fe1.js","3374","static/chunks/3374-064cfbbe2608b69a.js","2115","static/chunks/2115-72ad8ab6a0a482e5.js","3371","static/chunks/3371-4aa89e9112feba6f.js","915","static/chunks/915-f2d3aa6318478d87.js","8476","static/chunks/8476-5b9555f1f11850f5.js","9823","static/chunks/9823-752ded14ff1fc8ed.js","6649","static/chunks/6649-4aa84bb85dfcea04.js","2250","static/chunks/2250-55633d86d5c24bd9.js","6702","static/chunks/6702-07d2c1d4b5ee85d1.js","7515","static/chunks/7515-6533e3f4c74944ed.js","6480","static/chunks/6480-b6c8f5836b943902.js","3506","static/chunks/3506-639c9b819e6097ea.js","9359","static/chunks/9359-757c0d4b7d9389cf.js","943","static/chunks/943-e94be4a59502ba15.js","54","static/chunks/54-8b1b2030ec661343.js","3442","static/chunks/3442-b02f67c52bc21b33.js","6407","static/chunks/6407-8c126658ecad0efb.js","5453","static/chunks/5453-1c0b57ba019ddab7.js","4769","static/chunks/4769-249bb22c4440c9d4.js","8773","static/chunks/8773-934b5bf44c7f6a8a.js","3764","static/chunks/3764-7d58f284db646167.js","3101","static/chunks/3101-3c57cfdb325b65de.js","1934","static/chunks/1934-eccc223403b0cb6d.js","7632","static/chunks/7632-8bf358d229ecabf3.js","4938","static/chunks/4938-1a2549c8dabc1ca4.js","8450","static/chunks/app/%5Blocale%5D/layout-5be8c8f700b40dd7.js"],"HydrationEndDetector"]
 5:["$","$L11",null,{"tmdb":false,"children":[["$","$L12",null,{"isLogged":false}],["$","html",null,{"lang":"en","className":"noise themed","suppressHydrationWarning":true,"children":[["$","head",null,{"children":[null,["$","$L13",null,{}],["$","script",null,{"dangerouslySetInnerHTML":{"__html":"var version = \"6.6.7\";\n    (function(){console.info(\"%c Sherr1.log %c https://github.com/nkuSherr1\",\"color: #fff; margin: 1em 0; padding: 5px 0; background: #003153;\",\"margin: 1em 0; padding: 5px 0; background: #efefef;\");let a=`\nSherr1.log\nNankai Mathematics \\xb7 Extremal graph theory\n--------\nWritten with care.\n`;document.firstChild?.nodeType!==Node.COMMENT_NODE&&document.prepend(document.createComment(a))})();"}}],["$","$L14",null,{}],"$L15",["$","link",null,{"rel":"shortcut icon","href":"/favicon.ico","type":"image/x-icon","media":"(prefers-color-scheme: dark)"}],["$","link",null,{"rel":"shortcut icon","href":"/favicon.ico","type":"image/x-icon","media":"(prefers-color-scheme: light)"}],["$","link",null,{"rel":"apple-touch-icon","href":"/apple-touch-icon.png","sizes":"180x180"}],"$L16"]}],["$","body",null,{"suppressHydrationWarning":true,"className":"__variable_e2b71d  m-0 h-full p-0 font-sans","children":"$L17"}]]}]]}]
 18:I[28856,["1433","static/chunks/5da11c83-22ed8340ae03271b.js","4266","static/chunks/cb69f5e5-38b1876d0364eabd.js","6618","static/chunks/962d60d4-2f97a7306ab44fe1.js","3374","static/chunks/3374-064cfbbe2608b69a.js","2115","static/chunks/2115-72ad8ab6a0a482e5.js","3371","static/chunks/3371-4aa89e9112feba6f.js","915","static/chunks/915-f2d3aa6318478d87.js","8476","static/chunks/8476-5b9555f1f11850f5.js","9823","static/chunks/9823-752ded14ff1fc8ed.js","6649","static/chunks/6649-4aa84bb85dfcea04.js","2250","static/chunks/2250-55633d86d5c24bd9.js","6702","static/chunks/6702-07d2c1d4b5ee85d1.js","7515","static/chunks/7515-6533e3f4c74944ed.js","6480","static/chunks/6480-b6c8f5836b943902.js","3506","static/chunks/3506-639c9b819e6097ea.js","9359","static/chunks/9359-757c0d4b7d9389cf.js","943","static/chunks/943-e94be4a59502ba15.js","54","static/chunks/54-8b1b2030ec661343.js","3442","static/chunks/3442-b02f67c52bc21b33.js","7404","static/chunks/7404-9397f040ad174577.js","6407","static/chunks/6407-8c126658ecad0efb.js","6604","static/chunks/6604-70bdf1f7cbe42765.js","5453","static/chunks/5453-1c0b57ba019ddab7.js","8773","static/chunks/8773-934b5bf44c7f6a8a.js","9352","static/chunks/9352-8bd04c7a92b8c94f.js","7846","static/chunks/7846-4eba44fa221868b4.js","1934","static/chunks/1934-eccc223403b0cb6d.js","8952","static/chunks/8952-ed5faf1fed44c8a0.js","4707","static/chunks/4707-ae08c0a2e07bdb62.js","6954","static/chunks/6954-7f08e3e495b0916f.js","5866","static/chunks/5866-796a1b67b30d9378.js","4374","static/chunks/app/%5Blocale%5D/posts/(post-detail)/%5Bcategory%5D/%5Bslug%5D/page-9b4b21b3c2fb2c88.js"],"MainMarkdown",1]
-19:T4e90,这是暑假读 Yufei Zhao *Graph Theory and Additive Combinatorics* 时写下的正则性引理笔记。下面把边密度、ε-正则对、能量增量与塔型上界按证明顺序整理一遍；TikZ 示意图请直接看文末 PDF。
+19:T4e89,这是暑假读 Yufei Zhao *Graph Theory and Additive Combinatorics* 时写下的正则性引理笔记。下面把边密度、ε-正则对、能量增量与塔型上界按证明顺序整理一遍；TikZ 示意图请直接看文末 PDF。
 
 ## 定义
 
@@ -196,8 +196,7 @@ $$
 $$
 于是
 $$
-\begin{align*}
-
+\begin{aligned}
 		\mathbb{E}[Z]
 		&=
 		\sum_{i=1}^k\sum_{j=1}^\ell
@@ -207,8 +206,7 @@ $$
 		\frac{|U_i|}{|U|}\,\frac{|W_j|}{|W|}\cdot\frac{e(U_i,W_j)}{|U_i|\,|W_j|}
 		=
 		\frac{1}{|U|\,|W|}\sum_{i=1}^k\sum_{j=1}^\ell e(U_i,W_j).
-	
-\end{align*}
+\end{aligned}
 $$
 对任意 $(x,y)\in U\times W$，存在唯一的 $(i,j)$ 使 $x\in U_i$、$y\in W_j$，且 $xy\in E(G)$ 当且仅当 $(x,y)$ 被计入 $e(U_i,W_j)$。因此
 $$
@@ -226,8 +224,7 @@ $$
 $$
 同理，$Z^2$ 在事件 $\{x\in U_i,\, y\in W_j\}$ 上取值 $d(U_i,W_j)^2$，故
 $$
-\begin{align*}
-
+\begin{aligned}
 		\mathbb{E}[Z^2]
 		&=
 		\sum_{i=1}^k\sum_{j=1}^\ell
@@ -238,8 +235,7 @@ $$
 		\frac{|U_i|\,|W_j|}{n^2}\,d(U_i,W_j)^2
 		=
 		\frac{n^2}{|U|\,|W|}\,q(\mathcal{P}_U,\mathcal{P}_W),
-	
-\end{align*}
+\end{aligned}
 $$
 最后一步用了 定义（能量）。再由同一定义，$q(U,W)=\frac{|U|\,|W|}{n^2}d(U,W)^2$，故
 $$
@@ -265,8 +261,7 @@ $$
 $$
 则 $\mathcal{P}'_{V_i}$ 是 $V_i$ 的剖分，且 $\mathcal{P}'=\mathcal{P}'_{V_1}\cup\cdots\cup\mathcal{P}'_{V_m}$ 为不交并。把 $\mathcal{P}'_{V_i}$ 的块记为 $V_{i1},\ldots,V_{i k_i}$。由 定义（能量），
 $$
-\begin{align*}
-
+\begin{aligned}
 		q(\mathcal{P})
 		&=
 		\sum_{i=1}^m\sum_{j=1}^m q(V_i,V_j),
@@ -279,8 +274,7 @@ $$
 		=
 		\sum_{i=1}^m\sum_{j=1}^m
 		q\bigl(\mathcal{P}'_{V_i},\mathcal{P}'_{V_j}\bigr),
-	
-\end{align*}
+\end{aligned}
 $$
 中间一步是把 $\mathcal{P}'$ 的块对按它们所属的 $\mathcal{P}$-块对 $(V_i,V_j)$ 分组。对每一对 $(i,j)$ 把 引理（能量对单调） 用于 $U=V_i$、$W=V_j$ 及剖分 $\mathcal{P}'_{V_i}$、$\mathcal{P}'_{V_j}$，得
 $$
@@ -297,8 +291,7 @@ $$
 $$
 由 定义（能量），
 $$
-\begin{align*}
-
+\begin{aligned}
 		q(\mathcal{P}_U,\mathcal{P}_W)
 		&=
 		\frac{|A|\,|B|}{n^2}d(A,B)^2
@@ -310,8 +303,7 @@ $$
 		\frac{|U\setminus A|\,|B|}{n^2}d(U\setminus A,B)^2
 		+
 		\frac{|U\setminus A|\,|W\setminus B|}{n^2}d(U\setminus A,W\setminus B)^2.
-	
-\end{align*}
+\end{aligned}
 $$
 沿用 引理（能量对单调） 中的随机变量 $Z$：独立均匀取 $x\in U$、$y\in W$，若 $(x,y)$ 落入块对 $(U',W')$ 则 $Z=d(U',W')$。把已证的 引理（能量对单调） 用于这一对剖分，得 $\mathbb{E}[Z]=d(U,W)$ 以及
 $$
@@ -321,8 +313,7 @@ $$
 $$
 因此
 $$
-\begin{align*}
-
+\begin{aligned}
 		\mathrm{Var}(Z)
 		&=
 		\mathbb{E}[Z^2]-\mathbb{E}[Z]^2
@@ -340,8 +331,7 @@ $$
 		\bigl(
 			q(\mathcal{P}_U,\mathcal{P}_W)-q(U,W)
 		\bigr).
-	
-\end{align*}
+\end{aligned}
 $$
 另一方面，按四个块对展开方差。记 $\mathcal{C}$ 为上述块对之集，则
 $$
@@ -355,15 +345,13 @@ $$
 $$
 每一项都 $\ge 0$，故
 $$
-\begin{align*}
-
+\begin{aligned}
 		\mathrm{Var}(Z)
 		&\ge
 		\mathbb{P}(x\in A,\, y\in B)\bigl(d(A,B)-d(U,W)\bigr)^2
 		=
 		\frac{|A|}{|U|}\,\frac{|B|}{|W|}\bigl(d(A,B)-d(U,W)\bigr)^2.
-	
-\end{align*}
+\end{aligned}
 $$
 由见证条件，$|A|\ge\varepsilon|U|$、$|B|\ge\varepsilon|W|$，且 $|d(A,B)-d(U,W)|>\varepsilon$。平方后 $(d(A,B)-d(U,W))^2>\varepsilon^2$，因此
 $$
@@ -457,8 +445,7 @@ q\bigl(\{A_{i,j},\,V_i\setminus A_{i,j}\},\,\{B_{i,j},\,V_j\setminus B_{i,j}\}\b
 $$
 两式合起来，$q(\mathcal{Q}_i,\mathcal{Q}_j)>q(V_i,V_j)+\frac{\varepsilon^4 |V_i|\,|V_j|}{n^2}$。因此
 $$
-\begin{align*}
-
+\begin{aligned}
 		q(\mathcal{Q})
 		&>
 		\sum_{(i,j)\in R} q(V_i,V_j)
@@ -480,8 +467,7 @@ $$
 		+
 		\sum_{(i,j)\in\overline{R}}
 		\frac{\varepsilon^4 |V_i|\,|V_j|}{n^2}.
-	
-\end{align*}
+\end{aligned}
 $$
 因 $\mathcal{P}$ 不是 $\varepsilon$-正则的，由 定义（ε-正则剖分） 的否定，
 $$
