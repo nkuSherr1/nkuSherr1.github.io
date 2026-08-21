@@ -150,3 +150,269 @@
     transition: none;
   }
 }
+
+/* shiro-reading-sheet 2026-08-21 */
+/* ── Reading sheet: cover, measure, marginalia TOC ── */
+.reading-sheet {
+  position: relative;
+  display: grid;
+  grid-template-columns: minmax(0, 1fr);
+  align-items: start;
+  gap: 1.75rem;
+}
+
+.reading-sheet__main {
+  min-width: 0;
+  width: 100%;
+  max-width: 46rem;
+  margin-inline: auto;
+}
+
+.reading-cover {
+  position: relative;
+  margin-bottom: 2rem;
+  overflow: hidden;
+  border-radius: 1.05rem;
+  border: 1px solid
+    color-mix(in srgb, var(--about-accent, var(--accent, #9f1239)) 12%, transparent);
+  background:
+    linear-gradient(
+      135deg,
+      color-mix(in srgb, var(--color-paper-bg) 78%, transparent),
+      transparent 72%
+    ),
+    repeating-linear-gradient(
+      90deg,
+      transparent 0 22px,
+      color-mix(in srgb, var(--about-accent, var(--accent, #9f1239)) 5%, transparent)
+        22px 23px
+    );
+  padding: 1.15rem 1.2rem 1.25rem 1.35rem;
+}
+
+.reading-cover::before {
+  content: '';
+  position: absolute;
+  left: 0;
+  top: 0.85rem;
+  bottom: 0.85rem;
+  width: 2px;
+  border-radius: 999px;
+  background: linear-gradient(
+    180deg,
+    var(--about-accent, var(--accent, #9f1239)),
+    transparent
+  );
+  opacity: 0.72;
+}
+
+.reading-cover__mark {
+  position: absolute;
+  top: 0.85rem;
+  right: 1rem;
+  font-family: var(--app-font-serif), Georgia, 'Times New Roman', serif;
+  font-size: 10px;
+  font-style: italic;
+  letter-spacing: 0.16em;
+  color: color-mix(
+    in srgb,
+    var(--about-accent, var(--accent, #9f1239)) 54%,
+    #94a3b8
+  );
+}
+
+.reading-cover__kicker {
+  margin: 0;
+  padding-left: 0.35rem;
+  font-family: var(--app-font-serif), Georgia, 'Times New Roman', serif;
+  font-size: 11px;
+  font-variant: small-caps;
+  letter-spacing: 0.28em;
+  text-transform: lowercase;
+  color: color-mix(
+    in srgb,
+    var(--about-accent, var(--accent, #9f1239)) 72%,
+    #94a3b8
+  );
+}
+
+.reading-cover__title {
+  margin: 0.55rem 0 0;
+  padding-left: 0.35rem;
+  max-width: 38rem;
+  font-family: var(--app-font-serif), Georgia, 'Times New Roman', serif;
+  font-size: clamp(1.55rem, 3vw, 2.2rem);
+  font-weight: 600;
+  letter-spacing: -0.02em;
+  line-height: 1.28;
+  text-wrap: balance;
+}
+
+.reading-cover__title::after {
+  content: '';
+  display: block;
+  width: 3.25rem;
+  height: 2px;
+  margin-top: 0.7rem;
+  background: linear-gradient(
+    90deg,
+    var(--about-accent, var(--accent, #9f1239)),
+    transparent
+  );
+}
+
+.reading-cover__meta {
+  margin: 0.85rem 0 0;
+  padding-left: 0.35rem;
+  font-size: 0.78rem;
+  letter-spacing: 0.04em;
+  color: color-mix(in srgb, currentColor 55%, #64748b);
+}
+
+.reading-toc {
+  min-width: 0;
+}
+
+.reading-toc__kicker {
+  margin: 0 0 0.75rem;
+  font-family: var(--app-font-serif), Georgia, 'Times New Roman', serif;
+  font-size: 10px;
+  font-variant: small-caps;
+  letter-spacing: 0.28em;
+  color: color-mix(in srgb, var(--accent, #9f1239) 70%, #94a3b8);
+}
+
+.reading-toc__list {
+  margin: 0;
+  padding: 0;
+  list-style: none;
+  border-left: 1px solid
+    color-mix(in srgb, var(--accent, #9f1239) 12%, transparent);
+}
+
+.reading-toc__item a {
+  display: flex;
+  gap: 0.45rem;
+  align-items: baseline;
+  padding: 0.28rem 0 0.28rem 0.7rem;
+  color: color-mix(in srgb, currentColor 62%, #64748b);
+  font-family: var(--app-font-serif), Georgia, 'Times New Roman', serif;
+  font-size: 0.78rem;
+  line-height: 1.45;
+  text-decoration: none;
+  transition:
+    color 180ms ease,
+    background 180ms ease;
+}
+
+.reading-toc__item--h3 a {
+  padding-left: 1.15rem;
+  font-size: 0.72rem;
+}
+
+.reading-toc__item a:hover,
+.reading-toc__item a:focus-visible {
+  color: var(--accent, #9f1239);
+  background: color-mix(in srgb, var(--color-paper-bg) 42%, transparent);
+}
+
+.reading-toc__file {
+  flex-shrink: 0;
+  font-size: 10px;
+  font-style: italic;
+  letter-spacing: 0.08em;
+  color: color-mix(in srgb, var(--accent, #9f1239) 58%, transparent);
+}
+
+.reading-sheet article.article-prose,
+.reading-sheet #main-content-render.markdown {
+  max-width: none;
+}
+
+.reading-sheet .markdown {
+  margin-top: 0;
+}
+
+article.article-prose:not(:has(.reading-cover)) > h1 {
+  position: relative;
+  margin: 0 auto 2rem;
+  max-width: 46rem;
+  overflow: hidden;
+  border-radius: 1.05rem;
+  border: 1px solid
+    color-mix(in srgb, var(--accent, #9f1239) 12%, transparent);
+  background:
+    linear-gradient(
+      135deg,
+      color-mix(in srgb, var(--color-paper-bg) 78%, transparent),
+      transparent 72%
+    ),
+    repeating-linear-gradient(
+      90deg,
+      transparent 0 22px,
+      color-mix(in srgb, var(--accent, #9f1239) 5%, transparent) 22px 23px
+    );
+  padding: 1.15rem 1.2rem 1.25rem 1.35rem;
+  font-family: var(--app-font-serif), Georgia, 'Times New Roman', serif;
+  font-size: clamp(1.55rem, 3vw, 2.2rem);
+  font-weight: 600;
+  letter-spacing: -0.02em;
+  line-height: 1.28;
+  text-align: left;
+}
+
+article.article-prose:not(:has(.reading-cover)) > h1::before {
+  content: 'a1 · h8';
+  position: absolute;
+  top: 0.85rem;
+  right: 1rem;
+  font-size: 10px;
+  font-style: italic;
+  letter-spacing: 0.16em;
+  font-weight: 400;
+  color: color-mix(in srgb, var(--accent, #9f1239) 54%, #94a3b8);
+}
+
+article.article-prose:not(:has(.reading-cover)) > h1::after {
+  content: '';
+  display: block;
+  width: 3.25rem;
+  height: 2px;
+  margin-top: 0.7rem;
+  background: linear-gradient(90deg, var(--accent, #9f1239), transparent);
+}
+
+#main-content-render.markdown {
+  max-width: 42rem;
+  margin-inline: auto;
+}
+
+.reading-sheet #main-content-render.markdown {
+  margin-inline: 0;
+  max-width: none;
+}
+
+@media (min-width: 1100px) {
+  .reading-sheet {
+    grid-template-columns: minmax(0, 1fr) 13.25rem;
+  }
+
+  .reading-toc {
+    position: sticky;
+    top: 7.25rem;
+    order: 2;
+    max-height: calc(100vh - 9rem);
+    overflow: auto;
+  }
+
+  .reading-sheet__main {
+    order: 1;
+  }
+}
+
+@media (max-width: 1099px) {
+  .reading-sheet > .reading-toc {
+    display: none;
+  }
+}
+
