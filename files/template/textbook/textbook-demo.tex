@@ -1,0 +1,38 @@
+% !TeX program = xelatex
+\documentclass{tstextbook}
+\input{environment.tex}
+
+\begin{document}
+
+\tsbook{Lecture Notes}
+       {Yang Kun}
+       {Yang Kun}
+       {2026}
+       {00001}{000--00--0000--00--0}{1.0}
+       {Nankai University}
+       {Tianjin}
+
+\chapter{示例}
+
+\begin{summary}
+封面、版权页和章节头图来自 \texttt{images/}。定理、定义仍用 Notes 那套左侧色条。
+\end{summary}
+
+\section{环境}
+
+\begin{definition}[边密度]
+设 $X,Y$ 为图 $G$ 的顶点子集。边密度定义为
+\[
+d_G(X,Y)=\frac{e_G(X,Y)}{|X|\,|Y|}.
+\]
+\end{definition}
+
+\begin{theorem}[正则性引理]
+对每个 $\varepsilon>0$，存在 $M=M(\varepsilon)$，使得每个图都有一个至多 $M$ 块的 $\varepsilon$-正则剖分。
+\end{theorem}
+
+\begin{remark}
+把 \texttt{tstextbook.cls}、\texttt{environment.tex}、\texttt{icon/} 和 \texttt{images/} 放在同一目录，用 XeLaTeX 编译。
+\end{remark}
+
+\end{document}

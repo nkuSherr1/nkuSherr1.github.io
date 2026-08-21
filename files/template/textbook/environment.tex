@@ -1,0 +1,208 @@
+%================================
+% note-setup-leftsidebox.tex
+% fenglielie@qq.com 2025-09-12
+%================================
+
+\usepackage{amsmath,amsthm,amsfonts}
+\usepackage{mathtools}
+\usepackage{mathrsfs}
+\usepackage{bm}
+\usepackage{ctex}
+\usepackage{extarrows}
+\usepackage{float}
+\usepackage{indentfirst}
+\usepackage{anyfontsize}
+\usepackage{booktabs,multirow,multicol}
+\usepackage[shortlabels,inline]{enumitem}
+\usepackage{appendix}
+
+\usepackage{tikz-cd}
+\usepackage{upgreek}
+\usepackage{amssymb}
+
+\usepackage{ctex}
+\usepackage[dvipsnames]{xcolor}
+
+\CTEXoptions[today=old]
+
+
+\renewcommand\labelitemi{$\heartsuit$} % 重置第一级的符号
+% \renewcommand\labelitemii{$\square$}    % 重置第二级的符号
+
+\renewcommand*{\proofname}{\normalfont\bfseries Proof}
+% \renewenvironment{proof}{\includegraphics[width=12pt, height=12pt]{icon/icon-proof.pdf}}
+
+\usepackage{thmtools}
+
+%% define environments
+\declaretheoremstyle[
+  headfont=\itshape\color{RoyalBlue},
+  bodyfont=\itshape\color{RoyalBlue},
+%   headhook={\includegraphics[width=12pt]{cover.jpg}},
+  headpunct={.}, 
+%   numbered=no
+]{remarkstyle}
+
+\declaretheoremstyle[
+  headfont=\itshape\color{YellowGreen},
+  bodyfont=\itshape\color{YellowGreen},
+%   headhook={\includegraphics[width=12pt]{cover.jpg}},
+  headpunct={}, 
+%   numbered=no
+]{continuestyle}
+
+\declaretheoremstyle[
+  headfont=\itshape\color{OrangeRed},
+  bodyfont=\itshape\color{OrangeRed},
+%   headhook={\includegraphics[width=12pt]{cover.jpg}},
+  headpunct={}, 
+%   numbered=no
+]{notestyle}
+
+% \declaretheoremstyle[
+%   headfont=\itshape\color{OliveGreen},  % 标题：粗体红色
+%   bodyfont=\itshape\color{OliveGreen},  % 内容：斜体蓝色
+%   headpunct={.},                  % 标题后加句号
+% %   numbered=no                    % 带编号
+% ]{examplestyle}
+
+\declaretheorem[style=plain, name=定理, numbered=yes, numberwithin=section]{theorem}
+\declaretheorem[style=plain, name=定理, numbered=no]{theorem*}
+
+\declaretheorem[style=plain, name=命题, numbered=yes, sibling=theorem]{proposition}
+\declaretheorem[style=plain, name=命题, numbered=no]{proposition*}
+
+\declaretheorem[style=plain, name=推论, numbered=yes, sibling=theorem]{corollary}
+\declaretheorem[style=plain, name=推论, numbered=no]{corollary*}
+
+\declaretheorem[style=plain, name=引理, numbered=yes, sibling=theorem]{lemma}
+\declaretheorem[style=plain, name=引理, numbered=no]{lemma*}
+
+\declaretheorem[style=plain, name=断言, numbered=yes, sibling=theorem]{claim}
+\declaretheorem[style=plain, name=断言, numbered=no]{claim*}
+
+\declaretheorem[style=plain, name=定义, numbered=yes, numberwithin=section]{definition}
+\declaretheorem[style=definition, name=定义, numbered=no]{definition*}
+
+\declaretheorem[style=definition, name=例, numbered=yes, numberwithin=section]{example}
+% \declaretheorem[style=definition, name={\includegraphics[width=12pt, height=12pt]{icon/icon-example.pdf}~例}, numbered=yes, numberwithin=section]{example}
+\declaretheorem[style=examplestyle, name=例, numbered=no]{example*}
+
+\declaretheorem[style=plain, name=性质, numbered=yes, numberwithin=section]{property}
+\declaretheorem[style=plain, name=性质, numbered=no]{property*}
+
+\declaretheorem[style=plain, name=习题, numbered=yes, sibling=theorem]{exercise}
+\declaretheorem[style=plain, name=习题, numbered=no]{exercise*}
+
+
+\declaretheorem[style=definition, name=问题, numbered=yes, numberwithin=section]{problem}
+\declaretheorem[style=definition, name=问题, numbered=no]{problem*}
+
+% \declaretheorem[style=remark, name=注, numbered=yes, numberwithin=section]{remark}
+\declaretheorem[style=remarkstyle, name={\includegraphics[width=12pt, height=12pt]{icon/icon-remark.pdf}~注}, numbered=no]{remark}
+
+\declaretheorem[style=continuestyle, name={\includegraphics[width=12pt, height=12pt]{icon/icon-continue.pdf}}, numbered=no]{continue}
+
+\declaretheorem[style=notestyle, name={\includegraphics[width=12pt, height=12pt]{icon/icon-note.pdf}}, numbered=no]{note}
+\declaretheorem[style=remark, name=随想, numbered=no]{note*}
+
+\declaretheoremstyle[headfont=\bfseries, bodyfont=\normalfont, spaceabove=3pt, spacebelow=3pt, qed=\ensuremath{\square}]{solutionstyle}
+
+\declaretheorem[style=solutionstyle, name=Solution, numbered=yes, numberwithin=section]{solution}
+\declaretheorem[style=solutionstyle, name=Solution, numbered=no]{solution*}
+
+\usepackage[most]{tcolorbox}
+
+\newcommand{\newtcbenvironment}[2]{
+    \tcolorboxenvironment{#1}{#2, enhanced, breakable, sharp corners,leftrule=2pt, rightrule=0pt, toprule=0pt, bottomrule=0pt}
+    \tcolorboxenvironment{#1*}{#2, enhanced, breakable, rounded corners,leftrule=2pt, rightrule=0pt, toprule=0pt, bottomrule=0pt}
+}
+
+%% define styles
+
+% \newtcbenvironment{theorem}{colframe=WildStrawberry, colback=WildStrawberry!8}
+% \newtcbenvironment{proposition}{colframe=RoyalPurple, colback=RoyalPurple!8}
+% \newtcbenvironment{corollary}{colframe=NavyBlue, colback=SkyBlue!8}
+% \newtcbenvironment{lemma}{colframe=NavyBlue, colback=SkyBlue!8}
+% \newtcbenvironment{claim}{colframe=NavyBlue, colback=SkyBlue!8}
+% \newtcbenvironment{property}{colframe=NavyBlue, colback=SkyBlue!8}
+
+% \newtcbenvironment{definition}{colframe=ForestGreen, colback=ForestGreen!5}
+% \newtcbenvironment{example}{colframe=RawSienna, colback=RawSienna!5}
+% \newtcbenvironment{problem}{colframe=WildStrawberry!30, colback=WildStrawberry!5}
+
+\newtcbenvironment{theorem}{colframe=red!70!black, colback=red!5,
+overlay={
+        \node[anchor=south east] at (frame.south east) 
+            {\includegraphics[width=10pt, height=10pt]{icon/icon-theorem.pdf}};
+    }}
+\newtcbenvironment{proposition}{colframe=orange!70!black, colback=orange!5,
+overlay={
+        \node[anchor=south east] at (frame.south east) 
+            {\includegraphics[width=10pt, height=10pt]{icon/icon-proposition.pdf}};
+    }}
+\newtcbenvironment{corollary}{colframe=purple!50!black, colback=purple!5,
+overlay={
+        \node[anchor=south east] at (frame.south east) 
+            {\includegraphics[width=10pt, height=10pt]{icon/icon-corollary.pdf}};
+    }}
+\newtcbenvironment{lemma}{colframe=green!35!black, colback=green!5,
+overlay={
+        \node[anchor=south east] at (frame.south east) 
+            {\includegraphics[width=10pt, height=10pt]{icon/icon-lemma.pdf}};
+    }}
+\newtcbenvironment{claim}{colframe=YellowGreen, colback=YellowGreen!8,
+overlay={
+        \node[anchor=south east] at (frame.south east) 
+            {\includegraphics[width=10pt, height=10pt]{icon/icon-claim.pdf}};
+    }}
+\newtcbenvironment{property}{colframe=blue!35!black, colback=blue!5,
+overlay={
+        \node[anchor=south east] at (frame.south east) 
+            {\includegraphics[width=10pt, height=10pt]{icon/icon-property.pdf}};
+    }}
+
+\newtcbenvironment{definition}{colframe=violet, colback=violet!5,
+overlay={
+        \node[anchor=south east] at (frame.south east) 
+            {\includegraphics[width=10pt, height=10pt]{icon/icon-definition.pdf}};
+    }}
+\newtcbenvironment{example}{colframe=black, colback=black!5,
+overlay={
+        \node[anchor=south east] at (frame.south east) 
+            {\includegraphics[width=10pt, height=10pt]{icon/icon-example.pdf}};
+    }}
+\newtcbenvironment{problem}{colframe=black, colback=black!5,
+overlay={
+        \node[anchor=south east] at (frame.south east) 
+            {\includegraphics[width=10pt, height=10pt]{icon/icon-example.pdf}};
+    }}
+
+\newtcbenvironment{exercise}{colframe=black, colback=black!5,
+overlay={
+        \node[anchor=south east] at (frame.south east)
+            {\includegraphics[width=10pt, height=10pt]{icon/icon-example.pdf}};
+    }}
+
+%% cbox
+\newtcolorbox{cbox}[1][]{%
+    enhanced,
+    breakable,
+    sharp corners,
+    leftrule=2pt, rightrule=0pt, toprule=0pt, bottomrule=0pt,
+    colframe=SkyBlue,
+    colback=SkyBlue!8,
+    #1
+}
+
+% \usepackage{tocloft}
+\usepackage[colorlinks=false,urlcolor=cyan]{hyperref}
+\usepackage{cleveref}
+\crefname{claim}{claim}{claims}
+\crefname{conjecture}{conjecture}{conjectures}
+\crefname{axiom}{axiom}{axioms}
+\crefname{problem}{problem}{problems}
+\Crefname{claim}{Claim}{Claims}
+\Crefname{conjecture}{Conjecture}{Conjectures}
+\Crefname{axiom}{Axiom}{Axioms}
+\Crefname{problem}{Problem}{Problems}
