@@ -807,6 +807,18 @@ body {
 }
 
 .index-layout-grid
+  .mt-8.flex.flex-wrap.items-center.justify-between:not(.posts-journal-bar) {
+  justify-content: flex-start;
+  gap: 0.65rem 1.1rem;
+}
+
+.index-layout-grid
+  .mt-8.flex.flex-wrap.items-center.justify-between:not(.posts-journal-bar)
+  > div:last-child {
+  margin-left: auto;
+}
+
+.index-layout-grid
   .mt-8.flex.flex-wrap.items-center.justify-between:not(.posts-journal-bar)::before {
   content: 'Contents';
   margin-right: auto;
