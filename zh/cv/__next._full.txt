@@ -26,6 +26,7 @@ f:I[31437,["2115","static/chunks/2115-72ad8ab6a0a482e5.js","3371","static/chunks
 
 ## Awards
 
+- The Mathematical Contest in Modeling (MCM/ICM), **Meritorious Winner, May 2026**
 - National Scholarship, **Tianjin, Dec. 2025**
 - Jiang Lifu Scholarship of Nankai University, **Second Place, Nov. 2025**
 - National College Students' Mathematical Modeling Contest, **Second Place, Oct. 2025**
