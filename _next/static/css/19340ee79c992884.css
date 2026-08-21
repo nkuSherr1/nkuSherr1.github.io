@@ -1202,3 +1202,5 @@ body:has(.index-article) .chess-corner,
 .diary-lyrics__break {
   margin-top: 1.35rem !important;
 }
+
+.posts-journal-aside a.text-\[12px\], .index-layout-grid aside .text-\[12px\]{white-space:nowrap;}
