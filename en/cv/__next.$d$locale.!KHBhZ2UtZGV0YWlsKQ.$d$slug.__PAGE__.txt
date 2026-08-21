@@ -15,6 +15,7 @@
 
 ## Awards
 
+- The Mathematical Contest in Modeling (MCM/ICM), **Meritorious Winner, May 2026**
 - National Scholarship, **Tianjin, Dec. 2025**
 - Jiang Lifu Scholarship of Nankai University, **Second Place, Nov. 2025**
 - National College Students' Mathematical Modeling Contest, **Second Place, Oct. 2025**
@@ -51,10 +52,16 @@
 - Discrete Optimization — Yongtang Shi
 - Combinatorics — Hui Sun, Qianghui Guo
 - Data Mining — Shengquan Chen
+- Operations Research — Wei Hu
+- Differential Geometry — Xianfeng Wang
+- Modern Graph Theory — Zhouningxin Wang
+- Financial Engineering — Jing Li
 
 **Seminars**
 
 - Graph Theory — Jiangdong Ai, Yongtang Shi
+- Extremal Graph Theory — Jiangdong Ai
+- Discrete Analysis — Jiangdong Ai
 
 ### Fall 2024
 

@@ -20,6 +20,7 @@ My interests include **extremal graph theory**, **additive combinatorics**, and 
 
 ## Awards
 
+- The Mathematical Contest in Modeling (MCM/ICM), Meritorious Winner, *May 2026*
 - National Scholarship, *Tianjin, Dec. 2025*
 - Jiang Lifu Scholarship of Nankai University, Second Place, *Nov. 2025*
 - National College Students' Mathematical Modeling Contest, Second Place, *Oct. 2025*
@@ -105,6 +106,7 @@ Course notes also appear in the **Notes** timeline. PDF originals are linked bel
 
 ## Awards
 
+- The Mathematical Contest in Modeling (MCM/ICM), **Meritorious Winner, May 2026**
 - National Scholarship, **Tianjin, Dec. 2025**
 - Jiang Lifu Scholarship of Nankai University, **Second Place, Nov. 2025**
 - National College Students' Mathematical Modeling Contest, **Second Place, Oct. 2025**
