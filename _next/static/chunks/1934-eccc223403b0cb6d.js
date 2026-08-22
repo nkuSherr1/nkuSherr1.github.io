@@ -122,12 +122,14 @@ Course notes also appear in the **Notes** timeline. PDF originals are linked bel
 ### Spring 2026
 
 **Courses**
+
 - Operations Research — Wei Hu
 - Differential Geometry — Xianfeng Wang
 - Modern Graph Theory — Zhouningxin Wang
 - Financial Engineering — Jing Li
 
 **Seminars**
+
 - Extremal Graph Theory — Jiangdong Ai
 - Discrete Analysis — Jiangdong Ai
 
