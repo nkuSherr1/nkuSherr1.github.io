@@ -1,0 +1,91 @@
+{
+  "user": {
+    "id": "user-sherr1",
+    "created": "2023-09-01T00:00:00.000Z",
+    "username": "Sherr1",
+    "name": "Sherr1 Young",
+    "avatar": "/avatar.jpg",
+    "mail": "nkuSherr1@nankai.edu.cn",
+    "introduce": "Undergraduate at Nankai University. Extremal graph theory, additive combinatorics, and the Steklov eigenvalue.",
+    "url": "https://nkusherr1.github.io",
+    "socialIds": {
+      "github": "nkuSherr1",
+      "mail": "nkuSherr1@nankai.edu.cn",
+      "zhihu": "yang-kun-37-58",
+      "rss": "/feed"
+    },
+    "lastLoginTime": "2026-08-22T00:00:00.000Z",
+    "lastLoginIp": null
+  },
+  "seo": {
+    "title": "Sherr1.log",
+    "description": "Undergraduate at Nankai University. Notes on extremal graph theory, additive combinatorics, and the Steklov eigenvalue.",
+    "keywords": ["Sherr1", "Nankai", "mathematics", "graph theory", "combinatorics"]
+  },
+  "url": {
+    "wsUrl": "https://nkusherr1.github.io",
+    "serverUrl": "https://nkusherr1.github.io",
+    "webUrl": "https://nkusherr1.github.io"
+  },
+  "categories": [
+    { "id": "cat-research", "slug": "research", "name": "Research", "type": 0, "count": 0 },
+    { "id": "cat-analysis", "slug": "analysis", "name": "Analysis", "type": 0, "count": 0 },
+    { "id": "cat-seminar", "slug": "seminar", "name": "Seminar", "type": 0, "count": 0 },
+    { "id": "cat-homework", "slug": "homework", "name": "Homework", "type": 0, "count": 0 },
+    { "id": "cat-mgt", "slug": "modern-graph-theory", "name": "Modern Graph Theory", "type": 0, "count": 0 },
+    { "id": "cat-fe", "slug": "financial-engineering", "name": "Financial Engineering", "type": 0, "count": 0 },
+    { "id": "cat-pde", "slug": "pde", "name": "PDE", "type": 0, "count": 0 },
+    { "id": "cat-inv", "slug": "investment", "name": "Investment", "type": 0, "count": 0 },
+    { "id": "cat-fo", "slug": "financial-options", "name": "Financial Options", "type": 0, "count": 0 },
+    { "id": "cat-na", "slug": "numerical-analysis", "name": "Numerical Analysis", "type": 0, "count": 0 },
+    { "id": "cat-or", "slug": "operations-research", "name": "Operations Research", "type": 0, "count": 0 },
+    { "id": "cat-gt", "slug": "graph-theory", "name": "Graph Theory", "type": 0, "count": 0 },
+    { "id": "cat-code", "slug": "code", "name": "Code", "type": 0, "count": 0 },
+    { "id": "cat-latex", "slug": "latex", "name": "LaTeX", "type": 0, "count": 0 }
+  ],
+  "pageMeta": [
+    { "id": "page-about", "title": "About", "slug": "about", "order": 1 },
+    { "id": "page-notes", "title": "Notes", "slug": "course-notes", "order": 2 },
+    { "id": "page-cv", "title": "CV", "slug": "cv", "order": 3 },
+    { "id": "page-message", "title": "Message", "slug": "message", "order": 4 }
+  ],
+  "latestNoteId": { "id": "note-8", "nid": 8 },
+  "noteTopics": [
+    {
+      "id": "topic-course",
+      "slug": "course",
+      "name": "Course",
+      "description": "Lecture notes from courses at Nankai.",
+      "introduce": "Course notes",
+      "icon": null,
+      "created": "2024-07-01T00:00:00.000Z",
+      "createdAt": "2024-07-01T00:00:00.000Z",
+      "count": 0
+    },
+    {
+      "id": "topic-seminar",
+      "slug": "seminar",
+      "name": "Seminar",
+      "description": "Reading group and seminar notes.",
+      "introduce": "Seminar notes",
+      "icon": null,
+      "created": "2025-11-01T00:00:00.000Z",
+      " createdAt": "2025-11-01T00:00:00.000Z",
+      "count": 0
+    },
+    {
+      "id": "topic-journal",
+      "slug": "journal",
+      "name": "Journal",
+      "description": "Short notes and introductions.",
+      "introduce": "Journal",
+      "icon": null,
+      "created": "2024-07-18T00:00:00.000Z",
+      "createdAt": "2024-07-18T00:00:00.000Z",
+      "count": 0
+    }
+  ],
+  "theme": {},
+  "ai": { "enableSummary": false },
+  "commentOptions": { "disableComment": false, "allowGuestComment": true }
+}

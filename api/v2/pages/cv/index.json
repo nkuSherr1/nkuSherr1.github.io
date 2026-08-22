@@ -1,0 +1,14 @@
+{
+  "id": "page-cv",
+  "slug": "cv",
+  "title": "CV",
+  "subtitle": "Curriculum vitae",
+  "order": 3,
+  "created": "2024-01-01T00:00:00.000Z",
+  "modified": "2026-08-17T00:00:00.000Z",
+  "text": "[Download PDF](/files/cv.pdf)\n\n## Education\n\n- 2023.09 — Present · **Nankai University**\n- 2020.09 — 2023.06 · Jinjiang No.1 Middle School (Senior High School)\n- 2017.09 — 2020.06 · Jinjiang No.1 Middle School (Middle School)\n- 2011.09 — 2017.06 · Jinjiang Experimental Primary School\n\n## Awards\n\n- The Mathematical Contest in Modeling (MCM/ICM), **Meritorious Winner, May 2026**\n- National Scholarship, **Tianjin, Dec. 2025**\n- Jiang Lifu Scholarship of Nankai University, **Second Place, Nov. 2025**\n- National College Students' Mathematical Modeling Contest, **Second Place, Oct. 2025**\n- The Mathematical Contest in Modeling (MCM/ICM), **Honorable Mention, May 2025**\n- Nankai University Gongneng Scholarship, **Tianjin, Oct. 2024**\n- The Examination for the National Senior High School’s Mathematical Competition, **First Prize, Oct. 2022**\n- The Top Talents in “Elite Program for Senior High School Students”, Direction: **Mathematics, Xiamen University, Jan. 2021**\n- National Olympiad in Informatics in Provinces, **First Prize, Dec. 2020**\n- 2016 World Robot Olympiad (WRO) China Final, **Second Place, Aug. 2016**\n\n## Courses and Seminars\n\n### Spring 2026\n\n**Courses**\n- Operations Research — Wei Hu\n- Differential Geometry — Xianfeng Wang\n- Modern Graph Theory — Zhouningxin Wang\n- Financial Engineering — Jing Li\n\n**Seminars**\n- Extremal Graph Theory — Jiangdong Ai\n- Discrete Analysis — Jiangdong Ai\n\n### Fall 2025\n\n**Courses**\n\n- Numerical Analysis — Chunlin Wu, Zhiyong Zhao\n- Functional Analysis — Lei Li\n- Partial Differential Equations — Yawei Wei\n- Investment — Jing Li\n- Financial Options — Yiming Jiang\n- Graph Theory — Jiangdong Ai\n\n**Seminars**\n\n- Steklov Problem — Jiangdong Ai, Yizhe Ji\n\n### Spring 2025\n\n**Courses**\n\n- Real Analysis — Ting Chen\n- Probability Theory — Yiming Jiang\n- Discrete Optimization — Yongtang Shi\n- Combinatorics — Hui Sun, Qianghui Guo\n- Data Mining — Shengquan Chen\n\n**Seminars**\n\n- Graph Theory — Jiangdong Ai, Yongtang Shi\n\n### Fall 2024\n\n**Courses**\n\n- Mathematical Analysis III — Duanzhi Zhang, Jian Wang\n- Abstract Algebra — Binbin Xu\n- Complex Analysis I — Xianfeng Wang\n- Complex Analysis II — Xianfeng Wang\n- Ordinary Differential Equations — Ming Li\n- C Programming — Tuo Yuan\n\n**Seminars**\n\n- Functional Analysis — Rui Liu\n\n### Spring 2024\n\n- Geometry — Binbin Xu\n- Mathematical Analysis II — Jun Li, Yan Xu\n- Advanced Algebra and Analytic Geometry 2-2 — Xiugui Liu, Chao Zeng\n\n### Fall 2023\n\n- Mathematical Analysis I — Huagui Duan, Fusheng Lv\n- Advanced Algebra and Analytic Geometry 2-1 — Libing Huang, Ning Li",
+  "images": [],
+  "allowComment": false,
+  "commentsIndex": 0,
+  "type": "md"
+}
