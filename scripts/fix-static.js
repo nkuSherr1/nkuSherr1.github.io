@@ -55,6 +55,28 @@ function replaceSpinnerWithArticle(html) {
     updated = updated.replace(p, '');
   }
 
+  // 4.1) Remove ALL remaining <script src="/_next..."> tags (leave CSS <link> intact)
+  updated = updated.replace(
+    /<script[^>]+src="\/_next[^"]+"[^>]*><\/script>/g,
+    ''
+  );
+
+  // 4.2) Remove inline Next flight/runtime scripts
+  // - self.__next_f.push, self.__next_r, $RT=performance
+  updated = updated.replace(
+    /<script>([\s\S]*?)<\/script>/g,
+    (match, inner) => {
+      if (
+        inner.includes('self.__next_f.push') ||
+        inner.includes('self.__next_r') ||
+        /\$RT\s*=/.test(inner)
+      ) {
+        return '';
+      }
+      return match;
+    }
+  );
+
   // 5) Ensure no visible spinner remains inside <main> (ignore i18n JSON)
   // Remove the known spinner container if it still exists.
   updated = updated.replace(
