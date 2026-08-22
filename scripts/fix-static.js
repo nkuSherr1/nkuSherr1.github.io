@@ -46,10 +46,21 @@ function replaceSpinnerWithArticle(html) {
     /<script[^>]+src="\/_next\/static\/chunks\/app\/%5Blocale%5D\/\(page-detail\)\/[^"]+\.js"[^>]*><\/script>/g, // any other page-detail chunk
     /<script[^>]+src="\/_next\/static\/chunks\/app\/global-error-[^"]+\.js"[^>]*><\/script>/g,
     /<script[^>]+src="\/_next\/static\/chunks\/app\/%5Blocale%5D\/error-[^"]+\.js"[^>]*><\/script>/g,
+    // explicit file names mentioned by user (idempotent)
+    /<script[^>]+src="[^"]*page-a2ed7538ad56972f\.js"[^>]*><\/script>/g,
+    /<script[^>]+src="[^"]*global-error-8dba986051b155a7\.js"[^>]*><\/script>/g,
+    /<script[^>]+src="[^"]*error-4feb5ad20280ae9d\.js"[^>]*><\/script>/g,
   ];
   for (const p of scriptPatterns) {
     updated = updated.replace(p, '');
   }
+
+  // 5) Ensure no visible spinner remains inside <main> (ignore i18n JSON)
+  // Remove the known spinner container if it still exists.
+  updated = updated.replace(
+    /<div[^>]+data-hide-print="true"[^>]*class="[^"]*\bmy-20\b[^"]*"[^>]*>[\s\S]*?<\/div>/g,
+    ''
+  );
 
   return updated;
 }
