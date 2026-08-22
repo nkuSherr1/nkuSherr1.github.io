@@ -272,3 +272,30 @@ Course notes live in this Notes stream (PDF linked in each entry). Papers are un
   if(document.readyState==="loading") document.addEventListener("DOMContentLoaded", boot);
   else boot();
 })();
+
+;/*cursor-trailing-slash-fix*/
+(function(){
+  try {
+    if (typeof window==="undefined" || typeof window.fetch!=="function") return;
+    var originalFetch = window.fetch;
+    window.fetch = function(input, init){
+      try {
+        var urlObj = new URL(
+          typeof input==="string" ? input : (input && input.url) || String(input),
+          (typeof window!=="undefined" && window.location && window.location.origin) || "http://x"
+        );
+        var path = urlObj.pathname;
+        var last = path.split("/").pop() || "";
+        if (path.indexOf("/api/v2")===0 && path.charAt(path.length-1)!=="/" && last.indexOf(".")===-1) {
+          var newUrl = path + "/" + (urlObj.search || "");
+          if (typeof input==="string") {
+            input = newUrl;
+          } else if (input && typeof input==="object" && "url" in input) {
+            try { input = new Request(newUrl, input); } catch {}
+          }
+        }
+      } catch {}
+      return originalFetch(input, init);
+    };
+  } catch {}
+})();
