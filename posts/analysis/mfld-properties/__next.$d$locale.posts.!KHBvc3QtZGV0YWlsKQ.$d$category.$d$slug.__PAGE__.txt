@@ -22,17 +22,62 @@ e:I[87071,[],"MetadataBoundary"]
 14:I[93217,["4266","static/chunks/cb69f5e5-38b1876d0364eabd.js","6618","static/chunks/962d60d4-2f97a7306ab44fe1.js","3374","static/chunks/3374-064cfbbe2608b69a.js","2115","static/chunks/2115-72ad8ab6a0a482e5.js","3371","static/chunks/3371-4aa89e9112feba6f.js","915","static/chunks/915-f2d3aa6318478d87.js","8476","static/chunks/8476-5b9555f1f11850f5.js","9823","static/chunks/9823-752ded14ff1fc8ed.js","6649","static/chunks/6649-4aa84bb85dfcea04.js","2250","static/chunks/2250-55633d86d5c24bd9.js","6702","static/chunks/6702-07d2c1d4b5ee85d1.js","7515","static/chunks/7515-6533e3f4c74944ed.js","6480","static/chunks/6480-b6c8f5836b943902.js","3506","static/chunks/3506-639c9b819e6097ea.js","9359","static/chunks/9359-757c0d4b7d9389cf.js","943","static/chunks/943-e94be4a59502ba15.js","54","static/chunks/54-8b1b2030ec661343.js","3442","static/chunks/3442-b02f67c52bc21b33.js","6407","static/chunks/6407-8c126658ecad0efb.js","5453","static/chunks/5453-1c0b57ba019ddab7.js","4769","static/chunks/4769-249bb22c4440c9d4.js","8773","static/chunks/8773-934b5bf44c7f6a8a.js","3764","static/chunks/3764-7d58f284db646167.js","3101","static/chunks/3101-3c57cfdb325b65de.js","1934","static/chunks/1934-eccc223403b0cb6d.js","7632","static/chunks/7632-8bf358d229ecabf3.js","4938","static/chunks/4938-1a2549c8dabc1ca4.js","8450","static/chunks/app/%5Blocale%5D/layout-5be8c8f700b40dd7.js"],"HydrationEndDetector"]
 5:["$","$L11",null,{"tmdb":false,"children":[["$","$L12",null,{"isLogged":false}],["$","html",null,{"lang":"en","className":"noise themed","suppressHydrationWarning":true,"children":[["$","head",null,{"children":[null,["$","$L13",null,{}],["$","script",null,{"dangerouslySetInnerHTML":{"__html":"var version = \"6.6.7\";\n    (function(){console.info(\"%c Sherr1.log %c https://github.com/nkuSherr1\",\"color: #fff; margin: 1em 0; padding: 5px 0; background: #003153;\",\"margin: 1em 0; padding: 5px 0; background: #efefef;\");let a=`\nSherr1.log\nNankai Mathematics \\xb7 Extremal graph theory\n--------\nWritten with care.\n`;document.firstChild?.nodeType!==Node.COMMENT_NODE&&document.prepend(document.createComment(a))})();"}}],["$","$L14",null,{}],"$L15",["$","link",null,{"rel":"shortcut icon","href":"/favicon.ico","type":"image/x-icon","media":"(prefers-color-scheme: dark)"}],["$","link",null,{"rel":"shortcut icon","href":"/favicon.ico","type":"image/x-icon","media":"(prefers-color-scheme: light)"}],["$","link",null,{"rel":"apple-touch-icon","href":"/apple-touch-icon.png","sizes":"180x180"}],"$L16"]}],["$","body",null,{"suppressHydrationWarning":true,"className":"__variable_e2b71d  m-0 h-full p-0 font-sans","children":"$L17"}]]}]]}]
 18:I[28856,["1433","static/chunks/5da11c83-22ed8340ae03271b.js","4266","static/chunks/cb69f5e5-38b1876d0364eabd.js","6618","static/chunks/962d60d4-2f97a7306ab44fe1.js","3374","static/chunks/3374-064cfbbe2608b69a.js","2115","static/chunks/2115-72ad8ab6a0a482e5.js","3371","static/chunks/3371-4aa89e9112feba6f.js","915","static/chunks/915-f2d3aa6318478d87.js","8476","static/chunks/8476-5b9555f1f11850f5.js","9823","static/chunks/9823-752ded14ff1fc8ed.js","6649","static/chunks/6649-4aa84bb85dfcea04.js","2250","static/chunks/2250-55633d86d5c24bd9.js","6702","static/chunks/6702-07d2c1d4b5ee85d1.js","7515","static/chunks/7515-6533e3f4c74944ed.js","6480","static/chunks/6480-b6c8f5836b943902.js","3506","static/chunks/3506-639c9b819e6097ea.js","9359","static/chunks/9359-757c0d4b7d9389cf.js","943","static/chunks/943-e94be4a59502ba15.js","54","static/chunks/54-8b1b2030ec661343.js","3442","static/chunks/3442-b02f67c52bc21b33.js","7404","static/chunks/7404-9397f040ad174577.js","6407","static/chunks/6407-8c126658ecad0efb.js","6604","static/chunks/6604-70bdf1f7cbe42765.js","5453","static/chunks/5453-1c0b57ba019ddab7.js","8773","static/chunks/8773-934b5bf44c7f6a8a.js","9352","static/chunks/9352-8bd04c7a92b8c94f.js","7846","static/chunks/7846-4eba44fa221868b4.js","1934","static/chunks/1934-eccc223403b0cb6d.js","8952","static/chunks/8952-ed5faf1fed44c8a0.js","4707","static/chunks/4707-ae08c0a2e07bdb62.js","6954","static/chunks/6954-7f08e3e495b0916f.js","5866","static/chunks/5866-796a1b67b30d9378.js","4374","static/chunks/app/%5Blocale%5D/posts/(post-detail)/%5Bcategory%5D/%5Bslug%5D/page-9b4b21b3c2fb2c88.js"],"MainMarkdown",1]
-19:T4c9,这是 [流形笔记](/posts/analysis/mfld-notes/) 的第 3 篇。
+19:Td1e,这是 [流形笔记](/posts/analysis/mfld-notes/) 的第 3 篇。上一篇是 [球面和实射影空间](/posts/analysis/mfld-examples/)，下一篇是 [乘积、连通和、商](/posts/analysis/mfld-constructions/)。
 
-局部紧：每一点有一个紧邻域。\(\mathbb{R}^n\) 局部紧，无穷维赋范空间不是。拓扑流形局部同胚于 \(\mathbb{R}^n\)，所以局部紧。Hausdorff 加上局部紧，单点闭集是紧的，并且能在紧邻域和任意邻域之间再塞一个开集，闭包仍然紧。
+## 流形的性质
 
-仿紧：每个开覆盖都有局部有限的开加细。第二可数的局部紧 Hausdorff 空间是 \(\sigma\)-紧的，因而仿紧。拓扑流形因此仿紧。单位分解就靠这个：给定开覆盖，存在光滑的单位分解从属于它。后面做 Riemann 度量、把局部定义的对象粘成整体，用的都是它。
+### 局部紧与仿紧
 
-道路连通推出连通。对流形，连通也推出道路连通，因为局部欧氏的道路连通邻域可以把一条链接起来。连通流形的维数是常数。
+**定义（局部紧）.** 拓扑空间 $X$ 称为局部紧的，若任意 $x\in X$ 都有一个紧致邻域。
 
-第二可数的局部紧 Hausdorff 空间可度量化。Urysohn 度量化定理的条件在这里都满足：正则、第二可数。所以拓扑流形是可度量化的。微分结构不参与这一步，它是纯拓扑的结论。
+**命题.** 拓扑流形是局部紧的。局部紧 Hausdorff 空间是 $T_3$ 的。
 
-下一篇用这些性质来拼新的流形：[乘积、连通和、商](/posts/analysis/mfld-constructions/)。
+*证明.* 局部欧氏给出同胚于 $\mathbb{R}^n$ 开集的邻域。$\mathbb{R}^n$ 中一点有任意小的闭球体邻域，闭球体紧致，故流形局部紧。局部紧 Hausdorff 空间中，紧邻域可以取得闭，从而正则，即 $T_3$。
+
+**定义（局部有限、加细、仿紧）.** 设 $\mathcal{U}$ 是 $X$ 的覆盖。
+
+1. 称 $\mathcal{U}$ 为局部有限的，若每一点都有邻域只与 $\mathcal{U}$ 中有限个成员相交。
+2. 设 $\mathcal{U}'$ 也是覆盖。若 $\mathcal{U}'$ 的每个成员都包含在 $\mathcal{U}$ 的某个成员中，则称 $\mathcal{U}'$ 为 $\mathcal{U}$ 的加细；若还是开覆盖，则称开加细。
+3. 称 $X$ 为仿紧的，若每个开覆盖都有局部有限的开加细。
+
+**定理.** 局部紧、$A_2$ 的 Hausdorff 空间是仿紧的，从而拓扑流形是仿紧的。仿紧 Hausdorff 空间满足 $T_4$，从而拓扑流形是 $T_4$ 的。
+
+**注.** 仿紧性是流形上存在单位分解的拓扑原因。有了单位分解，才能把局部定义的对象（度量、形式、函数）拼成整体对象。
+
+### 道路连通与可度量化
+
+**定义（连通与道路连通）.** 拓扑空间 $X$ 称为连通的，若它不能写成两个非空不交开集的并。连续映射 $a\colon I=[0,1]\to X$ 称为一条道路，$a(0)$、$a(1)$ 分别是起点和终点。若任意两点都有道路连接，则称 $X$道路连通。
+
+一般拓扑空间里，道路连通蕴含连通，反过来不真。流形因为局部欧氏，二者重合。
+
+**定理.** 连通的拓扑流形是道路连通的。
+
+*证明.* 设 $M$ 是连通拓扑流形。对任意 $p\in M$，令
+\[
+C_p=\{q\in M \bigm| \text{存在道路连接 }p\text{ 与 }q\}.
+\]
+显然 $p\in C_p$，故 $C_p$ 非空。流形局部欧氏，因而局部道路连通，于是 $C_p$ 是开集。
+
+若 $p\neq q$，则要么 $C_p=C_q$，要么 $C_p\cap C_q=\emptyset$：两条道路可以首尾相接。因此各 $C_p$ 构成 $M$ 的分划。若某个 $C_p\neq M$，则
+\[
+M\setminus C_p=\bigcup_{q\notin C_p}C_q
+\]
+也是开集，与连通性矛盾。故 $C_p=M$。
+
+**定理.** 拓扑流形是可度量化的。
+
+*证明.* 论证链是标准的分离公理升降：
+
+1. $T_2+$ 局部紧 $\Rightarrow$ $T_3$；
+2. $T_3+A_2$ $\Rightarrow$ $T_4$（Lindelöf 定理）；
+3. $T_1+T_4+A_2$ $\Rightarrow$ 可度量化（Urysohn 度量化定理）。
+
+拓扑流形满足全部假设。
+
+**补充.** 对微分流形还有另一条路：先在每点的切空间上取正定二次型，得到黎曼度量，再定义分段 $C^1$ 曲线的长度。由此产生距离和测地线；两点间的距离就是连接它们的最短测地线长度。这条路把度量直接造出来，而不只是抽象地保证存在。
+
+
+上一篇：[球面和实射影空间](/posts/analysis/mfld-examples/)。下一篇：[乘积、连通和、商](/posts/analysis/mfld-constructions/)。
 7:["$","div",null,{"className":"relative flex min-h-[120px] grid-cols-[auto_200px] lg:grid","children":["$","div",null,{"className":"relative w-full min-w-0","children":["$","article",null,{"className":"prose article-prose","children":[["$","h1",null,{"className":"mb-8 text-balance text-center lg:text-left text-4xl font-bold leading-tight","children":"局部紧、仿紧、可度量化"}],["$","$L18",null,{"allowsScript":true,"value":"$19","className":"min-w-0 overflow-hidden"}]]}]}]}]
 15:["$","style",null,{"id":"accent-color-style","data-light":"#BE123C","data-dark":"#F43F5E","dangerouslySetInnerHTML":{"__html":"\n        html[data-theme='light'] {\n          --color-accent: oklch(0.5142563147617311 0.19780565183015228 16.934988161961996);\n        }\n        html[data-theme='dark'] {\n          --color-accent: oklch(0.6450321516313926 0.21540307992703317 16.439293967097797);\n        }\n        :root[data-theme='light'] {\n          --footer-bg: #f2e4d8;\n        }\n        :root[data-theme='dark'] {\n          --footer-bg: #361e1f;\n        }"}}]
 16:["$undefined","$undefined","$undefined","$undefined"]

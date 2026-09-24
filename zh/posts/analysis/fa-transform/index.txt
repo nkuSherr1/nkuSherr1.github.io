@@ -21,31 +21,1856 @@ e:I[87071,[],"MetadataBoundary"]
 14:I[60755,["4266","static/chunks/cb69f5e5-38b1876d0364eabd.js","6618","static/chunks/962d60d4-2f97a7306ab44fe1.js","3374","static/chunks/3374-064cfbbe2608b69a.js","2115","static/chunks/2115-72ad8ab6a0a482e5.js","3371","static/chunks/3371-4aa89e9112feba6f.js","915","static/chunks/915-f2d3aa6318478d87.js","8476","static/chunks/8476-5b9555f1f11850f5.js","9823","static/chunks/9823-752ded14ff1fc8ed.js","6649","static/chunks/6649-4aa84bb85dfcea04.js","2250","static/chunks/2250-55633d86d5c24bd9.js","6702","static/chunks/6702-07d2c1d4b5ee85d1.js","7515","static/chunks/7515-6533e3f4c74944ed.js","6480","static/chunks/6480-b6c8f5836b943902.js","3506","static/chunks/3506-639c9b819e6097ea.js","9359","static/chunks/9359-757c0d4b7d9389cf.js","943","static/chunks/943-e94be4a59502ba15.js","54","static/chunks/54-8b1b2030ec661343.js","3442","static/chunks/3442-b02f67c52bc21b33.js","6407","static/chunks/6407-8c126658ecad0efb.js","5453","static/chunks/5453-1c0b57ba019ddab7.js","4769","static/chunks/4769-249bb22c4440c9d4.js","8773","static/chunks/8773-934b5bf44c7f6a8a.js","3764","static/chunks/3764-7d58f284db646167.js","3101","static/chunks/3101-3c57cfdb325b65de.js","1934","static/chunks/1934-eccc223403b0cb6d.js","7632","static/chunks/7632-8bf358d229ecabf3.js","4938","static/chunks/4938-1a2549c8dabc1ca4.js","8450","static/chunks/app/%5Blocale%5D/layout-5be8c8f700b40dd7.js"],"HydrateuserAuthProvider"]
 15:I[9999,["4266","static/chunks/cb69f5e5-38b1876d0364eabd.js","6618","static/chunks/962d60d4-2f97a7306ab44fe1.js","3374","static/chunks/3374-064cfbbe2608b69a.js","2115","static/chunks/2115-72ad8ab6a0a482e5.js","3371","static/chunks/3371-4aa89e9112feba6f.js","915","static/chunks/915-f2d3aa6318478d87.js","8476","static/chunks/8476-5b9555f1f11850f5.js","9823","static/chunks/9823-752ded14ff1fc8ed.js","6649","static/chunks/6649-4aa84bb85dfcea04.js","2250","static/chunks/2250-55633d86d5c24bd9.js","6702","static/chunks/6702-07d2c1d4b5ee85d1.js","7515","static/chunks/7515-6533e3f4c74944ed.js","6480","static/chunks/6480-b6c8f5836b943902.js","3506","static/chunks/3506-639c9b819e6097ea.js","9359","static/chunks/9359-757c0d4b7d9389cf.js","943","static/chunks/943-e94be4a59502ba15.js","54","static/chunks/54-8b1b2030ec661343.js","3442","static/chunks/3442-b02f67c52bc21b33.js","6407","static/chunks/6407-8c126658ecad0efb.js","5453","static/chunks/5453-1c0b57ba019ddab7.js","4769","static/chunks/4769-249bb22c4440c9d4.js","8773","static/chunks/8773-934b5bf44c7f6a8a.js","3764","static/chunks/3764-7d58f284db646167.js","3101","static/chunks/3101-3c57cfdb325b65de.js","1934","static/chunks/1934-eccc223403b0cb6d.js","7632","static/chunks/7632-8bf358d229ecabf3.js","4938","static/chunks/4938-1a2549c8dabc1ca4.js","8450","static/chunks/app/%5Blocale%5D/layout-5be8c8f700b40dd7.js"],"Global"]
 16:I[93217,["4266","static/chunks/cb69f5e5-38b1876d0364eabd.js","6618","static/chunks/962d60d4-2f97a7306ab44fe1.js","3374","static/chunks/3374-064cfbbe2608b69a.js","2115","static/chunks/2115-72ad8ab6a0a482e5.js","3371","static/chunks/3371-4aa89e9112feba6f.js","915","static/chunks/915-f2d3aa6318478d87.js","8476","static/chunks/8476-5b9555f1f11850f5.js","9823","static/chunks/9823-752ded14ff1fc8ed.js","6649","static/chunks/6649-4aa84bb85dfcea04.js","2250","static/chunks/2250-55633d86d5c24bd9.js","6702","static/chunks/6702-07d2c1d4b5ee85d1.js","7515","static/chunks/7515-6533e3f4c74944ed.js","6480","static/chunks/6480-b6c8f5836b943902.js","3506","static/chunks/3506-639c9b819e6097ea.js","9359","static/chunks/9359-757c0d4b7d9389cf.js","943","static/chunks/943-e94be4a59502ba15.js","54","static/chunks/54-8b1b2030ec661343.js","3442","static/chunks/3442-b02f67c52bc21b33.js","6407","static/chunks/6407-8c126658ecad0efb.js","5453","static/chunks/5453-1c0b57ba019ddab7.js","4769","static/chunks/4769-249bb22c4440c9d4.js","8773","static/chunks/8773-934b5bf44c7f6a8a.js","3764","static/chunks/3764-7d58f284db646167.js","3101","static/chunks/3101-3c57cfdb325b65de.js","1934","static/chunks/1934-eccc223403b0cb6d.js","7632","static/chunks/7632-8bf358d229ecabf3.js","4938","static/chunks/4938-1a2549c8dabc1ca4.js","8450","static/chunks/app/%5Blocale%5D/layout-5be8c8f700b40dd7.js"],"HydrationEndDetector"]
-12:T5ee,这是 [傅里叶分析笔记](/posts/analysis/fa-notes/) 的第 3 篇。
+12:T11a72,这是 [傅里叶分析笔记](/posts/analysis/fa-notes/) 的第 3 篇。上一篇是 [极大函数](/posts/analysis/fa-maximal/)，下一篇是 [Schwartz 函数和缓增分布](/posts/analysis/fa-schwartz/)。
 
-\(f\in L^1(\mathbb{R}^n)\) 的 Fourier 变换是
+## Fourier 变换的 $L^1$ 理论
 
+**定义.** 设 $f\in L^1(\mathbb{R}^n)$，称
 \[
-\hat f(\xi)=\int_{\mathbb{R}^n} f(x)e^{-2\pi i x\cdot\xi}\,dx.
+\widehat{f}(x)=\int_{\mathbb{R}^n}f(t)e^{-2\pi i x\cdot t} \mathrm{d}t,
+\forall x\in\mathbb{R}^n
+\]
+为 $f$ 的 Fourier 变换.
+
+**注.** (1) Fourier 变换是 $(1,\infty)$ 型的线性算子.
+
+*证明.* 因为 $\lvert e^{-2\pi i x\cdot t}\rvert\le 1$，所以
+\[
+\lvert \widehat{f}(x)\rvert
+=\lvert \int_{\mathbb{R}^n}f(t)e^{-2\pi i x\cdot t} \mathrm{d}t\rvert
+\le\int_{\mathbb{R}^n}\lvert f(t)\rvert \mathrm{d}t.
+\]
+故 $\lVert \widehat{f}\rVert_\infty\le\lVert f\rVert_1$.
+
+**注.** (2) 设 $f\in L^1(\mathbb{R}^n)$，则 $\widehat{f}$ 在 $\mathbb{R}^n$ 上一致连续.
+
+*证明.* 对于任意的 $x\in\mathbb{R}^n$，$h\in\mathbb{R}^n$，
+
+$$
+\begin{aligned}
+\lvert \widehat{f}(x+h)-\widehat{f}(x)\rvert
+&=\lvert \int_{\mathbb{R}^n}f(t)[e^{-2\pi i(x+h)\cdot t}-e^{-2\pi i x\cdot t}] \mathrm{d}t\rvert\\
+&\le\int_{\mathbb{R}^n}\lvert f(t)\rvert \lvert e^{-2\pi i(x+h)\cdot t}-e^{-2\pi i x\cdot t}\rvert \mathrm{d}t\\
+&\le\int_{\mathbb{R}^n}\lvert f(t)\rvert \lvert e^{-2\pi i h\cdot t}-1\rvert \mathrm{d}t\\
+&=\int_{\mathbb{R}^n}\lvert f(t)\rvert \lvert \cos(2\pi h\cdot t)-1-i\sin(2\pi h\cdot t)\rvert \mathrm{d}t\\
+&=\int_{\mathbb{R}^n}\lvert f(t)\rvert \lvert 2\sin(\pi h\cdot t)\rvert \mathrm{d}t\to 0
+(\lvert h\rvert\to 0).
+\end{aligned}
+$$
+
+收敛性由控制收敛定理可得.
+
+**引理（Riemann–Lebesgue）.** 设 $f\in L^1(\mathbb{R}^n)$，则 $\widehat{f}\in C_0(\mathbb{R}^n)$.
+
+*证明.* (i) 记长方体 $I=[a_1,b_1]\times\cdots\times[a_n,b_n]\subset\mathbb{R}^n$. 则
+
+$$
+\begin{aligned}
+\widehat{\chi_I}(x)
+&=\int_{\mathbb{R}^n}\chi_I(t)e^{-2\pi i x\cdot t} \mathrm{d}t\\
+&=\int_{a_1}^{b_1}e^{-2\pi i x_1 t_1}\dt_1\cdots\int_{a_n}^{b_n}e^{-2\pi i x_n t_n}\dt_n\\
+&=\prod_{j=1}^n\frac{1}{2\pi i x_j}[e^{-2\pi i a_j x_j}-e^{-2\pi i b_j x_j}].
+\end{aligned}
+$$
+
+当 $\lvert x\rvert\to\infty$ 时，至少存在 $j$，使得 $\lvert x_j\rvert\to\infty$. 不妨设 $\lvert x_1\rvert\to\infty$，则易见
+$\lim_{\lvert x\rvert\to\infty}\widehat{\chi_I}(x)=0$. 因此对于任意阶梯函数 $g$，
+$\lim_{\lvert x\rvert\to\infty}\widehat{g}(x)=0$.
+
+(ii) 设 $f\in L^1(\mathbb{R}^n)$，对于任意的 $\varepsilon>0$，存在阶梯函数 $g$ 使得
+\[
+\lVert f-g\rVert_1<\varepsilon.
+\]
+因为对充分大的 $\lvert x\rvert$，有 $\lvert \widehat{g}(x)\rvert<\varepsilon$. 所以
+
+$$
+\begin{aligned}
+\lvert \widehat{f}(x)\rvert
+&\le\lvert \widehat{f}(x)-\widehat{g}(x)\rvert+\lvert \widehat{g}(x)\rvert\\
+&\le\lVert f-g\rVert_1+\lvert \widehat{g}(x)\rvert<2\varepsilon.
+\end{aligned}
+$$
+
+故 $\widehat{f}\in C_0(\mathbb{R}^n)$.
+
+**定理（Fourier 变换与卷积的关系）.** 设 $f,g\in L^1(\mathbb{R}^n)$，则
+\[
+\widehat{f*g}(x)=\widehat{f}(x)\widehat{g}(x).
 \]
 
-它是 \((1,\infty)\) 型的：\(\|\hat f\|_\infty\le\|f\|_1\)。而且 \(\hat f\) 一致连续。Riemann–Lebesgue：\(|\xi|\to\infty\) 时 \(\hat f(\xi)\to 0\)，所以像落在 \(C_0\) 里，不必落在 \(L^1\)。
+*证明.* 由定义
 
-高斯函数 \(e^{-\pi|x|^2}\) 是自己的 Fourier 变换。平移、调制、伸缩都有对应的乘子。卷积变成乘积：\(\widehat{f*g}=\hat f\,\hat g\)。
+$$
+\begin{aligned}
+\widehat{f*g}(x)
+&=\int_{\mathbb{R}^n}(\int_{\mathbb{R}^n}f(t-y)g(y) \mathrm{d}y)e^{-2\pi i x\cdot t} \mathrm{d}t\\
+&=\int_{\mathbb{R}^n}g(y)(\int_{\mathbb{R}^n}f(t-y)e^{-2\pi i(t-y)\cdot x} \mathrm{d}t)e^{-2\pi i y\cdot x} \mathrm{d}y\\
+&=\widehat{f}(x)\int_{\mathbb{R}^n}g(y)e^{-2\pi i y\cdot x} \mathrm{d}y
+=\widehat{f}(x)\widehat{g}(x).
+\end{aligned}
+$$
 
-反演不能对所有 \(L^1\) 函数逐点写。若 \(f\) 和 \(\hat f\) 都在 \(L^1\)，则几乎处处
-
+**定理（Fourier 变换与平移的关系）.** 设 $f\in L^1(\mathbb{R}^n)$，$h\in\mathbb{R}^n$，平移算子 $T_h$ 定义为
 \[
-f(x)=\int\hat f(\xi)e^{2\pi i x\cdot\xi}\,d\xi,
+T_h f(x)=f(x-h), x\in\mathbb{R}^n.
+\]
+则有
+\[
+(T_h f)^\wedge(x)=e^{-2\pi i x\cdot h}\widehat{f}(x),
+
+T_h\widehat{f}(x)=(e^{2\pi i(\cdot)\cdot h}f(\cdot))^\wedge(x).
 \]
 
-连续版本在每一点成立。一般的 \(L^1\) 函数要用求和核（Cesàro、Gauss、Poisson）把反演积分收成恒等逼近，再引用上一篇的点态收敛。
+*证明.* 由定义
 
-\(L^2\) 理论走另一条路。Schwartz 函数在 \(L^2\) 里稠密，Plancherel 说 \(\|\hat f\|_2=\|f\|_2\)。Fourier 变换因此唯一延拓成 \(L^2\) 上的酉算子，逆是共轭变换。\(1<p<2\) 时 Hausdorff–Young 把 \(L^p\) 映进 \(L^{p'}\)，常数由 Riesz–Thorin 从端点 \((1,\infty)\) 和 \((2,2)\) 插出来。
+$$
+\begin{aligned}
+(T_h f)^\wedge(x)
+&=\int_{\mathbb{R}^n}T_h f(t)e^{-2\pi i x\cdot t} \mathrm{d}t
+=\int_{\mathbb{R}^n}f(t-h)e^{-2\pi i x\cdot t} \mathrm{d}t\\
+&=e^{-2\pi i x\cdot h}\int_{\mathbb{R}^n}f(t-h)e^{-2\pi i x\cdot(t-h)} \mathrm{d}t
+=e^{-2\pi i x\cdot h}\widehat{f}(x).
+\end{aligned}
+$$
 
-复测度的 Fourier 变换照样用 \(e^{-2\pi ix\cdot\xi}\) 对 \(\mu\) 积分，仍然有界连续，并且 \(\widehat{\mu*\nu}=\hat\mu\,\hat\nu\)。
+另一方面
 
-下一篇把变换从函数扩大到分布：[Schwartz 与缓增分布](/posts/analysis/fa-schwartz/)。
+$$
+\begin{aligned}
+T_h\widehat{f}(x)
+&=\widehat{f}(x-h)
+=\int_{\mathbb{R}^n}f(t)e^{-2\pi i(x-h)\cdot t} \mathrm{d}t\\
+&=\int_{\mathbb{R}^n}f(t)e^{2\pi i h\cdot t}e^{-2\pi i x\cdot t} \mathrm{d}t
+=(e^{2\pi i(\cdot)\cdot h}f(\cdot))^\wedge(x).
+\end{aligned}
+$$
+
+**定理（Fourier 变换与线性变换的关系）.** 设 $f\in L^1(\mathbb{R}^n)$.
+
+1. 设 $T$ 是可逆线性变换，用 $T$ 记其矩阵，记 $T^t$ 为其转置. 则 \[ (f(T\cdot))^\wedge(x)=\lvert \det(T)\rvert^{-1}\widehat{f}(T^{-t}x). \]
+2. 设 $a\neq 0$，伸缩变换 $\eta_a$ 定义为 $\eta_a f(x)=f(ax)$，$x\in\mathbb{R}^n$. 则 \[ (\eta_a f)^\wedge(x)=\frac{1}{\lvert a\rvert^n}\eta_{a^{-1}}\widehat{f}(x). \]
+3. $L^1(\mathbb{R}^n)$ 上 Fourier 变换与正交变换可交换：对于任意的正交矩阵 $O$，有 \[ (f(O\cdot))^\wedge(x)=\widehat{f}(Ox). \]
+4. $L^1(\mathbb{R}^n)$ 中径向函数的 Fourier 变换仍为径向函数.
+
+*证明.* (i) 利用变量替换 $u=T(t)$，
+
+$$
+\begin{aligned}
+(f(T\cdot))^\wedge(x)
+&=\int_{\mathbb{R}^n}f(T(t))e^{-2\pi i x\cdot t} \mathrm{d}t\\
+&=\int_{\mathbb{R}^n}f(u)e^{-2\pi i x\cdot T^{-1}u}\lvert \det(T^{-1})\rvert \mathrm{d}u\\
+&=\lvert \det(T)\rvert^{-1}\int_{\mathbb{R}^n}f(u)e^{-2\pi i T^{-t}x\cdot u} \mathrm{d}u
+=\lvert \det(T)\rvert^{-1}\widehat{f}(T^{-t}x).
+\end{aligned}
+$$
+
+**注（内积性质）.** \[
+x\cdot T^{-1}u=x^t T^{-1}u=(T^{-t}x)^t u=T^{-t}x\cdot u.
+\]
+
+*证明.* (ii) 伸缩变换 $\eta_a$ 的矩阵为 $aI$，利用结论 (i)
+\[
+(\eta_a f)^\wedge(x)
+=\lvert \det(aI)\rvert^{-1}\widehat{f}((aI)^{-t}x)
+=\frac{1}{\lvert a\rvert^n}\widehat{f}(a^{-1}x)
+=\frac{1}{\lvert a\rvert^n}\eta_{a^{-1}}\widehat{f}(x).
+\]
+
+(iii) 正交矩阵 $O$ 满足 $\lvert \det(O)\rvert=1$，$O^t=O^{-1}$，利用结论 (i)
+\[
+(f(O\cdot))^\wedge(x)
+=\lvert \det(O)\rvert^{-1}\widehat{f}(O^{-t}x)=\widehat{f}(Ox).
+\]
+
+(iv) $f$ 是径向函数：对任意的旋转变换 $\rho$，满足 $f(\rho x)=f(x)$，$\forall x\in\mathbb{R}^n$.
+利用结论 (iii)
+\[
+(f(\rho\cdot))^\wedge(x)=\widehat{f}(\rho x).
+\]
+则 $\widehat{f}(\rho x)=\widehat{f}(x)$. 故 $\widehat{f}$ 为径向函数.
+
+**定义.** 设 $f\in L^p(\mathbb{R}^n)$，$1\le p<\infty$. 若存在 $g\in L^p(\mathbb{R}^n)$，使得对任意的
+$h=(0,\dots,0,h_k,0,\dots,0)$，
+\[
+\lim_{h_k\to 0}\Biggl(\int_{\mathbb{R}^n}\lvert \frac{f(x+h)-f(x)}{h_k}-g(x)\rvert^p \mathrm{d}x\Biggr)^{1/p}=0,
+\]
+则称 $f$ 按 $L^p$ 范关于 $x_k$ 可导，称 $g$ 为 $f$ 按 $L^p$ 范关于 $x_k$ 的偏导数.
+
+显然，如果 $f$ 按 $L^p$ 范关于 $x_k$ 可导，那么在几乎处处相等的意义下偏导数是唯一的.
+
+**定理（Fourier 变换与微分的关系）.** 设 $f\in L^1(\mathbb{R}^n)$.
+
+1. 若 $x_k f\in L^1(\mathbb{R}^n)$，那么 $\dfrac{\partial\widehat{f}}{\partial x_k}$ 存在，且 \[ \frac{\partial\widehat{f}}{\partial x_k}(x)=(-2\pi i t_k f(t))^\wedge(x). \]
+2. 若 $g$ 是 $f$ 按 $L^1$ 范关于 $x_k$ 的偏导数，那么 \[ \widehat{g}(x)=2\pi i x_k\widehat{f}(x). \]
+3. 若 $f\in C^1(\mathbb{R}^n)$，$\dfrac{\partial f}{\partial x_k}\in L^1(\mathbb{R}^n)$，那么 \[ (\frac{\partial f}{\partial t_k})^\wedge(x)=2\pi i x_k\widehat{f}(x). \]
+
+*证明.* (i) 设 $h=(0,\dots,0,h_k,0,\dots,0)$，对任意的 $x\in\mathbb{R}^n$，
+
+$$
+\begin{aligned}
+\frac{\widehat{f}(x+h)-\widehat{f}(x)}{h_k}
+&=\frac{1}{h_k}[T_{-h}\widehat{f}(x)-\widehat{f}(x)]\\
+&=\frac{1}{h_k}[(e^{-2\pi i(\cdot)\cdot h}f(\cdot))^\wedge(x)-\widehat{f}(x)]\\
+&=\Biggl[\frac{e^{-2\pi i(\cdot)\cdot h}-1}{h_k}f(\cdot)\Biggr]^\wedge(x)\\
+&=\int_{\mathbb{R}^n}f(t)\frac{e^{-2\pi i t\cdot h}-1}{h_k}e^{-2\pi i x\cdot t} \mathrm{d}t.
+\end{aligned}
+$$
+
+因为
+\[
+\lvert \frac{e^{-2\pi i t\cdot h}-1}{h_k}\rvert
+\le\frac{\lvert 2\sin(\pi t\cdot h)\rvert}{\lvert h_k\rvert}
+\le\frac{\lvert 2\pi t\cdot h\rvert}{\lvert h_k\rvert}=2\pi\lvert t_k\rvert,
+\]
+以及 $x_k f(x)\in L^1(\mathbb{R}^n)$，和
+\[
+\lim_{h_k\to 0}\frac{e^{-2\pi i t\cdot h}-1}{h_k}=-2\pi i t_k.
+\]
+运用控制收敛定理得
+
+$$
+\begin{aligned}
+\lim_{h_k\to 0}\frac{\widehat{f}(x+h)-\widehat{f}(x)}{h_k}
+&=\lim_{h_k\to 0}\int_{\mathbb{R}^n}f(t)\frac{e^{-2\pi i t\cdot h}-1}{h_k}e^{-2\pi i x\cdot t} \mathrm{d}t\\
+&=\int_{\mathbb{R}^n}f(t)e^{-2\pi i x\cdot t}\Biggl[\lim_{h_k\to 0}\frac{e^{-2\pi i t\cdot h}-1}{h_k}\Biggr] \mathrm{d}t\\
+&=\int_{\mathbb{R}^n}f(t)e^{-2\pi i x\cdot t}(-2\pi i t_k) \mathrm{d}t
+=(-2\pi i t_k f(t))^\wedge(x).
+\end{aligned}
+$$
+
+所以
+\[
+\frac{\partial\widehat{f}}{\partial x_k}(x)=(-2\pi i t_k f(t))^\wedge(x).
+\]
+
+(ii) 因为 $(T_{-h}f)^\wedge(x)=e^{2\pi i x\cdot h}\widehat{f}(x)$，所以
+
+$$
+\begin{aligned}
+\lvert \widehat{g}(x)-\frac{e^{2\pi i x\cdot h}-1}{h_k}\widehat{f}(x)\rvert
+&=\lvert \Biggl(g(\cdot)-\frac{f(\cdot+h)-f(\cdot)}{h_k}\Biggr)^\wedge(x)\rvert\\
+&\le\int_{\mathbb{R}^n}\lvert g(t)-\frac{f(t+h)-f(t)}{h_k}\rvert \mathrm{d}t.
+\end{aligned}
+$$
+
+若 $g$ 是 $f$ 按 $L^1$ 范关于 $x_k$ 的偏导数，则
+
+$$
+\begin{aligned}
+\lim_{h_k\to 0}\lvert \widehat{g}(x)-\frac{e^{2\pi i x\cdot h}-1}{h_k}\widehat{f}(x)\rvert
+&\le\lim_{h_k\to 0}\int_{\mathbb{R}^n}\lvert g(t)-\frac{f(t+h)-f(t)}{h_k}\rvert \mathrm{d}t=0.
+\end{aligned}
+$$
+
+又因为
+\[
+\lim_{h_k\to 0}\frac{e^{2\pi i x\cdot h}-1}{h_k}=2\pi i x_k,
+\]
+所以
+\[
+\widehat{g}(x)=\lim_{h_k\to 0}\frac{e^{2\pi i x\cdot h}-1}{h_k}\widehat{f}(x)=2\pi i x_k\widehat{f}(x).
+\]
+
+(iii) 对任意的 $A,B>0$，运用分部积分
+
+$$
+\begin{aligned}
+&\int_{\mathbb{R}^{n-1}}\Biggl(\int_{-B}^{A}\frac{\partial f}{\partial t_k}(t)e^{-2\pi i t_k x_k}\dt_k\Biggr)
+e^{-2\pi i\sum_{j\neq k}t_j x_j}\prod_{j\neq k}\dt_j\\
+&=\int_{\mathbb{R}^{n-1}}\Biggl[
+f(t)e^{-2\pi i t_k x_k}\Big|_{-B}^{A}
+-(-2\pi i x_k)\int_{-B}^{A}f(t)e^{-2\pi i t_k x_k}\dt_k
+\Biggr]
+e^{-2\pi i\sum_{j\neq k}t_j x_j}\prod_{j\neq k}\dt_j.
+\end{aligned}
+$$
+
+若一元函数 $\varphi\in C^1(\mathbb{R})$ 满足条件 $\varphi'(x)\in L(\mathbb{R})$，则
+\[
+\varphi(x)-\varphi(0)=\int_0^x\varphi'(t) \mathrm{d}t,\forall x\in\mathbb{R}.
+\]
+而且
+
+$$
+\begin{aligned}
+\lim_{x\to+\infty}\varphi(x)-\varphi(0)&=\int_0^{+\infty}\varphi'(t) \mathrm{d}t=c_1;\\
+\lim_{x\to-\infty}\varphi(x)-\varphi(0)&=-\int_{-\infty}^{0}\varphi'(t) \mathrm{d}t=c_2.
+\end{aligned}
+$$
+
+可见 $\lim_{x\to+\infty}\varphi(x)$，$\lim_{x\to-\infty}\varphi(x)$ 极限存在.
+若再满足条件 $\varphi\in L(\mathbb{R})$，那么
+\[
+\lim_{x\to+\infty}\varphi(x)=\lim_{x\to-\infty}\varphi(x)=0.
+\]
+由上述性质以及控制收敛定理，可得
+
+$$
+\begin{aligned}
+&\lim_{A,B\to+\infty}
+\int_{\mathbb{R}^{n-1}}\Biggl[
+f(t)e^{-2\pi i t_k x_k}\Big|_{-B}^{A}
+-(-2\pi i x_k)\int_{-B}^{A}f(t)e^{-2\pi i t_k x_k}\dt_k
+\Biggr]
+e^{-2\pi i\sum_{j\neq k}t_j x_j}\prod_{j\neq k}\dt_j\\
+&=\int_{\mathbb{R}^n}(2\pi i x_k)f(t)e^{-2\pi i t\cdot x} \mathrm{d}t=2\pi i x_k\widehat{f}(x).
+\end{aligned}
+$$
+
+此外，当 $A,B\to+\infty$，
+
+$$
+\begin{aligned}
+&\int_{\mathbb{R}^{n-1}}\Biggl(\int_{-B}^{A}\frac{\partial f}{\partial t_k}(t)e^{-2\pi i t_k x_k}\dt_k\Biggr)
+e^{-2\pi i\sum_{j\neq k}t_j x_j}\prod_{j\neq k}\dt_j\\
+&\to\int_{\mathbb{R}^n}\frac{\partial f}{\partial t_k}(t)e^{-2\pi i t\cdot x} \mathrm{d}t.
+\end{aligned}
+$$
+
+因此
+\[
+(\frac{\partial f}{\partial t_k})^\wedge(x)
+=\int_{\mathbb{R}^n}\frac{\partial f}{\partial t_k}(t)e^{-2\pi i t\cdot x} \mathrm{d}t
+=2\pi i x_k\widehat{f}(x).
+\]
+
+定理 4 可推广为：设 $f\in L(\mathbb{R}^n)$，
+
+1. 如果对于任意 $\alpha\in\Z_+^n$，$\lvert \alpha\rvert\le m$，有 $x^\alpha f\in L^1(\mathbb{R}^n)$，那么 $\widehat{f}\in C^m(\mathbb{R}^n)$，且 \[ D^\alpha\widehat{f}(x)=[(-2\pi i t)^\alpha f(t)]^\wedge(x). \]
+2. 若 $f\in C^m(\mathbb{R}^n)$，且当 $\lvert \alpha\rvert\le m$，有 $D^\alpha f\in L^1(\mathbb{R}^n)$，那么 \[ (D^\alpha f)^\wedge(x)=(2\pi i x)^\alpha\widehat{f}(x). \]
+
+**注.** 设 $m\in\mathbb{N}$，$\alpha=(\alpha_1,\dots,\alpha_n)\in\Z_+^n$. 记
+\[
+P(x)=\sum_{\lvert \alpha\rvert\le m}a_\alpha x^\alpha
+\]
+为 $m$ 次 $n$ 元多项式，则微分算子 $P(D)=\sum_{\lvert \alpha\rvert\le m}a_\alpha D^\alpha$.
+由定理 4 可知
+
+$$
+\begin{aligned}
+P(D)\widehat{f}(x)&=(P(-2\pi i t)f(t))^\wedge(x),\\
+(P(D)f)^\wedge(x)&=P(2\pi i x)\widehat{f}(x).
+\end{aligned}
+$$
+
+**定理（乘法公式）.** 设 $f,g\in L^1(\mathbb{R}^n)$，则
+\[
+\int_{\mathbb{R}^n}\widehat{f}(x)g(x) \mathrm{d}x=\int_{\mathbb{R}^n}f(x)\widehat{g}(x) \mathrm{d}x.
+\]
+
+*证明.* 由定义和 Fubini 定理
+
+$$
+\begin{aligned}
+\int_{\mathbb{R}^n}\widehat{f}(x)g(x) \mathrm{d}x
+&=\int_{\mathbb{R}^n}(\int_{\mathbb{R}^n}f(t)e^{-2\pi i x\cdot t} \mathrm{d}t)g(x) \mathrm{d}x\\
+&=\int_{\mathbb{R}^n}f(t)(\int_{\mathbb{R}^n}g(x)e^{-2\pi i x\cdot t} \mathrm{d}x) \mathrm{d}t
+=\int_{\mathbb{R}^n}f(t)\widehat{g}(t) \mathrm{d}t.
+\end{aligned}
+$$
+
+**定理.** 不存在 $L^1(\mathbb{R})$ 中的函数 $f$，使得 $\lVert f\rVert_1>0$，且 $\operatorname{supp} f$ 和 $\operatorname{supp}\widehat{f}$ 同时为紧集.
+
+*证明.* （反证法）假如存在 $f\in L^1(\mathbb{R})$，满足 $\lVert f\rVert_1>0$，且 $\operatorname{supp} f$ 和 $\operatorname{supp}\widehat{f}$ 同时为紧集.
+
+对任意的复数 $z=x+iy$，记
+\[
+F(z)=\int_{-\infty}^{+\infty}f(t)e^{-2\pi i z\cdot t} \mathrm{d}t
+=\int_{-\infty}^{+\infty}f(t)e^{-2\pi i(x+iy)\cdot t} \mathrm{d}t.
+\]
+则 $F$ 为解析函数且非零. 令 $y=0$，则 $F(x)=\widehat{f}(x)$.
+
+设 $\operatorname{supp} f\subset[a,b]$，因为 $F$ 为连续函数，且对任意的闭路径 $\Gamma$，都有
+
+$$
+\begin{aligned}
+\int_\Gamma\Biggl(\int_{-\infty}^{+\infty}f(t)e^{-2\pi i z\cdot t} \mathrm{d}t\Biggr)dz
+&=\int_\Gamma\Biggl(\int_a^b f(t)e^{-2\pi i z\cdot t} \mathrm{d}t\Biggr)dz\\
+&=\int_a^b f(t)\Biggl(\int_\Gamma e^{-2\pi i z\cdot t}dz\Biggr) \mathrm{d}t=0.
+\end{aligned}
+$$
+
+故 $F$ 为解析函数.
+
+另一方面，因为 $\operatorname{supp}\widehat{f}$ 也为紧集，令 $y=0$，则 $F(x)=\widehat{f}(x)$ 在实轴的一个正测度子集上为零.
+这与“非零解析函数的零点是孤立点”相矛盾.
+
+最后给出一个 $C_0(\mathbb{R})$ 中的函数，但不是 $L^1(\mathbb{R})$ 函数的 Fourier 变换的例子，这表明
+$\widehat{L^1}\subsetneq C_0$.
+
+**引理.** 设 $f\in L^1(\mathbb{R}^n)$，且 $\widehat{f}$ 为奇函数，那么
+\[
+\lim_{\substack{\varepsilon\to 0\\ N\to\infty}}\int_\varepsilon^N\frac{\widehat{f}(t)}{t} \mathrm{d}t
+\]
+存在且有限.
+
+*证明.* 若 $\widehat{f}$ 为奇函数，则
+
+$$
+\begin{aligned}
+\widehat{f}(t)
+&=\frac12\int_{\mathbb{R}}f(x)[e^{-2\pi i xt}-e^{2\pi i xt}] \mathrm{d}x\\
+&=-i\int_{\mathbb{R}}f(x)\sin(2\pi xt) \mathrm{d}x\\
+&=i\int_{\mathbb{R}}f(-x)\sin(2\pi xt) \mathrm{d}x
+\text{（变量替换）}.
+\end{aligned}
+$$
+
+于是
+\[
+2\widehat{f}(t)=\int_{\mathbb{R}}[if(-x)-if(x)]\sin(2\pi xt) \mathrm{d}x.
+\]
+令 $F(x)=\dfrac{if(-x)-if(x)}{2}$，从而有
+\[
+\widehat{f}(t)=\int_{\mathbb{R}}F(x)\sin(2\pi xt) \mathrm{d}x.
+\]
+因此
+
+$$
+\begin{aligned}
+\int_\varepsilon^N\frac{\widehat{f}(t)}{t} \mathrm{d}t
+&=\int_\varepsilon^N\frac1t\Biggl(\int_{\mathbb{R}}F(x)\sin(2\pi xt) \mathrm{d}x\Biggr) \mathrm{d}t\\
+&=\int_{\mathbb{R}}F(x)\Biggl(\int_\varepsilon^N\frac{\sin(2\pi xt)}{t} \mathrm{d}t\Biggr) \mathrm{d}x\\
+&=\int_{\mathbb{R}}F(x)\Biggl(\int_{2\pi\varepsilon x}^{2\pi N x}\frac{\sin t}{t} \mathrm{d}t\Biggr) \mathrm{d}x
+\text{（变量替换）}.
+\end{aligned}
+$$
+
+因为
+\[
+\int_0^{+\infty}\frac{\sin t}{t} \mathrm{d}t=\frac\pi2,
+\]
+且 $F\in L^1(\mathbb{R}^n)$，以及
+\[
+\lvert \int_a^b\frac{\sin t}{t} \mathrm{d}t\rvert\le 4,\forall 0<a<b<\infty.
+\]
+运用控制收敛定理，可得
+
+$$
+\begin{aligned}
+\lim_{\substack{\varepsilon\to 0\\ N\to\infty}}\int_\varepsilon^N\frac{\widehat{f}(t)}{t} \mathrm{d}t
+&=\lim_{\substack{\varepsilon\to 0\\ N\to\infty}}
+\int_{\mathbb{R}}F(x)\Biggl(\int_{2\pi\varepsilon x}^{2\pi N x}\frac{\sin t}{t} \mathrm{d}t\Biggr) \mathrm{d}x\\
+&=\frac\pi2\int_{\mathbb{R}}F(x) \mathrm{sgn} x  \mathrm{d}x<\infty.
+\end{aligned}
+$$
+
+**例（$\widehat{L^1}\subsetneq C_0$）.** 令
+\[
+g(x)=
+$$
+\begin{cases}
+\dfrac{1}{\log x}, & x>e,\\[4pt]
+\dfrac{x}{e}, & -e\le x\le e,\\[4pt]
+-\dfrac{1}{\log(-x)}, & x<-e.
+\end{cases}
+$$
+
+\]
+则 $g\in C_0(\mathbb{R})$，且 $g$ 为奇函数. 但是
+\[
+\lim_{N\to\infty}\int_e^N\frac{g(t)}{t} \mathrm{d}t
+=\lim_{N\to\infty}\int_e^N\frac{ \mathrm{d}t}{t\log t}
+=\lim_{N\to\infty}\log(\log N)=\infty.
+\]
+由上述引理可得 $g$ 不是任何 $L^1(\mathbb{R})$ 函数的 Fourier 变换.
+
+## Fourier 变换的反演
+
+设 $f\in L^1(\mathbb{R}^n)$，称
+\[
+\int_{\mathbb{R}^n}\widehat{f}(t)e^{2\pi i x\cdot t} \mathrm{d}t
+\]
+为 $f$ 的 Fourier 积分.
+
+**问题.** 对于 $L^1(\mathbb{R}^n)$ 中的函数 $f$，是否有
+\[
+f(x)=\int_{\mathbb{R}^n}\widehat{f}(t)e^{2\pi i x\cdot t} \mathrm{d}t
+\]
+成立？
+
+这个问题称为 Fourier 变换的反演问题.
+
+**例.** 设 $t\in\mathbb{R}$，
+\[
+f(t)=
+$$
+\begin{cases}
+e^{-2\pi t}, & t\ge 0,\\
+0, & t<0.
+\end{cases}
+$$
+
+\]
+则
+
+$$
+\begin{aligned}
+\widehat{f}(x)
+&=\int_{\mathbb{R}}f(t)e^{-2\pi i x\cdot t} \mathrm{d}t
+=\int_0^\infty e^{-2\pi(1+ix)t} \mathrm{d}t\\
+&=-\frac{1}{2\pi(1+ix)}e^{-2\pi(1+ix)t}\Big|_0^\infty
+=\frac{1}{2\pi(1+ix)}\notin L^1(\mathbb{R}).
+\end{aligned}
+$$
+
+这例子表明 $L^1(\mathbb{R}^n)$ 中函数的 Fourier 变换可能不可积. 因此，
+$\int_{\mathbb{R}^n}\widehat{f}(t)e^{2\pi i x\cdot t} \mathrm{d}t$ 可能不可积.
+所以，问题是 $f$ 满足什么条件，下列等式成立
+\[
+f(x)=\int_{\mathbb{R}^n}\widehat{f}(t)e^{2\pi i x\cdot t} \mathrm{d}t?
+\]
+
+\paragraph{求和问题.}
+\[
+\lim_{R\to\infty}\int_{B(0,R)}\widehat{f}(t)e^{2\pi i x\cdot t} \mathrm{d}t=f(x)?
+\]
+考虑 $n=1$，记 $S_R f(x)=\int_{-R}^{R}\widehat{f}(t)e^{2\pi i xt} \mathrm{d}t$. 则
+
+$$
+\begin{aligned}
+S_R f(x)
+&=\int_{-R}^{R}\widehat{f}(t)e^{2\pi i xt} \mathrm{d}t
+=\int_{-R}^{R}\Biggl(\int_{-\infty}^\infty f(u)e^{-2\pi i ut} \mathrm{d}u\Biggr)e^{2\pi i xt} \mathrm{d}t\\
+&=\int_{-\infty}^\infty f(u)\Biggl(\int_{-R}^{R}e^{2\pi i(x-u)t} \mathrm{d}t\Biggr) \mathrm{d}u\\
+&=\int_{-\infty}^\infty f(u)\frac{\sin 2\pi R(x-u)}{\pi(x-u)} \mathrm{d}u
+=\int_{-\infty}^\infty f(x-t)\frac{\sin 2\pi R t}{\pi t} \mathrm{d}t.
+\end{aligned}
+$$
+
+记 $D(t)=\dfrac{\sin 2\pi t}{\pi t}$，称 $D(t)$ 为 Dirichlet 核，则
+\[
+S_R f(x)=(f*D_{R^{-1}})(x).
+\]
+此外，对于任意的 $f\in L^p(\mathbb{R})$，$1\le p<\infty$，卷积 $(f*D_{R^{-1}})(x)$ 都有定义，
+所以可以考虑问题：$\lim_{R\to\infty}S_R f(x)=f(x)$？（依 $L^p$ 范收敛性、点态收敛性）
+
+\paragraph{算术平均求和问题.}
+设 $n=1$，对 $T>0$，考虑
+
+$$
+\begin{aligned}
+\sigma_T(x)
+&=\frac1T\int_0^T S_R f(x) dR
+=\frac1T\int_0^T\Biggl(\int_{-R}^{R}\widehat{f}(t)e^{2\pi i xt} \mathrm{d}t\Biggr)dR\\
+&=\frac1T\int_0^T\widehat{f}(t)e^{2\pi i xt}\Biggl(\int_t^T dR\Biggr) \mathrm{d}t
++\frac1T\int_{-T}^{0}\widehat{f}(t)e^{2\pi i xt}\Biggl(\int_{-t}^{T}dR\Biggr) \mathrm{d}t\\
+&=\int_{-T}^{T}\Biggl(1-\frac{\lvert t\rvert}{T}\Biggr)\widehat{f}(t)e^{2\pi i xt} \mathrm{d}t.
+\end{aligned}
+$$
+
+如果 $\lim_{T\to+\infty}\sigma_T(x)=S$，则称 $f$ 的 Fourier 积分在点 $x$ 处可算术平均求和于 $S$. 记
+\[
+\Phi(t)=
+$$
+\begin{cases}
+1-\lvert t\rvert, & \lvert t\rvert\le 1,\\
+0, & \lvert t\rvert>1.
+\end{cases}
+$$
+
+\]
+则
+\[
+\sigma_T(x)=\int_{-\infty}^\infty\Phi(\frac tT)\widehat{f}(t)e^{2\pi i xt} \mathrm{d}t.
+\]
+记 $K(t)=\widehat{\Phi}(t)$，计算得
+
+$$
+\begin{aligned}
+K(t)
+&=\int_{\mathbb{R}}\Phi(x)e^{-2\pi i xt} \mathrm{d}x
+=\int_{-1}^{1}(1-\lvert x\rvert)e^{-2\pi i xt} \mathrm{d}x\\
+&=\int_0^1(1-x) 2\cos(2\pi xt) \mathrm{d}x
+=\frac{1-\cos 2\pi t}{2\pi^2 t^2}
+=\Biggl(\frac{\sin\pi t}{\pi t}\Biggr)^2.
+\end{aligned}
+$$
+
+**引理.** 设 $f,\Phi\in L^1(\mathbb{R}^n)$，且 $\varphi(x)=\widehat{\Phi}(x)$. 则对任意的 $\varepsilon>0$，
+\[
+\int_{\mathbb{R}^n}\widehat{f}(x)e^{2\pi i x\cdot t}\Phi(\varepsilon x) \mathrm{d}x
+=\int_{\mathbb{R}^n}f(x)\varphi_\varepsilon(x-t) \mathrm{d}x
+=(f*\widetilde{\varphi}_\varepsilon)(t).
+\]
+记号：$\widetilde{\varphi}(x):=\varphi(-x)$ 是 $\varphi$ 的反射.
+
+*证明.* 运用乘法公式
+
+$$
+\begin{aligned}
+\int_{\mathbb{R}^n}\widehat{f}(x)e^{2\pi i x\cdot t}\Phi(\varepsilon x) \mathrm{d}x
+&=\int_{\mathbb{R}^n}f(x)[e^{2\pi i(\cdot)\cdot t}\Phi(\varepsilon\cdot)]^\wedge(x) \mathrm{d}x\\
+&=\int_{\mathbb{R}^n}f(x) T_t(\Phi(\varepsilon\cdot))^\wedge(x) \mathrm{d}x\\
+&=\int_{\mathbb{R}^n}f(x)(\Phi(\varepsilon\cdot))^\wedge(x-t) \mathrm{d}x\\
+&=\int_{\mathbb{R}^n}f(x)\frac1{\varepsilon^n}\widehat{\Phi}(\frac{x-t}{\varepsilon}) \mathrm{d}x.
+\end{aligned}
+$$
+
+又因为 $\varphi(x)=\widehat{\Phi}(x)$，所以
+
+$$
+\begin{aligned}
+\int_{\mathbb{R}^n}\widehat{f}(x)e^{2\pi i x\cdot t}\Phi(\varepsilon x) \mathrm{d}x
+&=\int_{\mathbb{R}^n}f(x)\frac1{\varepsilon^n}\varphi(\frac{x-t}{\varepsilon}) \mathrm{d}x\\
+&=\int_{\mathbb{R}^n}f(x)\varphi_\varepsilon(x-t) \mathrm{d}x
+=(f*\widetilde{\varphi}_\varepsilon)(t).
+\end{aligned}
+$$
+
+**推论.** 设 $f,\Phi\in L^1(\mathbb{R}^n)$，且 $\varphi(x)=\widehat{\Phi}(x)\in L^1(\mathbb{R}^n)$，以及
+$\int_{\mathbb{R}^n}\varphi(x) \mathrm{d}x=1$. 那么
+
+1. \[ \lVert \int_{\mathbb{R}^n}\widehat{f}(x)e^{2\pi i x\cdot(\cdot)}\Phi(\varepsilon x) \mathrm{d}x-f(\cdot)\rVert_1\to 0, \varepsilon\to 0. \]
+2. 若 $\varphi$ 的径向递减控制函数 $\psi\in L^1(\mathbb{R}^n)$，那么 \[ \int_{\mathbb{R}^n}\widehat{f}(x)e^{2\pi i x\cdot t}\Phi(\varepsilon x) \mathrm{d}x\to f(t),\ \text{a.e.}, \varepsilon\to 0. \]
+
+*证明.* (i) 由引理，
+\[
+\int_{\mathbb{R}^n}\widehat{f}(x)e^{2\pi i x\cdot t}\Phi(\varepsilon x) \mathrm{d}x=(f*\widetilde{\varphi}_\varepsilon)(t).
+\]
+又因为 $\int_{\mathbb{R}^n}\varphi(x) \mathrm{d}x=1$，则 $\int_{\mathbb{R}^n}\widetilde{\varphi}(x) \mathrm{d}x=1$.
+由恒等逼近算子依 $L^p$ 范数收敛性，
+\[
+\lVert f*\widetilde{\varphi}_\varepsilon-f\rVert_1\to 0,\varepsilon\to 0.
+\]
+(ii) 由恒等逼近算子点态收敛性，
+\[
+f*\widetilde{\varphi}_\varepsilon(t)\to f(t),\ \text{a.e.},\varepsilon\to 0.
+\]
+
+回到 $f$ 的 Fourier 积分的算术平均求和：由引理
+
+$$
+\begin{aligned}
+\sigma_T(x)
+&=\int_{-\infty}^\infty\Phi(\frac tT)\widehat{f}(t)e^{2\pi i xt} \mathrm{d}t
+=\int_{-\infty}^\infty f(t)K_{T^{-1}}(t-x) \mathrm{d}t\\
+&=\int_{-\infty}^\infty f(t) T\Biggl[\frac{\sin\pi T(t-x)}{\pi T(t-x)}\Biggr]^2 \mathrm{d}t\\
+&=\int_{-\infty}^\infty f(x+u)\frac1T\Biggl[\frac{\sin\pi T u}{\pi u}\Biggr]^2 \mathrm{d}u\\
+&=\int_{-\infty}^\infty f(x-t)\frac1T\Biggl[\frac{\sin\pi T t}{\pi t}\Biggr]^2 \mathrm{d}t.
+\end{aligned}
+$$
+
+记 $F(x)=(\dfrac{\sin\pi x}{\pi x})^2$，称 $F(x)$ 为 Fejer 核. 从而有
+\[
+\sigma_T(x)=(f*F_{T^{-1}})(x).
+\]
+
+令 $\Phi(x)=e^{-\lvert x\rvert}$，如果
+\[
+\lim_{\varepsilon\to 0^+}\int_{\mathbb{R}^n}e^{-2\pi\varepsilon\lvert t\rvert}\widehat{f}(t)e^{2\pi i x\cdot t} \mathrm{d}t=S,
+\]
+则称 $f$ 的 Fourier 积分在点 $x$ 处可 Abel 求和于 $S$.
+
+令 $\Phi(x)=e^{-\lvert x\rvert^2}$，如果
+\[
+\lim_{\varepsilon\to 0^+}\int_{-\infty}^\infty e^{-4\pi^2\varepsilon\lvert t\rvert^2}\widehat{f}(t)e^{2\pi i x\cdot t} \mathrm{d}t=S,
+\]
+则称 $f$ 的 Fourier 积分在点 $x$ 处可 Gauss 求和于 $S$.
+
+**定理.** 1. \[ (e^{-4\pi^2\varepsilon\lvert \cdot \rvert^2})^\wedge(x) =W(x,\varepsilon)\equiv(4\pi\varepsilon)^{-n/2}e^{-\lvert x\rvert^2/(4\varepsilon)}. \]
+2. \[ (e^{-2\pi\varepsilon\lvert \cdot \rvert})^\wedge(x) =P_\varepsilon(x)\equiv C_n\frac{\varepsilon}{(\varepsilon^2+\lvert x\rvert^2)^{(n+1)/2}}. \]
+
+*证明.* 只需分别验证
+\[
+(e^{-\pi\lvert  \cdot \rvert^2})^\wedge(x)=e^{-\pi\lvert x\rvert^2},
+
+(e^{-2\pi\lvert  \cdot \rvert})^\wedge(x)=P(x).
+\]
+
+(1) 记
+\[
+F(s)=\int_{\mathbb{R}}e^{-\pi(x+is)^2} \mathrm{d}x, s\in\mathbb{R}.
+\]
+因为 $\forall s$，
+
+$$
+\begin{aligned}
+F'(s)
+&=\int_{\mathbb{R}}e^{-\pi(x+is)^2}(-2\pi i)(x+is) \mathrm{d}x
+=\int_{\mathbb{R}}i\Biggl(\frac{d}{dx}(e^{-\pi(x+is)^2})\Biggr) \mathrm{d}x=0.
+\end{aligned}
+$$
+
+由 $F'(s)=0$，可得 $F(s)$ 为常数，
+\[
+F(s)=F(0)=\int_{\mathbb{R}}e^{-\pi x^2} \mathrm{d}x=1.
+\]
+从而
+
+$$
+\begin{aligned}
+(e^{-\pi\lvert  \cdot \rvert^2})^\wedge(\xi)
+&=\int_{\mathbb{R}^n}e^{-\pi\lvert x\rvert^2}e^{-2\pi i x\cdot\xi} \mathrm{d}x
+=\int_{\mathbb{R}^n}e^{-\pi\lvert x\rvert^2}e^{-2\pi i\sum_{j=1}^n x_j\xi_j} \mathrm{d}x\\
+&=\int_{\mathbb{R}^n}e^{-\pi\sum_{j=1}^n(x_j+i\xi_j)^2}e^{\pi\sum_{j=1}^n(i\xi_j)^2} \mathrm{d}x
+=\Biggl(\int_{\mathbb{R}}e^{-\pi x^2} \mathrm{d}x\Biggr)^n e^{-\pi\lvert \xi\rvert^2}
+=e^{-\pi\lvert \xi\rvert^2}.
+\end{aligned}
+$$
+
+(2) 令 $\phi(x)=e^{-2\pi\lvert x\rvert}$，利用复分析中的恒等式
+\[
+e^{-t}=\frac1{\sqrt{\pi}}\int_0^\infty\frac{e^{-u}}{\sqrt{u}}e^{-t^2/(4u)} \mathrm{d}u,
+ t>0.
+\]
+利用复变函数 $f(z)=\dfrac{1}{1+z^2}e^{itz}$ 在复平面上以原点为中心、$R>1$ 为半径的上半圆周上的积分运用留数定理可得.
+
+计算
+
+$$
+\begin{aligned}
+\widehat{\phi}(x)
+&=\int_{\mathbb{R}^n}e^{-2\pi\lvert y\rvert}e^{-2\pi i x\cdot y} \mathrm{d}y\\
+&=\int_{\mathbb{R}^n}\Biggl(\frac1{\sqrt{\pi}}\int_0^\infty\frac{e^{-u}}{\sqrt{u}}e^{-4\pi^2\lvert y\rvert^2/(4u)} \mathrm{d}u\Biggr)e^{-2\pi i x\cdot y} \mathrm{d}y\\
+&=\frac1{\sqrt{\pi}}\int_0^\infty\frac{e^{-u}}{\sqrt{u}}\Biggl(\int_{\mathbb{R}^n}e^{-\pi^2\lvert y\rvert^2/u}e^{-2\pi i x\cdot y} \mathrm{d}y\Biggr) \mathrm{d}u.
+\end{aligned}
+$$
+
+由结论 (i)
+\[
+(e^{-4\pi^2\varepsilon\lvert  \cdot \rvert^2})^\wedge(x)=(4\pi\varepsilon)^{-n/2}e^{-\lvert x\rvert^2/(4\varepsilon)}.
+\]
+令 $\varepsilon=\dfrac{1}{4u}$，则
+\[
+\int_{\mathbb{R}^n}e^{-\pi^2\lvert y\rvert^2/u}e^{-2\pi i x\cdot y} \mathrm{d}y
+=(e^{-\pi^2\lvert  \cdot \rvert^2/u})^\wedge(x)
+=(\frac\pi u)^{-n/2}e^{-u\lvert x\rvert^2}.
+\]
+因此，
+
+$$
+\begin{aligned}
+\widehat{\phi}(x)
+&=\frac1{\sqrt{\pi}}\int_0^\infty\frac{e^{-u}}{\sqrt{u}}\Biggl(\int_{\mathbb{R}^n}e^{-\pi^2\lvert y\rvert^2/u}e^{-2\pi i x\cdot y} \mathrm{d}y\Biggr) \mathrm{d}u\\
+&=\frac1{\sqrt{\pi}}\int_0^\infty\frac{e^{-u}}{\sqrt{u}}(\frac\pi u)^{-n/2}e^{-u\lvert x\rvert^2} \mathrm{d}u
+=\pi^{-(n+1)/2}\int_0^\infty e^{-u(1+\lvert x\rvert^2)}u^{(n-1)/2} \mathrm{d}u.
+\end{aligned}
+$$
+
+利用变量替换：$s=(1+\lvert x\rvert^2)u$，则
+
+$$
+\begin{aligned}
+\widehat{\phi}(x)
+&=\int_{\mathbb{R}^n}e^{-2\pi\lvert y\rvert}e^{-2\pi i x\cdot y} \mathrm{d}y
+=\pi^{-(n+1)/2}\int_0^\infty e^{-u(1+\lvert x\rvert^2)}u^{(n-1)/2} \mathrm{d}u\\
+&=\pi^{-(n+1)/2}\frac{1}{(1+\lvert x\rvert^2)^{(n+1)/2}}\int_0^\infty s^{(n-1)/2}e^{-s} \mathrm{d}s
+=\frac{\Gamma(\frac{n+1}{2})}{\pi^{(n+1)/2}}\frac{1}{(1+\lvert x\rvert^2)^{(n+1)/2}}
+=P(x).
+\end{aligned}
+$$
+
+故
+\[
+(e^{-2\pi\lvert  \cdot \rvert})^\wedge(x)=P(x).
+\]
+
+**定理.** 设 $f\in L^1(\mathbb{R}^n)$，则
+
+1. \[ \int_{\mathbb{R}^n}\widehat{f}(x)e^{2\pi i x\cdot t}e^{-2\pi\varepsilon\lvert x\rvert} \mathrm{d}x =(f*\widetilde{P}_\varepsilon)(t)=(f*P_\varepsilon)(t). \]
+2. \[ \int_{\mathbb{R}^n}\widehat{f}(x)e^{2\pi i x\cdot t}e^{-4\pi^2\varepsilon\lvert x\rvert^2} \mathrm{d}x =(f*\widetilde{W}(\cdot,\varepsilon))(t) =(f*W(\cdot,\varepsilon))(t). \]
+
+*证明.* 结合性质
+\[
+(e^{-2\pi\varepsilon\lvert  \cdot \rvert})^\wedge(x)=P_\varepsilon(x),
+
+(e^{-4\pi^2\varepsilon\lvert  \cdot \rvert^2})^\wedge(x)=W(x,\varepsilon).
+\]
+再运用引理可得.
+
+利用恒等逼近核性质可得
+
+**推论.** (1) 设 $f\in L^1(\mathbb{R})$，则 $f$ 的 Fourier 积分以 $L^1$ 范数可算术平均求和于 $f(x)$，即
+\[
+\lVert \sigma_T-f\rVert_1\to 0, T\to+\infty.
+\]
+(2) 设 $f\in L^1(\mathbb{R}^n)$，则 $f$ 的 Fourier 积分以 $L^1$ 范数可 Abel 求和于 $f(x)$，可 Gauss 求和于 $f(x)$，即
+
+$$
+\begin{aligned}
+\lVert u(\cdot,\varepsilon)-f\rVert_1&\to 0,\varepsilon\to 0^+,\\
+\lVert G(\cdot,\varepsilon)-f\rVert_1&\to 0,\varepsilon\to 0^+.
+\end{aligned}
+$$
+
+*证明.* 因为
+
+$$
+\begin{aligned}
+\sigma_T(x)&=(f*F_{T^{-1}})(x),\\
+u(x,\varepsilon)&=(f*P_\varepsilon)(x),\\
+G(x,\varepsilon)&=(f*W(\cdot,\varepsilon))(x).
+\end{aligned}
+$$
+
+注意到 Fejer 核 $F_{T^{-1}}(x)$，
+\[
+F(x)=\Biggl(\frac{\sin\pi x}{\pi x}\Biggr)^2,
+\]
+Poisson 核 $P_\varepsilon(x)$，
+\[
+P(x)=c_n\frac{1}{(1+\lvert x\rvert^2)^{(n+1)/2}},
+\]
+以及 G–W 核
+\[
+W(x,\varepsilon)=W_{\sqrt{4\pi\varepsilon}}(x)=(4\pi\varepsilon)^{-n/2}e^{-\lvert x\rvert^2/(4\varepsilon)}.
+\]
+都是恒等逼近核：可积且积分为 $1$.
+
+利用恒等逼近算子的点态收敛定理可得
+
+**推论.** (1) 设 $f\in L^1(\mathbb{R})$，则 $f$ 的 Fourier 积分在 $f$ 的 Lebesgue 点 $x$ 处可算术平均求和于 $f(x)$，即
+\[
+\sigma_T(x)\to f(x), T\to+\infty.
+\]
+从而可得 $f$ 的 Fourier 积分几乎处处可算术平均求和于 $f(x)$.
+
+(2) 设 $f\in L^1(\mathbb{R}^n)$，则 $f$ 的 Fourier 积分几乎处处可 Abel 求和于 $f(x)$，几乎处处可 Gauss 求和于 $f(x)$，即
+
+$$
+\begin{aligned}
+\lim_{\varepsilon\to 0^+}u(x,\varepsilon)&=f(x),\ \text{a.e.}\\
+\lim_{\varepsilon\to 0^+}G(x,\varepsilon)&=f(x),\ \text{a.e.}
+\end{aligned}
+$$
+
+*证明.* 这是因为
+
+$$
+\begin{aligned}
+\sigma_T(x)&=(f*F_{T^{-1}})(x),
+F(x)=\Biggl(\frac{\sin\pi x}{\pi x}\Biggr)^2,\\
+0\le F(x)&=\Biggl(\frac{\sin\pi x}{\pi x}\Biggr)^2\le\frac{C}{1+x^2}\in L^1(\mathbb{R}).\\
+u(x,\varepsilon)&=(f*P_\varepsilon)(x),
+P(x)=\frac1\pi\frac{1}{x^2+1}\in L^1(\mathbb{R}).\\
+G(x,\varepsilon)&=(f*W(\cdot,\varepsilon))(x),
+W(x)=e^{-\pi x^2}\in L^1(\mathbb{R}).
+\end{aligned}
+$$
+
+这些核函数都满足恒等逼近算子的点态收敛定理的前提条件.
+
+**定理（Fourier 变换反演公式）.** 设 $f,\widehat{f}\in L^1(\mathbb{R}^n)$，那么
+\[
+f(x)=\int_{\mathbb{R}^n}\widehat{f}(t)e^{2\pi i x\cdot t} \mathrm{d}t,\text{a.e.}
+\]
+特别地，上式在 $f$ 的 Lebesgue 点处成立.
+
+*证明.* 由定理 2 知
+\[
+\int_{\mathbb{R}^n}\widehat{f}(t)e^{2\pi i x\cdot t}e^{-4\pi^2\varepsilon\lvert t\rvert^2} \mathrm{d}t
+=(f*W(\cdot,\varepsilon))(x).
+\]
+因为
+\[
+\lvert \widehat{f}(t)e^{2\pi i x\cdot t}e^{-4\pi^2\varepsilon\lvert t\rvert^2}\rvert\le\lvert \widehat{f}(t)\rvert\in L^1(\mathbb{R}^n).
+\]
+运用控制收敛定理
+
+$$
+\begin{aligned}
+\lim_{\varepsilon\to 0}\int_{\mathbb{R}^n}\widehat{f}(t)e^{2\pi i x\cdot t}e^{-4\pi^2\varepsilon\lvert t\rvert^2} \mathrm{d}t
+&=\int_{\mathbb{R}^n}\widehat{f}(t)e^{2\pi i x\cdot t}\Biggl(\lim_{\varepsilon\to 0}e^{-4\pi^2\varepsilon\lvert t\rvert^2}\Biggr) \mathrm{d}t
+=\int_{\mathbb{R}^n}\widehat{f}(t)e^{2\pi i x\cdot t} \mathrm{d}t.
+\end{aligned}
+$$
+
+另一方面，由恒等逼近算子点态收敛性
+\[
+\lim_{\varepsilon\to 0}(f*W(\cdot,\varepsilon))(x)=f(x),\text{a.e.}
+\]
+因此，
+\[
+f(x)=\int_{\mathbb{R}^n}\widehat{f}(t)e^{2\pi i x\cdot t} \mathrm{d}t,\text{a.e.}
+\]
+
+**注.** (1) 如果 $f,\widehat{f}\in L^1(\mathbb{R}^n)$ 且 $f$ 连续，那么定理 3 的结论处处成立. 因为如果 $f$ 连续，则每个点都是 Lebesgue 点.
+
+(2) 因为 $(e^{-2\pi\varepsilon\lvert  \cdot \rvert})^\wedge(x)=P_\varepsilon(x)$，运用定理 3，
+\[
+e^{-2\pi\varepsilon\lvert x\rvert}=\int_{\mathbb{R}^n}P_\varepsilon(t)e^{2\pi i x\cdot t} \mathrm{d}t
+\]
+处处成立. 令 $x=0$，则有 $\int_{\mathbb{R}^n}P_\varepsilon(t) \mathrm{d}t=1$.
+同时又有
+
+$$
+\begin{aligned}
+e^{-2\pi\varepsilon\lvert x\rvert}
+&=\int_{\mathbb{R}^n}P_\varepsilon(t)e^{2\pi i x\cdot t} \mathrm{d}t
+=\int_{\mathbb{R}^n}P_\varepsilon(t)e^{-2\pi i x\cdot(-t)} \mathrm{d}t\\
+&=\int_{\mathbb{R}^n}P_\varepsilon(-t)e^{-2\pi i x\cdot(-t)} \mathrm{d}t
+=\widehat{P}_\varepsilon(x).
+\end{aligned}
+$$
+
+**定理.** 设 $f\in L^1(\mathbb{R}^n)$，$\widehat{f}(x)\ge 0$ 且 $f$ 在 $x=0$ 处连续，那么 $\widehat{f}\in L^1(\mathbb{R}^n)$，进而有
+\[
+f(x)=\int_{\mathbb{R}^n}\widehat{f}(t)e^{2\pi i x\cdot t} \mathrm{d}t,\text{a.e.}
+\]
+特别地，$f(0)=\int_{\mathbb{R}^n}\widehat{f}(t) \mathrm{d}t$.
+
+*证明.* 利用
+\[
+(e^{-2\pi\varepsilon\lvert  \cdot \rvert})^\wedge(x)=P_\varepsilon(x)
+\]
+以及乘法公式，
+\[
+\int_{\mathbb{R}^n}\widehat{f}(t)e^{-2\pi\varepsilon\lvert t\rvert} \mathrm{d}t
+=\int_{\mathbb{R}^n}f(t)P_\varepsilon(t) \mathrm{d}t=(f*P_\varepsilon)(0).
+\]
+因为 $f$ 在 $x=0$ 处连续，则 $x=0$ 是 Lebesgue 点. 故
+\[
+f(0)=\lim_{\varepsilon\to 0}(f*P_\varepsilon)(0)
+=\lim_{\varepsilon\to 0}\int_{\mathbb{R}^n}\widehat{f}(t)e^{-2\pi\varepsilon\lvert t\rvert} \mathrm{d}t.
+\]
+又因为 $\widehat{f}(x)\ge 0$，运用 Fatou 引理，
+
+$$
+\begin{aligned}
+\int_{\mathbb{R}^n}\widehat{f}(t) \mathrm{d}t
+&=\int_{\mathbb{R}^n}(\lim_{\varepsilon\to 0}e^{-2\pi\varepsilon\lvert t\rvert})\widehat{f}(t) \mathrm{d}t\\
+&\le\lim_{\varepsilon\to 0}\int_{\mathbb{R}^n}\widehat{f}(t)e^{-2\pi\varepsilon\lvert t\rvert} \mathrm{d}t=f(0).
+\end{aligned}
+$$
+
+这表明 $\widehat{f}\in L^1(\mathbb{R}^n)$，从而反演公式成立.
+
+**定理（$L^1$ 函数 Fourier 变换的唯一性）.** 设 $f_1,f_2\in L^1(\mathbb{R}^n)$，且对任意的 $x\in\mathbb{R}^n$，$\widehat{f}_1(x)=\widehat{f}_2(x)$，那么 $f_1=f_2$，a.e.
+
+*证明.* 令 $f=f_1-f_2$，有 $\forall x\in\mathbb{R}^n$
+\[
+\widehat{f}(x)=\widehat{f}_1(x)-\widehat{f}_2(x)=0.
+\]
+运用反演公式，
+\[
+f(x)=\int_{\mathbb{R}^n}\widehat{f}(t)e^{2\pi i x\cdot t} \mathrm{d}t,\text{a.e.}
+\]
+所以 $f=0$，a.e.，可见 $f_1=f_2$，a.e.
+
+**定义.** 设 $\alpha>0$，记 $\Phi_\alpha(x)=(1-\lvert x\rvert^2)^\alpha\chi_{\lvert x\rvert<1}$. 称
+\[
+B_R^\alpha f(x):=\int_{\mathbb{R}^n}\widehat{f}(t)e^{2\pi i x\cdot t}\Phi_\alpha(\frac tR) \mathrm{d}t
+\]
+为 $f$ 的 Fourier 积分的 Bochner–Riesz 平均.
+
+**问题.** $\lim_{R\to\infty}B_R^\alpha f(x)=f(x)$？（依 $L^p$ 范收敛性、点态收敛性）
+
+依 $L^p$ 范收敛性 $\Longleftrightarrow$ $\lVert B_R^\alpha f\rVert_p\le C_p\lVert f\rVert_p$，$\forall f\in L^p(\mathbb{R}^n)$.
+另一方面，因为 $B_R^\alpha f(x)=B_1^\alpha(f(\cdot/R))(Rx)$，所以
+\[
+\lVert B_R^\alpha f\rVert_p\le C_p\lVert f\rVert_p
+\Longleftrightarrow
+\lVert B_1^\alpha f\rVert_p\le C_p\lVert f\rVert_p.
+\]
+
+## Fourier 变换的 $L^2$ 理论
+
+**定理（Plancherel）.** 设 $f\in L^1(\mathbb{R}^n)\cap L^2(\mathbb{R}^n)$，则 $\widehat{f}\in L^2(\mathbb{R}^n)$，且
+\[
+\lVert f\rVert_2=\lVert \widehat{f}\rVert_2.
+\]
+
+*证明.* 对任意的 $f\in L^1(\mathbb{R}^n)\cap L^2(\mathbb{R}^n)$，令
+\[
+g(x)=\overline{f(-x)},
+\]
+则 $g\in L^1(\mathbb{R}^n)\cap L^2(\mathbb{R}^n)$，且 $\widehat{g}=\overline{\widehat{f}}$. 记 $h=f*g$，由 Young 不等式，$h\in L^1(\mathbb{R}^n)$ 且
+
+$$
+\begin{aligned}
+\widehat{h}(x)
+&=\widehat{f}(x)\widehat{g}(x)=\widehat{f}(x)\overline{\widehat{f}(x)}
+=\lvert \widehat{f}(x)\rvert^2\ge 0.
+\end{aligned}
+$$
+
+由卷积的一致连续性，$h$ 在 $\mathbb{R}^n$ 上一致连续.
+
+可见 $h\in L^1(\mathbb{R}^n)$，$h$ 在 $\mathbb{R}^n$ 上一致连续，且 $\widehat{h}(x)\ge 0$. 最后应用 3.2 节定理 4，
+\[
+h(0)=\int_{\mathbb{R}^n}\widehat{h}(x) \mathrm{d}x.
+\]
+因此
+
+$$
+\begin{aligned}
+\lVert \widehat{f}\rVert_2^2
+&=\int_{\mathbb{R}^n}\widehat{h}(x) \mathrm{d}x=h(0)=\int_{\mathbb{R}^n}f(t)g(-t) \mathrm{d}t\\
+&=\int_{\mathbb{R}^n}f(t)\overline{f(t)} \mathrm{d}t=\int_{\mathbb{R}^n}\lvert f(t)\rvert^2 \mathrm{d}t
+=\lVert f\rVert_2^2.
+\end{aligned}
+$$
+
+**定义（$L^2(\mathbb{R}^n)$ 上的 Fourier 变换）.** 因为 $L^1(\mathbb{R}^n)\cap L^2(\mathbb{R}^n)$ 在 $L^2(\mathbb{R}^n)$ 中的稠密性，则 $\forall g\in L^2(\mathbb{R}^n)$，取 $\{g_k\}\subset L^1(\mathbb{R}^n)\cap L^2(\mathbb{R}^n)$，使得 $\lVert g_k-g\rVert_2\to 0$，$k\to\infty$. 从而
+\[
+\lVert \widehat{g}_k-\widehat{g}_l\rVert_2=\lVert (g_k-g_l)^\wedge\rVert_2=\lVert g_k-g_l\rVert_2\to 0,
+ k,l\to\infty.
+\]
+这表明 $\{\widehat{g}_k\}$ 为 $L^2(\mathbb{R}^n)$ 中的柯西列，故存在 $\widetilde{g}\in L^2(\mathbb{R}^n)$，
+\[
+\lVert \widehat{g}_k-\widetilde{g}\rVert_2\to 0, k\to\infty.
+\]
+定义 $\widehat{g}(x)=\widetilde{g}(x)$. 由 Plancherel 定理，
+\[
+\lVert \widehat{g}\rVert_2=\lim_{k\to\infty}\lVert \widehat{g}_k\rVert_2=\lim_{k\to\infty}\lVert g_k\rVert_2=\lVert g\rVert_2.
+\]
+
+对任意的 $g\in L^2(\mathbb{R}^n)$，$\widetilde{g}$ 在几乎处处意义下是唯一的.
+设存在 $\{g_k\},\{h_k\}\subset L^1(\mathbb{R}^n)\cap L^2(\mathbb{R}^n)$，且
+\[
+\lVert g_k-g\rVert_2\to 0,
+\lVert h_k-g\rVert_2\to 0, k\to\infty.
+\]
+分别记 $\{\widehat{g}_k\}$ 和 $\{\widehat{h}_k\}$ 在 $L^2(\mathbb{R}^n)$ 中极限为 $\widetilde{g}$ 和 $\widetilde{h}$. 下证 $\widetilde{g}=\widetilde{h}$，a.e.
+
+$$
+\begin{aligned}
+\lVert \widetilde{g}-\widetilde{h}\rVert_2
+&\le\lVert \widetilde{g}-\widehat{g}_k\rVert_2+\lVert \widehat{g}_k-\widehat{h}_k\rVert_2+\lVert \widehat{h}_k-\widetilde{h}\rVert_2\\
+&\le\lVert \widetilde{g}-\widehat{g}_k\rVert_2+\lVert g_k-h_k\rVert_2+\lVert \widehat{h}_k-\widetilde{h}\rVert_2\\
+&\le\lVert \widetilde{g}-\widehat{g}_k\rVert_2+\lVert g_k-g\rVert_2+\lVert g-h_k\rVert_2+\lVert \widehat{h}_k-\widetilde{h}\rVert_2\\
+&\to 0(k\to\infty).
+\end{aligned}
+$$
+
+故 $\widetilde{g}=\widetilde{h}$，a.e.
+
+至此，我们定义了 $L^2(\mathbb{R}^n)$ 中函数的 Fourier 变换. 由上面讨论可知，$L^2(\mathbb{R}^n)$ 中函数 $f$ 的 Fourier 变换与基本列的选取无关，通常作如下选取比较方便：
+\[
+f_k(x)=f(x)\chi_{\lvert x\rvert\le k}, k\in\mathbb{N}.
+\]
+则 $\widehat{f}(x)$ 是
+\[
+\int_{B(0,k)}f(t)e^{-2\pi i x\cdot t} \mathrm{d}t
+\]
+在 $L^2(\mathbb{R}^n)$ 中的极限.
+
+**定理.** 对任意的 $f,g\in L^2(\mathbb{R}^n)$，
+
+1. 乘法公式 \[ \int_{\mathbb{R}^n}\widehat{f}(x)g(x) \mathrm{d}x=\int_{\mathbb{R}^n}f(x)\widehat{g}(x) \mathrm{d}x. \]
+2. Parseval 等式 \[ \int_{\mathbb{R}^n}f(x)\overline{g(x)} \mathrm{d}x=\int_{\mathbb{R}^n}\widehat{f}(x)\overline{\widehat{g}(x)} \mathrm{d}x. \]
+
+*证明.* (a) 由 3.1 节得对任意的 $f,g\in L^1(\mathbb{R}^n)\cap L^2(\mathbb{R}^n)$，乘法公式成立.
+
+(1) 先考虑任意的 $f\in L^2(\mathbb{R}^n)$，$g\in L^1(\mathbb{R}^n)\cap L^2(\mathbb{R}^n)$，取 $f_k\in L^1(\mathbb{R}^n)\cap L^2(\mathbb{R}^n)$，使得
+\[
+\lVert f_k-f\rVert_2\to 0, k\to\infty.
+\]
+从而对于任意的 $\widehat{g}\in L^2(\mathbb{R}^n)$，有
+\[
+\int_{\mathbb{R}^n}\lvert f_k(x)-f(x)\rvert \lvert \widehat{g}(x)\rvert \mathrm{d}x\le\lVert f_k-f\rVert_2\lVert \widehat{g}\rVert_2\to 0,
+ k\to\infty.
+\]
+这表明
+\[
+\int_{\mathbb{R}^n}f_k(x)\widehat{g}(x) \mathrm{d}x\to\int_{\mathbb{R}^n}f(x)\widehat{g}(x) \mathrm{d}x,
+ k\to\infty.
+\]
+因为乘法公式对 $f_k,g$ 成立：
+\[
+\int_{\mathbb{R}^n}f_k(x)\widehat{g}(x) \mathrm{d}x=\int_{\mathbb{R}^n}\widehat{f}_k(x)g(x) \mathrm{d}x.
+\]
+前面已得
+\[
+\lim_{k\to\infty}\int_{\mathbb{R}^n}f_k(x)\widehat{g}(x) \mathrm{d}x=\int_{\mathbb{R}^n}f(x)\widehat{g}(x) \mathrm{d}x.
+\]
+同样，因为 $\lVert \widehat{f}_k-\widehat{f}\rVert_2\to 0$，$k\to\infty$. 所以
+\[
+\lim_{k\to\infty}\int_{\mathbb{R}^n}\widehat{f}_k(x)g(x) \mathrm{d}x=\int_{\mathbb{R}^n}\widehat{f}(x)g(x) \mathrm{d}x.
+\]
+因此
+\[
+\int_{\mathbb{R}^n}f(x)\widehat{g}(x) \mathrm{d}x=\int_{\mathbb{R}^n}\widehat{f}(x)g(x) \mathrm{d}x.
+\]
+
+(2) 再考虑任意的 $f,g\in L^2(\mathbb{R}^n)$，取 $g_k\in L^1(\mathbb{R}^n)\cap L^2(\mathbb{R}^n)$，使得
+\[
+\lVert g_k-g\rVert_2\to 0, k\to\infty.
+\]
+由 (1) 的结论，
+\[
+\int_{\mathbb{R}^n}f(x)\widehat{g}_k(x) \mathrm{d}x=\int_{\mathbb{R}^n}\widehat{f}(x)g_k(x) \mathrm{d}x.
+\]
+因为 $\lVert g_k-g\rVert_2\to 0$，$k\to\infty$. 故
+\[
+\lim_{k\to\infty}\int_{\mathbb{R}^n}\widehat{f}(x)g_k(x) \mathrm{d}x=\int_{\mathbb{R}^n}\widehat{f}(x)g(x) \mathrm{d}x.
+\]
+另一方面，$\lVert \widehat{g}_k-\widehat{g}\rVert_2\to 0$，$k\to\infty$. 故
+\[
+\lim_{k\to\infty}\int_{\mathbb{R}^n}f(x)\widehat{g}_k(x) \mathrm{d}x=\int_{\mathbb{R}^n}f(x)\widehat{g}(x) \mathrm{d}x.
+\]
+从而 $\forall f,g\in L^2(\mathbb{R}^n)$，
+\[
+\int_{\mathbb{R}^n}f(x)\widehat{g}(x) \mathrm{d}x=\int_{\mathbb{R}^n}\widehat{f}(x)g(x) \mathrm{d}x.
+\]
+
+(b) 由 $L^2(\mathbb{R}^n)$ 的极化恒等式
+
+$$
+\begin{aligned}
+\int_{\mathbb{R}^n}f(x)\overline{g(x)} \mathrm{d}x
+&=\langle f,g\rangle
+=\frac14\{\lVert f+g\rVert_2^2-\lVert f-g\rVert_2^2+i\lVert f+ig\rVert_2^2-i\lVert f-ig\rVert_2^2\},
+\end{aligned}
+$$
+
+以及
+
+$$
+\begin{aligned}
+\int_{\mathbb{R}^n}\widehat{f}(x)\overline{\widehat{g}(x)} \mathrm{d}x
+&=\langle \widehat{f},\widehat{g}\rangle
+=\frac14\{\lVert \widehat{f}+\widehat{g}\rVert_2^2-\lVert \widehat{f}-\widehat{g}\rVert_2^2+i\lVert \widehat{f}+i\widehat{g}\rVert_2^2-i\lVert \widehat{f}-i\widehat{g}\rVert_2^2\}.
+\end{aligned}
+$$
+
+再利用 Plancherel 定理：$\lVert \widehat{f}\rVert_2=\lVert f\rVert_2$，可推导出
+\[
+\int_{\mathbb{R}^n}f(x)\overline{g(x)} \mathrm{d}x=\int_{\mathbb{R}^n}\widehat{f}(x)\overline{\widehat{g}(x)} \mathrm{d}x.
+\]
+
+**定理.** 设 $\mathcal{F}$ 是 Fourier 变换，则 $\mathcal{F}$ 是 $L^2(\mathbb{R}^n)$ 到 $L^2(\mathbb{R}^n)$ 的有界线性算子，且为等距双射，即 $\mathcal{F}$ 既是双射，对任意的 $f\in L^2(\mathbb{R}^n)$，有 $\lVert \mathcal{F}f\rVert_2=\lVert f\rVert_2$.
+
+*证明.* 由 Plancherel 定理得
+\[
+\lVert \mathcal{F}f\rVert_2=\lVert \widehat{f}\rVert_2=\lVert f\rVert_2.
+\]
+从而 $\mathcal{F}$ 必是单射. 下证 $\mathcal{F}$ 是满射.
+
+令
+\[
+E=\{\widehat{g}:g\in L^2(\mathbb{R}^n)\}.
+\]
+则 $E$ 是 $L^2(\mathbb{R}^n)$ 的闭子空间.
+
+原因如下，$\forall\{\widehat{f}_k\}\subset E$，且 $\lVert \widehat{f}_k-g\rVert_2\to 0$，$k\to\infty$. 由 Plancherel 定理
+\[
+\lVert f_m-f_n\rVert_2=\lVert \widehat{f}_m-\widehat{f}_n\rVert_2\to 0, m,n\to\infty.
+\]
+所以 $\{f_k\}$ 是 $L^2(\mathbb{R}^n)$ 中的柯西列. 故存在 $f_0\in L^2(\mathbb{R}^n)$，使得
+\[
+\lVert f_k-f_0\rVert_2\to 0, k\to\infty.
+\]
+应用 Plancherel 定理，
+\[
+\lVert \widehat{f}_k-\widehat{f}_0\rVert_2\to 0, k\to\infty.
+\]
+又因为 $\lim_{k\to\infty}\lVert \widehat{f}_k-g\rVert_2=0$，所以 $g(x)=\widehat{f}_0(x)$，a.e. 这表明 $E$ 是 $L^2(\mathbb{R}^n)$ 的闭子空间.
+
+假如 $E$ 是 $L^2(\mathbb{R}^n)$ 的闭真子空间，由 Hilbert 空间的正交分解定理，存在非零函数 $g\in L^2(\mathbb{R}^n)\setminus E$，且 $\forall\widehat{f}\in E$，有 $\langle \widehat{f},g\rangle=0$.
+利用乘法公式，$\forall f\in L^2(\mathbb{R}^n)$，
+\[
+\int_{\mathbb{R}^n}\widehat{f}(x)\overline{g(x)} \mathrm{d}x=\int_{\mathbb{R}^n}f(x)\overline{\widehat{g}(x)} \mathrm{d}x=0.
+\]
+进而有
+\[
+\lVert g\rVert_2=\lVert \overline{g}\rVert_2=\lVert \widehat{g}\rVert_2
+=\sup_{\lVert f\rVert_2\le 1}\lvert \int_{\mathbb{R}^n}f(x)\overline{\widehat{g}(x)} \mathrm{d}x\rvert=0.
+\]
+则 $g=0$，a.e. 这表明 $E$ 不是 $L^2(\mathbb{R}^n)$ 的闭真子空间，故 $E=L^2(\mathbb{R}^n)$.
+
+**定理.** 对任意的 $f\in L^2(\mathbb{R}^n)$，有 $\widehat{\widehat{f}}(-x)=f(x)$，a.e.，换言之，$\widehat{\widehat{f}}=\widetilde{f}$，a.e.
+
+*证明.* (1) 先证明 $\forall\widehat{f}\in L^1(\mathbb{R}^n)\cap L^2(\mathbb{R}^n)$，$\widehat{\widehat{f}}(-x)=f(x)$，a.e.
+
+(i) $\forall g\in L^1(\mathbb{R}^n)\cap L^2(\mathbb{R}^n)$，
+
+$$
+\begin{aligned}
+\int_{\mathbb{R}^n}\widehat{\widehat{f}}(-x)\overline{g(x)} \mathrm{d}x
+&=\int_{\mathbb{R}^n}\Biggl(\int_{\mathbb{R}^n}\widehat{f}(t)e^{2\pi i x\cdot t} \mathrm{d}t\Biggr)\overline{g(x)} \mathrm{d}x\\
+&=\int_{\mathbb{R}^n}\Biggl(\int_{\mathbb{R}^n}\overline{g(x)}e^{-2\pi i x\cdot t} \mathrm{d}x\Biggr)\widehat{f}(t) \mathrm{d}t\\
+&=\int_{\mathbb{R}^n}\widehat{f}(t)\overline{\widehat{g}(t)} \mathrm{d}t
+=\int_{\mathbb{R}^n}f(t)\overline{g(t)} \mathrm{d}t.
+\end{aligned}
+$$
+
+(ii) $\forall g\in L^2(\mathbb{R}^n)$，取 $\{g_k\}\subset L^1(\mathbb{R}^n)\cap L^2(\mathbb{R}^n)$，使得 $\lVert g_k-g\rVert_2\to 0$，$k\to\infty$. 由 (i) 的结论，
+\[
+\int_{\mathbb{R}^n}\widehat{\widehat{f}}(-x)\overline{g_k(x)} \mathrm{d}x=\int_{\mathbb{R}^n}f(x)\overline{g_k(x)} \mathrm{d}x.
+\]
+因为 $\lim_{k\to\infty}\lVert g_k-g\rVert_2=0$，对上式取极限得 $\forall g\in L^2(\mathbb{R}^n)$，
+\[
+\int_{\mathbb{R}^n}\widehat{\widehat{f}}(-x)\overline{g(x)} \mathrm{d}x=\int_{\mathbb{R}^n}f(x)\overline{g(x)} \mathrm{d}x.
+\]
+所以 $\forall\widehat{f}\in L^1(\mathbb{R}^n)\cap L^2(\mathbb{R}^n)$，$\widehat{\widehat{f}}(-x)=f(x)$，a.e.
+
+(2) 再考虑 $\forall\widehat{f}\in L^2(\mathbb{R}^n)$，存在 $\{\widehat{f}_k\}\subset L^1(\mathbb{R}^n)\cap L^2(\mathbb{R}^n)$，使得 $\lVert \widehat{f}_k-\widehat{f}\rVert_2\to 0$，$k\to\infty$. 由 (1) 的结论，$\widehat{\widehat{f}_k}=\widetilde{f}_k$，a.e. 于是
+\[
+\lVert \widehat{\widehat{f}_k}-\widetilde{f}\rVert_2=\lVert \widetilde{f}_k-\widetilde{f}\rVert_2=\lVert f_k-f\rVert_2=\lVert \widehat{f}_k-\widehat{f}\rVert_2\to 0.
+\]
+另一方面，
+\[
+\lVert \widehat{\widehat{f}_k}-\widehat{\widehat{f}}\rVert_2=\lVert \widehat{f}_k-\widehat{f}\rVert_2\to 0.
+\]
+综合两式可得 $\widehat{\widehat{f}}=\widetilde{f}$，a.e.
+
+**推论（$L^2$ 函数 Fourier 变换的唯一性）.** 设 $f_1,f_2\in L^2(\mathbb{R}^n)$，且对任意的 $x\in\mathbb{R}^n$，$\widehat{f}_1(x)=\widehat{f}_2(x)$，则 $f_1=f_2$，a.e.
+
+*证明.* 由定理 4，
+\[
+(\widehat{f}_1-\widehat{f}_2)^\wedge=\widetilde{f}_1-\widetilde{f}_2,\text{a.e.}
+\]
+因为
+\[
+\widehat{f}_1(x)=\widehat{f}_2(x),\forall x\in\mathbb{R}^n,
+\]
+所以 $\widetilde{f}_1(x)-\widetilde{f}_2(x)=0$，a.e. 故 $f_1=f_2$，a.e.
+
+或运用 Plancherel 定理，
+\[
+\lVert f_1-f_2\rVert_2=\lVert \widehat{f}_1-\widehat{f}_2\rVert_2=0.
+\]
+故 $f_1=f_2$，a.e.
+
+**定理.** 设 $f\in L^2(\mathbb{R}^n)$，$g\in L^1(\mathbb{R}^n)$，则
+\[
+(f*g)^\wedge(x)=\widehat{f}(x)\widehat{g}(x),\text{a.e.}
+\]
+
+*证明.* 取 $\{f_k\}\subset L^1(\mathbb{R}^n)\cap L^2(\mathbb{R}^n)$，使得
+\[
+\lVert f_k-f\rVert_2\to 0, k\to\infty.
+\]
+由 Plancherel 定理
+\[
+\lVert (f_k*g)^\wedge-(f*g)^\wedge\rVert_2=\lVert f_k*g-f*g\rVert_2.
+\]
+再利用 Young 不等式
+\[
+\lVert (f_k*g)^\wedge-(f*g)^\wedge\rVert_2=\lVert f_k*g-f*g\rVert_2\le\lVert f_k-f\rVert_2\lVert g\rVert_1\to 0.
+\]
+另一方面，
+\[
+(f_k*g)^\wedge=\widehat{f}_k(x)\widehat{g}(x).
+\]
+从而
+
+$$
+\begin{aligned}
+\lVert (f_k*g)^\wedge-\widehat{f}\widehat{g}\rVert_2
+&=\lVert \widehat{f}_k\widehat{g}-\widehat{f}\widehat{g}\rVert_2
+=\lVert (\widehat{f}_k-\widehat{f})\widehat{g}\rVert_2\\
+&\le\lVert \widehat{f}_k-\widehat{f}\rVert_2\lVert \widehat{g}\rVert_\infty
+\le\lVert \widehat{f}_k-\widehat{f}\rVert_2\lVert g\rVert_1
+\le\lVert f_k-f\rVert_2\lVert g\rVert_1\to 0.
+\end{aligned}
+$$
+
+综合可得
+\[
+(f*g)^\wedge(x)=\widehat{f}(x)\widehat{g}(x),\text{a.e.}
+\]
+
+**定义（$L^p(\mathbb{R}^n)$ 上的 Fourier 变换（$1<p<2$））.** 记
+\[
+(L^1+L^2)(\mathbb{R}^n)=\{f:f=f_1+f_2,\ f_1\in L^1(\mathbb{R}^n),\ f_2\in L^2(\mathbb{R}^n)\}.
+\]
+对任意的 $f\in(L^1+L^2)(\mathbb{R}^n)$，定义 $f$ 的 Fourier 变换为 $\widehat{f}=\widehat{f}_1+\widehat{f}_2$.
+
+当 $1<p<2$，对任意的 $f\in L^p(\mathbb{R}^n)$，令 $f_1=f\chi_{\{\lvert f\rvert\ge 1\}}$，$f_2=f\chi_{\{\lvert f\rvert<1\}}$. 则
+\[
+f_1\in L^1(\mathbb{R}^n), f_2\in L^2(\mathbb{R}^n), f=f_1+f_2.
+\]
+这表明 $L^p(\mathbb{R}^n)\subset(L^1+L^2)(\mathbb{R}^n)$. 因此，$L^p(\mathbb{R}^n)$（$1<p<2$）上的 Fourier 变换是有意义的.
+
+**性质.** 设 $f\in L^p(\mathbb{R}^n)$，$g\in L^1(\mathbb{R}^n)$，$1\le p\le 2$，则
+\[
+(f*g)^\wedge(x)=\widehat{f}(x)\widehat{g}(x),\text{a.e.}
+\]
+
+*证明.* 记 $h=f*g$，则 $h\in L^p(\mathbb{R}^n)$，故 $h$ 的 Fourier 变换有意义. 分解 $f=f_1+f_2$，其中 $f_1\in L^1(\mathbb{R}^n)$，$f_2\in L^2(\mathbb{R}^n)$. 于是
+
+$$
+\begin{aligned}
+\widehat{h}(x)
+&=(f_1*g)^\wedge(x)+(f_2*g)^\wedge(x)
+=\widehat{f}_1(x)\widehat{g}(x)+\widehat{f}_2(x)\widehat{g}(x)\\
+&=(\widehat{f}_1+\widehat{f}_2)\widehat{g}(x)=\widehat{f}(x)\widehat{g}(x),\text{a.e.}
+\end{aligned}
+$$
+
+**性质（Hausdorff–Young 不等式）.** 设 $1\le p\le 2$，Fourier 变换 $\mathcal{F}$ 是 $L^p(\mathbb{R}^n)$ 到 $L^{p'}(\mathbb{R}^n)$ 的有界线性算子，且 $\lVert \widehat{f}\rVert_{p'}\le\lVert f\rVert_p$.
+
+*证明.* 因为 Fourier 变换 $\mathcal{F}$ 是 $(1,\infty)$ 型：$\lVert \widehat{f}\rVert_\infty\le\lVert f\rVert_1$；Fourier 变换 $\mathcal{F}$ 也是 $(2,2)$ 型：$\lVert \widehat{f}\rVert_2\le\lVert f\rVert_2$. 运用 Riesz–Thorin 插值定理，Fourier 变换 $\mathcal{F}$ 是 $(p,p')$ 型：$\lVert \widehat{f}\rVert_{p'}\le\lVert f\rVert_p$.
+
+**注.** 对 $L^p(\mathbb{R}^n)$（$1\le p\le 2$）的函数 $f$ 的 Fourier 变换已有定义，但当 $f\notin L^1(\mathbb{R}^n)$，$\widehat{f}(x)$ 不能写成 $\int_{\mathbb{R}^n}f(t)e^{-2\pi i x\cdot t} \mathrm{d}t$.
+
+## 复测度的 Fourier 变换
+
+\paragraph{回顾：复测度.}
+设 $\mathcal{B}$ 是 $\mathbb{R}^n$ 上的 Borel 代数. 称集合函数 $\mu$ 是 $\mathcal{B}$ 上的复测度，如果 $\mu$ 满足
+
+1. $\mu:\mathcal{B}\to\mathbb{C}$；
+2. $\mu(\emptyset)=0$；
+3. 可列可加性，即 \[ \mu\Biggl(\bigcup_{j=1}^\infty E_j\Biggr)=\sum_{j=1}^\infty\mu(E_j), \] 其中 $\{E_j\}_{j=1}^\infty\subset\mathcal{B}$ 且当 $j\neq k$ 时，$E_j\cap E_k=\emptyset$.
+
+显然，$\mathcal{B}$ 上的有限测度就是非负实值的复测度.
+
+**性质.** 设 $\mu$ 是 $\mathcal{B}$ 上的复测度，记
+\[
+\lvert \mu\rvert(E)=\sup_{\substack{E=\bigcup E_j\\ E_j\cap E_k=\emptyset}}\sum_{j=1}^\infty\lvert \mu(E_j)\rvert,
+ E_j\in\mathcal{B}.
+\]
+则
+
+1. $\lvert \mu\rvert$ 是 $\mathcal{B}$ 上的有限测度，即 $\lvert \mu\rvert(\mathbb{R}^n)<\infty$.
+2. 对任意的 $E\in\mathcal{B}$，有 $\lvert \mu(E)\rvert\le\lvert \mu\rvert(E)\le\lvert \mu\rvert(\mathbb{R}^n)$.
+
+设 $\mu$ 是 $\mathcal{B}$ 上的复测度，若对任意的 $E\in\mathcal{B}$，有
+\[
+\sup\lvert \mu\rvert(K)=\lvert \mu\rvert(E)=\inf\lvert \mu\rvert(V),
+\]
+则称 $\mu$ 是复正则测度，其中上确界取遍所有包含在 $E$ 中的紧集 $K$，下确界取遍所有包含 $E$ 的开集 $V$. 第一个等式称为内正则条件，第二个等式称为外正则条件. 记 $\mathcal{B}$ 上复正则测度的全体为 $\mathcal{M}(\mathbb{R}^n)$.
+
+**例.** 设 $a\in\mathbb{R}^n$，定义在 $a$ 点的 Dirac 测度 $\delta_a$ 为：对于 Borel 可测集 $E$，
+\[
+\delta_a(E)=
+$$
+\begin{cases}
+1, & a\in E,\\
+0, & a\notin E.
+\end{cases}
+$$
+
+\]
+当 $a=0$，将 $\delta_0$ 简记为 $\delta$.
+
+**例.** 设 $\varphi\in L(\mathbb{R}^n)$，对于 Borel 可测集 $E$，令
+\[
+\mu_\varphi(E)=\int_E\varphi(x) \mathrm{d}x.
+\]
+那么 $\lvert \mu_\varphi\rvert(E)=\int_E\lvert \varphi(x)\rvert \mathrm{d}x$.
+
+**定义.** 设 $\mu\in\mathcal{M}(\mathbb{R}^n)$，$m$ 是 $\mathcal{B}$ 上的 $\sigma$-有限测度.
+
+1. 如果对于任一个使得 $m(E)=0$ 的集合 $E\in\mathcal{B}$，都有 $\mu(E)=0$，则称 $\mu$ 关于 $m$ 绝对连续，记为 $\mu\ll m$.
+2. 如果存在 $A\in\mathcal{B}$，使得 $\lvert \mu\rvert(A)=0$，$m(A^c)=0$，则称 $\mu$ 和 $m$ 为相互奇异的，记为 $\mu\perp m$.
+
+**性质（Jordan 分解定理）.** 设 $\mu\in\mathcal{M}(\mathbb{R}^n)$，则有下面的唯一分解
+\[
+\mu=\mu_1-\mu_2+i(\mu_3-\mu_4),
+\]
+其中 $\mu_j\in\mathcal{M}(\mathbb{R}^n)$，$\mu_j\ge 0$，$1\le j\le 4$. 此外，$\mu_1\perp\mu_2$，$\mu_3\perp\mu_4$.
+
+**性质（Radon–Nikodym 定理）.** 设 $\mu\in\mathcal{M}(\mathbb{R}^n)$，$m$ 是 $\mathcal{B}$ 上的 $\sigma$-有限测度. 如果 $\mu\ll m$，那么存在 $f\in L^1(m)$，使得对所有的 $E\in\mathcal{B}$，有
+\[
+\mu(E)=\int_E f dm.
+\]
+此外，$\lvert \mu\rvert(\mathbb{R}^n)=\int_{\mathbb{R}^n}\lvert f\rvert dm=\lVert f\rVert_{L^1(m)}$.
+
+**性质（Lebesgue 分解定理）.** 设 $\mu\in\mathcal{M}(\mathbb{R}^n)$，$m$ 是 $\mathcal{B}$ 上的 $\sigma$-有限测度. 则存在唯一的 $\mu_a,\mu_s\in\mathcal{M}(\mathbb{R}^n)$，使得 $\mu=\mu_a+\mu_s$，其中 $\mu_a\ll m$ 且 $\mu_s\perp m$.
+
+在 $\mathcal{M}(\mathbb{R}^n)$ 中定义加法和数乘：
+
+$$
+\begin{aligned}
+(\mu+\nu)(E)&=\mu(E)+\nu(E),
+\mu,\nu\in\mathcal{M}(\mathbb{R}^n),\ E\in\mathcal{B};\\
+(c\mu)(E)&=c\mu(E),
+ E\in\mathcal{B},\ c\in\mathbb{C}.
+\end{aligned}
+$$
+
+则 $\mathcal{M}(\mathbb{R}^n)$ 是 $\mathbb{C}$ 上的向量空间. 此外，如果记 $\lVert \mu\rVert_{\mathcal{M}}=\lvert \mu\rvert(\mathbb{R}^n)$，则 $(\mathcal{M}(\mathbb{R}^n),\lVert  \cdot \rVert_{\mathcal{M}})$ 为完备的赋范空间.
+
+由 Riesz 表示定理，$\mathcal{M}(\mathbb{R}^n)$ 是 $C_0(\mathbb{R}^n)$ 上的连续线性泛函全体：$\forall f\in C_0(\mathbb{R}^n)$
+\[
+\langle \mu,f\rangle=\int_{\mathbb{R}^n}f(x) d\mu(x).
+\]
+
+上述内容参考 Rudin：《实分析与复分析》第六章.
+
+### 3.4 复测度的 Fourier 变换
+
+**定义.** 设 $\mu\in\mathcal{M}(\mathbb{R}^n)$，$f\in L^p(\mathbb{R}^n)$ 且是 Borel 可测函数，$1\le p\le\infty$. 则 $f$ 与 $\mu$ 的卷积定义为
+\[
+(f*\mu)(x)=\int_{\mathbb{R}^n}f(x-t) d\mu(t), x\in\mathbb{R}^n.
+\]
+
+**例.** 对于 $f\in L^p(\mathbb{R}^n)$，$1\le p\le\infty$.
+若 $\mu=\delta_a$，则
+\[
+(f*\delta_a)(x)=\int_{\mathbb{R}^n}f(x-t) d\delta_a(t)=f(x-a).
+\]
+若 $\mu=\mu_\varphi$，则
+\[
+(f*\mu_\varphi)(x)=\int_{\mathbb{R}^n}f(x-t)\varphi(t) \mathrm{d}t=(f*\varphi)(x).
+\]
+
+**定理.** 设 $\mu\in\mathcal{M}(\mathbb{R}^n)$，$f\in L^p(\mathbb{R}^n)$ 且是 Borel 可测函数，$1\le p\le\infty$，则 $f*\mu\in L^p(\mathbb{R}^n)$，且
+\[
+\lVert f*\mu\rVert_p\le\lVert f\rVert_p\lVert \mu\rVert_{\mathcal{M}}.
+\]
+
+*证明.* 若 $1\le p<\infty$，利用 Minkowski 积分不等式
+
+$$
+\begin{aligned}
+\Biggl(\int_{\mathbb{R}^n}\lvert (f*\mu)(x)\rvert^p \mathrm{d}x\Biggr)^{1/p}
+&=\Biggl(\int_{\mathbb{R}^n}\lvert \int_{\mathbb{R}^n}f(x-t) d\mu(t)\rvert^p \mathrm{d}x\Biggr)^{1/p}\\
+&\le\Biggl(\int_{\mathbb{R}^n}\Biggl(\int_{\mathbb{R}^n}\lvert f(x-t)\rvert d\lvert \mu\rvert(t)\Biggr)^p \mathrm{d}x\Biggr)^{1/p}\\
+&\le\int_{\mathbb{R}^n}\Biggl(\int_{\mathbb{R}^n}\lvert f(x-t)\rvert^p \mathrm{d}x\Biggr)^{1/p}d\lvert \mu\rvert(t)
+=\lVert f\rVert_p\lVert \mu\rVert_{\mathcal{M}}.
+\end{aligned}
+$$
+
+若 $p=\infty$，Minkowski 积分不等式仍成立.
+
+若将 $L^p(\mathbb{R}^n)$ 看作是商空间 $L^p(\mathbb{R}^n)/N$，其中
+\[
+N=\{f:\lVert f\rVert_p=0\}.
+\]
+那么 $L^p(\mathbb{R}^n)$ 中元素 $f$ 是 $f$ 所在等价类的代表. 此外，对任意的 $f\in L^p(\mathbb{R}^n)$，存在 $\mathbb{R}^n$ 上的 Borel 可测函数 $g$，使得 $g=f$，a.e. 因此在讨论 $L^p(\mathbb{R}^n)$ 函数与 $\mathcal{M}(\mathbb{R}^n)$ 中测度的卷积时，将此函数理解为 Borel 可测函数. 在此意义下，也可以定义 $L^p(\mathbb{R}^n)$ 函数与 $\mathcal{M}(\mathbb{R}^n)$ 测度的卷积.
+
+**定义.** 设 $\mu\in\mathcal{M}(\mathbb{R}^n)$，$f\in L^p(\mathbb{R}^n)$，$1\le p\le\infty$. 则 $f$ 与 $\mu$ 的卷积定义为
+\[
+(f*\mu)(x)=\int_{\mathbb{R}^n}f(x-t) d\mu(t), x\in\mathbb{R}^n.
+\]
+
+**定理.** 设 $\mu\in\mathcal{M}(\mathbb{R}^n)$，$f\in L^p(\mathbb{R}^n)$，$1\le p\le\infty$，则 $f*\mu\in L^p(\mathbb{R}^n)$，且
+\[
+\lVert f*\mu\rVert_p\le\lVert f\rVert_p\lVert \mu\rVert_{\mathcal{M}}.
+\]
+
+**定理.** 设 $\mu\in\mathcal{M}(\mathbb{R}^n)$，$f\in C_0(\mathbb{R}^n)$，则 $f*\mu\in C_0(\mathbb{R}^n)$，且
+\[
+\lVert f*\mu\rVert_\infty\le\lVert f\rVert_\infty\lVert \mu\rVert_{\mathcal{M}}.
+\]
+
+*证明.* 由 Riesz 表示定理，对任意的 $x\in\mathbb{R}^n$，$(f*\mu)(x)$ 均有限.
+运用控制收敛定理，当 $x\to x_0$，
+\[
+\lvert \int_{\mathbb{R}^n}[f(x-t)-f(x_0-t)]d\mu(t)\rvert
+\le\int_{\mathbb{R}^n}\lvert f(x-t)-f(x_0-t)\rvert d\lvert \mu\rvert(t)\to 0.
+\]
+以及当 $\lvert x\rvert\to\infty$，
+\[
+\lvert \int_{\mathbb{R}^n}f(x-t) d\mu(t)\rvert\le\int_{\mathbb{R}^n}\lvert f(x-t)\rvert d\lvert \mu\rvert(t)\to 0.
+\]
+
+**定义.** 设 $\mu\in\mathcal{M}(\mathbb{R}^n)$，测度 $\mu$ 的 Poisson 积分为
+\[
+u(x,\varepsilon)\equiv(P_\varepsilon*\mu)(x)=\int_{\mathbb{R}^n}P_\varepsilon(x-t) d\mu(t)
+(\varepsilon>0),
+\]
+其中 $P_\varepsilon(x)$ 为 Poisson 核.
+
+同样，可以定义测度 $\mu$ 的 Gauss 积分：
+\[
+G(x,\varepsilon)=(W(\cdot,\varepsilon)*\mu)(x)=\int_{\mathbb{R}^n}W(x-t,\varepsilon) d\mu(t).
+\]
+
+**定理.** 设 $\mu\in\mathcal{M}(\mathbb{R}^n)$，那么有
+
+1. 对 $\forall\varepsilon>0$，$\mu$ 的 Poisson 积分在 $\mathbb{R}^n$ 上处处存在.
+2. 对任意的 $\varepsilon>0$，有 $\lVert P_\varepsilon*\mu\rVert_1\le\lVert \mu\rVert_{\mathcal{M}}$.
+3. 对任意的 $\varphi\in C_0(\mathbb{R}^n)$， \[ \int_{\mathbb{R}^n}\varphi(x)u(x,\varepsilon) \mathrm{d}x\to\int_{\mathbb{R}^n}\varphi(x) d\mu(x) \mathrm{d}x,\varepsilon\to 0. \]
+
+*证明.* (i) 注意到 $P_\varepsilon\in C_0$，结论由定理 2 可推得.
+
+(ii) 因为 $P_\varepsilon\in L^1$，由定理 1，
+\[
+\lVert P_\varepsilon*\mu\rVert_1\le\lVert P_\varepsilon\rVert_1\lVert \mu\rVert_{\mathcal{M}}=\lVert \mu\rVert_{\mathcal{M}}.
+\]
+
+(iii) $\forall\varphi\in C_0(\mathbb{R}^n)$，
+
+$$
+\begin{aligned}
+&\lvert \int_{\mathbb{R}^n}\varphi(x)u(x,\varepsilon) \mathrm{d}x-\int_{\mathbb{R}^n}\varphi(x) d\mu(x) \mathrm{d}x\rvert\\
+&=\lvert \int_{\mathbb{R}^n}\Biggl(\int_{\mathbb{R}^n}P_\varepsilon(x-t) d\mu(t)\Biggr)\varphi(x) \mathrm{d}x-\int_{\mathbb{R}^n}\varphi(x) d\mu(x) \mathrm{d}x\rvert\\
+&=\lvert \int_{\mathbb{R}^n}\Biggl(\int_{\mathbb{R}^n}P_\varepsilon(x-t)\varphi(x) \mathrm{d}x\Biggr)d\mu(t)-\int_{\mathbb{R}^n}\varphi(x) d\mu(x) \mathrm{d}x\rvert\\
+&=\lvert \int_{\mathbb{R}^n}(P_\varepsilon*\varphi)(t) d\mu(t)-\int_{\mathbb{R}^n}\varphi(x) d\mu(x) \mathrm{d}x\rvert\\
+&\le\lVert P_\varepsilon*\varphi-\varphi\rVert_\infty\lVert \mu\rVert_{\mathcal{M}}\to 0
+(\varepsilon\to 0).
+\end{aligned}
+$$
+
+**定义.** 设 $\mu\in\mathcal{M}(\mathbb{R}^n)$，测度 $\mu$ 的 Fourier 变换为
+\[
+\widehat{\mu}(x)=\int_{\mathbb{R}^n}e^{-2\pi i x\cdot t} d\mu(t), x\in\mathbb{R}^n.
+\]
+
+**例.** Dirac 测度 $\delta_a$ 的 Fourier 变换为
+\[
+\widehat{\delta}_a(x)=\int_{\mathbb{R}^n}e^{-2\pi i x\cdot t} d\delta_a(t)=e^{-2\pi i x\cdot a}.
+\]
+
+下面讨论测度 $\mu$ 的 Fourier 变换的性质.
+
+**定理.** 设 $\mu\in\mathcal{M}(\mathbb{R}^n)$，则
+
+1. $\widehat{\mu}\in L^\infty$ 且 $\lVert \widehat{\mu}\rVert_\infty\le\lVert \mu\rVert_{\mathcal{M}}$.
+2. $\widehat{\mu}$ 在 $\mathbb{R}^n$ 上一致连续.
+
+*证明.* (i) 由定义
+\[
+\lvert \widehat{\mu}(x)\rvert=\lvert \int_{\mathbb{R}^n}e^{-2\pi i x\cdot t} d\mu(t)\rvert\le\int_{\mathbb{R}^n}d\lvert \mu\rvert(t)=\lVert \mu\rVert_{\mathcal{M}}.
+\]
+(ii) 对任意的 $x\in\mathbb{R}^n$，$h\in\mathbb{R}^n$，
+
+$$
+\begin{aligned}
+\lvert \widehat{\mu}(x+h)-\widehat{\mu}(x)\rvert
+&=\lvert \int_{\mathbb{R}^n}[e^{-2\pi i(x+h)\cdot t}-e^{-2\pi i x\cdot t}]d\mu(t)\rvert\\
+&\le\int_{\mathbb{R}^n}\lvert e^{-2\pi i h\cdot t}-1\rvert d\lvert \mu\rvert(t)
+=\int_{\mathbb{R}^n}\lvert 2\sin(\pi h\cdot t)\rvert d\lvert \mu\rvert(t)\to 0
+(\lvert h\rvert\to 0).
+\end{aligned}
+$$
+
+**注.** Riemann–Lebesgue 引理对 $\mathcal{M}(\mathbb{R}^n)$ 测度不成立.
+
+**例.** $\widehat{\delta}\equiv 1\notin C_0$.
+
+**定理.** 设 $\mu,\nu\in\mathcal{M}(\mathbb{R}^n)$.
+
+1. 乘法公式： \[ \int_{\mathbb{R}^n}\widehat{\mu}(x) d\nu(x)=\int_{\mathbb{R}^n}\widehat{\nu}(x) d\mu(x). \]
+2. 与卷积的关系：若 $f\in L^p(\mathbb{R}^n)$，$1\le p\le 2$，那么 \[ (f*\mu)^\wedge(x)=\widehat{f}(x)\widehat{\mu}(x). \]
+3. 若 $f,\widehat{f}\in L^1(\mathbb{R}^n)$ 且 $f$ 在 $\mathbb{R}^n$ 上连续，那么 $$ \begin{aligned} \int_{\mathbb{R}^n}f(x) d\mu(x)&=\int_{\mathbb{R}^n}\widehat{f}(\xi)\widehat{\mu}(-\xi) \mathrm{d}\xi,\\ \int_{\mathbb{R}^n}\widehat{f}(x) d\mu(x)&=\int_{\mathbb{R}^n}f(\xi)\widehat{\mu}(\xi) \mathrm{d}\xi. \end{aligned} $$
+
+*证明.* (i) 利用 Fubini 定理
+
+$$
+\begin{aligned}
+\int_{\mathbb{R}^n}\widehat{\mu}(x) d\nu(x)
+&=\int_{\mathbb{R}^n}\Biggl(\int_{\mathbb{R}^n}e^{-2\pi i x\cdot t} d\mu(t)\Biggr)d\nu(x)\\
+&=\int_{\mathbb{R}^n}\Biggl(\int_{\mathbb{R}^n}e^{-2\pi i x\cdot t} d\nu(x)\Biggr)d\mu(t)
+=\int_{\mathbb{R}^n}\widehat{\nu}(t) d\mu(t).
+\end{aligned}
+$$
+
+(ii) 因为 $f\in L^p(\mathbb{R}^n)$，$1\le p\le 2$，由定理 1，
+\[
+f*\mu\in L^p(\mathbb{R}^n), 1\le p\le 2.
+\]
+从而 $(f*\mu)^\wedge$ 有定义. 先考虑 $\forall f\in L^1(\mathbb{R}^n)$，则
+\[
+\widehat{f}(x)=\int_{\mathbb{R}^n}f(t)e^{-2\pi i x\cdot t} \mathrm{d}t.
+\]
+
+$$
+\begin{aligned}
+(f*\mu)^\wedge(x)
+&=\int_{\mathbb{R}^n}\Biggl(\int_{\mathbb{R}^n}f(t-y) d\mu(y)\Biggr)e^{-2\pi i x\cdot t} \mathrm{d}t\\
+&=\int_{\mathbb{R}^n}\Biggl(\int_{\mathbb{R}^n}f(t-y)e^{-2\pi i x\cdot(t-y)} \mathrm{d}t\Biggr)e^{-2\pi i x\cdot y} d\mu(y)\\
+&=\widehat{f}(x)\int_{\mathbb{R}^n}e^{-2\pi i x\cdot y} d\mu(y)=\widehat{f}(x)\widehat{\mu}(x).
+\end{aligned}
+$$
+
+再考虑 $f\in L^2(\mathbb{R}^n)$，取 $\{f_k\}\subset L^1(\mathbb{R}^n)\cap L^2(\mathbb{R}^n)$，使得
+\[
+\lVert f_k-f\rVert_2\to 0, k\to\infty.
+\]
+由第一步得知
+\[
+(f_k*\mu)^\wedge(x)=\widehat{f}_k(x)\widehat{\mu}(x).
+\]
+令 $k\to\infty$，由 Plancherel 定理和定理 1，
+
+$$
+\begin{aligned}
+\lVert (f_k*\mu)^\wedge-(f*\mu)^\wedge\rVert_2
+&=\lVert f_k*\mu-f*\mu\rVert_2\le\lVert f_k-f\rVert_2\lVert \mu\rVert_{\mathcal{M}}\to 0,\\
+\lVert \widehat{f}_k\widehat{\mu}-\widehat{f}\widehat{\mu}\rVert_2
+&\le\lVert \widehat{f}_k-\widehat{f}\rVert_2\lVert \widehat{\mu}\rVert_\infty
+\le\lVert f_k-f\rVert_2\lVert \mu\rVert_{\mathcal{M}}\to 0.
+\end{aligned}
+$$
+
+综合可得 $\forall f\in L^2(\mathbb{R}^n)$，
+\[
+(f*\mu)^\wedge(x)=\widehat{f}(x)\widehat{\mu}(x).
+\]
+最后证明 $\forall f\in L^p(\mathbb{R}^n)$，$1\le p\le 2$，分解
+\[
+f=f_1+f_2, f_1\in L^1(\mathbb{R}^n),\ f_2\in L^2(\mathbb{R}^n).
+\]
+从而
+\[
+(f*\mu)^\wedge=(f_1*\mu)^\wedge+(f_2*\mu)^\wedge=\widehat{f}_1\widehat{\mu}+\widehat{f}_2\widehat{\mu}=\widehat{f}\widehat{\mu}.
+\]
+
+(iii) 利用反演公式：$\forall x\in\mathbb{R}^n$，
+\[
+f(x)=\int_{\mathbb{R}^n}\widehat{f}(\xi)e^{2\pi i x\cdot\xi} \mathrm{d}\xi
+\]
+可推出
+
+$$
+\begin{aligned}
+\int_{\mathbb{R}^n}f(x) d\mu(x)
+&=\int_{\mathbb{R}^n}\Biggl(\int_{\mathbb{R}^n}\widehat{f}(\xi)e^{2\pi i x\cdot\xi} \mathrm{d}\xi\Biggr)d\mu(x)\\
+&=\int_{\mathbb{R}^n}\widehat{f}(\xi)\Biggl(\int_{\mathbb{R}^n}e^{2\pi i x\cdot\xi} d\mu(x)\Biggr) \mathrm{d}\xi
+=\int_{\mathbb{R}^n}\widehat{f}(\xi)\widehat{\mu}(-\xi) \mathrm{d}\xi.
+\end{aligned}
+$$
+
+另一方面，
+
+$$
+\begin{aligned}
+\int_{\mathbb{R}^n}\widehat{f}(x) d\mu(x)
+&=\int_{\mathbb{R}^n}\Biggl(\int_{\mathbb{R}^n}f(t)e^{-2\pi i x\cdot t} \mathrm{d}t\Biggr)d\mu(x)\\
+&=\int_{\mathbb{R}^n}f(t)\Biggl(\int_{\mathbb{R}^n}e^{-2\pi i x\cdot t} d\mu(x)\Biggr) \mathrm{d}t
+=\int_{\mathbb{R}^n}f(t)\widehat{\mu}(t) \mathrm{d}t.
+\end{aligned}
+$$
+
+**推论.** 设 $\varphi$ 是 $\mathbb{R}^n$ 上的连续函数，则 $\varphi$ 是 $\mathcal{M}(\mathbb{R}^n)$ 中测度的 Fourier 变换的充要条件是：存在常数 $C>0$，使得对任意的 $f\in C_0(\mathbb{R}^n)\cap L^1(\mathbb{R}^n)$ 且 $\widehat{f}$ 具有紧支集，都有
+\[
+\lvert \int_{\mathbb{R}^n}\widehat{f}(\xi)\varphi(-\xi) \mathrm{d}\xi\rvert\le C\sup_{x\in\mathbb{R}^n}\lvert f(x)\rvert.
+\]
+
+*证明.* (1) 若 $\varphi=\widehat{\mu}$，其中 $\mu\in\mathcal{M}(\mathbb{R}^n)$. 由定理 5，
+
+$$
+\begin{aligned}
+\lvert \int_{\mathbb{R}^n}\widehat{f}(\xi)\varphi(-\xi) \mathrm{d}\xi\rvert
+&=\lvert \int_{\mathbb{R}^n}\widehat{f}(\xi)\widehat{\mu}(-\xi) \mathrm{d}\xi\rvert
+=\lvert \int_{\mathbb{R}^n}f(x) d\mu(x)\rvert
+\le\sup_{x\in\mathbb{R}^n}\lvert f(x)\rvert \lVert \mu\rVert_{\mathcal{M}}.
+\end{aligned}
+$$
+
+(2) 反之，记 $K=\{\check{g}:g\in C_c^\infty(\mathbb{R}^n)\}$，则 $K$ 在 $C_0(\mathbb{R}^n)$ 中稠密.
+若对任意的 $f\in C_0(\mathbb{R}^n)\cap L^1(\mathbb{R}^n)$ 满足 $\widehat{f}$ 具有紧支集，有
+\[
+\lvert \int_{\mathbb{R}^n}\widehat{f}(\xi)\varphi(-\xi) \mathrm{d}\xi\rvert\le C\sup_{x\in\mathbb{R}^n}\lvert f(x)\rvert.
+\]
+这表明
+\[
+L:f\mapsto\int_{\mathbb{R}^n}\widehat{f}(\xi)\varphi(-\xi) \mathrm{d}\xi
+\]
+是 $K$ 上的连续线性泛函. 由稠密性 $L$ 可延拓为 $C_0(\mathbb{R}^n)$ 上的连续线性泛函. 再应用 Riesz 表示定理，存在 $\mu\in\mathcal{M}(\mathbb{R}^n)$，使得
+\[
+L(f)=\langle \mu,f\rangle=\int_{\mathbb{R}^n}f(x) d\mu(x),
+\]
+且 $\lVert L\rVert=\lVert \mu\rVert_{\mathcal{M}}$. 下证 $\varphi=\widehat{\mu}$.
+
+应用定理 5，则对任意的 $f\in K$
+\[
+L(f)=\int_{\mathbb{R}^n}f(x) d\mu(x)=\int_{\mathbb{R}^n}\widehat{f}(\xi)\widehat{\mu}(-\xi) \mathrm{d}\xi=\int_{\mathbb{R}^n}\widehat{f}(\xi)\varphi(-\xi) \mathrm{d}\xi.
+\]
+即 $\forall\widehat{f}\in C_c^\infty(\mathbb{R}^n)$，有
+\[
+\int_{\mathbb{R}^n}\widehat{f}(\xi)[\widehat{\mu}(-\xi)-\varphi(-\xi)] \mathrm{d}\xi=0.
+\]
+由 $C_c^\infty(\mathbb{R}^n)$ 在 $C_0(\mathbb{R}^n)$ 中的稠密性，$\forall g\in C_c(\mathbb{R}^n)$，
+\[
+\int_{\mathbb{R}^n}g(\xi)[\widehat{\mu}(-\xi)-\varphi(-\xi)] \mathrm{d}\xi=0.
+\]
+记 $u(\xi)=\widehat{\mu}(-\xi)-\varphi(-\xi)\in C(\mathbb{R}^n)$，令 $g_k=\overline{u} \chi_{B(0,k)}\in C_c(\mathbb{R}^n)$，
+\[
+\int_{\mathbb{R}^n}g_k(\xi)u(\xi) \mathrm{d}\xi=\int_{\mathbb{R}^n}\lvert u(\xi)\rvert^2\chi_{B(0,k)} \mathrm{d}\xi=0.
+\]
+利用单调递增收敛定理，
+\[
+\int_{\mathbb{R}^n}\lvert u(\xi)\rvert^2 \mathrm{d}\xi=0.
+\]
+故 $u=0$，所以 $\varphi=\widehat{\mu}$.
+
+**定义.** 设 $\mu\in\mathcal{M}(\mathbb{R}^n)$，测度 $\mu$ 的 Fourier 积分为
+\[
+\int_{\mathbb{R}^n}\widehat{\mu}(t)e^{2\pi i x\cdot t} \mathrm{d}t.
+\]
+测度 $\mu$ 的 Fourier 积分的 Abel 平均定义为
+\[
+A_\varepsilon(\mu)(x):=\int_{\mathbb{R}^n}\widehat{\mu}(t)e^{2\pi i x\cdot t}e^{-2\pi\varepsilon\lvert t\rvert} \mathrm{d}t.
+\]
+同样，可以定义测度 $\mu$ 的 Fourier 积分的 Gauss 平均.
+
+**定理.** 设 $\mu\in\mathcal{M}(\mathbb{R}^n)$，则
+
+1. $A_\varepsilon(\mu)(x)=(P_\varepsilon*\mu)(x)$.
+2. 对任意的 $\varphi\in C_0(\mathbb{R}^n)$， \[ \int_{\mathbb{R}^n}\varphi(x)A_\varepsilon(\mu)(x) \mathrm{d}x\to\int_{\mathbb{R}^n}\varphi(x) d\mu(x) \mathrm{d}x,\varepsilon\to 0. \]
+
+*证明.* (1) 首先论证 $A_\varepsilon(\mu)(t)=(P_\varepsilon*\mu)(t)$.
+记 $d\nu(x)=e^{2\pi i x\cdot t}e^{-2\pi\varepsilon\lvert x\rvert} \mathrm{d}x$，则
+
+$$
+\begin{aligned}
+A_\varepsilon(\mu)(t)
+&=\int_{\mathbb{R}^n}\widehat{\mu}(x)e^{2\pi i x\cdot t}e^{-2\pi\varepsilon\lvert x\rvert} \mathrm{d}x
+=\int_{\mathbb{R}^n}\widehat{\mu}(x) d\nu(x)=\int_{\mathbb{R}^n}\widehat{\nu}(y) d\mu(y)\\
+&=\int_{\mathbb{R}^n}\Biggl(\int_{\mathbb{R}^n}e^{-2\pi i x\cdot y} d\nu(x)\Biggr)d\mu(y)\\
+&=\int_{\mathbb{R}^n}\Biggl(\int_{\mathbb{R}^n}e^{-2\pi i x\cdot y}e^{2\pi i x\cdot t}e^{-2\pi\varepsilon\lvert x\rvert} \mathrm{d}x\Biggr)d\mu(y)\\
+&=\int_{\mathbb{R}^n}\Biggl(\int_{\mathbb{R}^n}e^{-2\pi i x\cdot(y-t)}e^{-2\pi\varepsilon\lvert x\rvert} \mathrm{d}x\Biggr)d\mu(y)\\
+&=\int_{\mathbb{R}^n}P_\varepsilon(y-t) d\mu(y)=(P_\varepsilon*\mu)(t).
+\end{aligned}
+$$
+
+(2) 应用定理 3 可得结论.
+
+**推论（测度 $\mu$ 的 Fourier 变换的唯一性）.** 设 $\mu_1,\mu_2\in\mathcal{M}(\mathbb{R}^n)$，且 $\widehat{\mu}_1=\widehat{\mu}_2$，那么 $\mu_1=\mu_2$.
+
+*证明.* 令 $\mu=\mu_1-\mu_2$，则 $\widehat{\mu}=0$. 从而 $A_\varepsilon(\mu)=0$. 应用定理 6 可得 $\mu=0$，即 $\mu_1=\mu_2$.
+
+## 复测度的卷积
+
+设 $E\in\mathcal{B}$. 记 $E_{(2)}=\{(x,y)\in\mathbb{R}^n\times\mathbb{R}^n:x+y\in E\}$. 则 $E_{(2)}$ 是 $\mathbb{R}^n\times\mathbb{R}^n$ 中的 Borel 集.
+
+令 $E_{(1)}=E\times\mathbb{R}^n$，则 $E_{(1)}$ 是 $\mathbb{R}^n\times\mathbb{R}^n$ 中的 Borel 集. 作映射 $\varphi:\mathbb{R}^n\times\mathbb{R}^n\to\mathbb{R}^n\times\mathbb{R}^n$，满足 $\varphi((x,y))=(x-y,y)$，则 $\varphi$ 是双射，且 $\varphi$，$\varphi^{-1}$ 均连续. 易见 $\varphi(E_{(1)})=E_{(2)}$，故 $E_{(2)}$ 是 $\mathbb{R}^n\times\mathbb{R}^n$ 中的 Borel 集.
+
+**定义.** 设 $\mu,\nu\in\mathcal{M}(\mathbb{R}^n)$，测度 $\mu$ 和 $\nu$ 的卷积 $\mu*\nu$ 为
+\[
+(\mu*\nu)(E)=(\mu\times\nu)(E_{(2)}), E\in\mathcal{B}.
+\]
+
+**定理.** 设 $\mu,\nu\in\mathcal{M}(\mathbb{R}^n)$，则
+
+1. $\mu*\nu\in\mathcal{M}(\mathbb{R}^n)$.
+2. 对任意的 $E\in\mathcal{B}$ 和 $x\in\mathbb{R}^n$，记 $E-x=\{y-x:y\in E\}$，那么 \[ (\mu*\nu)(E)=\int_{\mathbb{R}^n}\nu(E-x) d\mu(x)=\int_{\mathbb{R}^n}\mu(E-y) d\nu(y). \]
+3. $\mu*\nu=\nu*\mu$.
+4. 对于 $\mathbb{R}^n$ 上任意复值有界的 Borel 可测函数 $f$， \[ \int_{\mathbb{R}^n}f(x) d(\mu*\nu)(x)=\int_{\mathbb{R}^n}\int_{\mathbb{R}^n}f(x+y) d\mu(x) d\nu(y). \]
+5. $\lVert \mu*\nu\rVert_{\mathcal{M}}\le\lVert \mu\rVert_{\mathcal{M}}\lVert \nu\rVert_{\mathcal{M}}$.
+
+*证明.* (a) 首先验证满足可数可加性. 设 $\{E_j\}_{j=1}^\infty\subset\mathcal{B}$ 且当 $j\neq k$ 时，$E_j\cap E_k=\emptyset$. 设 $E=\bigcup_{j=1}^\infty E_j$，由定义
+
+$$
+\begin{aligned}
+(\mu*\nu)(E)
+&=(\mu*\nu)\Biggl(\bigcup_{j=1}^\infty E_j\Biggr)
+=(\mu\times\nu)\Biggl(\bigcup_{j=1}^\infty(E_j)_{(2)}\Biggr)\\
+&=\sum_{j=1}^\infty(\mu\times\nu)((E_j)_{(2)})
+=\sum_{j=1}^\infty(\mu*\nu)(E_j).
+\end{aligned}
+$$
+
+再验证正则性. 由 Jordan 分解定理，只需假设 $\mu$ 和 $\nu$ 是测度. 设 $E\in\mathcal{B}$. 一方面，对任意的紧集 $K\subset E$，都有
+\[
+(\mu*\nu)(K)\le(\mu*\nu)(E).
+\]
+另一方面，由乘积测度 $\mu\times\nu$ 的正则性，$\forall\varepsilon>0$，存在紧集 $F\subset E_{(2)}$，使得
+\[
+(\mu\times\nu)(F)>(\mu\times\nu)(E_{(2)})-\varepsilon.
+\]
+记 $\phi:(x,y)\to x+y$ 是 $\mathbb{R}^n\times\mathbb{R}^n\to\mathbb{R}^n$ 的映射. 令 $H=\phi(F)$，则有
+\[
+H=\phi(F)\subset\phi(E_{(2)})\subset E.
+\]
+由 $\phi$ 的连续性，$H$ 是 $\mathbb{R}^n$ 中的紧集. 又因为 $F\subset\phi^{-1}(H)=H_{(2)}$，所以
+
+$$
+\begin{aligned}
+(\mu*\nu)(H)
+&=(\mu\times\nu)(H_{(2)})
+\ge(\mu\times\nu)(F)\\
+&>(\mu\times\nu)(E_{(2)})-\varepsilon
+=(\mu*\nu)(E)-\varepsilon.
+\end{aligned}
+$$
+
+因此
+\[
+\sup(\mu*\nu)(K)=(\mu*\nu)(E),
+\]
+其中上确界取遍所有包含于 $E$ 中的紧集 $K$，故 $\mu*\nu$ 满足内正则条件. 同理可证 $\mu*\nu$ 满足外正则条件.
+
+(b) 设 $E\in\mathcal{B}$，
+\[
+(\mu*\nu)(E)=\int_{\mathbb{R}^n}\chi_E(x) d(\mu*\nu)(x),
+\]
+因为 $(x,y)\in E_{(2)}\iff x+y\in E$，所以
+
+$$
+\begin{aligned}
+(\mu*\nu)(E)
+&=(\mu\times\nu)(E_{(2)})
+=\int_{\mathbb{R}^n}\int_{\mathbb{R}^n}\chi_{E_{(2)}}(x,y) d(\mu\times\nu)\\
+&=\int_{\mathbb{R}^n}\int_{\mathbb{R}^n}\chi_E(x+y) d(\mu\times\nu).
+\end{aligned}
+$$
+
+运用 Fubini 定理，
+
+$$
+\begin{aligned}
+\int_{\mathbb{R}^n}\chi_E(x) d(\mu*\nu)(x)
+&=\int_{\mathbb{R}^n}\int_{\mathbb{R}^n}\chi_E(x+y) d(\mu\times\nu)\\
+&=\int_{\mathbb{R}^n}\int_{\mathbb{R}^n}\chi_E(x+y) d\mu(x) d\nu(y)\\
+&=\int_{\mathbb{R}^n}\int_{\mathbb{R}^n}\chi_E(x+y) d\nu(y) d\mu(x).
+\end{aligned}
+$$
+
+又因为 $\chi_E(x+y)=\chi_{E-x}(y)$，所以
+
+$$
+\begin{aligned}
+(\mu*\nu)(E)
+&=\int_{\mathbb{R}^n}\chi_E(x) d(\mu*\nu)(x)
+=\int_{\mathbb{R}^n}\int_{\mathbb{R}^n}\chi_E(x+y) d\nu(y) d\mu(x)\\
+&=\int_{\mathbb{R}^n}\nu(E-x) d\mu(x).
+\end{aligned}
+$$
+
+同理可证
+\[
+(\mu*\nu)(E)=\int_{\mathbb{R}^n}\mu(E-y) d\nu(y).
+\]
+
+(c) 由 (b) 可得
+\[
+(\nu*\mu)(E)=\int_{\mathbb{R}^n}\nu(E-y) d\mu(y)=(\mu*\nu)(E).
+\]
+
+(d) 由 (b) 的证明可得对于 $\mathbb{R}^n$ 上任意简单 Borel 可测函数 $\varphi$，
+\[
+\int_{\mathbb{R}^n}\varphi(x) d(\mu*\nu)(x)=\int_{\mathbb{R}^n}\int_{\mathbb{R}^n}\varphi(x+y) d\mu(x) d\nu(y).
+\]
+设 $f$ 是 $\mathbb{R}^n$ 上的复值有界 Borel 可测函数，存在一列简单 Borel 可测函数 $\{\varphi_k\}$，使得
+\[
+\sup_{x\in\mathbb{R}^n}\lvert \varphi_k(x)-f(x)\rvert\to 0, k\to\infty.
+\]
+运用控制收敛定理
+
+$$
+\begin{aligned}
+\int_{\mathbb{R}^n}\varphi_k(x) d(\mu*\nu)(x)&\to\int_{\mathbb{R}^n}f(x) d(\mu*\nu)(x);\\
+\int_{\mathbb{R}^n}\int_{\mathbb{R}^n}\varphi_k(x+y) d\mu(x) d\nu(y)&\to\int_{\mathbb{R}^n}\int_{\mathbb{R}^n}f(x+y) d\mu(x) d\nu(y).
+\end{aligned}
+$$
+
+(e) 由 Riesz 表示定理
+\[
+\lVert \mu\rVert_{\mathcal{M}}
+=\sup_{\substack{f\in C_0(\mathbb{R}^n)\\ \lVert f\rVert_\infty\le 1}}\lvert \langle \mu,f\rangle\rvert
+=\sup_{\substack{f\in C_0(\mathbb{R}^n)\\ \lVert f\rVert_\infty\le 1}}\lvert \int_{\mathbb{R}^n}f(x) d\mu(x)\rvert.
+\]
+所以
+
+$$
+\begin{aligned}
+\lVert \mu*\nu\rVert_{\mathcal{M}}
+&=\sup_{f\in C_0, \lVert f\rVert_\infty\le 1}\lvert \int_{\mathbb{R}^n}f d(\mu*\nu)\rvert\\
+&=\sup_{f\in C_0, \lVert f\rVert_\infty\le 1}\lvert \int_{\mathbb{R}^n}\int_{\mathbb{R}^n}f(x+y) d\mu(x) d\nu(y)\rvert\\
+&\le\sup_{f\in C_0, \lVert f\rVert_\infty\le 1}\int_{\mathbb{R}^n}\int_{\mathbb{R}^n}\lvert f(x+y)\rvert d\lvert \mu\rvert(x) d\lvert \nu\rvert(y)\\
+&\le\Biggl(\int_{\mathbb{R}^n}d\lvert \mu\rvert\Biggr)\Biggl(\int_{\mathbb{R}^n}d\lvert \nu\rvert\Biggr)
+=\lVert \mu\rVert_{\mathcal{M}}\lVert \nu\rVert_{\mathcal{M}}.
+\end{aligned}
+$$
+
+**性质.** 设 $\mu,\nu\in\mathcal{M}(\mathbb{R}^n)$，则
+\[
+\widehat{\mu*\nu}(x)=\widehat{\mu}(x)\widehat{\nu}(x).
+\]
+
+*证明.* 由定义
+
+$$
+\begin{aligned}
+\widehat{\mu*\nu}(x)
+&=\int_{\mathbb{R}^n}e^{-2\pi i x\cdot t} d(\mu*\nu)(t)\\
+&=\int_{\mathbb{R}^n}\int_{\mathbb{R}^n}e^{-2\pi i x\cdot(t+y)} d\mu(t) d\nu(y)\\
+&=\int_{\mathbb{R}^n}e^{-2\pi i x\cdot t} d\mu(t)\int_{\mathbb{R}^n}e^{-2\pi i x\cdot y} d\nu(y)
+=\widehat{\mu}(x)\widehat{\nu}(x).
+\end{aligned}
+$$
+
+
+上一篇：[极大函数](/posts/analysis/fa-maximal/)。下一篇：[Schwartz 函数和缓增分布](/posts/analysis/fa-schwartz/)。
 7:["$","div",null,{"className":"relative flex min-h-[120px] grid-cols-[auto_200px] lg:grid","children":["$","div",null,{"className":"relative w-full min-w-0","children":["$","article",null,{"className":"prose article-prose","children":[["$","h1",null,{"className":"mb-8 text-balance text-center lg:text-left text-4xl font-bold leading-tight","children":"Fourier 变换"}],["$","$L11",null,{"allowsScript":true,"value":"$12","className":"min-w-0 overflow-hidden"}]]}]}]}]
 5:["$","$L13",null,{"tmdb":false,"children":[["$","$L14",null,{"isLogged":false}],["$","html",null,{"lang":"zh","className":"noise themed","suppressHydrationWarning":true,"children":[["$","head",null,{"children":[null,["$","$L15",null,{}],["$","script",null,{"dangerouslySetInnerHTML":{"__html":"var version = \"6.6.7\";\n    (function(){console.info(\"%c Sherr1.log %c https://github.com/nkuSherr1\",\"color: #fff; margin: 1em 0; padding: 5px 0; background: #003153;\",\"margin: 1em 0; padding: 5px 0; background: #efefef;\");let a=`\nSherr1.log\nNankai Mathematics \\xb7 Extremal graph theory\n--------\nWritten with care.\n`;document.firstChild?.nodeType!==Node.COMMENT_NODE&&document.prepend(document.createComment(a))})();"}}],["$","$L16",null,{}],"$L17",["$","link",null,{"rel":"shortcut icon","href":"/favicon.ico","type":"image/x-icon","media":"(prefers-color-scheme: dark)"}],["$","link",null,{"rel":"shortcut icon","href":"/favicon.ico","type":"image/x-icon","media":"(prefers-color-scheme: light)"}],["$","link",null,{"rel":"apple-touch-icon","href":"/apple-touch-icon.png","sizes":"180x180"}],"$L18"]}],["$","body",null,{"suppressHydrationWarning":true,"className":"__variable_e2b71d  m-0 h-full p-0 font-sans","children":"$L19"}]]}]]}]
 17:["$","style",null,{"id":"accent-color-style","data-light":"#BE123C","data-dark":"#F43F5E","dangerouslySetInnerHTML":{"__html":"\n        html[data-theme='light'] {\n          --color-accent: oklch(0.5142563147617311 0.19780565183015228 16.934988161961996);\n        }\n        html[data-theme='dark'] {\n          --color-accent: oklch(0.6450321516313926 0.21540307992703317 16.439293967097797);\n        }\n        :root[data-theme='light'] {\n          --footer-bg: #f2e4d8;\n        }\n        :root[data-theme='dark'] {\n          --footer-bg: #361e1f;\n        }"}}]

@@ -21,17 +21,182 @@ e:I[87071,[],"MetadataBoundary"]
 14:I[60755,["4266","static/chunks/cb69f5e5-38b1876d0364eabd.js","6618","static/chunks/962d60d4-2f97a7306ab44fe1.js","3374","static/chunks/3374-064cfbbe2608b69a.js","2115","static/chunks/2115-72ad8ab6a0a482e5.js","3371","static/chunks/3371-4aa89e9112feba6f.js","915","static/chunks/915-f2d3aa6318478d87.js","8476","static/chunks/8476-5b9555f1f11850f5.js","9823","static/chunks/9823-752ded14ff1fc8ed.js","6649","static/chunks/6649-4aa84bb85dfcea04.js","2250","static/chunks/2250-55633d86d5c24bd9.js","6702","static/chunks/6702-07d2c1d4b5ee85d1.js","7515","static/chunks/7515-6533e3f4c74944ed.js","6480","static/chunks/6480-b6c8f5836b943902.js","3506","static/chunks/3506-639c9b819e6097ea.js","9359","static/chunks/9359-757c0d4b7d9389cf.js","943","static/chunks/943-e94be4a59502ba15.js","54","static/chunks/54-8b1b2030ec661343.js","3442","static/chunks/3442-b02f67c52bc21b33.js","6407","static/chunks/6407-8c126658ecad0efb.js","5453","static/chunks/5453-1c0b57ba019ddab7.js","4769","static/chunks/4769-249bb22c4440c9d4.js","8773","static/chunks/8773-934b5bf44c7f6a8a.js","3764","static/chunks/3764-7d58f284db646167.js","3101","static/chunks/3101-3c57cfdb325b65de.js","1934","static/chunks/1934-eccc223403b0cb6d.js","7632","static/chunks/7632-8bf358d229ecabf3.js","4938","static/chunks/4938-1a2549c8dabc1ca4.js","8450","static/chunks/app/%5Blocale%5D/layout-5be8c8f700b40dd7.js"],"HydrateuserAuthProvider"]
 15:I[9999,["4266","static/chunks/cb69f5e5-38b1876d0364eabd.js","6618","static/chunks/962d60d4-2f97a7306ab44fe1.js","3374","static/chunks/3374-064cfbbe2608b69a.js","2115","static/chunks/2115-72ad8ab6a0a482e5.js","3371","static/chunks/3371-4aa89e9112feba6f.js","915","static/chunks/915-f2d3aa6318478d87.js","8476","static/chunks/8476-5b9555f1f11850f5.js","9823","static/chunks/9823-752ded14ff1fc8ed.js","6649","static/chunks/6649-4aa84bb85dfcea04.js","2250","static/chunks/2250-55633d86d5c24bd9.js","6702","static/chunks/6702-07d2c1d4b5ee85d1.js","7515","static/chunks/7515-6533e3f4c74944ed.js","6480","static/chunks/6480-b6c8f5836b943902.js","3506","static/chunks/3506-639c9b819e6097ea.js","9359","static/chunks/9359-757c0d4b7d9389cf.js","943","static/chunks/943-e94be4a59502ba15.js","54","static/chunks/54-8b1b2030ec661343.js","3442","static/chunks/3442-b02f67c52bc21b33.js","6407","static/chunks/6407-8c126658ecad0efb.js","5453","static/chunks/5453-1c0b57ba019ddab7.js","4769","static/chunks/4769-249bb22c4440c9d4.js","8773","static/chunks/8773-934b5bf44c7f6a8a.js","3764","static/chunks/3764-7d58f284db646167.js","3101","static/chunks/3101-3c57cfdb325b65de.js","1934","static/chunks/1934-eccc223403b0cb6d.js","7632","static/chunks/7632-8bf358d229ecabf3.js","4938","static/chunks/4938-1a2549c8dabc1ca4.js","8450","static/chunks/app/%5Blocale%5D/layout-5be8c8f700b40dd7.js"],"Global"]
 16:I[93217,["4266","static/chunks/cb69f5e5-38b1876d0364eabd.js","6618","static/chunks/962d60d4-2f97a7306ab44fe1.js","3374","static/chunks/3374-064cfbbe2608b69a.js","2115","static/chunks/2115-72ad8ab6a0a482e5.js","3371","static/chunks/3371-4aa89e9112feba6f.js","915","static/chunks/915-f2d3aa6318478d87.js","8476","static/chunks/8476-5b9555f1f11850f5.js","9823","static/chunks/9823-752ded14ff1fc8ed.js","6649","static/chunks/6649-4aa84bb85dfcea04.js","2250","static/chunks/2250-55633d86d5c24bd9.js","6702","static/chunks/6702-07d2c1d4b5ee85d1.js","7515","static/chunks/7515-6533e3f4c74944ed.js","6480","static/chunks/6480-b6c8f5836b943902.js","3506","static/chunks/3506-639c9b819e6097ea.js","9359","static/chunks/9359-757c0d4b7d9389cf.js","943","static/chunks/943-e94be4a59502ba15.js","54","static/chunks/54-8b1b2030ec661343.js","3442","static/chunks/3442-b02f67c52bc21b33.js","6407","static/chunks/6407-8c126658ecad0efb.js","5453","static/chunks/5453-1c0b57ba019ddab7.js","4769","static/chunks/4769-249bb22c4440c9d4.js","8773","static/chunks/8773-934b5bf44c7f6a8a.js","3764","static/chunks/3764-7d58f284db646167.js","3101","static/chunks/3101-3c57cfdb325b65de.js","1934","static/chunks/1934-eccc223403b0cb6d.js","7632","static/chunks/7632-8bf358d229ecabf3.js","4938","static/chunks/4938-1a2549c8dabc1ca4.js","8450","static/chunks/app/%5Blocale%5D/layout-5be8c8f700b40dd7.js"],"HydrationEndDetector"]
-12:T4a5,这是 [流形笔记](/posts/analysis/mfld-notes/) 的第 4 篇。
+12:T1dce,这是 [流形笔记](/posts/analysis/mfld-notes/) 的第 4 篇。上一篇是 [局部紧、仿紧、可度量化](/posts/analysis/mfld-properties/)。
 
-若 \(M^m\)、\(N^n\) 是微分流形，乘积 \(M\times N\) 是 \(m+n\) 维微分流形。拓扑用乘积拓扑，Hausdorff 和第二可数对有限乘积都保持。图册取局部坐标的笛卡尔积，转换映射仍光滑。
+## 流形的构造
 
-连通和假定两张可定向的 \(n\) 维流形。在每张上挖掉一个开球，沿边界用一个反向的微分同胚粘起来，使定向接得上。结果不依赖于挖掉的球和粘合映射的选取，记作 \(M_1\# M_2\)。\(S^n\# M\) 微分同胚于 \(M\)。曲面的分类就是球面、环面的连通和，以及射影平面的连通和。
+### 乘积与连通和
 
-群作用：Lie 群 \(G\) 光滑地作用在 \(M\) 上。作用自由且适当不连续时，商 \(M/G\) 是流形，投影是覆盖映射。\(\mathbb{Z}^n\) 平移作用在 \(\mathbb{R}^n\) 上，商是环面 \(T^n\)。对径映射生成的 \(\mathbb{Z}/2\) 作用在 \(S^n\) 上，商是 \(\mathbb{R}P^n\)，和第 2 篇的构造是同一张流形。
+**命题（乘积流形）.** 若 $M^m$、$N^n$ 分别是 $m$、$n$ 维微分流形，则 $M^m\times N^n$ 是 $m+n$ 维微分流形。
 
-作用如果不自由，商可以有奇点，不再是流形。轨道空间要另加层结构，那已经超出这套笔记。
+*证明.* 要点就是把原来的结构做成笛卡尔积：
 
-回到 [目录](/posts/analysis/mfld-notes/)。
+1. 拓扑取乘积拓扑；
+2. $T_2$ 具有（有限）可乘性；
+3. $A_2$ 具有（有限）可乘性；
+4. 局部坐标系取笛卡尔积：若 $(U,\varphi)$、$(V,\psi)$ 分别是 $M$、$N$ 的局部坐标系，则 \[ \varphi\times\psi\colon U\times V\to\mathbb{R}^m\times\mathbb{R}^n\cong\mathbb{R}^{m+n} \] 是乘积流形的局部坐标系。转换映射是原来两个转换映射的笛卡尔积，光滑性不变。
+
+设 $M_1$、$M_2$ 都是可定向 $n$ 维微分流形。取 $p_i\in M_i$，并取 $p_i$ 附近的局部坐标系 $(U_i,\varphi_i)$，使得 $\varphi_i(p_i)=0$ 且
+\[
+\varphi_1(U_1)=\varphi_2(U_2)=B_2(0).
+\]
+令
+\[
+V_i=\varphi_i^{-1}(B_2(0)\setminus B_{1/2}(0)), i=1,2,
+\]
+并定义环带上的反演
+\[
+\eta\colon B_2(0)\setminus B_{1/2}(0)\to B_2(0)\setminus B_{1/2}(0),
+\eta(x)=\frac{x}{|x|^2}.
+\]
+则 $\varphi_2^{-1}\circ\eta\circ\varphi_1\colon V_1\to V_2$ 是微分同胚。在无交并
+\[
+(M_1\setminus\varphi_1^{-1}(B_{1/2}(0)))
+\;\sqcup\;
+(M_2\setminus\varphi_2^{-1}(B_{1/2}(0)))
+\]
+上令 $x\sim y$ 当且仅当 $x\in V_1$、$y\in V_2$ 且
+\[
+y=\varphi_2^{-1}\circ\eta\circ\varphi_1(x),
+\]
+所得商空间记作 $M_1\# M_2$。
+
+\centering
+
+（图略）
+
+*连通和：从两个流形上各挖掉一个小球，再沿环带用反演粘合。*
+
+**定义（连通和）.** 上述商空间是一个新的微分流形，并且在微分同胚意义下不依赖于坐标邻域的选取，记为 $M_1\# M_2$，称为 $M_1$ 与 $M_2$ 的连通和。
+
+**性质.** 连通和在微分同胚意义下满足
+
+1. 幺元：$M\# S^n\cong S^n\# M\cong M$；
+2. 交换律：$M_1\# M_2\cong M_2\# M_1$；
+3. 结合律：$(M_1\# M_2)\# M_3\cong M_1\#(M_2\# M_3)$。
+
+**注.** 反演 $\eta(x)=x/|x|^2$ 把内边界与外边界对调，同时反转定向，这正是把两块“边界球面”沿反向粘起来所需要的。二维时，$T^2\# T^2$ 是亏格 $2$ 曲面；$\mathbb{R}\mathrm{P}^2\#\mathbb{R}\mathrm{P}^2$ 是 Klein 瓶。
+
+### 群作用与商流形
+
+**定义（光滑左作用）.** 设 $G$ 是可数群，$M$ 是微分流形。若映射 $F\colon G\times M\to M$ 满足
+
+1. $F(e,x)=x$ 对一切 $x\in M$；
+2. $F(g_1,F(g_2,x))=F(g_1\cdot g_2,x)$ 对一切 $g_1,g_2\in G$、$x\in M$；
+3. 对每个 $g\in G$，$F(g,\cdot)\colon M\to M$ 是光滑映射；
+
+则称 $G$ 光滑左作用于 $M$。常把 $F(g,x)$ 简记为 $g\cdot x$。若 $g\neq e$ 时对一切 $x$ 都有 $g\cdot x\neq x$，则称作用是自由的。
+
+**例（反射、平移、Klein 瓶作用）.** 1. 对径映射：$\Z_2\times S^n\to S^n$， \[ 1\cdot x=x, (-1)\cdot x=-x. \]
+2. 整数平移：$\mathbb{Z}^n\times\mathbb{R}^n\to\mathbb{R}^n$， \[ (k^1,\ldots,k^n)\cdot(x^1,\ldots,x^n)=(k^1+x^1,\ldots,k^n+x^n). \]
+3. 设 $G$ 由下面两个元素生成，作用于 $\mathbb{R}^2$： \[ a\cdot(x,y)=(x,y+1), b\cdot(x,y)=(x+\tfrac12, 1-y). \] 直接验证 $aba=b$。
+
+设 $G$ 光滑作用于 $M$。令 $x\sim y$ 当且仅当存在 $g\in G$ 使 $x=g\cdot y$，即 $x$ 的等价类是轨道
+\[
+\Gamma_x=\{g\cdot x\mid g\in G\}.
+\]
+商空间 $M/G$ 赋予商拓扑，投影 $\pi\colon M\to M/G$。
+
+**引理.** $\pi$ 是开映射。
+
+*证明.* 设 $V\subset M$ 开。则
+\[
+\pi^{-1}(\pi(V))=\bigcup_{g\in G}(g\cdot V).
+\]
+每个 $g$ 都是同胚，故 $g\cdot V$ 开，并集开。由商拓扑定义，$\pi(V)$ 开。
+
+**定理（商流形）.** 设可数群 $G$ 光滑、自由作用于 $M$，并且
+
+1. 任意点 $x$ 都有邻域 $U_x$，使得当 $g\neq e$ 时 $g\cdot U_x\cap U_x=\emptyset$；
+2. 若 $[x]\neq[y]$，则存在邻域 $U_x$、$U_y$，使得对任意 $g$ 都有 $U_x\cap(g\cdot U_y)=\emptyset$。
+
+则 $M/G$ 是微分流形。当 $G$ 有限时，这两个条件自动成立。
+
+条件 (1) 说作用是纯不连续的：轨道是离散的，投影在小邻域上是单射。条件 (2) 保证商空间是 Hausdorff 的。
+
+*证明.* 先证 $T_2$。设 $[x]\neq[y]$。由条件 (2)，存在 $U_x$、$U_y$ 使对一切 $g$ 都有 $U_x\cap(g\cdot U_y)=\emptyset$，从而 $\pi(U_x)\cap\pi(U_y)=\emptyset$。$\pi$ 开，故这是一对分离 $[x]$、$[y]$ 的开邻域。
+
+再证 $A_2$。设 $\{U_i\}_{i\in\mathbb{N}}$ 是 $M$ 的可数拓扑基。因为 $\pi$ 开，$\{\pi(U_i)\}$ 是开集。对 $M/G$ 中开集 $\widetilde V$，$\pi^{-1}(\widetilde V)$ 是 $M$ 中开集，等于若干基元素的并，故
+\[
+\widetilde V=\pi(\bigcup_i U_{k_i})=\bigcup_i\pi(U_{k_i}).
+\]
+因此 $\{\pi(U_i)\}$ 是可数基。
+
+再造局部坐标系。对 $p\in M/G$，取一个原像 $x$。由条件 (1)，$x$ 有邻域 $U$ 使 $g\neq e$ 时 $g\cdot U\cap U=\emptyset$，于是 $\pi\colon U\to\pi(U)$ 是双射。$\pi$ 连续且开，故这是同胚。不妨设 $U$ 已是 $x$ 的坐标邻域，$\varphi$ 是坐标映射。则 $\pi(U)$ 是 $p$ 的坐标邻域，
+\[
+\widetilde\varphi=\varphi\circ(\pi|_U)^{-1}\colon \pi(U)\to\varphi(U)\subset\mathbb{R}^n
+\]
+给出局部坐标系。于是 $M/G$ 是 $n$ 维拓扑流形。
+
+最后看转换映射。设 $(\pi(V),\widetilde\psi)$ 是 $p$ 附近另一坐标系，则存在 $g\in G$ 使 $U\cap g\cdot V\neq\emptyset$。不妨设 $g=e$。在 $\varphi(U\cap V)$ 上
+
+$$
+\begin{aligned}
+\widetilde\psi\circ\widetilde\varphi^{-1}
+&=\psi\circ(\pi|_V)^{-1}\circ\pi|_U\circ\varphi^{-1}
+=\psi\circ\varphi^{-1},
+\end{aligned}
+$$
+
+是到 $\psi(U\cap V)$ 的光滑映射。故 $M/G$ 是微分流形。
+
+**例（实射影空间）.** $\Z_2$ 对 $S^n$ 的对径作用是自由的。群有限，定理  的两个条件自动满足。于是
+\[
+\mathbb{R}\mathrm{P}^n=S^n/\{\operatorname{id},-\operatorname{id}\}
+\]
+是 $n$ 维光滑流形，与上一章用齐次坐标构造的图册一致。
+
+**例（环面）.** $\mathbb{Z}^n$ 以平移作用于 $\mathbb{R}^n$，显然自由。每点取半径小于 $1/2$ 的球，即得条件 (1)。若 $[x]\neq[y]$，令
+\[
+r=\frac13\inf_{g\in G}|x-gy|,
+U_x=B_r(x), U_y=B_r(y),
+\]
+则条件 (2) 成立（这里用到作用保距）。因此
+\[
+T^n=\mathbb{R}^n/\mathbb{Z}^n
+\]
+是 $n$ 维光滑流形，即 $n$ 维环面。
+
+**例（Klein 瓶，平移–滑动反射）.** 设 $G$ 由
+\[
+a\cdot(x,y)=(x,y+1),
+b\cdot(x,y)=(x+\tfrac12, 1-y)
+\]
+生成，作用于 $\mathbb{R}^2$。作用自由。每点取半径小于 $1/4$ 的球，得条件 (1)；再用
+\[
+r=\frac13\inf_{g\in G}|x-gy|
+\]
+取球邻域，得条件 (2)（作用仍保距）。商空间是 Klein 瓶，并且
+\[
+\mathbb{R}\mathrm{P}^2\#\mathbb{R}\mathrm{P}^2=\mathbb{R}^2/G.
+\]
+
+**例（Klein 瓶，环面的对合）.** 把 $T^2$ 写成
+\[
+T^2=\{(e^{i\theta_1},e^{i\theta_2}) \bigm| \theta_1,\theta_2\in[0,2\pi)\}.
+\]
+令 $\Z_2$ 作用为
+
+$$
+\begin{aligned}
+1\cdot(e^{i\theta_1},e^{i\theta_2})
+&=(e^{i\theta_1},e^{i\theta_2}),
+\\
+(-1)\cdot(e^{i\theta_1},e^{i\theta_2})
+&=(e^{i(\theta_1+\pi)},e^{i(2\pi-\theta_2)}).
+\end{aligned}
+$$
+
+则
+\[
+\mathbb{R}\mathrm{P}^2\#\mathbb{R}\mathrm{P}^2=T^2/\Z_2.
+\]
+这给出 Klein 瓶的另一种商描述。
+
+**注.** 后两个例子说明：同一个流形可以用不同的群作用实现。Klein 瓶既是 $\mathbb{R}^2$ 模一个无限离散群，也是环面模一个对合，同时又是两份 $\mathbb{R}\mathrm{P}^2$ 的连通和。
+
+
+上一篇：[局部紧、仿紧、可度量化](/posts/analysis/mfld-properties/)。回到 [目录](/posts/analysis/mfld-notes/)。
 7:["$","div",null,{"className":"relative flex min-h-[120px] grid-cols-[auto_200px] lg:grid","children":["$","div",null,{"className":"relative w-full min-w-0","children":["$","article",null,{"className":"prose article-prose","children":[["$","h1",null,{"className":"mb-8 text-balance text-center lg:text-left text-4xl font-bold leading-tight","children":"乘积、连通和、商"}],["$","$L11",null,{"allowsScript":true,"value":"$12","className":"min-w-0 overflow-hidden"}]]}]}]}]
 5:["$","$L13",null,{"tmdb":false,"children":[["$","$L14",null,{"isLogged":false}],["$","html",null,{"lang":"ja","className":"noise themed","suppressHydrationWarning":true,"children":[["$","head",null,{"children":[null,["$","$L15",null,{}],["$","script",null,{"dangerouslySetInnerHTML":{"__html":"var version = \"6.6.7\";\n    (function(){console.info(\"%c Sherr1.log %c https://github.com/nkuSherr1\",\"color: #fff; margin: 1em 0; padding: 5px 0; background: #003153;\",\"margin: 1em 0; padding: 5px 0; background: #efefef;\");let a=`\nSherr1.log\nNankai Mathematics \\xb7 Extremal graph theory\n--------\nWritten with care.\n`;document.firstChild?.nodeType!==Node.COMMENT_NODE&&document.prepend(document.createComment(a))})();"}}],["$","$L16",null,{}],"$L17",["$","link",null,{"rel":"shortcut icon","href":"/favicon.ico","type":"image/x-icon","media":"(prefers-color-scheme: dark)"}],["$","link",null,{"rel":"shortcut icon","href":"/favicon.ico","type":"image/x-icon","media":"(prefers-color-scheme: light)"}],["$","link",null,{"rel":"apple-touch-icon","href":"/apple-touch-icon.png","sizes":"180x180"}],"$L18"]}],["$","body",null,{"suppressHydrationWarning":true,"className":"__variable_e2b71d  m-0 h-full p-0 font-sans","children":"$L19"}]]}]]}]
 17:["$","style",null,{"id":"accent-color-style","data-light":"#8B1E3F","data-dark":"#FB7185","dangerouslySetInnerHTML":{"__html":"\n        html[data-theme='light'] {\n          --color-accent: oklch(0.4263770828944758 0.14468086400963448 8.305538171231035);\n        }\n        html[data-theme='dark'] {\n          --color-accent: oklch(0.71918609000199 0.16898358823716791 13.427983887912092);\n        }\n        :root[data-theme='light'] {\n          --footer-bg: #f0e5d8;\n        }\n        :root[data-theme='dark'] {\n          --footer-bg: #372423;\n        }"}}]

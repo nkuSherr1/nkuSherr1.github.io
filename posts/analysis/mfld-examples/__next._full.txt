@@ -22,27 +22,219 @@ e:I[87071,[],"MetadataBoundary"]
 14:I[93217,["4266","static/chunks/cb69f5e5-38b1876d0364eabd.js","6618","static/chunks/962d60d4-2f97a7306ab44fe1.js","3374","static/chunks/3374-064cfbbe2608b69a.js","2115","static/chunks/2115-72ad8ab6a0a482e5.js","3371","static/chunks/3371-4aa89e9112feba6f.js","915","static/chunks/915-f2d3aa6318478d87.js","8476","static/chunks/8476-5b9555f1f11850f5.js","9823","static/chunks/9823-752ded14ff1fc8ed.js","6649","static/chunks/6649-4aa84bb85dfcea04.js","2250","static/chunks/2250-55633d86d5c24bd9.js","6702","static/chunks/6702-07d2c1d4b5ee85d1.js","7515","static/chunks/7515-6533e3f4c74944ed.js","6480","static/chunks/6480-b6c8f5836b943902.js","3506","static/chunks/3506-639c9b819e6097ea.js","9359","static/chunks/9359-757c0d4b7d9389cf.js","943","static/chunks/943-e94be4a59502ba15.js","54","static/chunks/54-8b1b2030ec661343.js","3442","static/chunks/3442-b02f67c52bc21b33.js","6407","static/chunks/6407-8c126658ecad0efb.js","5453","static/chunks/5453-1c0b57ba019ddab7.js","4769","static/chunks/4769-249bb22c4440c9d4.js","8773","static/chunks/8773-934b5bf44c7f6a8a.js","3764","static/chunks/3764-7d58f284db646167.js","3101","static/chunks/3101-3c57cfdb325b65de.js","1934","static/chunks/1934-eccc223403b0cb6d.js","7632","static/chunks/7632-8bf358d229ecabf3.js","4938","static/chunks/4938-1a2549c8dabc1ca4.js","8450","static/chunks/app/%5Blocale%5D/layout-5be8c8f700b40dd7.js"],"HydrationEndDetector"]
 5:["$","$L11",null,{"tmdb":false,"children":[["$","$L12",null,{"isLogged":false}],["$","html",null,{"lang":"en","className":"noise themed","suppressHydrationWarning":true,"children":[["$","head",null,{"children":[null,["$","$L13",null,{}],["$","script",null,{"dangerouslySetInnerHTML":{"__html":"var version = \"6.6.7\";\n    (function(){console.info(\"%c Sherr1.log %c https://github.com/nkuSherr1\",\"color: #fff; margin: 1em 0; padding: 5px 0; background: #003153;\",\"margin: 1em 0; padding: 5px 0; background: #efefef;\");let a=`\nSherr1.log\nNankai Mathematics \\xb7 Extremal graph theory\n--------\nWritten with care.\n`;document.firstChild?.nodeType!==Node.COMMENT_NODE&&document.prepend(document.createComment(a))})();"}}],["$","$L14",null,{}],"$L15",["$","link",null,{"rel":"shortcut icon","href":"/favicon.ico","type":"image/x-icon","media":"(prefers-color-scheme: dark)"}],["$","link",null,{"rel":"shortcut icon","href":"/favicon.ico","type":"image/x-icon","media":"(prefers-color-scheme: light)"}],["$","link",null,{"rel":"apple-touch-icon","href":"/apple-touch-icon.png","sizes":"180x180"}],"$L16"]}],["$","body",null,{"suppressHydrationWarning":true,"className":"__variable_e2b71d  m-0 h-full p-0 font-sans","children":"$L17"}]]}]]}]
 18:I[28856,["1433","static/chunks/5da11c83-22ed8340ae03271b.js","4266","static/chunks/cb69f5e5-38b1876d0364eabd.js","6618","static/chunks/962d60d4-2f97a7306ab44fe1.js","3374","static/chunks/3374-064cfbbe2608b69a.js","2115","static/chunks/2115-72ad8ab6a0a482e5.js","3371","static/chunks/3371-4aa89e9112feba6f.js","915","static/chunks/915-f2d3aa6318478d87.js","8476","static/chunks/8476-5b9555f1f11850f5.js","9823","static/chunks/9823-752ded14ff1fc8ed.js","6649","static/chunks/6649-4aa84bb85dfcea04.js","2250","static/chunks/2250-55633d86d5c24bd9.js","6702","static/chunks/6702-07d2c1d4b5ee85d1.js","7515","static/chunks/7515-6533e3f4c74944ed.js","6480","static/chunks/6480-b6c8f5836b943902.js","3506","static/chunks/3506-639c9b819e6097ea.js","9359","static/chunks/9359-757c0d4b7d9389cf.js","943","static/chunks/943-e94be4a59502ba15.js","54","static/chunks/54-8b1b2030ec661343.js","3442","static/chunks/3442-b02f67c52bc21b33.js","7404","static/chunks/7404-9397f040ad174577.js","6407","static/chunks/6407-8c126658ecad0efb.js","6604","static/chunks/6604-70bdf1f7cbe42765.js","5453","static/chunks/5453-1c0b57ba019ddab7.js","8773","static/chunks/8773-934b5bf44c7f6a8a.js","9352","static/chunks/9352-8bd04c7a92b8c94f.js","7846","static/chunks/7846-4eba44fa221868b4.js","1934","static/chunks/1934-eccc223403b0cb6d.js","8952","static/chunks/8952-ed5faf1fed44c8a0.js","4707","static/chunks/4707-ae08c0a2e07bdb62.js","6954","static/chunks/6954-7f08e3e495b0916f.js","5866","static/chunks/5866-796a1b67b30d9378.js","4374","static/chunks/app/%5Blocale%5D/posts/(post-detail)/%5Bcategory%5D/%5Bslug%5D/page-9b4b21b3c2fb2c88.js"],"MainMarkdown",1]
-19:T50e,这是 [流形笔记](/posts/analysis/mfld-notes/) 的第 2 篇。
+19:T1bd5,这是 [流形笔记](/posts/analysis/mfld-notes/) 的第 2 篇。上一篇是 [流形的概念](/posts/analysis/mfld-concepts/)，下一篇是 [局部紧、仿紧、可度量化](/posts/analysis/mfld-properties/)。
 
-球面
+## 流形的例子
 
+### 球面 $S^n$
+
+**定义（球面）.** \[
+S^n=\{
+(x^1,\ldots,x^{n+1})\in\mathbb{R}^{n+1}
+\Bigm|
+\sum_{i=1}^{n+1}(x^i)^2=1
+\},
+\]
+赋予 $\mathbb{R}^{n+1}$ 的子空间拓扑。
+
+$T_2$ 和 $A_2$ 都有遗传性，所以 $S^n$ 继承 $\mathbb{R}^{n+1}$ 的 Hausdorff 性与第二可数性。剩下只需给出局部欧氏的图册，并检查转换映射光滑。
+
+取开覆盖
 \[
-S^n=\bigl\{x\in\mathbb{R}^{n+1}:\textstyle\sum_{i=1}^{n+1}(x^i)^2=1\bigr\}
+U_1=S^n\setminus\{(0,\ldots,0,-1)\},
+U_2=S^n\setminus\{(0,\ldots,0,1)\},
+\]
+即挖去南极 $S$ 与北极 $N$。球极投影 $\varphi_1\colon U_1\to\mathbb{R}^n$、$\varphi_2\colon U_2\to\mathbb{R}^n$ 定义为
+
+$$
+\begin{aligned}
+\varphi_1(x^1,\ldots,x^{n+1})
+&=(
+\frac{x^1}{1+x^{n+1}},\ldots,
+\frac{x^n}{1+x^{n+1}}
+),
+\\
+\varphi_2(x^1,\ldots,x^{n+1})
+&=(
+\frac{x^1}{1-x^{n+1}},\ldots,
+\frac{x^n}{1-x^{n+1}}
+).
+\end{aligned}
+$$
+
+逆映射为
+
+$$
+\begin{aligned}
+\varphi_1^{-1}(y)
+&=(
+\frac{2y^1}{1+|y|^2},\ldots,
+\frac{2y^n}{1+|y|^2},
+\frac{1-|y|^2}{1+|y|^2}
+),
+\\
+\varphi_2^{-1}(y)
+&=(
+\frac{2y^1}{1+|y|^2},\ldots,
+\frac{2y^n}{1+|y|^2},
+\frac{|y|^2-1}{1+|y|^2}
+).
+\end{aligned}
+$$
+
+$\varphi_1$ 和 $\varphi_2$ 都是一一映射。
+
+\centering
+
+（图略）
+
+*从南极、北极分别做球极投影。*
+
+**引理.** $\varphi_1$、$\varphi_2$ 都是同胚。
+
+*证明.* $\varphi_1$ 是
+\[
+\widetilde{\varphi}_1\colon
+\mathbb{R}^{n+1}\setminus\{x^{n+1}=-1\}
+\to\mathbb{R}^n,
+x\mapsto
+(
+\frac{x^1}{1+x^{n+1}},\ldots,
+\frac{x^n}{1+x^{n+1}}
+)
+\]
+在 $U_1$ 上的限制，故连续。把 $\varphi_1^{-1}$ 看成 $\mathbb{R}^n\to\mathbb{R}^{n+1}$ 显然连续，且像落在球面上，因此作为到 $S^n$ 的映射也连续。$\varphi_2$ 同理。两者都是一一映射，从而是同胚。
+
+**命题.** 转换映射
+\[
+\varphi_2\circ\varphi_1^{-1}\colon \mathbb{R}^n\setminus\{0\}\to\mathbb{R}^n\setminus\{0\}
+\]
+由
+\[
+\varphi_2\circ\varphi_1^{-1}(y)=\frac{y}{|y|^2}
+\]
+给出，因而是实解析的。特别地 $S^n$ 是光滑流形（实际上是实解析流形）。
+
+*证明.* 令 $x=\varphi_1^{-1}(y)$，则
+\[
+x'=\frac{2y}{1+|y|^2},
+x^{n+1}=\frac{1-|y|^2}{1+|y|^2}.
+\]
+于是
+\[
+\varphi_2(x)
+=\frac{x'}{1-x^{n+1}}
+=\frac{2y/(1+|y|^2)}{2|y|^2/(1+|y|^2)}
+=\frac{y}{|y|^2}.
+\]
+在 $\mathbb{R}^n\setminus\{0\}$ 上这是分式有理映射，故解析。
+
+**习题.** 映射 $y\mapsto y/|y|^2$ 就是反演。它是否保定向？分式线性变换呢？
+
+**解答.** 写 $f(y)=|y|^{-2}y$。Jacobian 为
+\[
+Df(y)=|y|^{-2}(I-2\hat y\hat y^{\mathsf T}),
+
+\hat y=y/|y|.
+\]
+Householder 矩阵 $I-2uu^{\mathsf T}$（$|u|=1$）的行列式为 $-1$，因而
+\[
+\det Df(y)=|y|^{-2n}\cdot(-1)=-|y|^{-2n}<0,
+\]
+其中 $|y|^{-2n}$ 来自 $\det(cA)=c^n\det A$，$-1$ 来自反射。所以球极投影的转换映射不保定向。若要得到 $S^n$ 的定向图册，需要把其中一个坐标映射再复合一个反射。
+
+在 $\mathbb{R}^2\cong\mathbb{C}$ 上，$z\mapsto 1/z=\overline z/|z|^2$ 是反演再复合复共轭。两次都反转定向，于是分式线性变换保定向；这与它是全纯映射（$f'\neq 0$）相一致。
+
+\subsection{实射影空间 $\mathbb{R}\mathrm{P}^n$}
+
+**定义（实射影空间）.** 在 $\mathbb{R}^{n+1}\setminus\{0\}$ 上令 $x\sim y$ 当且仅当存在 $\lambda\in\mathbb{R}$ 使 $x=\lambda y$。商空间
+\[
+\mathbb{R}\mathrm{P}^n=(\mathbb{R}^{n+1}\setminus\{0\})/\sim
+\]
+称为 $n$ 维实射影空间。等价地，在 $S^n$ 上令 $x\sim y$ 当且仅当 $x=-y$，则
+\[
+\mathbb{R}\mathrm{P}^n=S^n/\sim.
 \]
 
-继承 \(\mathbb{R}^{n+1}\) 的 Hausdorff 性和第二可数性。图册用两张球极投影：挖掉南极和挖掉北极。投影
-
+第二种看法更便于验证拓扑条件：对径点粘合。记
 \[
-\varphi_1(x)=\Bigl(\frac{x^1}{1+x^{n+1}},\ldots,\frac{x^n}{1+x^{n+1}}\Bigr),
+\pi\colon S^n\to\mathbb{R}\mathrm{P}^n, x\mapsto[x],
+\]
+并赋予商拓扑：$V\subset\mathbb{R}\mathrm{P}^n$ 开当且仅当 $\pi^{-1}(V)$ 在 $S^n$ 中开。映射 $f\colon\mathbb{R}\mathrm{P}^n\to Y$ 连续，当且仅当 $f\circ\pi\colon S^n\to Y$ 连续。
+
+**引理.** $\pi$ 是开映射。
+
+*证明.* 设 $V\subset S^n$ 开。则
+\[
+\pi^{-1}(\pi(V))=V\cup(-\operatorname{id})(V).
+\]
+$-\operatorname{id}$ 是同胚，故 $(-\operatorname{id})(V)$ 也开。由商拓扑定义，$\pi(V)$ 开。
+
+**命题.** $\mathbb{R}\mathrm{P}^n$ 是 $T_2$ 且 $A_2$ 的。
+
+*证明.* 先证 $T_2$。设 $[x]\neq[y]$，则 $\pi^{-1}([x])=\{x,-x\}$，$\pi^{-1}([y])=\{y,-y\}$，且这四点互异。因为 $S^n$ 是 $T_2$ 的，可取 $x,-x,y,-y$ 的开邻域 $U_x$、$(-\operatorname{id})(U_x)$、$U_y$、$(-\operatorname{id})(U_y)$，使它们两两不交。$\pi$ 是开映射，故 $\pi(U_x)$、$\pi(U_y)$ 分别是 $[x]$、$[y]$ 的开邻域。由四邻域两两不交知 $\pi(U_x)\cap\pi(U_y)=\emptyset$。
+
+再证 $A_2$。设 $\{U_i\}_{i\in\mathbb{N}}$ 是 $S^n$ 的可数拓扑基。因为 $\pi$ 开，$\{\pi(U_i)\}$ 都是开集。对 $\mathbb{R}\mathrm{P}^n$ 中任一开集 $\widetilde V$，$\pi^{-1}(\widetilde V)$ 是 $S^n$ 中开集，故等于若干 $U_{k_i}$ 的并，从而
+\[
+\widetilde V=\pi(\bigcup_i U_{k_i})=\bigcup_i\pi(U_{k_i}).
+\]
+因此 $\{\pi(U_i)\}$ 是 $\mathbb{R}\mathrm{P}^n$ 的可数拓扑基。
+
+对 $k=1,\ldots,n+1$，令
+\[
+U_k=\{[x]\in\mathbb{R}\mathrm{P}^n \bigm| x=(x^1,\ldots,x^{n+1})\in S^n,\; x^k\neq 0\}.
+\]
+显然 $\mathbb{R}\mathrm{P}^n=\bigcup_{k=1}^{n+1}U_k$。定义 $\varphi_k\colon U_k\to\mathbb{R}^n$ 为
+\[
+\varphi_k([x])
+=(
+\frac{x^1}{x^k},\ldots,
+\frac{x^{k-1}}{x^k},
+\frac{x^{k+1}}{x^k},\ldots,
+\frac{x^{n+1}}{x^k}
+).
+\]
+这与齐次坐标的代表选取无关，因而是良定义的，并且是单射。逆映射为
+\[
+\varphi_k^{-1}(y^1,\ldots,y^n)
+=[y^1,\ldots,y^{k-1},1,y^k,\ldots,y^n].
+\]
+若要求代表落在球面上，也可以写成
+\[
+\varphi_k^{-1}(y)
+=\Biggl[
+\frac{y^1}{\sqrt{1+|y|^2}},\ldots,
+\frac{1}{\sqrt{1+|y|^2}},\ldots,
+\frac{y^n}{\sqrt{1+|y|^2}}
+\Biggr].
 \]
 
-\(\varphi_2\) 把分母里的加号换成减号。逆映射是有理函数，转换映射在 \(\mathbb{R}^n\setminus\{0\}\) 上光滑。所以 \(S^n\) 是 \(n\) 维光滑流形。它可定向。\(S^1\) 和 \(S^3\) 还有 Lie 群结构，中间的维数没有。
+**引理.** 每个 $\varphi_k$ 都是同胚。
 
-实射影空间 \(\mathbb{R}P^n\) 是 \(\mathbb{R}^{n+1}\setminus\{0\}\) 对正比例缩放的商，也是 \(S^n\) 对径点粘合。开集 \(U_i=\{[x]:x^i\neq 0\}\) 上的坐标是其余分量除以 \(x^i\)。转换映射仍是光滑的有理函数。所以 \(\mathbb{R}P^n\) 是 \(n\) 维光滑流形。
+*证明.* 令
+\[
+\widehat U_k=\{x\in S^n \bigm| x^k\neq 0\}.
+\]
+则 $\varphi_k\circ\pi\colon\widehat U_k\to\mathbb{R}^n$ 连续。由商映射的性质，$\varphi_k$ 连续。$\varphi_k^{-1}$ 可视为 $\mathbb{R}^n\to S^n$ 再商到 $\mathbb{R}\mathrm{P}^n$ 的复合，故也连续。
 
-\(\mathbb{R}P^1\) 同胚于 \(S^1\)。\(\mathbb{R}P^n\) 可定向当且仅当 \(n\) 是奇数：对径映射在 \(S^n\) 上保定向，恰在 \(n\) 为奇数时。\(\mathbb{R}P^2\) 不可定向，也不能嵌入 \(\mathbb{R}^3\)。
+**命题.** 当 $k\neq\ell$ 时，转换映射是解析的。因而 $\mathbb{R}\mathrm{P}^n$ 是光滑流形。
 
-下一篇离开例子，看拓扑条件是不是多余：[局部紧与仿紧](/posts/analysis/mfld-properties/)。
+*证明.* 为书写简便取 $k=1$、$\ell=2$。若 $[x]\in U_1\cap U_2$，则
+\[
+\varphi_1([x])=(\frac{x^2}{x^1},\frac{x^3}{x^1},\ldots,\frac{x^{n+1}}{x^1}),
+\varphi_2([x])=(\frac{x^1}{x^2},\frac{x^3}{x^2},\ldots,\frac{x^{n+1}}{x^2}).
+\]
+因此
+\[
+\varphi_2\circ\varphi_1^{-1}(y^1,\ldots,y^n)
+=(\frac{1}{y^1},\frac{y^2}{y^1},\ldots,\frac{y^n}{y^1}),
+\]
+定义域是 $\{y^1\neq 0\}$。这是有理映射，故解析。其余转换映射同理。
+
+**注.** 更一般的观点：$G=\{\operatorname{id},-\operatorname{id}\}$ 光滑、自由、纯不连续地作用于 $S^n$，而 $\mathbb{R}\mathrm{P}^n=S^n/G$。后面把这件事推广成商流形定理。
+
+
+上一篇：[流形的概念](/posts/analysis/mfld-concepts/)。下一篇：[局部紧、仿紧、可度量化](/posts/analysis/mfld-properties/)。
 7:["$","div",null,{"className":"relative flex min-h-[120px] grid-cols-[auto_200px] lg:grid","children":["$","div",null,{"className":"relative w-full min-w-0","children":["$","article",null,{"className":"prose article-prose","children":[["$","h1",null,{"className":"mb-8 text-balance text-center lg:text-left text-4xl font-bold leading-tight","children":"球面和实射影空间"}],["$","$L18",null,{"allowsScript":true,"value":"$19","className":"min-w-0 overflow-hidden"}]]}]}]}]
 15:["$","style",null,{"id":"accent-color-style","data-light":"#BE123C","data-dark":"#F43F5E","dangerouslySetInnerHTML":{"__html":"\n        html[data-theme='light'] {\n          --color-accent: oklch(0.5142563147617311 0.19780565183015228 16.934988161961996);\n        }\n        html[data-theme='dark'] {\n          --color-accent: oklch(0.6450321516313926 0.21540307992703317 16.439293967097797);\n        }\n        :root[data-theme='light'] {\n          --footer-bg: #f2e4d8;\n        }\n        :root[data-theme='dark'] {\n          --footer-bg: #361e1f;\n        }"}}]
 16:["$undefined","$undefined","$undefined","$undefined"]
