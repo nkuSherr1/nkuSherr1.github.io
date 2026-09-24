@@ -1204,3 +1204,4 @@ body:has(.index-article) .chess-corner,
 }
 
 .posts-journal-aside a.text-\[12px\], .index-layout-grid aside .text-\[12px\]{white-space:nowrap;}
+.leading-\[4\],.leading-\[4\] span.inline-block,.recent-writing,.recent-writing__entry,div:has(.shiro-timeline),.shiro-timeline>li,.windsock-directory li,.windsock-link{opacity:1!important}.leading-\[4\],.leading-\[4\] span.inline-block{transform:none!important}.hero-now{margin-top:.85rem;font-family:Georgia,'Times New Roman',serif;font-size:.95rem;color:color-mix(in srgb,currentColor 78%,#9f1239)}.hero-now__kicker{margin-right:.45rem;font-variant:small-caps;letter-spacing:.16em;color:#9f1239}.hero-now a{text-decoration:underline;text-underline-offset:.18em}
