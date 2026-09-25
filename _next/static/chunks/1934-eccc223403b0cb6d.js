@@ -187,7 +187,25 @@ Course notes also appear in the **Notes** timeline. PDF originals are linked bel
 
 - Mathematical Analysis I — Huagui Duan, Fusheng Lv
 - Advanced Algebra and Analytic Geometry 2-1 — Libing Huang, Ning Li
-`.trim()},{id:"page-message",slug:"message",title:"Message",subtitle:"Leave a note",order:4,created:"2024-01-01T00:00:00.000Z",modified:"2026-08-17T00:00:00.000Z",text:"If you would like to get in touch, write to [nkuSherr1@nankai.edu.cn](mailto:nkuSherr1@nankai.edu.cn), or find me on [GitHub](https://github.com/nkuSherr1) and [Zhihu](https://www.zhihu.com/people/yang-kun-37-58)."}].map(e=>({...e,images:[],allowComment:"message"===e.slug,commentsIndex:0,type:"md"})),u=[{id:"topic-course",slug:"course",name:"Course",description:"Lecture notes from courses at Nankai.",introduce:"Course notes",icon:null,created:"2024-07-01T00:00:00.000Z",createdAt:"2024-07-01T00:00:00.000Z"},{id:"topic-seminar",slug:"seminar",name:"Seminar",description:"Reading group and seminar notes.",introduce:"Seminar notes",icon:null,created:"2025-11-01T00:00:00.000Z",createdAt:"2025-11-01T00:00:00.000Z"},{id:"topic-journal",slug:"journal",name:"Journal",description:"Short notes and introductions.",introduce:"Journal",icon:null,created:"2024-07-18T00:00:00.000Z",createdAt:"2024-07-18T00:00:00.000Z"}];function p(e){let t=u.find(t=>t.slug===e.topic)||null;return{id:`note-${e.nid}`,nid:e.nid,title:e.title,created:e.created,modified:e.created,text:e.text,mood:e.mood||"happy",weather:"",bookmark:e.bookmark??!0,isPublished:!0,hasPassword:!1,password:null,location:"Nankai University",slug:e.slug,topic:t,topicId:t?.id||null}}let y=[p({nid:8,title:"Steklov seminar",created:"2025-11-10T00:00:00.000Z",text:`
+`.trim()},{id:"page-message",slug:"message",title:"Message",subtitle:"Leave a note",order:4,created:"2024-01-01T00:00:00.000Z",modified:"2026-08-17T00:00:00.000Z",text:"If you would like to get in touch, write to [nkuSherr1@nankai.edu.cn](mailto:nkuSherr1@nankai.edu.cn), or find me on [GitHub](https://github.com/nkuSherr1) and [Zhihu](https://www.zhihu.com/people/yang-kun-37-58)."}].map(e=>({...e,images:[],allowComment:"message"===e.slug,commentsIndex:0,type:"md"})),u=[{id:"topic-course",slug:"course",name:"Course",description:"Lecture notes from courses at Nankai.",introduce:"Course notes",icon:null,created:"2024-07-01T00:00:00.000Z",createdAt:"2024-07-01T00:00:00.000Z"},{id:"topic-seminar",slug:"seminar",name:"Seminar",description:"Reading group and seminar notes.",introduce:"Seminar notes",icon:null,created:"2025-11-01T00:00:00.000Z",createdAt:"2025-11-01T00:00:00.000Z"},{id:"topic-journal",slug:"journal",name:"Journal",description:"Short notes and introductions.",introduce:"Journal",icon:null,created:"2024-07-18T00:00:00.000Z",createdAt:"2024-07-18T00:00:00.000Z"}];function p(e){let t=u.find(t=>t.slug===e.topic)||null;return{id:`note-${e.nid}`,nid:e.nid,title:e.title,created:e.created,modified:e.created,text:e.text,mood:e.mood||"happy",weather:"",bookmark:e.bookmark??!0,isPublished:!0,hasPassword:!1,password:null,location:"Nankai University",slug:e.slug,topic:t,topicId:t?.id||null}}let y=[p({nid:11,title:"Matroid Theory",created:"2026-09-25T12:00:00.000Z",text:`
+**Matroid Theory** notes, arranged from Federico Ardila's 2007 lectures.
+
+[Matroid notes (PDF)](/files/Grade4/Matroid-Notes.pdf)
+
+[Read on the site](/posts/graph-theory/matroid-notes/)
+`.trim(),slug:"matroid-theory",topic:"course"}),p({nid:10,title:"Fourier Analysis",created:"2026-09-25T08:00:00.000Z",text:`
+**Fourier Analysis** notes, rewritten from the Nankai lectures.
+
+[Fourier Analysis notes (PDF)](/files/Grade4/Fourier-Analysis-Notes.pdf)
+
+[Read on the site](/posts/analysis/fa-notes/)
+`.trim(),slug:"fourier-analysis",topic:"course"}),p({nid:9,title:"Manifolds",created:"2026-09-24T12:00:00.000Z",text:`
+**Manifolds** notes.
+
+[Manifolds notes (PDF)](/files/Grade4/Manifolds-Notes.pdf)
+
+[Read on the site](/posts/analysis/mfld-notes/)
+`.trim(),slug:"manifolds",topic:"course"}),p({nid:8,title:"Steklov seminar",created:"2025-11-10T00:00:00.000Z",text:`
 Seminar notes from the Steklov problem reading group with Jiangdong Ai and Yizhe Ji.
 
 [Learning note on the Steklov Problem (PDF)](/files/Steklov/note/Learning-note-on-Steklov-Problem(2025.11.10).pdf)
