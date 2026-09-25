@@ -118,8 +118,9 @@
   }
 
   function reading() {
-    var title = document.querySelector('.reading-cover__title')
-    if (!title) return
+    var article = document.querySelector('#main-content-render')
+    var title = document.querySelector('.reading-cover__title') || (article && article.querySelector('h1'))
+    if (!article || !title) return
     if (!document.querySelector('.reading-progress')) {
       var bar = document.createElement('div')
       bar.className = 'reading-progress'
@@ -146,7 +147,7 @@
         title.insertAdjacentElement('afterend', chip)
       }
     }
-    document.querySelectorAll('#main-content-render p').forEach(function (paragraph) {
+    article.querySelectorAll('p').forEach(function (paragraph) {
       if (paragraph.classList.contains('series-step')) return
       if (/上一篇|下一篇|上一节|下一节/.test(paragraph.textContent) && paragraph.querySelector('a')) {
         paragraph.classList.add('series-step')

@@ -1211,7 +1211,7 @@ body:has(.index-article) .chess-corner,
 .reading-progress{position:fixed;top:0;left:0;z-index:80;width:100%;height:2px;transform:scaleX(0);transform-origin:left center;background:#9f1239;pointer-events:none}
 .reading-pdf{display:inline-flex;margin-top:.65rem;padding:.18rem .7rem;border:1px solid color-mix(in srgb,#9f1239 42%,transparent);border-radius:999px;color:#9f1239;font-size:11px;letter-spacing:.14em;text-decoration:none}
 .series-step{display:flex;flex-wrap:wrap;gap:.35rem .85rem;margin:.4rem 0 1.4rem;padding:.65rem .9rem;border:1px solid color-mix(in srgb,#9f1239 20%,transparent);border-radius:12px}
-body:has(.reading-cover__title) .chess-backdrop{opacity:.22}
+body:has(.article-prose) .chess-backdrop{opacity:.22}
 .tl-month>h3{cursor:pointer}
 .tl-month>h3::after{content:" +";letter-spacing:0}
 .tl-month--open>h3::after{content:" –"}
