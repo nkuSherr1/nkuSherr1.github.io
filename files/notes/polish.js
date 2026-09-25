@@ -119,8 +119,8 @@
 
   function reading() {
     var article = document.querySelector('#main-content-render')
-    var title = document.querySelector('.reading-cover__title') || (article && article.querySelector('h1'))
-    if (!article || !title) return
+    if (!article) return
+    var title = document.querySelector('.reading-cover__title, .article-prose h1, article h1')
     if (!document.querySelector('.reading-progress')) {
       var bar = document.createElement('div')
       bar.className = 'reading-progress'
@@ -134,8 +134,7 @@
       window.addEventListener('scroll', paint, { passive: true })
       paint()
     }
-    var header = title.parentElement
-    if (header && !header.querySelector('.reading-pdf')) {
+    if (title && !document.querySelector('.reading-pdf')) {
       var pdf = document.querySelector('#main-content-render a[href$=".pdf"], article a[href$=".pdf"]')
       if (pdf) {
         var chip = document.createElement('a')
